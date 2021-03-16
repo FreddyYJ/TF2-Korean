@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-14 12:35+0100\n"
-"PO-Revision-Date: 2021-03-16 11:55+0900\n"
+"PO-Revision-Date: 2021-03-16 17:16+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -1379,6 +1379,7 @@ msgstr "후진하기"
 msgid "Duration"
 msgstr "길이"
 
+#, fuzzy
 msgid "E.P.E.C."
 msgstr "E.P.E.C."
 
@@ -1397,601 +1398,635 @@ msgstr "미션 중 하나에서 모든 메달을 획득하세요."
 msgid "Earn all medals of the entire campaign."
 msgstr "모든 캠페인에서 모든 메달을 획득하세요."
 
+#, fuzzy
 msgid "Edge scrolling"
-msgstr "Scrollen am Bildrand"
+msgstr "에지 스크롤"
 
 msgid "Edit all vehicles"
-msgstr "Alle Fahrzeug ändern"
+msgstr "모든 차량 수정"
 
 msgid "Edit selected vehicle"
 msgid_plural "Edit selected vehicles"
-msgstr[0] "Gewähltes Fahrzeug ändern"
-msgstr[1] "Gewählte Fahrzeuge ändern"
+msgstr[0] "선택된 차량 수정"
+msgstr[1] "선택된 차량 수정"
 
 msgid "Edit vehicle"
 msgid_plural "Edit vehicles"
-msgstr[0] "Fahrzeug ändern"
-msgstr[1] "Fahrzeuge ändern"
+msgstr[0] "차량 수정"
+msgstr[1] "차량 수정"
 
 msgid "Editor"
-msgstr "Editor"
+msgstr "편집기"
 
 msgid "Editor's note"
-msgstr "Anmerkung der Autoren"
+msgstr "제작자의 말"
 
 msgid "Electric"
-msgstr "Elektrisch"
+msgstr "전기"
 
 msgid "Electric Train"
-msgstr "Elektrozug"
+msgstr "전기 열차"
 
 msgid "Electrification tool"
-msgstr "Elektrifizierungstool"
+msgstr "전철화 도구"
 
 msgid "Emission"
-msgstr "Emission"
+msgstr "공해"
 
 msgid "Emission %1%"
-msgstr "Emission %1%"
+msgstr "공해 %1%"
 
+#, fuzzy
 msgid "Emission %1% + %2% (%3% condition)"
-msgstr "Emission %1% + %2% (%3% Fahrzeugzustand)"
+msgstr "공해 %1% + %2% (조건 %3%)"
 
 msgid "Emission at mouse cursor: %s"
-msgstr "Emissionswert unter Mauscursor: %s"
+msgstr "마우스 커서 위치의 공해: %s"
 
 msgid "Emissions layer"
-msgstr "Emissionen"
+msgstr "공해 레이어"
 
+#, fuzzy
 msgid "Empty construction"
-msgstr "Leere Konstruktion"
+msgstr "아무것도 없는 건설"
 
 msgid "Enable all"
-msgstr "Alle aktivieren"
+msgstr "모두 활성화"
 
 msgid "Enable all mods currently visible in the list"
-msgstr "Aktiviere alle in der Liste sichtbaren Mods"
+msgstr "현재 목록에서 보이는 모든 모드 활성화"
 
 msgid "Enable camera tool"
-msgstr "Kameratool aktivieren"
+msgstr "카메라 도구 활성화"
 
 msgid "Enable custom game settings"
-msgstr "Benutzerdefinierte Spieleinstellungen verwenden"
+msgstr "커스텀 게임 설정 활성화"
 
+#, fuzzy
 msgid "Enable guide system"
-msgstr "Guide-System aktivieren"
+msgstr "가이드 시스템 활성화"
 
 msgid "Enable mod"
-msgstr "Mod aktivieren"
+msgstr "모드 활성화"
 
 msgid "Enabled"
-msgstr "Aktiviert"
+msgstr "활성화됨"
 
 msgid "Enabled mods"
-msgstr "Aktivierte Mods"
+msgstr "횔성화된 모드"
 
 msgid "Enabled/disabled mod(s) may lead to unexpected results."
-msgstr "Aktivierte/deaktivierte Mods können unerwartete Ergebnisse haben."
+msgstr "활성화/비활성화한 모드는 예상치 못한 오류를 발생시킬 수 있습니다."
 
 msgid "Enabled/disabled mod(s) will likely cause the game to crash!"
-msgstr ""
-"Aktivierte/deaktivierte Mods werden das Spiel wahrscheinlich zum Absturz "
-"bringen!"
+msgstr "활성화/비활성화한 모드는 크래쉬를 일으킬 것입니다!"
 
 msgid "Engine Type"
 msgid_plural "Engine Types"
-msgstr[0] "Antriebstyp"
-msgstr[1] "Antriebstypen"
+msgstr[0] "엔진 종류"
+msgstr[1] "엔진 종류"
 
 msgid "Enter a file name!"
-msgstr "Gib einen Dateinamen ein!"
+msgstr "파일 이름을 입력하세요!"
 
+#, fuzzy
 msgid "Enter cockpit"
-msgstr "Im Cockpit Platz nehmen"
+msgstr "조종실 들어가기"
 
+#, fuzzy
 msgid "Erase assets with a brush."
-msgstr "Assets mit einem Pinsel entfernen."
+msgstr "붓으로 설치물을 제거합니다."
 
+#, fuzzy
 msgid "Erase the terrain painting (restore the default material)."
-msgstr ""
-"Die Terrain-Bemalung entfernen (den Ursprungszustand wiederherstellen)."
+msgstr "표면 색칠을 지웁니다(기본 표면으로 돌아갑니다)"
 
 msgid "Eraser tool"
-msgstr "Radiergummi-Tool"
+msgstr "지우기 도구"
 
 msgid "Error loading settings file"
-msgstr "Fehler beim Laden der Einstellungen"
+msgstr "설정 파일 로드 오류"
 
 msgid "Europe"
-msgstr "Europa"
+msgstr "유럽"
 
 msgid "European vehicles"
-msgstr "Europäische Fahrzeuge"
+msgstr "유럽식 차량"
 
+#, fuzzy
 msgid "Excellent"
-msgstr "Ausgezeichnet"
+msgstr "잘했어요"
 
+#, fuzzy
 msgid "Exemplary student"
-msgstr "Vorbildlicher Student"
+msgstr "모범생"
 
 msgid "Exit"
-msgstr "Beenden"
+msgstr "나가기"
 
 msgid "Exit and return to your operating system"
-msgstr "Spiel beenden und zum Betriebssystem zurückkehren"
+msgstr "게임을 완전히 종료하고 나가기"
 
+#, fuzzy
 msgid "Expand"
-msgstr "Erweitern"
+msgstr "확장"
 
 msgid "Expenditure"
-msgstr "Ausgaben"
+msgstr "지출"
 
+#, fuzzy
 msgid "Export"
-msgstr "Export"
+msgstr "수출"
 
+#, fuzzy
 msgid "Export heightmap"
-msgstr "Heightmap exportieren"
+msgstr "맵 추출"
 
+#, fuzzy
 msgid "Fade {num}"
-msgstr "Überblendung {num}"
+msgstr "{num} 페이드"
 
+#, fuzzy
 msgid "Fades"
-msgstr "Überblendungen"
+msgstr "페이드"
 
 msgid "File error"
-msgstr "Dateifehler"
+msgstr "파일 오류"
 
 msgid "Finances"
-msgstr "Finanzen"
+msgstr "재무"
 
 msgid "First"
-msgstr "Erstes"
+msgstr "첫 번째"
 
 msgid "First aircraft arrived"
-msgstr "Erstes Flugzeug angekommen"
+msgstr "첫 항공기 도착"
 
 msgid "First bus arrived"
-msgstr "Erster Bus angekommen"
+msgstr "첫 버스 도착"
 
 msgid "First bus stop"
-msgstr "Erste Bushaltestelle"
+msgstr "첫 번째 버스 정류장"
 
 msgid "First cargo item on board"
-msgstr "Erste Gütereinheit an Bord"
+msgstr "첫 화물 상차"
 
 msgid "First cargo item waiting"
-msgstr "Erste Gütereinheit wartet"
+msgstr "첫 화물 대기중"
 
 msgid "First electric train arrived"
-msgstr "Erste Elektrolok angekommen"
+msgstr "첫 전기 열차 도착"
 
 msgid "First industry upgraded"
-msgstr "Erste Industrie vergrössert"
+msgstr "첫 산업시설 업그레이드"
 
 msgid "First line"
-msgstr "Erste Linie"
+msgstr "첫 번째 노선"
 
 msgid "First passenger on board"
-msgstr "Erster Passagier an Bord"
+msgstr "첫 승객 탑승"
 
 msgid "First passenger waiting"
-msgstr "Erster Passagier wartet"
+msgstr "첫 승객 대기중"
 
 msgid "First ship arrived"
-msgstr "Erstes Schiff angekommen"
+msgstr "첫 선박 도착"
 
 msgid "First steam train arrived"
-msgstr "Erste Dampflok angekommen"
+msgstr "첫 증기 열차 도착"
 
 msgid "First train station"
-msgstr "Erster Bahnhof"
+msgstr "첫 번째 기차역"
 
+#, fuzzy
 msgid "First-time texture compression..."
-msgstr "Erstmalige Texturkompression..."
+msgstr "처음 텍스쳐 압축중..."
 
 msgid "Fix slope"
-msgstr "Steigung festsetzen"
+msgstr "경사 보강"
 
+#, fuzzy
 msgid "Flatten the terrain."
-msgstr "Das Gelände planieren."
+msgstr "지표면을 평탄화합니다."
 
 msgid "Flatten tool"
-msgstr "Planierungstool"
+msgstr "평탄화 도구"
 
+#, fuzzy
 msgid "Foc."
-msgstr "Brennw."
+msgstr "Foc."
 
 msgid "Folder:"
-msgstr "Ordner:"
+msgstr "폴더:"
 
+#, fuzzy
 msgid "For experts:"
-msgstr "Für Experten:"
+msgstr "전문가들을 위해:"
 
+#, fuzzy
 msgid "Force units"
-msgstr "Krafteinheit"
+msgstr "강제하기"
 
 msgid "Frame rate"
-msgstr "Bildwiederholungsrate"
+msgstr "프레임률"
 
 msgid "Free Game"
-msgstr "Freies Spiel"
+msgstr "자유 게임"
 
+#, fuzzy
 msgid "Freq."
-msgstr "Freq."
+msgstr "빈도"
 
+#, fuzzy
 msgid "Frequence"
-msgstr "Takt"
+msgstr "빈도"
 
+#, fuzzy
 msgid "Full load (all)"
-msgstr "Vollladen jeder Fracht"
+msgstr "꽉 참(모두)"
 
+#, fuzzy
 msgid "Full load (any)"
-msgstr "Vollladen einer Fracht"
+msgstr "꽉 참(하나라도)"
 
 msgid "Game"
-msgstr "Spiel"
+msgstr "게임"
 
 msgid "Game design"
-msgstr "Game Design"
+msgstr "게임 디자인"
 
 msgid "Game initialization failed"
-msgstr "Spielerstellung fehlgeschlagen"
+msgstr "게임 초기화 실패"
 
 msgid "Game paused"
-msgstr "Spiel pausiert"
+msgstr "게임 일시정지됨"
 
 msgid "Game speed up"
-msgstr "Spielgeschwindigkeit"
+msgstr "게임 속도 증가"
 
 msgid "Generate"
-msgstr "Generieren"
+msgstr "생성"
 
 msgid "Generate a random seed"
-msgstr "Einen Zufalls-Seed generieren"
+msgstr "랜덤 시드 생성"
 
+#, fuzzy
 msgid "Generate heightmap"
-msgstr "Heightmap erstellen"
+msgstr "맵 생성"
 
 msgid "Generate industries"
-msgstr "Industrien erstellen"
+msgstr "산업시설 생성"
 
 msgid "Generate streets"
-msgstr "Strassen erstellen"
+msgstr "도로 생성"
 
 msgid "Generate towns"
-msgstr "Städte erstellen"
+msgstr "마을 생성"
 
 msgid "Generating industries..."
-msgstr "Erstelle Industrien..."
+msgstr "산업시설 생성중..."
 
 msgid "Generating map..."
-msgstr "Generiere Karte..."
+msgstr "맵 생성중..."
 
 msgid "Generating preview..."
-msgstr "Generiere Vorschau..."
+msgstr "미리보기 생성중..."
 
 msgid "Generating streets..."
-msgstr "Erstelle Strassen..."
+msgstr "도로 생성중..."
 
 msgid "Generating terrain..."
-msgstr "Generiere Terrain..."
+msgstr "지표면 생성중..."
 
 msgid "Generating towns..."
-msgstr "Erstelle Städte..."
+msgstr "마을 생성중..."
 
 msgid "Generator:"
-msgstr "Generator:"
+msgstr "생성기:"
 
+#, fuzzy
 msgid "Geometry"
-msgstr "Geometrie"
+msgstr "기하학"
 
+#, fuzzy
 msgid "Get more mods on"
-msgstr "Finde weitere Mods auf"
+msgstr "더 많은 모드를 가져오려면:"
 
 msgid "Glacier express"
-msgstr "Glacier-Express"
+msgstr "우주 대탐험"
 
 msgid "Go back to menu"
-msgstr "Zurück ins Menü"
+msgstr "메뉴로 돌아가기"
 
 msgid "Go to next page"
-msgstr "Weiter zur nächsten Seite"
+msgstr "다음 페이지"
 
 msgid "Go to station"
-msgstr "Gehe zu Station"
+msgstr "역으로 이동"
 
 msgid "Going to depot"
-msgstr "Unterwegs ins Depot"
+msgstr "차고로 복귀중"
 
 msgid "Good"
-msgstr "Gut"
+msgstr "좋아요"
 
 msgid "Graphic API"
-msgstr "Grafik-API"
+msgstr "그래픽 API"
 
 msgid "Graphics"
-msgstr "Grafik"
+msgstr "그래픽"
 
 msgid "Graphics context creation failed ({graphicsApi})"
-msgstr "{graphicsApi}-Kontexterstellung fehlgeschlagen"
+msgstr "{graphicsApi}-그래픽 컨텐츠 생성 실패"
 
 msgid "Graphics settings"
-msgstr "Grafik-Einstellungen"
+msgstr "그래픽 설정"
 
 msgid "Grass"
-msgstr "Gras"
+msgstr "수풀"
 
 msgid "Growth"
-msgstr "Wachstum"
+msgstr "성장"
 
 msgid "Growth: %1% residents"
-msgstr "Wachstum: %1% Einwohner"
+msgstr "성장: 주민 %1%명"
 
 msgid "HUD icon filter"
-msgstr "HUD Symbolfilter"
+msgstr "HUD 아이콘 필터"
 
 msgid "HUD: Toggle aircraft"
-msgstr "HUD: Flugzeuge"
+msgstr "HUD: 항공기 토글"
 
 msgid "HUD: Toggle bus/tram stops"
-msgstr "HUD: Bus-/Tramstationen"
+msgstr "HUD: 버스/트램 정류장 토글"
 
 msgid "HUD: Toggle costs labels"
-msgstr "HUD: Ausgaben"
+msgstr "HUD: 지출 레이블 토글"
 
 msgid "HUD: Toggle depots"
-msgstr "HUD: Deptos"
+msgstr "HUD: 차고 토글"
 
 msgid "HUD: Toggle income labels"
-msgstr "HUD: Einnahmen"
+msgstr "HUD: 수익 레이블 토글"
 
 msgid "HUD: Toggle industries"
-msgstr "HUD: Industrien"
+msgstr "HUD: 산업시설 토글"
 
 msgid "HUD: Toggle rail vehicles"
-msgstr "HUD: Eisenbahn"
+msgstr "HUD: 기차 토글"
 
 msgid "HUD: Toggle road vehicles"
-msgstr "HUD: Strassenfahrzeuge"
+msgstr "HUD: 자동차 토글"
 
 msgid "HUD: Toggle ships"
-msgstr "HUD: Schiffe"
+msgstr "HUD: 선박 토글"
 
 msgid "HUD: Toggle signals"
-msgstr "HUD: Signale"
+msgstr "HUD: 신호기 토글"
 
 msgid "HUD: Toggle stations"
-msgstr "HUD: Stationen"
+msgstr "HUD: 역 토글"
 
 msgid "HUD: Toggle towns"
-msgstr "HUD: Städte"
+msgstr "HUD: 마을 토글"
 
+#, fuzzy
 msgid "Hangar"
-msgstr "Hangar"
+msgstr "차고"
 
 msgid "Have 100km of tunnels."
-msgstr "Besitze mindestens 100 km Tunnels."
+msgstr "100km의 터널을 가지세요."
 
 msgid "Have 400km of tracks."
-msgstr "Besitze mindestens 400 km Gleise."
+msgstr "400km의 선로를 가지세요."
 
 msgid "Have 50km of bridges."
-msgstr "Besitze mindestens 50 km Brücken."
+msgstr "50km의 다리를 가지세요."
 
 msgid "Have a cargo item transported with one of your vehicles."
-msgstr "Transportiere Güter in einem deiner Fahrzeuge."
+msgstr "당신의 차량으로 화물을 운송하세요."
 
 msgid "Have a cargo item waiting at a terminal."
-msgstr "Sorge dafür, dass Güter an einer Station warten."
+msgstr "화물이 터미널에서 기다리고 있습니다."
 
 msgid "Have a monthly maintenance cost of 200 million."
-msgstr "Erreiche monatliche Wartungskosten von 200 Millionen."
+msgstr "한 달 점검 비용을 2억만큼 지불하세요."
 
 msgid "Have a passenger on a vehicle."
-msgstr "Sorge dafür, dass ein Passagier in ein Fahrzeug einsteigt."
+msgstr "차량에 승객을 태우세요."
 
 msgid "Have a town with a population of at least 1500."
-msgstr "Erreiche eine Stadt mit mindestens 1500 Einwohnern."
+msgstr "인구가 최소 1500명인 마을을 가지세요."
 
 msgid "Have a town with a population of at least 750."
-msgstr "Erreiche eine Stadt mit mindestens 750 Einwohnern."
+msgstr "인구가 최소 750명인 마을을 가지세요."
 
 msgid "Have a train filled with at least 100 passengers."
-msgstr "Fülle einen Zug mit mindestens 100 Passagieren."
+msgstr "한 열차에 승객이 최소 100명이 타도록 하세요."
 
 msgid "Have a train filled with at least 200 passengers."
-msgstr "Fülle einen Zug mit mindestens 200 Passagieren."
+msgstr "한 열차에 승객이 최소 200명이 타도록 하세요."
 
 msgid "Have a train filled with at least 250 cargo items."
-msgstr "Fülle einen Zug mit mindestens 250 Einheiten Güter."
+msgstr "한 열차에 화물을 최소 250개 실으세요."
 
 msgid "Have a train longer than the longest possible station."
-msgstr "Besitze einen Zug, der länger als der längste Bahnhof ist."
+msgstr "역 길이보다 더 긴 열차를 보유하세요."
 
+#, fuzzy
 msgid "Have a train that reaches higher than 450 meters."
-msgstr "Sorge dafür, dass ein Zug eine Höhe von über 450 Meter erreicht."
+msgstr "450미터 이상을 운행한 열차를 가지세요."
 
 msgid ""
 "Have all tracks electrified and high speed. Have at least 100km of tracks."
 msgstr ""
-"Besitze ausschliesslich elektrifizierte Hochgeschwindigkeitsgleise mit einer "
-"Länge von mindestens 100 km."
+"모든 선로를 전철화하고 고속화하세요. 선로 운행 속도를 100km이상으로 유지하세"
+"요."
 
 msgid "Have at least 300 cargo items waiting at a train station."
-msgstr ""
-"Sorge dafür, dass mindestens 300 Gütereinheiten an einem Bahnhof warten."
+msgstr "기차역에 최소 300개의 화물이 대기하도록 하세요."
 
 msgid "Have at least 300 passengers waiting in a train station."
-msgstr "Sorge dafür, dass mindestens 300 Personen an einem Bahnhof warten."
+msgstr "기차역에 최소 300명의 승객이 대기하도록 하세요."
 
 msgid "Have every industry shipping items using your transport network."
-msgstr "Sorge dafür, dass alle Industrien deine Linien benutzen."
+msgstr "모든 화물이 당신의 운송 네트워크를 이용하도록 하세요."
 
 msgid "Have two trains stuck facing each other."
-msgstr "Erreiche, dass sich zwei Züge blockieren."
+msgstr "열차 두 대가 서로 마주보도록 하세요."
 
 msgid "Head of PR & Community Management"
-msgstr "Leiter PR & Community Management"
+msgstr "PR & 커뮤니티 매니저 리더"
 
+#, fuzzy
 msgid "Head of Product Management"
-msgstr "Leiter Produktmanagement"
+msgstr "상품 매니저 리더"
 
 msgid "Heading for depot"
-msgstr "Unterwegs ins Depot"
+msgstr "차고로 복귀중"
 
 msgid "Heading for {stopName}"
-msgstr "Unterwegs nach {stopName}"
+msgstr "다음 목적지: {stopName}"
 
 msgid "Headquarters"
-msgstr "Hauptquartier"
+msgstr "본사"
 
+#, fuzzy
 msgid "Heavily loaded"
-msgstr "Schwer beladen"
+msgstr "거의 가득 참"
 
 msgid "Height at mouse cursor: {height}"
-msgstr "Höhe unter Mauszeiger: {height}"
+msgstr "마우스 커서 위치의 높이: {height}"
 
 msgid "Heightmap"
-msgstr "Heightmap"
+msgstr "맵"
 
 msgid "Heightmap height invalid. Valid heights: %1%."
-msgstr "Die Länge des Höhenprofils ist ungültig. Gültige Werte: %1%."
+msgstr "맵 높이가 부적절합니다. 적절한 높이: %1%."
 
 msgid "Heightmap texture tool"
-msgstr "Heightmap-Textur-Tool"
+msgstr "맵 텍스쳐 도구"
 
 msgid "Heightmap too large. Number of pixels must not exceed %1%M."
-msgstr ""
-"Das Höhenprofil ist zu gross. Die Anzahl der verwendeten Pixel darf %1% "
-"Millionen nicht überschreiten."
+msgstr "맵이 너무 큽니다. 픽셀 수는 %1%M을 넘을 수 없습니다.."
 
 msgid "Heightmap width invalid. Valid widths: %1%."
-msgstr "Die Breite des Höhenprofils ist ungültig. Gültige Werte: %1%."
+msgstr "맵 폭이 부적절합니다. 적절한 폭: %1%."
 
 msgid "Help"
-msgstr "Hilfe"
+msgstr "도움말"
 
+#, fuzzy
 msgid "High"
-msgstr "Hoch"
+msgstr "높은"
 
 msgid "High speed"
-msgstr "Hochgeschwindigkeit"
+msgstr "고속"
 
 msgid "High-speed"
-msgstr "Hochgeschwindigkeit"
+msgstr "고속선"
 
 msgid "High-speed track tool"
-msgstr "Hochgeschwindigkeitsgleistool"
+msgstr "고속선 도구"
 
 msgid "Horse"
-msgstr "Ross"
+msgstr "말"
 
+#, fuzzy
 msgid "Idle"
-msgstr "Leerlauf"
+msgstr "공회전"
 
 msgid "Image file too large (must be less than 1MB)"
-msgstr "Bilddatei zu gross (muss kleiner als 1MB sein)"
+msgstr "이미지 파일이 너무 큽니다(1MB보다 작아야 함)"
 
 msgid "Image type must be grayscale."
-msgstr "Benötige Graustufenbild."
+msgstr "이미지 종류는 그레이스케일이어야 합니다."
 
+#, fuzzy
 msgid "Import"
-msgstr "Import"
+msgstr "수입"
 
 msgid "Import heightmap"
-msgstr "Heightmap importieren"
+msgstr "맵 가져오기"
 
+#, fuzzy
 msgid "Important note"
-msgstr "Wichtiger Hinweis"
+msgstr "중요 내용"
 
+#, fuzzy
 msgid "In"
-msgstr "Ein"
+msgstr "안에"
 
+#, fuzzy
 msgid "In depot"
-msgstr "Im Depot"
+msgstr "차고 안에 있음"
 
 msgid "Income"
-msgstr "Einnahmen"
+msgstr "수익"
 
+#, fuzzy
 msgid "Incoming vehicle(s)"
-msgstr "Fahrzeuge hereinkommend"
+msgstr "곧 들어오는 차량"
 
 msgid "Indigo Pearl"
-msgstr "Indigo Pearl"
+msgstr "남색 진주"
 
 msgid "Industrial"
-msgstr "Industrie"
+msgstr "산업"
 
 msgid "Industrial area"
-msgstr "Industriegebäude"
+msgstr "산업지구"
 
 msgid "Industrial building"
-msgstr "Industriegebäude"
+msgstr "산업 건물"
 
 msgid "Industrial supply"
-msgstr "Versorgung Industriegebiet"
+msgstr "산업시설 공급"
 
 msgid "Industrialist"
-msgstr "Industrie-Gigant"
+msgstr "산업가"
 
 msgid "Industries"
-msgstr "Industrien"
+msgstr "산업시설"
 
 msgid "Industries report following problems:"
-msgstr "Industrien melden folgende Probleme:"
+msgstr "산업 시설이 문제 보고함:"
 
 msgid "Industry"
-msgstr "Industrie"
+msgstr "산업"
 
 msgid "Industry statistics"
-msgstr "Industrienstatistik"
+msgstr "산업시설 통계"
 
 msgid "Infrastructure"
-msgstr "Infrastruktur"
+msgstr "사회 기반 시설"
 
 msgid "Insert fade after"
-msgstr "Überblendung danach einfügen"
+msgstr "뒤에 페이드 삽입:"
 
 msgid "Insert fade before"
-msgstr "Überblendung vorher einfügen"
+msgstr "앞에 페이드 삽입:"
 
 msgid "Insert key frame after"
-msgstr "Schlüsselbild danach einfügen"
+msgstr "뒤에 키 프레임 삽입:"
 
 msgid "Insert key frame before"
-msgstr "Schlüsselbild vorher einfügen"
+msgstr "앞에 키 프레임 삽입"
 
+#, fuzzy
 msgid "Insert subtitle after"
-msgstr "Untertitel danach einfügen"
+msgstr "뒤에 부제목 삽입"
 
+#, fuzzy
 msgid "Insert subtitle before"
-msgstr "Untertitel vorher einfügen"
+msgstr "앞에 부제목 삽입"
 
 msgid "Interface"
-msgstr "Oberfläche"
+msgstr "인터페이스"
 
 msgid "Interface scaling"
-msgstr "Oberflächen-Skalierung"
+msgstr "인터페이스 크기"
 
 msgid "Internal error (see console for details)"
-msgstr "Interner Fehler (siehe Konsole für Details)"
+msgstr "내부 오류(자세한 내용은 콘솔에)"
 
+#, fuzzy
 msgid "Interns"
-msgstr "Praktikanten"
+msgstr "인턴"
 
 msgid "Invalid UTF-8 encountered"
-msgstr "Ungültiges UTF-8 gefunden"
+msgstr "부적절한 UTF-8"
 
 msgid "Invalid configuration, %1% module will collide."
 msgid_plural "Invalid configuration, %1% modules will collide."
-msgstr[0] "Ungültige Konfiguration, %1% Modul kollidiert."
-msgstr[1] "Ungültige Konfiguration, %1% Module kollidieren."
+msgstr[0] "부적절한 설정, %1% 모듈에서 충돌 발생."
+msgstr[1] "부적절한 설정, %1% 모듈에서 충돌 발생."
 
 msgid "Inventory"
-msgstr "Inventar"
+msgstr "인벤토리"
 
 msgid "Invert"
-msgstr "Invertieren"
+msgstr "반전"
 
 msgid "Invert panning"
 msgstr "Scrollrichtung invertieren"
