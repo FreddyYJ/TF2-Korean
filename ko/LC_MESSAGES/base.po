@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-14 12:35+0100\n"
-"PO-Revision-Date: 2021-03-14 16:35+0900\n"
+"PO-Revision-Date: 2021-03-16 11:55+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 2.3\n"
 "X-Language: de_CH\n"
 "X-Source-Language: C\n"
 
@@ -485,893 +485,917 @@ msgstr "오디오 설정"
 msgid "Authors"
 msgstr "제작자"
 
+#, fuzzy
 msgid "Auto set speed"
-msgstr "Geschwindigkeit automatisch setzen"
+msgstr "속도 자동 설정"
 
+#, fuzzy
 msgid "Automatic"
-msgstr "Automatisch"
+msgstr "자동"
 
 msgid ""
 "Automatically send crash dump files (not including personal data) to the "
 "developers"
 msgstr ""
-"Automatisch Crash-Dump-Dateien (enthalten keine persönlichen Daten) an die "
-"Entwickler senden"
+"자동으로 개발자에게 크래시 리포트를 전송합니다.(개인정보는 포함되지 않습니"
+"다.)"
 
 msgid "Autosave interval (minutes)"
-msgstr "Autosave-Intervall (Minuten)"
+msgstr "자동 저장 간격(분)"
 
 msgid "Autosave..."
-msgstr "Autosave..."
+msgstr "자동 저장중..."
 
+#, fuzzy
 msgid "Autosaves to keep"
-msgstr "Anzahl zu behaltende Spielstände"
+msgstr "저장할 자동저장들"
 
+#, fuzzy
 msgid "Available heightmaps:"
-msgstr "Verfügbare Heightmaps:"
+msgstr "사용할 수 있는 맵:"
 
 msgid "Average"
-msgstr "Durchschnitt"
+msgstr "평균"
 
 msgid "Average emission reaching residential buildings: %1%"
-msgstr "Durchschnittliche Emission, die Wohngebäude erreicht: %1%"
+msgstr "거주 건물에 도달하는 평균 공해: %1%"
 
 msgid ""
 "Average number of shoppings facilities and jobs the residents of {townName} "
 "can reach"
-msgstr ""
-"Durchschnittliche Anzahl Einkaufsmöglichkeinen und Arbeitsplätze, die "
-"Einwohner von {townName} erreichen können"
+msgstr "{townName}의 주민들이 가질 수 있는 상점과 일자리의 평균"
 
 msgid "BONUS TASKS"
-msgstr "BONUSAUFGABEN"
+msgstr "부가 과제"
 
 msgid "Back"
-msgstr "Zurück"
+msgstr "돌아가기"
 
 msgid "Back to the future"
-msgstr "Zurück in die Zukunft"
+msgstr "백 투 더 퓨처"
 
 msgid "Bad"
-msgstr "Schlecht"
+msgstr "나쁨"
 
 msgid "Balance"
-msgstr "Ertrag"
+msgstr "재정"
 
 msgid "Balance:"
-msgstr "Ertrag:"
+msgstr "현재 자금:"
 
+#, fuzzy
 msgid "Bank balance"
-msgstr "Kontostand"
+msgstr "은행 자금"
 
 msgid "Big aircraft"
-msgstr "Grosses Flugzeug"
+msgstr "대형 항공기"
 
 msgid "Big aircraft is incompatible with small airport"
-msgstr "Grosse Flugzeuge können nicht auf Flugplätzen verkehren"
+msgstr "대형 항공기는 소형 공항과 호환되지 않습니다"
 
 msgid "Big ship"
-msgstr "Grosses Schiff"
+msgstr "대형 선박"
 
 msgid "Big ship is incompatible with small harbour"
-msgstr "Grosse Schiffe können nicht in Häfen mit nur kleinen Docks verkehren"
+msgstr "대형 선박은 소형 부두와 호환되지 않습니다"
 
+#, fuzzy
 msgid "Big spender"
-msgstr "Grosse Ausgaben"
+msgstr "VIP 고객"
 
+#, fuzzy
 msgid "Bit depth must be 1, 8 or 16."
-msgstr "Bittiefe muss 1, 8 oder 16 sein."
+msgstr "비트 깊이는 1, 8 또는 16이어야 합니다."
 
 msgid "Bob Ross"
-msgstr "Bob Ross"
+msgstr "밥 로스"
 
 msgid "Bonus task completed"
-msgstr "Bonusaufgabe abgeschlossen"
+msgstr "부가 과제 완료"
 
 msgid "Bonus tasks"
-msgstr "Bonusaufgaben"
+msgstr "부가 과제"
 
 msgid "Borderless"
-msgstr "Randlos"
+msgstr "경계 없음"
 
 msgid "Borrow %1%"
-msgstr "%1% leihen"
+msgstr "%1% 빌리기"
 
 msgid "Bridge"
-msgstr "Brücke"
+msgstr "다리"
 
 msgid "Bridge pillar collision"
-msgstr "Brückenpfeiler-Kollision"
+msgstr "다리 기둥 건설 불가"
 
 msgid "Brush"
-msgstr "Pinsel"
+msgstr "붓"
 
 msgid "Brush size"
-msgstr "Werkzeuggrösse"
+msgstr "붓 크기"
 
 msgid "Build"
-msgstr "Bauen"
+msgstr "건설"
 
 msgid "Build a bus stop."
-msgstr "Baue eine Bushaltestelle."
+msgstr "버스 정류장을 지으세요."
 
 msgid "Build a passenger train station."
-msgstr "Baue einen Passagier-Bahnhof."
+msgstr "여객용 기차역을 지으세요."
 
 msgid "Build a town"
-msgstr "Eine Stadt bauen"
+msgstr "마을을 지으세요"
 
 msgid "Build a train line with at least 10 trains in motion."
-msgstr "Errichte eine Linie mit mindestens 10 fahrenden Zügen."
+msgstr "동시에 최소 10대의 열차가 운행하는 열차 노선을 만드세요."
 
 msgid "Build date"
-msgstr "Baujahr"
+msgstr "건설 일자"
 
 msgid "Build high bridges over rivers so that ships can pass under."
-msgstr ""
-"Baue Brücken über Flüsse mit genügend Höhe, um Schiffen die Durchfahrt zu "
-"ermöglichen."
+msgstr "강 위로 높은 다리를 지어 배가 아래로 통과할 수 있도록 하세요."
 
 msgid ""
 "Build one line containing at least one of every passenger road vehicle that "
 "was available between 1850 and 2020."
 msgstr ""
-"Betreibe eine Linie, auf der alle verfügbaren Strassenfahrzeuge (1850-2020) "
-"verkehren."
+"1850년부터 2020년까지 사용할 수 있는 모든 여객용 자동차가 운행하는 노선을 만"
+"드세요."
 
 msgid "Build the company headquarters."
-msgstr "Baue den Firmensitz."
+msgstr "회사 본사를 지으세요."
 
 msgid "Build town not possible"
-msgstr "Stadt kann nicht gebaut werden"
+msgstr "마을 생성 불가"
 
 msgid "Building town..."
-msgstr "Baue Stadt..."
+msgstr "마을 생성중..."
 
 msgid "Buildings"
-msgstr "Gebäude"
+msgstr "건물"
 
 msgid "Buildings must be removed first"
-msgstr "Gebäude müssen zuerst entfernt werden"
+msgstr "먼저 건물을 제거해야 합니다"
 
 msgid "Bulldozer"
-msgstr "Bulldozer"
+msgstr "불도저"
 
 msgid "Bus"
-msgstr "Bus"
+msgstr "버스"
 
 msgid "Bus and tram stops"
-msgstr "Bus- und Tramhaltestellen"
+msgstr "버스와 트램 겸용 정류장"
 
 msgid "Bus lane"
-msgstr "Busspur"
+msgstr "버스전용차로"
 
 msgid "Bus lane tool"
-msgstr "Busspur-Tool"
+msgstr "버스전용차로 도구"
 
 msgid "Bus/Tram station"
-msgstr "Bus-/Trambahnhof"
+msgstr "버스/트램 겸용 역"
 
 msgid "Bus/truck not compatible"
-msgstr "Bus/LKW nicht kompatibel"
+msgstr "버스/트럭이 호환되지 않습니다"
 
 msgid "Buy a bus and run a line."
-msgstr "Schicke einen Bus auf eine Linie."
+msgstr "버스를 구매하고 노선을 운행하세요."
 
 msgid "Buy a ship and run a line."
-msgstr "Schicke ein Schiff auf eine Linie."
+msgstr "선박을 구매하고 노선을 운항하세요."
 
 msgid "Buy a steam train and run a line."
-msgstr "Schicke einen dampfbetriebenen Zug auf eine Linie."
+msgstr "증기 열차를 구매하고 노선을 운행하세요."
 
 msgid "Buy aircraft"
-msgstr "Flugzeuge kaufen"
+msgstr "항공기 구매"
 
 msgid "Buy an aircraft and run a line."
-msgstr "Schicke ein Flugzeug auf eine Linie."
+msgstr "항공기를 구매하고 노선을 비행하세요."
 
 msgid "Buy an electric train and run a line."
-msgstr "Schicke einen elektrisch angetriebenen Zug auf eine Linie."
+msgstr "전기 열차를 구매하고 노선을 운행하세요."
 
+#, fuzzy
 msgid "Buy for "
-msgstr "Kaufen für "
+msgstr "구매:"
 
 msgid "Buy road vehicles"
-msgstr "Strassenfahrzeuge kaufen"
+msgstr "자동차 구매"
 
 msgid "Buy ships"
-msgstr "Schiffe kaufen"
+msgstr "선박 구매"
 
 msgid "Buy trains"
-msgstr "Züge kaufen"
+msgstr "열차 구매"
 
 msgid "Buy trams"
-msgstr "Trams kaufen"
+msgstr "트램 구매"
 
 msgid "Buy vehicles"
-msgstr "Fahrzeuge kaufen"
+msgstr "차량 구매"
 
+#, fuzzy
 msgid "By car"
-msgstr "Per Auto"
+msgstr "자동차로"
 
+#, fuzzy
 msgid "By foot"
-msgstr "Zu Fuss"
+msgstr "도보로"
 
 msgid "By submitting this item, you agree to the workshop terms of service."
-msgstr ""
-"Mit dem Einreichen dieses Objekts erklärst Du Dich mit den "
-"Geschäftsbedingungen des Steam Workshops einverstanden."
+msgstr "이 아이템을 구독하면, 워크샵 약관에 동의하는 것입니다."
 
+#, fuzzy
 msgid "Cadet"
-msgstr "Cadet"
+msgstr "후보생"
 
 msgid "Camera Manager"
-msgstr "Kameramanager"
+msgstr "카메라 관리"
 
 msgid "Camera focal length"
-msgstr "Brennweite der Kamera"
+msgstr "카메라 초점 길이"
 
 msgid "Camera move down"
-msgstr "Kamera nach hinten bewegen"
+msgstr "카메라 아래로"
 
 msgid "Camera move left"
-msgstr "Kamera nach links bewegen"
+msgstr "카메라 왼쪽으로"
 
 msgid "Camera move right"
-msgstr "Kamera nach rechts bewegen"
+msgstr "카메라 오른쪽으로"
 
 msgid "Camera move up"
-msgstr "Kamera nach vorne bewegen"
+msgstr "카메라 위로"
 
 msgid "Camera rotate left"
-msgstr "Kamera nach links drehen"
+msgstr "카메라 왼쪽으로 회전"
 
 msgid "Camera rotate right"
-msgstr "Kamera nach rechts drehen"
+msgstr "카메라 오른쪽으로 회전"
 
 msgid "Camera tilt down"
-msgstr "Kamera nach unten kippen"
+msgstr "카메라 아래로 회전"
 
 msgid "Camera tilt up"
-msgstr "Kamera nach oben kippen"
+msgstr "카메라 위로 회전"
 
 msgid "Camera tool"
-msgstr "Kameratool"
+msgstr "카메라 도구"
 
 msgid "Camera tool: Add keyframe"
-msgstr "Kameratool: Schlüsselbild hinzufügen"
+msgstr "카메라 도구: 키 프레임 추가"
 
 msgid "Camera tool: Capture"
-msgstr "Kameratool: Capture"
+msgstr "카메라 도구: 캡처"
 
 msgid "Camera tool: Clear keyframes"
-msgstr "Kameratool: Alle Schlüsselbilder entfernen"
+msgstr "카메라 도구: 키 프레임 비우기"
 
 msgid "Camera tool: Load"
-msgstr "Kameratool: Laden"
+msgstr "카메라 도구: 불러오기"
 
 msgid "Camera tool: Pause"
-msgstr "Kameratool: Pause"
+msgstr "카메라 도구: 일시정지"
 
 msgid "Camera tool: Play"
-msgstr "Kameratool: Play"
+msgstr "카메라 도구: 재생"
 
 msgid "Camera tool: Save"
-msgstr "Kameratool: Speichern"
+msgstr "카메라 도구: 저장"
 
 msgid "Camera tool: Start recording"
-msgstr "Kameratool: Aufnahme starten"
+msgstr "카메라 도구: 녹화 시작"
 
 msgid "Camera tool: Stop"
-msgstr "Kameratool: Stop"
+msgstr "카메라 도구: 정지"
 
 msgid "Camera tool: Toggle play/pause"
-msgstr "Kameratool: Toggle Play/Pause"
+msgstr "카메라 도구: 재생/일시정지 토글"
 
 msgid "Camera tool: Toggle play/stop"
-msgstr "Kameratool: Toggle Play/Stop"
+msgstr "카메라 도구: 재생/정지 토글"
 
 msgid "Camera zoom in"
-msgstr "Kamera hineinzoomen"
+msgstr "카메라 확대"
 
 msgid "Camera zoom out"
-msgstr "Kamera herauszoomen"
+msgstr "카메라 축소"
 
 msgid "Campaign"
-msgstr "Kampagne"
+msgstr "캠페인"
 
 msgid "Campaign \"%1%\", mission \"%2%\""
-msgstr "Kampagne \"%1%\", Mission \"%2%\""
+msgstr "캠페인 \"%1%\", 미션 \"%2%\""
 
 msgid "Campaign design"
-msgstr "Kampagnendesign"
+msgstr "캠페인 디자인"
 
 msgid "Campaign expert"
-msgstr "Kampagnenexperte"
+msgstr "캠페인 전문가"
 
 msgid "Campaign shark"
-msgstr "Kampagnenhai"
+msgstr "캠페인 프로"
 
 msgid "Campaign tycoon"
-msgstr "Kampagnentycoon"
+msgstr "캠페인을 지배하는 자"
 
 msgid "Campaigns"
-msgstr "Kampagnen"
+msgstr "캠페인"
 
 msgid "Cancel"
-msgstr "Abbrechen"
+msgstr "취소"
 
 msgid "Cancel and leave store"
-msgstr "Abbrechen und Verkaufsmenu verlassen"
+msgstr "취소 및 상점 떠나기"
 
 msgid "Cancel publishing"
-msgstr "Veröffentlichen abbrechen"
+msgstr "출시 취소"
 
 msgid "Cannot bulldoze headquarters, use relocate instead!"
-msgstr ""
-"Hauptquartier kann nicht abgerissen werden, verwende stattdessen die "
-"Umplatzierungsfunktion!"
+msgstr "본사 건물을 철거할 수 없습니다, 재배치 기능을 사용하세요!"
 
+#, fuzzy
 msgid "Cannot get enough"
-msgstr "Es ist nie genug"
+msgstr "충분하지 않습니다"
 
 msgid "Capacity"
-msgstr "Kapazität"
+msgstr "수용량"
 
 msgid "Capture image"
-msgstr "Bild aufnehmen"
+msgstr "이미지 캡처"
 
 msgid "Capture images"
-msgstr "Bilder aufnehmen"
+msgstr "이미지 캡처"
 
+#, fuzzy
 msgid "Capture latlong"
-msgstr "Latlong aufnehmen"
+msgstr "장기간 캡처"
 
 msgid "Capture videos"
-msgstr "Videos aufnehmen"
+msgstr "비디오 캡처"
 
 msgid "Car owner"
-msgstr "Autobesitzer"
+msgstr "자동차 소유자"
 
 msgid "Cargo"
-msgstr "Cargo"
+msgstr "화물"
 
 msgid "Cargo filter is set"
-msgstr "Filter aktiv"
+msgstr "화물 필터가 설정됨"
 
 msgid "Cargo hub"
-msgstr "Güter-Hub"
+msgstr "화물 허브"
 
 msgid "Cargo items consumed by this building"
-msgstr "Von diesem Gebäude konsumierte Güter"
+msgstr "이 건물은 화물을 소비합니다"
 
 msgid "Cargo items produced by this building"
-msgstr "Von diesem Gebäude produzierte Güter"
+msgstr "이 건물은 화물을 생산합니다"
 
 msgid "Cargo layer"
-msgstr "Güter"
+msgstr "화물 레이어"
 
 msgid "Cargo needs"
-msgstr "Güterbedarf"
+msgstr "필요 화물"
 
 msgid "Cargo production"
-msgstr "Güterproduktion"
+msgstr "생산 화물"
 
 msgid "Cargo production rating (average of last twelve months)"
-msgstr "Bewertung der Güterproduktion (12-Monats-Durchschnitt)"
+msgstr "화물 생산량(최근 12달 평균)"
 
 msgid "Cargo station"
-msgstr "Güterstation"
+msgstr "화물역"
 
 msgid "Cargo stop can not used by passenger vehicles"
-msgstr "Güter-Station kann nicht von Passagier-Fahrzeugen benutzt werden"
+msgstr "화물 정류장은 여객 차량이 사용할 수 없습니다"
 
 msgid "Cargo supply of {townName}"
-msgstr "Güterversorgung von {townName}"
+msgstr "{townName}의 화물 공급"
 
 msgid "Cargo supply rating (average of last twelve months)"
-msgstr "Bewertung des Güternachschubs (12-Monats-Durchschnitt)"
+msgstr "화물 공급량(최근 12달 평균)"
 
 msgid "Cargo transported (last 12 months)"
-msgstr "Transportierte Güter (letzte 12 Monate)"
+msgstr "화물 운송량(최근 12달)"
 
 msgid "Cargo transported (total)"
-msgstr "Transportierte Güter (gesamt)"
+msgstr "화물 운송량(총합)"
 
 msgid "Cargo type"
 msgid_plural "Cargo types"
-msgstr[0] "Gütertyp"
-msgstr[1] "Gütertypen"
+msgstr[0] "화물 종류"
+msgstr[1] "화물 종류"
 
 msgid "Cargo types"
-msgstr "Gütertypen"
+msgstr "화물 종류"
 
 msgid "Catenary"
-msgstr "Oberleitung"
+msgstr "전철선"
 
 msgid "Change date"
-msgstr "Datum ändern"
+msgstr "날짜 변경"
 
+#, fuzzy
 msgid "Change note:"
-msgstr "Änderungen:"
+msgstr "노트 변경:"
 
 msgid "Change type"
-msgstr "Typ ändern"
+msgstr "종류 변경"
 
 msgid "Charles Alton Ellis"
 msgstr "Charles Alton Ellis"
 
 msgid "Chart"
-msgstr "Diagramm"
+msgstr "차트"
 
 msgid "Charts"
-msgstr "Diagramme"
+msgstr "차트"
 
+#, fuzzy
 msgid "Choose heightmap"
-msgstr "Heightmap auswählen"
+msgstr "맵 선택"
 
 msgid "Choose the game's difficulty"
-msgstr "Den Schwierigkeitsgrad wählen"
+msgstr "게임 난이도 선택"
 
 msgid "Choose the game's start year"
-msgstr "Das Startjahr wählen"
+msgstr "게임 시작 연도 선택"
 
 msgid "City"
-msgstr "Stadt"
+msgstr "도시"
 
 msgid "Clear"
-msgstr "Leeren"
+msgstr "비우기"
 
 msgid "Clear all key frames?"
-msgstr "Alle Schlüsselbilder entfernen?"
+msgstr "모든 키 프레임을 삭제할까요?"
 
 msgid "Clear key frame list"
-msgstr "Alle Schlüsselbilder entfernen"
+msgstr "키 프레임 목록 비우기"
 
 msgid "Click on icons to select residents"
-msgstr "Klicke auf ein Symbol, um einen Bewohner auszuwählen"
+msgstr "아이콘을 클릭하여 주민 선택"
 
 msgid "Click on stations to add"
-msgstr "Stationen per Klick hinzufügen"
+msgstr "역을 클릭하여 추가"
 
 msgid ""
 "Click on the icon to jump to the first point where the path couldn't "
 "continue."
-msgstr "Klicke auf das Icon um dahin zu springen wo der Weg aufhört."
+msgstr "아이콘을 누르면 경로가 연결되지 않는 첫번째 지점으로 이동합니다."
 
 msgid "Click to change date speed"
-msgstr "Klicken, um die Datumsgeschwindigkeit zu ändern"
+msgstr "클릭하면 시간 속도 변경"
 
 msgid "Click to choose a logo..."
-msgstr "Klicke, um ein Logo zu wählen..."
+msgstr "로고를 변경하려면 클릭...."
 
+#, fuzzy
 msgid "Click to modify balance"
-msgstr "Klicken, um den Kontostand zu ändern"
+msgstr "자금을 변경하려면 클릭"
 
 msgid "Climate"
-msgstr "Klima"
+msgstr "기후"
 
 msgid "Climate change"
-msgstr "Klimawandel"
+msgstr "기후 변경"
 
 msgid "Clone all vehicles"
-msgstr "Alle Fahrzeuge klonen"
+msgstr "모든 차량 복사"
 
 msgid "Clone all vehicles?"
-msgstr "Alle Fahrzeuge klonen?"
+msgstr "모든 차량을 복사할까요?"
 
 msgid "Clone selected vehicle"
 msgid_plural "Clone selected vehicles"
-msgstr[0] "Gewähltes Fahrzeug klonen"
-msgstr[1] "Gewählte Fahrzeuge klonen"
+msgstr[0] "선택된 차량 복사"
+msgstr[1] "선택된 차량 복사"
 
 msgid "Clone vehicle"
-msgstr "Fahrzeug klonen"
+msgstr "차량 복사"
 
 msgid "Close all"
-msgstr "Alle schliessen"
+msgstr "모두 닫기"
 
+#, fuzzy
 msgid "Collapse"
-msgstr "Verkleinern"
+msgstr "철거하기"
 
+#, fuzzy
 msgid "Collision"
-msgstr "Kollision"
+msgstr "충돌"
 
 msgid "Color"
-msgstr "Farbe"
+msgstr "색깔"
 
+#, fuzzy
 msgid "Commercial"
-msgstr "Gewerbe"
+msgstr "상업"
 
 msgid "Commercial area"
-msgstr "Gewerbegebäude"
+msgstr "상업 지구"
 
 msgid "Commercial building"
-msgstr "Gewerbegebäude"
+msgstr "상업 건물"
 
 msgid "Commercial supply"
-msgstr "Versorgung Gewerbegebiet"
+msgstr "상업용 화물 공급"
 
+#, fuzzy
 msgid "Community management"
-msgstr "Community Management"
+msgstr "커뮤니티 관리"
 
 msgid "Company"
-msgstr "Firma"
+msgstr "회사"
 
 msgid "Company finances"
-msgstr "Finanzübersicht"
+msgstr "회사 재무"
 
 msgid "Company score"
-msgstr "Punktzahl"
+msgstr "회사 평점"
 
 msgid "Complete campaign \"%1%\" to unlock"
-msgstr "Kampagne \"%1%\" muss zuerst abgeschlossen werden"
+msgstr "잠금 해제하려면 \"%1%\" 캠페인을 완료하세요"
 
 msgid "Complete the entire campaign."
-msgstr "Schliesse die gesamte Kampagne ab."
+msgstr "모든 캠페인을 완료하세요."
 
 msgid "Complete the first and second era of the campaign."
-msgstr "Schliesse die erste und zweite Ära der Kampagne ab."
+msgstr "첫 번째와 두 번째 캠페인을 완료하세요."
 
 msgid "Complete the first era of the campaign."
-msgstr "Schliesse die erste Ära der Kampagne ab."
+msgstr "첫 번째 캠페인을 완료하세요."
 
 msgid "Complete the first mission of the campaign."
-msgstr "Schliesse die erste Mission der Kampagne ab."
+msgstr "캠페인의 첫 번째 미션을 완료하세요."
 
 msgid "Condition"
-msgstr "Zustand"
+msgstr "상태"
 
 msgid "Configure"
-msgstr "Konfigurieren"
+msgstr "설정"
 
+#, fuzzy
 msgid "Configure construction"
-msgstr "Konstruktion konfigurieren"
+msgstr "건설 설정"
 
 msgid "Configure graphics and more"
-msgstr "Grafik und weitere Einstellungen"
+msgstr "그래픽과 그 외 설정"
 
 msgid "Configure maintenance for all vehicles"
-msgstr "Unterhalt für alle Fahrzeuge konfigurieren"
+msgstr "모든 차량 정비 설정"
 
 msgid "Configure maintenance for selected vehicle"
 msgid_plural "Configure maintenance for selected vehicles"
-msgstr[0] "Wartung für das gewählte Fahrzeug konfigurieren"
-msgstr[1] "Wartung für die gewählten Fahrzeuge konfigurieren"
+msgstr[0] "선택된 차량 정비 설정"
+msgstr[1] "선택된 차량 정비 설정"
 
 msgid "Confirm decommission"
-msgstr "Ausserdienststellung bestätigen"
+msgstr "제거 확인"
 
 msgid "Confirm delete?"
-msgstr "Löschen bestätigen?"
+msgstr "삭제할까요?"
 
 msgid "Confirm destruction"
-msgstr "Abriss bestätigen"
+msgstr "철거 확인"
 
 msgid "Confirm destruction?"
-msgstr "Abriss bestätigen?"
+msgstr "철거할까요?"
 
+#, fuzzy
 msgid "Confirm disposal"
-msgstr "Beseitigung bestätigen"
+msgstr "폐기 확인"
 
 msgid "Confirm mass clone"
-msgstr "Massen-Klonen bestätigen"
+msgstr "대량 복사 확인"
 
+#, fuzzy
 msgid "Confirm rebind"
-msgstr "Neu zuordnen"
+msgstr "재설정 확인"
 
 msgid "Confirm unsubscribe?"
-msgstr "Deabonnieren bestätigen?"
+msgstr "구독을 해제할까요?"
 
 msgid "Congratulations"
-msgstr "Gratulation"
+msgstr "축하합니다"
 
 msgid "Construction locked"
-msgstr "Konstruktion gesperrt"
+msgstr "건설 금지"
 
 msgid "Construction not possible"
-msgstr "Bau nicht möglich"
+msgstr "건설 불가"
 
 msgid "Construction option 1"
-msgstr "Bauoption 1"
+msgstr "건설 옵션 1"
 
 msgid "Construction option 2"
-msgstr "Bauoption 2"
+msgstr "건설 옵션 2"
 
 msgid "Construction option 3"
-msgstr "Bauoption 3"
+msgstr "건설 옵션 3"
 
 msgid "Construction option 4"
-msgstr "Bauoption 4"
+msgstr "건설 옵션 4"
 
 msgid "Construction option 5"
-msgstr "Bauoption 5"
+msgstr "건설 옵션 5"
 
 msgid "Construction option 6"
-msgstr "Bauoption 6"
+msgstr "건설 옵션 6"
 
 msgid "Construction option 7"
-msgstr "Bauoption 7"
+msgstr "건설 옵션 7"
 
 msgid "Construction option 8"
-msgstr "Bauoption 8"
+msgstr "건설 옵션 8"
 
 msgid "Construction option precise 1"
-msgstr "Bauoption fein 1"
+msgstr "정밀한 건설 옵션 1"
 
 msgid "Construction option precise 2"
-msgstr "Bauoption fein 2"
+msgstr "정밀한 건설 옵션 2"
 
 msgid "Construction option precise 3"
-msgstr "Bauoption fein 3"
+msgstr "정밀한 건설 옵션 3"
 
 msgid "Construction option precise 4"
-msgstr "Bauoption fein 4"
+msgstr "정밀한 건설 옵션 4"
 
 msgid "Construction option precise 5"
-msgstr "Bauoption fein 5"
+msgstr "정밀한 건설 옵션 5"
 
 msgid "Construction option precise 6"
-msgstr "Bauoption fein 6"
+msgstr "정밀한 건설 옵션 6"
 
 msgid "Construction option precise 7"
-msgstr "Bauoption fein 7"
+msgstr "정밀한 건설 옵션 7"
 
 msgid "Construction option precise 8"
-msgstr "Bauoption fein 8"
+msgstr "정밀한 건설 옵션 8"
 
 msgid "Consumers"
-msgstr "Abnehmer"
+msgstr "소비자"
 
 msgid "Consumption"
-msgstr "Konsum"
+msgstr "소비"
 
 msgid "Contained by following lines as waypoint"
-msgstr "Bei folgenden Linien als Wegpunkt enthalten"
+msgstr "노선에 추가하여 이 지점을 통과할 수 있도록 합니다"
 
+#, fuzzy
 msgid "Context help"
-msgstr "Kontexthilfe"
+msgstr "도움"
 
+#, fuzzy
 msgid "Continue"
-msgstr "Fortsetzen"
+msgstr "계속하기"
 
 msgid "Continue game"
-msgstr "Spiel fortsetzen"
+msgstr "게임 계속하기"
 
 msgid "Continue playing..."
-msgstr "Spiel fortsetzen..."
+msgstr "계속 재생합니다..."
 
 msgid "Contour lines layer"
-msgstr "Höhenlinien"
+msgstr "등고선 레이어"
 
 msgid "Contributors"
-msgstr "Mitwirkende"
+msgstr "도움을 준 사람들"
 
 msgid "Controls"
-msgstr "Steuerung"
+msgstr "조작"
 
+#, fuzzy
 msgid "Coord.sys."
-msgstr "Koord.sys."
+msgstr "좌표 시스템"
 
 msgid "Copy"
-msgstr "Kopieren"
+msgstr "복사"
 
+#, fuzzy
 msgid "Cosmocover"
-msgstr "Cosmocover"
+msgstr "표지"
 
 msgid "Costs"
-msgstr "Kosten"
+msgstr "가격"
 
 msgid "Costs: %1%"
-msgstr "Kosten: %1%"
+msgstr "가격: %1%"
 
 msgid "Could not connect all stations"
-msgstr "Es konnten nicht alle Haltestellen miteinander verbunden werden"
+msgstr "모든 역을 연결할 수 없습니다"
 
 msgid ""
 "Could not save game. Please check free\n"
 "disk space and/or folder permissions."
 msgstr ""
-"Fehler beim Speichern. Bitte überprüfe \n"
-"den freien Speicherplatz und die Berechtigungen."
+"게임을 저장할 수 없습니다. 저장 공간이 남았는지 \n"
+"확인하고 폴더의 권한을 확인하세요."
 
 msgid "Create New Game"
-msgstr "Neues Spiel erstellen"
+msgstr "새 게임 생성"
 
 msgid "Create New Map"
-msgstr "Neue Karte erstellen"
+msgstr "새 맵 생성"
 
 msgid "Create a line with at least two stops."
-msgstr "Erstelle eine Linie mit mindestens zwei Haltestellen."
+msgstr "최소한 두 정류장을 지나는 노선을 생성하세요."
 
 msgid "Create a new line"
-msgstr "Neue Linie erstellen"
+msgstr "새 노선 생성"
 
 msgid "Create map"
-msgstr "Karte erstellen"
+msgstr "맵 생성"
 
 msgid "Create or edit a map"
-msgstr "Karte erstellen oder editieren"
+msgstr "맵 생성/수정"
 
 msgid "Creating fields..."
-msgstr "Erstelle Felder..."
+msgstr "밭 생성중..."
 
 msgid "Creating industries..."
-msgstr "Erstelle Industrien..."
+msgstr "산업시설 생성중..."
 
 msgid "Creating streets..."
-msgstr "Erstelle Strassen..."
+msgstr "도로 생성중..."
 
 msgid "Creating towns..."
-msgstr "Erstelle Städte..."
+msgstr "마을 생성중..."
 
 msgid "Credits"
-msgstr "Mitwirkende"
+msgstr "제작자"
 
+#, fuzzy
 msgid "Crowd in a train"
-msgstr "Gedränge im Zug"
+msgstr "열차를 가득 채우세요"
 
 msgid "Current"
-msgstr "Aktuell"
+msgstr "현재"
 
 msgid "Current consumption rate"
-msgstr "Aktuelle Verbrauchsrate"
+msgstr "현재 소비량"
 
+#, fuzzy
 msgid "Curved"
-msgstr "Gebogen"
+msgstr "휘어짐"
 
 msgid "Custom"
-msgstr "Benutzerdefiniert"
+msgstr "커스텀"
 
 msgid "Cycle game speed"
-msgstr "Spielgeschwindigkeit umstellen"
+msgstr "다음 게임 속도"
 
 msgid "DLCs:"
-msgstr "DLCs:"
+msgstr "DLC:"
 
 msgid "Data layers"
-msgstr "Datenlayer"
+msgstr "데이터 레이어"
 
 msgid "Date speed"
-msgstr "Datumsgeschwindigkeit"
+msgstr "시간 속도"
 
 msgid "Date:"
-msgstr "Datum:"
+msgstr "날짜:"
 
 msgid "Debt"
-msgstr "Schulden"
+msgstr "채무"
 
 msgid "Debug mode"
-msgstr "Debug-Modus"
+msgstr "디버그 모드"
 
 msgid "Default"
-msgstr "Standard"
+msgstr "기본"
 
 msgid "Delete"
-msgstr "Löschen"
+msgstr "삭제"
 
 msgid "Delete fade"
-msgstr "Überblendung löschen"
+msgstr "페이드 삭제"
 
 msgid "Delete key frame"
-msgstr "Lösche Schlüsselbild"
+msgstr "키 프레임 삭제"
 
 msgid "Delete line"
-msgstr "Linie löschen"
+msgstr "노선 삭제"
 
 msgid "Delete subtitle"
-msgstr "Untertitel löschen"
+msgstr "부제목 삭제"
 
 msgid "Deliver every product to every city that requires it."
-msgstr "Erfülle die Güterbedürfnisse aller Städte."
+msgstr "모든 도시에 필요로 하는 모든 화물을 공급하세요."
 
 msgid "Depot contains vehicles"
-msgstr "Depot enthält Fahrzeuge"
+msgstr "차고에 차량이 있습니다"
 
 msgid "Depots"
-msgstr "Depots"
+msgstr "차고"
 
+#, fuzzy
 msgid "Describe changes..."
-msgstr "Beschreibe Änderungen..."
+msgstr "변경 사항 추출중..."
 
 msgid "Description"
-msgstr "Beschreibung"
+msgstr "설명"
 
 msgid "Description:"
-msgstr "Beschreibung:"
+msgstr "설명:"
 
 msgid "Destination"
-msgstr "Ziel"
+msgstr "목적지"
 
 msgid "Destination: {stopName}"
-msgstr "Ziel: {stopName}"
+msgstr "목적지: {stopName}"
 
 msgid "Destination: {stopName} via {viaName}"
-msgstr "Ziel: {stopName} via {viaName}"
+msgstr "목적지: {stopName} ({viaName} 경유)"
 
 msgid "Destinations"
-msgstr "Ziele"
+msgstr "목적지"
 
 msgid "Destinations layer"
-msgstr "Reiseziele"
+msgstr "목적지 레이어"
 
 msgid "Details"
-msgstr "Details"
+msgstr "자세히"
 
 msgid "Diesel"
-msgstr "Diesel"
+msgstr "디젤"
 
 msgid "Diesel Train"
-msgstr "Dieselzug"
+msgstr "디젤 열차"
 
+#, fuzzy
 msgid "Different cargo types transported"
-msgstr "Unterschiedliche Gütertypen transportiert"
+msgstr "다른 화물이 운송됨"
 
 msgid "Difficulty:"
-msgstr "Schwierigkeit:"
+msgstr "난이도:"
 
 msgid "Directory:"
-msgstr "Verzeichnis:"
+msgstr "경로:"
 
 msgid "Directory: {folder}"
-msgstr "Verzeichnis: {folder}"
+msgstr "경로: {folder}"
 
 msgid "Disable all"
-msgstr "Alle deaktivieren"
+msgstr "모두 비활성화"
 
 msgid "Disable all mods currently visible in the list"
-msgstr "Deaktiviere alle in der Liste sichtbaren Mods"
+msgstr "목록에서 현재 보이는 모든 모드 비활성화"
 
 msgid "Disable mod"
-msgstr "Mod deaktivieren"
+msgstr "모드 비활성화"
 
 msgid "Disabled"
-msgstr "Deaktiviert"
+msgstr "비활성화됨"
 
 msgid "Disconnected!"
-msgstr "Getrennt!"
+msgstr "연결이 끊어졌습니다!"
 
 msgid "Distance units"
-msgstr "Distanzeinheit"
+msgstr "길이 단위"
 
 msgid "Do you wish to proceed?"
-msgstr "Möchtest Du fortfahren?"
+msgstr "계속할까요?"
 
 msgid "Docks outside of navigable waters"
-msgstr "Die Docks befinden sich ausserhalb befahrbarem Gewässer"
+msgstr "경로를 설정할 수 있는 물 밖에 부두가 있습니다"
 
 msgid "Don't take any additional loan until the year 2050."
-msgstr "Nehme bis ins Jahr 2050 keinen zusätzlichen Kredit auf."
+msgstr "2050년까지 아무 대출도 받지 마세요."
 
 msgid "Double slip switch"
-msgstr "Doppelkreuzungsweiche"
+msgstr "이중 선로 변환기 추가/제거"
 
+#, fuzzy
 msgid "Down"
-msgstr "Abwärts"
+msgstr "아래"
 
 msgid "Drive backwards"
-msgstr "Fährt rückwärts"
+msgstr "후진하기"
 
 msgid "Duration"
-msgstr "Dauer"
+msgstr "길이"
 
 msgid "E.P.E.C."
 msgstr "E.P.E.C."
 
 msgid "Earn 1 million with airplanes within a month."
-msgstr "Verdiene 1 Million mit Flugzeugen innerhalb eines Monats."
+msgstr "한 달에 항공기로 100만을 버세요."
 
 msgid "Earn 1 million with ships within a month."
-msgstr "Verdiene 1 Million mit Schiffen innerhalb eines Monats."
+msgstr "한 달에 선박으로 100만을 버세요."
 
 msgid "Earn 50 millions not using any train."
-msgstr "Verdiene 50 Millionen, ohne Züge zu benutzen."
+msgstr "아무 열차도 사용하지 않고 5000만을 버세요."
 
 msgid "Earn all medals in one of the missions."
-msgstr "Verdiene alle Medaillen in einer der Missionen."
+msgstr "미션 중 하나에서 모든 메달을 획득하세요."
 
 msgid "Earn all medals of the entire campaign."
-msgstr "Verdiene alle Medaillen der gesamten Kampagne."
+msgstr "모든 캠페인에서 모든 메달을 획득하세요."
 
 msgid "Edge scrolling"
 msgstr "Scrollen am Bildrand"
