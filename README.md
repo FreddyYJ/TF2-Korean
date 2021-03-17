@@ -32,7 +32,7 @@ Linux는 ```~/.steam/steam```입니다.
 #### 번역
 1. ```<현재 디렉터리>/TF2-Korean/ko/LC_MESSAGES/base.po```와 ```<현재 디렉터리>/TF2-Korean/ko/LC_MESSAGES/res.po```을 Poedit으로 열어 수정한다.
 2. 저장하고 Poedit을 닫는다.
-3. ```<현재 디렉터리>```로 돌아온다.
+3. ```<현재 디렉터리>/TF2-Korean```으로 돌아온다.
 4. ```git add *```을 실행한다.
 5. ```git commit -m "<커밋 제목>"```을 실행한다. <커밋 제목>은 아무거나 가능하지만, 영어만 사용하기를 권장한다. 띄어쓰기를 포함할 수 있다.
 6. ```git push```를 실행한다.
@@ -48,3 +48,49 @@ Linux는 ```~/.steam/steam```입니다.
 여기까지 하면 제가 보고, 반영할지 판단하여 반영할 것입니다.
 
 ## 영어/English
+This is english Readme, same with Korean one.
+
+### Introduction
+This Project/Repository is for Korean translation of Transport Fever 2.
+This project is on GNU LGPL v3.0.
+
+Our final purpose is to make at Mod, and upload in Steam Workshop.
+
+### How to install
+* Now we use this way to install, but our final purpose is to make at Mod, and upload in Steam Workshop.
+1. Run ```git clone https://github.com/FreddyYJ/TF2-Korean.git```.
+2. Go to ```<Current Directory>/TF2-Korean```.
+3. Copy ```fonts``` to ```<Steam Installed Directory>/stramapps/common/Transport Fever 2/res```.
+4. Copy ```ko``` to ```<Steam Installed Directory>/stramapps/common/Transport Fever 2/res/strings```.
+5. Run game, and change language to Korean in setting.
+* Normally, <Steam Installed Directory> is:
+```C:\Program files(x86)\Steam``` or ```D:\SteamLibrary``` for Windows,
+and ```~/.steam/steam``` for Linux.
+If you set custom path when installing game, it will in there.
+
+### Improvement translation
+I don't get any request from personal way(i.e. E-Mail, etc.).
+If you want to improve translation, follow the below.
+#### Setting Environment
+1. Run ```git clone https://github.com/FreddyYJ/TF2-Korean.git```.
+2. Run ```git branch <Branch Name>```. <Branch Name> can be anything that using English.(Korean, Special Character except -/_ , Space not allowed)
+3. Run ```git checkout <Branch Name>```.
+4. Run ```git push -u origin <Branch Name>```.
+5. Install Poedit. Official Download: https://poedit.net/download
+#### Translating
+1. Edit ```<Current Directory>/TF2-Korean/ko/LC_MESSAGES/base.po``` and ```<Current Directory>/TF2-Korean/ko/LC_MESSAGES/res.po``` with Poedit.
+2. Save and close Poedit.
+3. Come back to ```<Current Directory>/TF2-Korean```.
+4. Run ```git add *```.
+5. Run ```git commit -m "<Commit Title>"```. <Commit Title> can be anything, but English only is recommended. It can include Space.
+6. Run ```git push```.
+7. Do 1~6 anytime.
+* Caution: Don't edit except base.po and res.po.
+#### Request
+You should 'Request' to merge your translation.
+1. Get in current page.
+2. Press 'Pull Requests' in upper side of the page.
+3. Press 'New Pull Request' that is green button.
+4. Set 'base' to 'master', and set compare to <Branch Name>.
+5. Wait until 'Create Pull Request' button activated, and press it.
+It's done, now I will see your translation and merge if is ok.
