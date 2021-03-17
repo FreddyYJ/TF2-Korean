@@ -45,7 +45,7 @@ Linux는 ```~/.steam/steam```입니다.
 3. 초록색 버튼 New Pull Request를 누른다.
 4. base를 master로, compare를 <이름>으로 설정한다.
 5. 잠시 기다린 후 초록색 버튼 Create Pull Request를 누른다.
-여기까지 하면 제가 보고, 반영할지 판단하여 반영할 것입니다.
+* 여기까지 하면 제가 보고, 반영할지 판단하여 반영할 것입니다.
 
 ## 영어/English
 This is english Readme, same with Korean one.
@@ -93,4 +93,4 @@ You should 'Request' to merge your translation.
 3. Press 'New Pull Request' that is green button.
 4. Set 'base' to 'master', and set compare to <Branch Name>.
 5. Wait until 'Create Pull Request' button activated, and press it.
-It's done, now I will see your translation and merge if is ok.
+* It's done, now I will see your translation and merge if is ok.
