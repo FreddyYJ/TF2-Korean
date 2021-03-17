@@ -15,6 +15,10 @@ There's english ReadMe under the Korean one.
 3. ```fonts```를 ```<스팀 설치 디렉터리>/stramapps/common/Transport Fever 2/res```로 복사한다.
 4. ```ko```를 ```<스팀 설치 디렉터리>/stramapps/common/Transport Fever 2/res/strings```로 복사한다.
 5. 게임을 실행하고 설정에서 언어를 Korean으로 바꾼다.
+* 일반적으로 <스팀 설치 디렉터리>의 경우
+Windows는 ```C:\Program files(x86)\Steam``` 혹은 ```D:\SteamLibrary```이고,
+Linux는 ```~/.steam/steam```입니다.
+게임 설치시 다른 경로를 설정하였다면 그 경로에 있을 것입니다.
 
 ### 번역 개선
 개인적인 수단(이메일 등)으로 번역 개선 요청은 받지 않습니다.
