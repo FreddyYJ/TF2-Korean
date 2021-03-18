@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-14 12:35+0100\n"
-"PO-Revision-Date: 2021-03-17 17:00+0900\n"
+"PO-Revision-Date: 2021-03-18 17:04+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -1950,7 +1950,7 @@ msgid "Industries"
 msgstr "산업시설"
 
 msgid "Industries report following problems:"
-msgstr "산업 시설이 문제 보고함:"
+msgstr "산업 시설에서 문제 발견:"
 
 msgid "Industry"
 msgstr "산업"
@@ -2172,7 +2172,7 @@ msgid "Lines passing:"
 msgstr "정차하는 노선:"
 
 msgid "Lines report following problems:"
-msgstr "노선에 문제가 있습니다:"
+msgstr "노선에서 문제 발견:"
 
 #, fuzzy
 msgid "Liquidity"
@@ -3449,571 +3449,593 @@ msgid "Show/hide data layers menu"
 msgstr "데이터 레이어 메뉴 보기/감추기"
 
 msgid "Show/hide destinations layer"
-msgstr "Reiseziel-Layer ein- oder ausblenden"
+msgstr "목적지 레이어 보기/감추기"
 
 msgid "Show/hide emission layer"
-msgstr "Emissions-Layer ein- oder ausblenden"
+msgstr "공해 레이어 보기/감추기"
 
 msgid "Show/hide industry statistics"
-msgstr "Industriestatistiken ein- oder ausblenden"
+msgstr "산업 통계 보기/감추기"
 
 msgid "Show/hide land use layer"
-msgstr "Landnutzungs-Layer ein- oder ausblenden"
+msgstr "토지 사용 레이어 보기/감추기"
 
 msgid "Show/hide landscaping menu"
-msgstr "Zeige Landschaftsbaumenü"
+msgstr "조경 메뉴 보기/감추기"
 
 msgid "Show/hide line manager"
-msgstr "Zeige Linienmanager"
+msgstr "노선 관리 보기/감추기"
 
 msgid "Show/hide line statistics"
-msgstr "Linienstatistiken ein- oder ausblenden"
+msgstr "노선 통계 보기/감추기"
 
 msgid "Show/hide music player"
-msgstr "Musikplayer ein- oder ausblenden"
+msgstr "음악 플레이어 보기/감추기"
 
 msgid "Show/hide navigable waters layer"
-msgstr "Schiffbare-Gewässer-Layer ein- oder ausblenden"
+msgstr "경로로 사용할 수 있는 물 레이어 보기/감추기"
 
 msgid "Show/hide rail buildings menu"
-msgstr "Zeige Baumenü Eisenbahn-Gebäude"
+msgstr "철도 건물 메뉴 보기/감추기"
 
 msgid "Show/hide rail menu"
-msgstr "Zeige Baumenü Eisenbahn"
+msgstr "철도 메뉴 보기/감추기"
 
 msgid "Show/hide road buildings menu"
-msgstr "Zeige Baumenü Strassen-Gebäude"
+msgstr "도로 건물 메뉴 보기/감추기"
 
 msgid "Show/hide road menu"
-msgstr "Zeige Baumenü Strassenverkehr"
+msgstr "도로 메뉴 보기/감추기"
 
 msgid "Show/hide station statistics"
-msgstr "Stationsstatistiken ein- oder ausblenden"
+msgstr "역 통계 보기/감추기"
 
 msgid "Show/hide stations layer"
-msgstr "Stationen-Layer ein- oder ausblenden"
+msgstr "역 레이어 보기/감추기"
 
 msgid "Show/hide statistics window"
-msgstr "Statistikfenster ein- oder ausblenden"
+msgstr "통계 창 보기/감추기"
 
 msgid "Show/hide street builder menu"
-msgstr "Zeige Baumenü Strassen"
+msgstr "도로 건설 메뉴 보기/감추기"
 
 msgid "Show/hide street builder menu (curved mode)"
-msgstr "Zeige Baumenü Strassen (gebogen)"
+msgstr "도로 건설 메뉴 보기/감추기(곡선 모드)"
 
 msgid "Show/hide street builder menu (straight mode)"
-msgstr "Zeige Baumenü Strassen (gerade)"
+msgstr "도로 건설 메뉴 보기/감추기(직선 모드)"
 
 msgid "Show/hide street builder menu (upgrade mode)"
-msgstr "Zeige Baumenü Strassenverbesserungen"
+msgstr "도로 건설 메뉴 보기/감추기(업그레이드 모드)"
 
+#, fuzzy
 msgid "Show/hide street constructions menu"
-msgstr "Zeige Baumenü Strassen-Konstruktionen"
+msgstr "도로 건설 메뉴 보기/감추기"
 
+#, fuzzy
 msgid "Show/hide street modification tools menu"
-msgstr "Zeige Baumenü Strassen-Modifier"
+msgstr "도로 변형 도구 보기/감추기"
 
 msgid "Show/hide street traffic layer"
-msgstr "Strassenverkehrs-Layer ein- oder ausblenden"
+msgstr "도로 교통량 레이어 보기/감추기"
 
 msgid "Show/hide street waypoints menu"
-msgstr "Zeige Baumenü Strassen-Wegpunkte"
+msgstr "도로 웨이포인트 메뉴 보기/감추기"
 
 msgid "Show/hide streets menu"
-msgstr "Zeige Baumenü Strassen"
+msgstr "도로 메뉴 보기/감추기"
 
 msgid "Show/hide terrain paint tools menu"
-msgstr "Zeige Baumenü Terrain-Mal-Tools"
+msgstr "지표면 색칠 도구 메뉴 보기/감추기"
 
 msgid "Show/hide terrain tools menu"
-msgstr "Zeige Baumenü Terrain-Werkzeuge"
+msgstr "지표면 도구 메뉴 보기/감추기"
 
 msgid "Show/hide town statistics"
-msgstr "Stadtstatistiken ein- oder ausblenden"
+msgstr "마을 통계 보기/감추기"
 
 msgid "Show/hide track builder menu"
-msgstr "Zeige Baumenü Gleise"
+msgstr "선로 건설 메뉴 보기/감추기"
 
 msgid "Show/hide track builder menu (upgrade mode)"
-msgstr "Zeige Baumenü Gleis-Verbesserungen"
+msgstr "선로 건설 메뉴 보기/감추기(업그레이드 모드)"
 
+#, fuzzy
 msgid "Show/hide track modification tools menu"
-msgstr "Zeige Baumenü Gleis-Modifier"
+msgstr "선로 변형 도구 메뉴 보기/감추기"
 
 msgid "Show/hide track signals menu"
-msgstr "Zeige Baumenü Gleis-Signale"
+msgstr "선로 신호기 메뉴 보기/감추기"
 
 msgid "Show/hide track speed limits layer"
-msgstr "Geschwindigkeitslimits-Layer ein- oder ausblenden"
+msgstr "선로 속도 제한 레이어 보기/감추기"
 
 msgid "Show/hide track waypoints menu"
-msgstr "Zeige Baumenü Gleis-Wegpunkte"
+msgstr "선로 웨이포인트 메뉴 보기/감추기"
 
 msgid "Show/hide tracks menu"
-msgstr "Zeige Baumenü Schienen"
+msgstr "선로 메뉴 보기/감추기"
 
 msgid "Show/hide vehicle manager"
-msgstr "Fahrzeugmanager ein- oder ausblenden"
+msgstr "차량 관리 보기/감추기"
 
 msgid "Show/hide vehicle statistics"
-msgstr "Fahrzeugstatistiken ein- oder ausblenden"
+msgstr "차량 통계 보기/감추기"
 
 msgid "Show/hide warnings window"
-msgstr "Warnungen ein- oder ausblenden"
+msgstr "경고창 보기/감추기"
 
 msgid "Show/hide water buildings menu"
-msgstr "Zeige Baumenü Schifffahrt"
+msgstr "선박 건물 메뉴 보기/감추기"
 
 msgid "Show/hide water menu"
-msgstr "Zeige Wasserbaumenü"
+msgstr "선박 메뉴 보기/감추기"
 
 msgid "Signal #{number}"
-msgstr "Signal #{number}"
+msgstr "{number}번 신호기"
 
 msgid "Signals"
-msgstr "Signale"
+msgstr "신호기"
 
 msgid "Signals must be removed first"
-msgstr "Signale müssen zuerst entfernt werden"
+msgstr "신호기 제거 필요"
 
+#, fuzzy
 msgid "Single"
-msgstr "Einzeln"
+msgstr "혼자"
 
 msgid "Size"
-msgstr "Grösse"
+msgstr "크기"
 
 msgid "Skip collision"
-msgstr "Kollisionen ignorieren"
+msgstr "충돌 건너뛰기"
 
 msgid "Sky"
-msgstr "Himmel"
+msgstr "하늘"
 
 msgid "Slope threshold"
-msgstr "Steigungsgrenzwert"
+msgstr "경사 임계점"
 
 msgid "Small"
-msgstr "Klein"
+msgstr "소형"
 
 msgid "Smooth the terrain."
-msgstr "Das Gelände glätten."
+msgstr "지표면을 부드럽게 합니다."
 
 msgid "Smooth tool"
-msgstr "Glättungstool"
+msgstr "부드러운 지표면 도구"
 
 msgid ""
 "Some DLCs and/or mods could not be found. Please install them first in order "
 "to load this savegame."
 msgstr ""
-"Einige DLCs und/oder Mods konnten nicht gefunden werden. Bitte installiere "
-"diese zuerst, um den Spielstand zu laden."
+"DLC 혹은 모드를 찾을 수 없습니다. 이 저장된 게임을 불러오기 전에 먼저 설치하"
+"세요."
 
 msgid "Some cargo items are lost because station is overloaded."
-msgstr ""
-"Einige Güter-Einheiten gehen verloren, weil die Station überlastet ist."
+msgstr "역이 과부하되어 일부 화물이 분실됩니다."
 
 msgid "Some passengers leave because station is overloaded."
-msgstr "Einige Passagiere verlassen die Station, da diese überlastet ist."
+msgstr "역이 과부하되어 일부 승객들이 떠납니다."
 
 msgid "Sound effects"
-msgstr "Soundeffekte"
+msgstr "효과음"
 
+#, fuzzy
 msgid "Source"
-msgstr "Quelle"
+msgstr "소스"
 
 msgid "Spawning animals..."
-msgstr "Erstelle Tiere..."
+msgstr "동물 생성중..."
 
+#, fuzzy
 msgid "Specify vehicle"
-msgstr "Fahrzeug wählen"
+msgstr "차량을 지정하세요"
 
 msgid "Speed"
-msgstr "Geschwindigkeit"
+msgstr "속도"
 
 msgid "Speed of light"
-msgstr "Lichtgeschwindigkeit"
+msgstr "빛의 속도"
 
+#, fuzzy
 msgid "Speed units"
-msgstr "Geschwindigkeitseinheit"
+msgstr "속도 설정"
 
 msgid "Speed: 1x"
-msgstr "Geschwindigkeit: 1x"
+msgstr "속도: 1x"
 
 msgid "Speed: 2x"
-msgstr "Geschwindigkeit: 2x"
+msgstr "속도: 2x"
 
 msgid "Speed: 4x"
-msgstr "Geschwindigkeit: 4x"
+msgstr "속도: 4x"
 
 msgid "Start"
-msgstr "Start"
+msgstr "시작"
 
 msgid "Start a new game"
-msgstr "Neues Spiel beginnen"
+msgstr "새 게임 시작"
 
 msgid "Start mission"
-msgstr "Mission starten"
+msgstr "미션 시작"
 
 msgid "Start preview"
-msgstr "Vorschau starten"
+msgstr "미리보기 시작"
 
 msgid "Start recording"
-msgstr "Aufnahme starten"
+msgstr "녹화 시작"
 
 msgid "Start the game"
-msgstr "Spiel starten"
+msgstr "게임 시작"
 
 msgid "Start upload"
-msgstr "Starte Upload"
+msgstr "업로드 시작"
 
 msgid "Start year:"
-msgstr "Startjahr:"
+msgstr "시작 연도:"
 
 msgid "Station"
-msgstr "Bahnhof"
+msgstr "역"
 
 msgid "Station %1% appears consecutively twice"
-msgstr "Haltestelle %1% ist zweimal hintereinander aufgeführt"
+msgstr "역 %1%이(가) 연속으로 배치되었습니다"
 
 msgid "Station appears consecutively twice"
-msgstr "Eine Haltestelle ist zweimal hintereinander aufgeführt"
+msgstr "역이 연속으로 배치되었습니다"
 
 msgid "Station statistics"
-msgstr "Stationsstatistik"
+msgstr "역 통계"
 
 msgid "Station types don't match (e.g. bus stop and train station)"
-msgstr ""
-"Haltestellentypen passen nicht zusammen (z.B. Bushaltestelle und Bahnhof)"
+msgstr "역 종류 다름 (예: 버스 정류장과 기차역)"
 
 msgid "Stations"
-msgstr "Stationen"
+msgstr "역"
 
 msgid "Stations layer"
-msgstr "Stationen"
+msgstr "역 레이어"
 
 msgid "Stations report the following problems:"
-msgstr "Stationen melden folgende Probleme:"
+msgstr "역에서 문제 발견:"
 
+#, fuzzy
 msgid "Steam"
-msgstr "Dampf"
+msgstr "증기"
 
 msgid "Steam API init failed"
-msgstr "Steam API Initialisierung fehlgeschlagen"
+msgstr "스팀 API 초기화 실패"
 
 msgid "Steam Train"
-msgstr "Dampfzug"
+msgstr "증기 열차"
 
 msgid "Steam Workshop"
-msgstr "Steam Workshop"
+msgstr "스팀 Workshop"
 
 msgid "Stocks"
-msgstr "Bestände"
+msgstr "재고"
 
+#, fuzzy
 msgid "Stop"
-msgstr "Anhalten"
+msgstr "정지"
 
 msgid "Stop #{number}"
-msgstr "Haltestelle #{number}"
+msgstr "정류장 #{number}"
 
 msgid "Stop can not be used with current vehicles"
-msgstr "Haltestelle kann mit den vorhandenen Fahrzeugen nicht benutzt werden"
+msgstr "정류장을 현재 차량이 사용할 수 없습니다"
 
 msgid "Stop preview"
-msgstr "Vorschau stoppen"
+msgstr "미리보기 정지"
 
 msgid "Stopped"
-msgstr "Angehalten"
+msgstr "정지함"
 
 msgid "Stopping"
-msgstr "Halte an"
+msgstr "정지중"
 
 msgid "Stops must be removed first"
-msgstr "Haltestellen müssen zuerst entfernt werden"
+msgstr "정류장을 먼저 제거해야 합니다"
 
+#, fuzzy
 msgid "Stored"
-msgstr "Im Lager"
+msgstr "저장됨"
 
 msgid "Straight"
-msgstr "Gerade"
+msgstr "직선"
 
+#, fuzzy
 msgid "Street constructions"
-msgstr "Strassen-Konstruktionen"
+msgstr "도로 건설"
 
+#, fuzzy
 msgid "Street modification tools"
-msgstr "Strassenmodifizierungstools"
+msgstr "도로 변형 도구"
 
 msgid "Street traffic layer"
-msgstr "Strassenverkehr"
+msgstr "도로 신호등 레이어"
 
 msgid "Streets"
-msgstr "Strassen"
+msgstr "도로"
 
+#, fuzzy
 msgid "Strength"
-msgstr "Stärke"
+msgstr "강도"
 
+#, fuzzy
 msgid "Subtitle {num}"
-msgstr "Untertitel {num}"
+msgstr "부제목 {num}"
 
 msgid "Subtitles"
-msgstr "Untertitel"
+msgstr "부제목"
 
 msgid "Successfully connected all stations"
-msgstr "Haltestellen erfolgreich miteinander verbunden"
+msgstr "모든 역 연결 성공"
 
 msgid "Suppliers"
-msgstr "Lieferanten"
+msgstr "공급처"
 
 msgid "Supply"
-msgstr "Versorgung"
+msgstr "공급"
 
+#, fuzzy
 msgid "Supply rating"
-msgstr "Nachschubbewertung"
+msgstr "공급 점수"
 
 msgid "Table"
-msgstr "Tabelle"
+msgstr "표"
 
 msgid "Tag(s):"
-msgstr "Tag(s):"
+msgstr "태그:"
 
 msgid "Tags"
-msgstr "Tags"
+msgstr "태그"
 
+#, fuzzy
 msgid "Target population"
-msgstr "Einwohnerzahl-Ziel"
+msgstr "목표 인구수"
 
 msgid "Task completed"
-msgstr "Aufgabe abgeschlossen"
+msgstr "과제 완료"
 
 msgid "Tasks"
-msgstr "Aufgaben"
+msgstr "과제"
 
 msgid "Team"
-msgstr "Team"
+msgstr "팀"
 
 msgid "Terminal %1%"
-msgstr "Terminal %1%"
+msgstr "터미널 %1%"
 
 msgid "Terminals"
-msgstr "Terminals"
+msgstr "터미널"
 
 msgid "Terrain"
-msgstr "Gelände"
+msgstr "지표면"
 
 msgid "Terrain tools"
-msgstr "Terrain-Tools"
+msgstr "지표면 도구"
 
 msgid "Text"
-msgstr "Text"
+msgstr "텍스트"
 
 msgid "Textures"
-msgstr "Texturen"
+msgstr "질감"
 
 msgid "The condition of %1% is very poor."
-msgstr "Der Zustand von %1% ist sehr schlecht."
+msgstr "%1%의 상태가 매우 나쁩니다."
 
 msgid "The condition of multiple vehicles is very poor."
-msgstr "Der Zustand von mehreren Fahrzeugen ist sehr schlecht."
+msgstr "여러 차량들의 상태가 매우 나쁩니다."
 
 msgid "The existing Steam Workshop item will be updated"
-msgstr "Das existierende Objekt im Steam Workshop wird aktualisiert"
+msgstr "설치된 스팀 Workshop이 업데이트될 것입니다"
 
 msgid "The future is now, old man"
-msgstr "The future is now, old man"
+msgstr "미래는 바로 지금이라고, 늙은이"
 
 msgid "The heightmap \"%1%\" already exists. Do you want to overwrite it?"
-msgstr "Die Heightmap \"%1%\" existiert bereits. Willst du sie überschreiben?"
+msgstr "맵 \"%1%\"이 이미 존재합니다. 덮어쓰시겠습니까?"
 
+#, fuzzy
 msgid "The initial size of %1%"
-msgstr "Die Anfangsgrösse von %1%"
+msgstr "%1%의 초기 크기"
 
 msgid "The king of the sea"
-msgstr "König der Meere"
+msgstr "바다의 제왕"
 
 msgid "The number of jobs in %1%"
-msgstr "Die verfügbaren Arbeitsplätze in %1%"
+msgstr "%1%의 일자리 수"
 
 msgid "The number of residents in %1% is growing"
-msgstr "Die Einwohnerzahl von %1% ist steigend"
+msgstr "%1%의 주민이 증가하고 있습니다"
 
 msgid "The number of residents in %1% is shrinking"
-msgstr "Die Einwohnerzahl von %1% ist abnehmend"
+msgstr "%1%의 주민이 감소하고 있습니다"
 
 msgid "The number of residents in %1% is stable"
-msgstr "Die Einwohnerzahl von %1% ist stabil"
+msgstr "%1%의 주민 수가 유지되고 있습니다"
 
 msgid "The number of shopping facilities in %1%"
-msgstr "Anzahl Einkaufsmöglichkeiten in %1%"
+msgstr "%1%의 상점의 수"
 
 msgid "The number or residents %1% will grow/shrink to"
-msgstr "Die Einwohnerzahl, auf die %1% wachsen/schrumpfen wird"
+msgstr "%1%의 주민 변화량 예측:"
 
 msgid "The savegame \"%1%\" already exists. Do you want to overwrite it?"
-msgstr "Der Spielstand \"%1%\" existiert bereits. Willst Du ihn überschreiben?"
+msgstr "저장된 게임 \"%1%\"이 이미 존재합니다. 덮어쓰시겠습니까?"
 
+#, fuzzy
 msgid "The total growth"
-msgstr "Das Wachstumstotal"
+msgstr "총 성장률"
 
 msgid "The ugly smell of success"
-msgstr "Schlechte Nebeneffekte"
+msgstr "성공의 더러운 냄새"
 
+#, fuzzy
 msgid "There are %1% vehicles to be replaced"
-msgstr "Es gibt %1% zu ersetzende Fahrzeuge"
+msgstr "%1%대의 차량이 교체될 것입니다"
 
 msgid "There are no warnings!"
-msgstr "Keine Warnungen!"
+msgstr "아무 경고도 없습니다!"
 
+#, fuzzy
 msgid "There is one vehicle to be replaced"
-msgstr "Es gibt ein zu ersetzendes Fahrzeug"
+msgstr "1대의 차량이 교체될 것입니다"
 
 msgid ""
 "This mod's format is deprecated. Please contact the author to obtain an up-"
 "to-date version."
 msgstr ""
-"Das Format dieser Mod ist veraltet. Bitte kontaktiere den Autor, um eine "
-"aktuelle Version zu erhalten."
+"이 모드의 형식은 더 이상 사용하지 않습니다. 제작자에게 연락하여 최신 버전으"
+"로 업그레이드하도록 요청하세요."
 
 msgid "This setting can only be changed in the main menu"
-msgstr "Diese Einstellung kann nur im Hauptmenu geändert werden"
+msgstr "이 설정은 메인 메뉴에서만 바꿀 수 있습니다"
 
 msgid "This warning can be deactivated in the settings Advanced tab."
-msgstr ""
-"Diese Warnung kann in den Einstellungen im Erweitert-Tab deaktiviert werden."
+msgstr "이 경고는 설정의 고급 탭에서 비활성화할 수 있습니다."
 
+#, fuzzy
 msgid "Thrust"
-msgstr "Schub"
+msgstr "밀기"
 
+#, fuzzy
 msgid "Tickets"
-msgstr "Tickets"
+msgstr "표"
 
 msgid "Time"
-msgstr "Zeit"
+msgstr "시간"
 
+#, fuzzy
 msgid "Time scale"
-msgstr "Zeitrahmen"
+msgstr "시간 범위"
 
 msgid "To Desktop"
-msgstr "Zum Desktop"
+msgstr "데스크탑으로"
 
 msgid "To main menu"
-msgstr "Ins Hauptmenü zurückkehren"
+msgstr "메인 메뉴로"
 
+#, fuzzy
 msgid "Today, {time}"
-msgstr "Heute {time}"
+msgstr "오늘, {time}"
 
 msgid "Toggle camera positions with <Page Up> and <Page Down> keys"
-msgstr ""
-"Kameraposition kann mit Tasten <Page Up> und <Page Down> geändert werden"
+msgstr "<Page Up> 과 <Page Down>키로 카메라 위치를 변경하세요"
 
+#, fuzzy
 msgid "Toggle precedence"
-msgstr "Vortritt ein/aus"
+msgstr "우선 순위 토글"
 
 msgid "Toggle traffic light"
-msgstr "Mit/ohne Strassenampeln"
+msgstr "도로 신호등 토글"
 
 msgid "Too much curvature"
-msgstr "Krümmung zu gross"
+msgstr "곡선이 너무 많음"
 
 msgid "Too much slope"
-msgstr "Steigung zu gross"
+msgstr "경사가 너무 심함"
 
 msgid "Top length (rail)"
-msgstr "Max. Länge (Züge)"
+msgstr "최대 높이(철도)"
 
 msgid "Top speed"
-msgstr "Höchstgeschwindigkeit"
+msgstr "최대 속도"
 
 msgid "Top speed for slopes:"
-msgstr "Höchstgeschwindigkeit in Steigungen:"
+msgstr "경사로에서 최대 속도:"
 
 msgid "Total"
-msgstr "Gesamt"
+msgstr "총합"
 
 msgid "Total bridges"
-msgstr "Brücken gesamt"
+msgstr "다리 총합"
 
 msgid "Total electrified"
-msgstr "Gleise elektrifiziert"
+msgstr "전철화 총합"
 
 msgid "Total growth: %1% residents"
-msgstr "Gesamtwachstum: %1% Einwohner"
+msgstr "총 성장: %1%명의 주민"
 
 msgid "Total high-speed"
-msgstr "Hochgeschwindigkeitsgleise"
+msgstr "고속선 총합"
 
 msgid "Total length of train is %s"
-msgstr "Gesamte Zuglänge ist %s"
+msgstr "열차의 총 길이는 %s입니다"
 
 msgid "Total tracks"
-msgstr "Gleise gesamt"
+msgstr "선로 총합"
 
 msgid "Total tunnels"
-msgstr "Tunnel gesamt"
+msgstr "터널 총합"
 
 msgid "Town"
-msgstr "Stadt"
+msgstr "마을"
 
 msgid ""
 "Town authorities complain about following interrupted street connections:"
-msgstr "Die Behörden reklamieren über die getrennten Strassenverbindungen:"
+msgstr "도로 연결 문제로 마을 주민들이 불만을 제기합니다:"
 
 msgid "Town builder"
-msgstr "Stadtbau-Tool"
+msgstr "마을 건설"
 
 msgid "Town statistics"
-msgstr "Städtestatistik"
+msgstr "마을 통계"
 
 msgid "Towns"
-msgstr "Städte"
+msgstr "마을"
 
 msgid "Towns/industries"
-msgstr "Städte/Industrien"
+msgstr "마을/산업시설"
 
 msgid "Track modification tool"
-msgstr "Gleismodifizierungstool"
+msgstr "선로 변형 도구"
 
 msgid "Track modification tools"
-msgstr "Gleismodifizierungstools"
+msgstr "선로 변형 도구"
 
 msgid "Track speed limits layer"
-msgstr "Geschwindigkeitslimits"
+msgstr "선로 속도 제한 레이어"
 
 msgid "Tracks"
-msgstr "Gleise"
+msgstr "선로"
 
 msgid "Tractive effort"
-msgstr "Zugkraft"
+msgstr "견인력"
 
 msgid "Traffic"
-msgstr "Verkehr"
+msgstr "교통"
 
 msgid "Traffic lights"
-msgstr "Verkehrsampeln"
+msgstr "도로 신호등"
 
 msgid "Train"
 msgid_plural "Trains"
-msgstr[0] "Zug"
+msgstr[0] "기차"
 
+#, fuzzy
 msgid "Train Fever"
-msgstr "Train Fever"
+msgstr "기차 과열"
 
 msgid "Train depot"
-msgstr "Zugdepot"
+msgstr "열차 차고"
 
 msgid "Train does not have a locomotive"
-msgstr "Zug hat keine Lokomotive"
+msgstr "열차에 기관차가 없습니다"
 
 msgid "Train {number}"
-msgstr "Zug {number}"
+msgstr "열차 {number}"
 
 msgid "Trains"
-msgstr "Züge"
+msgstr "열차"
 
 msgid "Trains mutually blocked"
-msgstr "Züge blockieren sich gegenseitig"
+msgstr "열차가 서로 막고 있습니다"
 
 msgid "Tram"
 msgid_plural "Trams"
-msgstr[0] "Tram"
+msgstr[0] "트램"
 
 msgid "Tram depot"
 msgstr "Tramdepot"
