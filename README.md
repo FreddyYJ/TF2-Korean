@@ -63,7 +63,7 @@ Our final purpose is to make at Mod, and upload in Steam Workshop.
 3. Copy ```fonts``` to ```<Steam Installed Directory>/stramapps/common/Transport Fever 2/res```.
 4. Copy ```ko``` to ```<Steam Installed Directory>/stramapps/common/Transport Fever 2/res/strings```.
 5. Run game, and change language to Korean in setting.
-* Normally, <Steam Installed Directory> is:
+* Normally, ```<Steam Installed Directory>``` is:
 ```C:\Program files(x86)\Steam``` or ```D:\SteamLibrary``` for Windows,
 and ```~/.steam/steam``` for Linux.
 If you set custom path when installing game, it will in there.
