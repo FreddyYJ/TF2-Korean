@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-14 12:35+0100\n"
-"PO-Revision-Date: 2021-03-18 17:04+0900\n"
+"PO-Revision-Date: 2021-03-19 10:33+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -4038,387 +4038,400 @@ msgid_plural "Trams"
 msgstr[0] "트램"
 
 msgid "Tram depot"
-msgstr "Tramdepot"
+msgstr "트램 차고"
 
 msgid "Tram track"
-msgstr "Tramgleis"
+msgstr "트램 선로 "
 
 msgid "Tram track tool"
-msgstr "Tramgleis-Tool"
+msgstr "트램 선로 도구"
 
 msgid "Tram {number}"
-msgstr "Tram {number}"
+msgstr "트램 {number}"
 
 msgid "Trams"
-msgstr "Trams"
+msgstr "트램"
 
 msgid "Trans-Siberian Railway"
-msgstr "Transsibirische Eisenbahn"
+msgstr "시베리아 횡단철도"
 
+#, fuzzy
 msgid "Transport"
-msgstr "Transport"
+msgstr "운송"
 
+#, fuzzy
 msgid "Transport belt"
-msgstr "Transportband"
+msgstr "운송 경로"
 
 msgid "Transport corporation"
-msgstr "Transportkonzern"
+msgstr "운송회사"
 
 msgid "Transport master"
-msgstr "Transport-Master"
+msgstr "운송의 마스터"
 
 msgid "Transport millionaire"
-msgstr "Transport-Millionär"
+msgstr "운송으로 백만장자"
 
 msgid "Transport shark"
-msgstr "Transport-Löwe"
+msgstr "운송의 맹수"
 
 msgid "Transport shark (Hard mode)"
-msgstr "Transport-Löwe (schwierig)"
+msgstr "운송의 맹수(어려움 모드)"
 
 msgid "Transport tycoon"
-msgstr "Transport-Tycoon"
+msgstr "운송의 거물"
 
 msgid "Transport tycoon (Hard mode)"
-msgstr "Transport-Tycoon (schwierig)"
+msgstr "운송의 거물(어려움 모드)"
 
 msgid "Transported"
-msgstr "Transportiert"
+msgstr "운송됨"
 
 msgid "Truck"
-msgstr "LKW"
+msgstr "트럭"
 
 msgid "Truck Fever"
-msgstr "Truck Fever"
+msgstr "트럭 과열"
 
+#, fuzzy
 msgid "Truck station"
-msgstr "LKW-Station"
+msgstr "트럭 화물역"
 
+#, fuzzy
 msgid "Try to fix problem automatically"
-msgstr "Versuchen, Problem automatisch zu beheben"
+msgstr "자동으로 문제 해결하기"
 
 msgid "Try to ship more items"
-msgstr "Versuche mehr Einheiten abzutransportieren"
+msgstr "더 많은 화물 운반을 시도합니다"
 
 msgid "Tunnel"
-msgstr "Tunnel"
+msgstr "터널"
 
 msgid "Turn music on"
-msgstr "Ton an"
+msgstr "음악 켜기"
 
 msgid "Type"
-msgstr "Typ"
+msgstr "종류"
 
 msgid "Types of stations %1% and %2% don't match"
-msgstr "Der Typ der Haltestellen %1% und %2% passt nicht zusammen"
+msgstr "%1%와(과) %2%의 종류가 맞지 않습니다"
 
 msgid "USA"
-msgstr "USA"
+msgstr "미국"
 
 msgid "Unable to align terrain"
-msgstr "Terrainangleichung nicht möglich"
+msgstr "지표면을 나란히 할 수 없습니다"
 
 msgid "Unable to find path to depot"
-msgstr "Weg zum Depot kann nicht gefunden werden"
+msgstr "차고로 가는 길을 찾을 수 없음"
 
 msgid "Unable to find path to stop"
-msgstr "Weg zur Haltestelle kann nicht gefunden werden"
+msgstr "정류장으로 가는 길을 찾을 수 없음"
 
 msgid "Unconnected streets"
-msgstr "Nicht verbundene Strassen"
+msgstr "연결되지 않은 도로"
 
 msgid "Unemployed"
-msgstr "Arbeitslos"
+msgstr "무직자"
 
 msgid "Unknown Entity"
-msgstr "Unbekanntes Ding"
+msgstr "알 수 없는 개체"
 
 msgid "Unload"
-msgstr "Entladen"
+msgstr "하차"
 
 msgid "Unload only"
-msgstr "Nur Entladen"
+msgstr "상차하지 않음"
 
 msgid "Unloaded"
-msgstr "Entladen"
+msgstr "하차됨"
 
 msgid "Unsubscribe"
-msgstr "Deabonnieren"
+msgstr "구독 해제"
 
+#, fuzzy
 msgid "Up"
-msgstr "Aufwärts"
+msgstr "위"
 
 msgid "Update"
-msgstr "Update"
+msgstr "업데이트"
 
 msgid "Upgrade"
-msgstr "Aufrüsten"
+msgstr "업그레이드"
 
 msgid "Upgrade streets with bus lanes."
-msgstr "Strassen mit Busspuren aufrüsten."
+msgstr "도로에 버스 전용 차로를 추가합니다."
 
 msgid "Upgrade streets with tram tracks."
-msgstr "Strassen mit Tramgleisen aufrüsten."
+msgstr "도로에 트램 선로를 추가합니다."
 
 msgid "Upgrade tracks for higher speeds."
-msgstr "Gleise für höhere Geschwindigkeiten aufrüsten."
+msgstr "선로를 고속화합니다."
 
 msgid "Upgrade tracks with catenary."
-msgstr "Gleise mit Oberleitung aufrüsten."
+msgstr "선로를 전철화합니다."
 
 msgid "Upload"
-msgstr "Hochladen"
+msgstr "업로드"
 
 msgid "Upload mod to Steam Workshop"
-msgstr "Mod im Steam Workshop veröffentlichen"
+msgstr "스팀 Workshop에 모드 업로드"
 
 msgid "Upload successful"
-msgstr "Hochladen erfolgreich"
+msgstr "업로드 성공"
 
 msgid "Upload to Steam Workshop"
-msgstr "Im Steam Workshop veröffentlichen"
+msgstr "스팀 Workshop에 업로드"
 
 msgid "Uploading..."
-msgstr "Lade hoch..."
+msgstr "업로딩중..."
 
 msgid "Upper {townName}"
-msgstr "Ober-{townName}"
+msgstr "북부 {townName}"
 
 msgid "Use <Alt> + <Enter> to toggle between full-screen and windowed mode."
-msgstr ""
-"Benutze <Alt> + <Enter>, um zwischen Vollbild und Fenstermodus umzuschalten."
+msgstr "전체 화면과 창모드를 전환하려면 <Alt> + <Enter>을 사용하세요."
 
+#, fuzzy
 msgid "Use default connections"
-msgstr "Standardverbindungen benutzen"
+msgstr "기본 연결 사용"
 
 msgid "Use hardware mouse cursor"
-msgstr "Hardware Mauszeiger"
+msgstr "하드웨어 마우스 커서 사용"
 
 msgid "Use the paint tool to change the terrain."
-msgstr "Verwende das Terrain-Mal-Werkzeug."
+msgstr "지표면을 바꾸려면 색칠 도구를 사용하세요."
 
 msgid "Use the terrain tool to change the terrain."
-msgstr "Verwende das Terrain-Werkzeug."
+msgstr "지표면을 바꾸려면 지표면 도구를 사용하세요."
 
 msgid "User profile creation failed"
-msgstr "Erstellung des Benutzerprofils fehlgeschlagen"
+msgstr "유저 프로필 생성 실패"
 
 msgid "Using the time control, go back in time."
-msgstr "Gehe mit der Zeitsteuerung zurück in der Zeit."
+msgstr "특정 시간으로 돌아가려면 시간 컨트롤을 사용하세요."
 
+#, fuzzy
 msgid "Vacant"
-msgstr "Frei"
+msgstr "공차"
 
+#, fuzzy
 msgid "Value"
-msgstr "Wert"
+msgstr "값"
 
 msgid "Vehicle"
-msgstr "Fahrzeug"
+msgstr "차량"
 
 msgid "Vehicle condition {percentage}%"
-msgstr "Fahrzeugzustand {percentage}%"
+msgstr "차량 상태: {percentage}%"
 
+#, fuzzy
 msgid "Vehicle in the way"
-msgstr "Fahrzeug im Weg"
+msgstr "차량 운행중"
 
 msgid "Vehicle lifetime"
-msgstr "Veraltete Fahrzeuge"
+msgstr "차량 수명"
 
 msgid "Vehicle lifetime check interval (minutes)"
-msgstr "Veraltete Fahrzeuge Prüfintervall (Minuten)"
+msgstr "차량 수명 확인 간격(분)"
 
 msgid "Vehicle manager"
-msgstr "Fahrzeugmanager"
+msgstr "차량 관리"
 
 msgid "Vehicle statistics"
-msgstr "Fahrzeugstatistik"
+msgstr "차량 통계"
 
 msgid "Vehicle store"
-msgstr "Verkaufsmenu"
+msgstr "차량 상점"
 
 msgid "Vehicle will be sold on arrival"
-msgstr "Fahrzeug wird bei Ankunft verkauft"
+msgstr "차량이 도착하면 판매될 것입니다"
 
 msgid "Vehicles"
-msgstr "Fahrzeuge"
+msgstr "차량"
 
 msgid "Vehicles on line"
-msgstr "Fahrzeuge auf der Linie"
+msgstr "노선에 배치된 차량"
 
 msgid "Vehicles report following problems:"
-msgstr "Fahrzeuge melden folgende Probleme:"
+msgstr "차량에서 문제 발견:"
 
 msgid "Very bad"
-msgstr "Sehr schlecht"
+msgstr "매우 나쁨"
 
 msgid "Very good"
-msgstr "Sehr gut"
+msgstr "매우 좋음"
 
 msgid "Very high"
-msgstr "Sehr hoch"
+msgstr "매우 높음"
 
 msgid "Very poor"
-msgstr "Sehr schlecht"
+msgstr "매우 나쁨"
 
 msgid "Video"
-msgstr "Video"
+msgstr "비디오"
 
+#, fuzzy
 msgid "View terms"
-msgstr "Geschäftsbedingungen ansehen"
+msgstr "간격 표시"
 
 msgid "Voice-over"
-msgstr "Sprachausgabe"
+msgstr "내레이션"
 
 msgid "Voice-over {num}"
-msgstr "Voice-over-Nr. {num}"
+msgstr "내레이션 {num}"
 
 msgid "Volume settings"
-msgstr "Lautstärkeeinstellungen"
+msgstr "볼륨 설정"
 
 msgid "Vulkan"
 msgstr "Vulkan"
 
 msgid "Wagons"
-msgstr "Wagen"
+msgstr "화차"
 
 msgid "Waiting for free path"
-msgstr "Warte auf freie Wege"
+msgstr "경로 확보 대기중"
 
 msgid "Warning: Make sure %1% is connected to the street network!"
-msgstr "Warnung: Stelle sicher, dass %1% ans Strassennetz angeschlossen ist!"
+msgstr "경고: %1%이(가) 도로 네트워크에 연결되어 있는지 확인하세요!"
 
 msgid "Warning: adding this mod may lead to unexpected results."
-msgstr "Warnung: das Hinzufügen dieser Mod kann unerwartete Ergebnisse haben."
+msgstr "경고: 이 모드를 추가하면 예상치 못한 결과가 발생할 수 있습니다."
 
 msgid "Warning: adding this mod will likely cause the game to crash."
-msgstr ""
-"Warnung: das Hinzufügen dieser Mod wird das Spiel wahrscheinlich zum Absturz "
-"bringen."
+msgstr "경고: 이 모드를 추가하면 게임이 크래쉬될 수 있습니다."
 
 msgid "Warning: removing this mod may lead to unexpected results."
-msgstr "Warnung: das Entfernen dieser Mod kann unerwartete Ergebnisse haben."
+msgstr "경고: 이 모드를 제거하면 예상치 못한 결과가 발생할 수 있습니다."
 
 msgid "Warning: removing this mod will likely cause the game to crash."
-msgstr ""
-"Warnung: das Entfernen dieser Mod wird das Spiel wahrscheinlich zum Absturz "
-"bringen."
+msgstr "경고: 이 모드를 제거하면 게임이 크래쉬될 수 있습니다."
 
 msgid "Warnings"
-msgstr "Warnungen"
+msgstr "경고"
 
+#, fuzzy
 msgid "Water"
-msgstr "Wasser"
+msgstr "물"
 
+#, fuzzy
 msgid "Water level:"
-msgstr "Wasserhöhe:"
+msgstr "물 깊이:"
 
 msgid "Waypoint #{number}"
-msgstr "Wegpunkt #{number}"
+msgstr "웨이포인트 #{number}"
 
 msgid "Waypoints"
-msgstr "Wegpunkte"
+msgstr "웨이포인트"
 
 msgid "Weight"
-msgstr "Gewicht"
+msgstr "무게"
 
 msgid "Weight %1% + %2% (Cargo)"
-msgstr "Gewicht %1% + %2% (Güter)"
+msgstr "무게 %1% + %2% (화물)"
 
+#, fuzzy
 msgid "Weight units"
-msgstr "Gewichtseinheit"
+msgstr "무게"
 
 msgid ""
 "When waiting for full load, depart after the specified period of inactivity"
-msgstr ""
-"Beim Vollladen bei Inaktivität nach der angegebenen Zeitspanne losfahren"
+msgstr "가득 찰 때까지 기다릴 때, 일정 시간 동안 아무 일도 없으면 출발합니다"
 
 msgid "Window settings"
-msgstr "Fenstereinstellungen"
+msgstr "창 설정"
 
 msgid "Windowed"
-msgstr "Fenster"
+msgstr "창모드"
 
+#, fuzzy
 msgid "With lines"
-msgstr "Mit öV"
+msgstr "노선으로"
 
+#, fuzzy
 msgid "Work"
-msgstr "Arbeit"
+msgstr "작업"
 
+#, fuzzy
 msgid "Workplaces"
-msgstr "Arbeitsplätze"
+msgstr "일자리"
 
 msgid "Write STL"
-msgstr "STL schreiben"
+msgstr "STL 쓰기"
 
 msgid "Write additional STL file with heightmap data"
-msgstr "Zusätzlich eine STL-Datei mit Höhendaten erstellen"
+msgstr "맵 데이터를 포함하여 STL파일 추가"
 
+#, fuzzy
 msgid "Wrong carrier"
-msgstr "Fahlscher Fahrzeugtyp"
+msgstr "잘못된 차량"
 
 msgid "Year built"
-msgstr "Baujahr"
+msgstr "생산 연도"
 
+#, fuzzy
 msgid "Yes"
-msgstr "Ja"
+msgstr "네"
 
 msgid "Yesterday, {time}"
-msgstr "Gestern {time}"
+msgstr "어제 {time}"
 
 msgid "You did it!"
-msgstr "Geschafft!"
+msgstr "해냈군요!"
 
 msgid "You have finished the {campaignName} campaign!"
-msgstr "Du hast die {campaignName} Kampagne erfolgreich abgeschlossen!"
+msgstr "캠페인 {campaignName}을(를) 완료했습니다!"
 
 msgid "You have finished {campaignName}"
-msgstr "Du hast {campaignName} abgeschlossen"
+msgstr "{campaignName}을(를) 완료했습니다"
 
 msgid "Zoom in to build"
-msgstr "Zoome näher um zu bauen"
+msgstr "건설하려면 확대"
 
+#, fuzzy
 msgid "Zoom out from cursor"
-msgstr "Vom Zeiger herauszoomen"
+msgstr "커서 기준으로 축소"
 
 msgid "Zoom to cursor"
-msgstr "Auf Zeiger zoomen"
+msgstr "커서로 확대"
 
 msgid "[UserData]/"
-msgstr "[BenutzerDaten]/"
+msgstr "[사용자 데이터]/"
 
 msgid "around {mission_year}"
-msgstr "um {mission_year}"
+msgstr "약 {mission_year}년"
 
 msgid "can not reach next"
 msgstr "Kann nächste Haltestelle nicht erreichen"
 
 msgctxt "destination"
 msgid "None"
-msgstr "Keines"
+msgstr "없음"
 
 msgctxt "difficulty"
 msgid "Easy"
-msgstr "Einfach"
+msgstr "쉬움"
 
 msgctxt "difficulty"
 msgid "Hard"
-msgstr "Schwierig"
+msgstr "어려움"
 
 msgctxt "difficulty"
 msgid "Medium"
-msgstr "Mittel"
+msgstr "보통"
 
 msgctxt "distance-unit"
 msgid "Feet"
-msgstr "Fuss"
+msgstr "피트"
 
 msgctxt "distance-unit"
 msgid "Mile"
-msgstr "Meile"
+msgstr "마일"
 
 msgctxt "distance-unit"
 msgid "Yard"
-msgstr "Yard"
+msgstr "야드"
 
 msgctxt "distance-unit"
 msgid "km"
@@ -4448,8 +4461,9 @@ msgctxt "force-unit"
 msgid "lbf"
 msgstr "lbf"
 
+#, fuzzy
 msgid "from %1%"
-msgstr "ab %1%"
+msgstr "%10% 부터"
 
 msgctxt "gameSpeed"
 msgid "1x"
@@ -4469,40 +4483,41 @@ msgstr "{townName}"
 
 msgctxt "mod-state"
 msgid "Built-in mods"
-msgstr "Built-in Mods"
+msgstr "내장 모드"
 
 msgctxt "mod-state"
 msgid "Staging area"
-msgstr "Staging area"
+msgstr "개발자가 추가한 모드"
 
 msgctxt "mod-state"
 msgid "Uploaded to Steam Workshop"
-msgstr "Im Steam Workshop veröffentlicht"
+msgstr "스팀 Workshop에서 업로드"
 
 msgctxt "mod-state"
 msgid "User mods"
-msgstr "Benutzer Mods"
+msgstr "사용자 모드"
 
 msgid "none"
-msgstr "keine"
+msgstr "없음"
 
+#, fuzzy
 msgid "not combinable"
-msgstr "nicht kombinierbar"
+msgstr "연결 불가"
 
 msgid "not reachable from previous"
 msgstr "Nicht erreichbar von der vorherigen Haltestelle"
 
 msgctxt "number-format"
 msgid "Full"
-msgstr "Lang"
+msgstr "모두"
 
 msgctxt "number-format"
 msgid "Short"
-msgstr "Kurz"
+msgstr "짧게"
 
 msgctxt "plural"
 msgid "Aircraft"
-msgstr "Flugzeuge"
+msgstr "항공기"
 
 msgctxt "power-unit"
 msgid "hp"
@@ -4514,47 +4529,47 @@ msgstr "kW"
 
 msgctxt "settings"
 msgid "Localization"
-msgstr "Lokalisierung"
+msgstr "언어"
 
 msgctxt "size"
 msgid "Huge"
-msgstr "Riesig"
+msgstr "거대"
 
 msgctxt "size"
 msgid "Large"
-msgstr "Gross"
+msgstr "대형"
 
 msgctxt "size"
 msgid "Medium"
-msgstr "Mittel"
+msgstr "보통"
 
 msgctxt "size"
 msgid "Megalomaniac"
-msgstr "Grössenwahnsinnig"
+msgstr "초대형"
 
 msgctxt "size"
 msgid "Small"
-msgstr "Klein"
+msgstr "소형"
 
 msgctxt "size"
 msgid "Tiny"
-msgstr "Winzig"
+msgstr "극소형"
 
 msgctxt "size"
 msgid "Very Large"
-msgstr "Sehr gross"
+msgstr "초대형"
 
 msgctxt "slope"
 msgid "Flat"
-msgstr "Flach"
+msgstr "수평"
 
 msgctxt "slope"
 msgid "High"
-msgstr "Steil"
+msgstr "심함"
 
 msgctxt "slope"
 msgid "Medium"
-msgstr "Mittel"
+msgstr "보통"
 
 msgctxt "speed-unit"
 msgid "km/h"
@@ -4566,75 +4581,75 @@ msgstr "mph"
 
 msgctxt "stats"
 msgid "Bulldozer"
-msgstr "Bulldozer"
+msgstr "불도저"
 
 msgctxt "stats"
 msgid "Depots"
-msgstr "Depots"
+msgstr "차고"
 
 msgctxt "stats"
 msgid "Other"
-msgstr "Sonstiges"
+msgstr "기타"
 
 msgctxt "stats"
 msgid "Roads"
-msgstr "Strassen"
+msgstr "도로"
 
 msgctxt "stats"
 msgid "Signals"
-msgstr "Signale"
+msgstr "신호기"
 
 msgctxt "stats"
 msgid "Stations"
-msgstr "Stationen"
+msgstr "역"
 
 msgctxt "stats"
 msgid "Tracks"
-msgstr "Fahrbahn"
+msgstr "선로"
 
 msgctxt "stop-name"
 msgid "{streetName}"
 msgstr "{streetName}"
 
 msgid "to %1%"
-msgstr "bis %1%"
+msgstr "%1%로"
 
 msgctxt "unemployed-persons"
 msgid "none"
-msgstr "keine"
+msgstr "없음"
 
 msgid "unknown error"
-msgstr "unbekannter Fehler"
+msgstr "알 수 없는 오류"
 
 msgid "unlimited"
-msgstr "unbeschränkt"
+msgstr "무제한"
 
 msgctxt "vacant-jobs"
 msgid "none"
-msgstr "keine"
+msgstr "없음"
 
 msgctxt "value"
 msgid "High"
-msgstr "Hoch"
+msgstr "높음"
 
 msgctxt "value"
 msgid "Low"
-msgstr "Niedrig"
+msgstr "낮음"
 
 msgctxt "value"
 msgid "Medium"
-msgstr "Mittel"
+msgstr "보통"
 
 msgctxt "value"
 msgid "Very high"
-msgstr "Sehr hoch"
+msgstr "매우 높음"
 
 msgctxt "value"
 msgid "Very low"
-msgstr "Sehr tief"
+msgstr "매우 낮음"
 
 msgid "via"
-msgstr "via"
+msgstr "경유"
 
 msgctxt "weight-unit"
 msgid "kg"
@@ -4652,17 +4667,18 @@ msgctxt "weight-unit"
 msgid "t/tonne"
 msgstr "t/Tonne"
 
+#, fuzzy
 msgid "{angle} deg field of view"
-msgstr "{angle}-Grad-Blickfeld"
+msgstr "시점이 이루는 각 {angle}도"
 
 msgid "{cargoType}: {loadSpeed}x"
 msgstr "{cargoType}: {loadSpeed}x"
 
 msgid "{costs} + {percentage}% (Maintenance)"
-msgstr "{costs} + {percentage}% (Unterhalt)"
+msgstr "{costs} + {percentage}% (정비)"
 
 msgid "{distance} ft"
-msgstr "{distance} ft"
+msgstr "{distance} 피트"
 
 msgid "{distance} km"
 msgstr "{distance} km"
@@ -4671,10 +4687,10 @@ msgid "{distance} m"
 msgstr "{distance} m"
 
 msgid "{distance} mi"
-msgstr "{distance} mi"
+msgstr "{distance} 마일"
 
 msgid "{distance} yd"
-msgstr "{distance} yd"
+msgstr "{distance} 야드"
 
 msgid "{force} kN"
 msgstr "{force} kN"
@@ -4695,60 +4711,58 @@ msgid "{loadSpeed}x"
 msgstr "{loadSpeed}x"
 
 msgid "{minutes} min"
-msgstr "{minutes} min"
+msgstr "{minutes}분"
 
 msgid "{minutes} min {seconds} s"
-msgstr "{minutes} min {seconds} s"
+msgstr "{minutes}분 {seconds}초"
 
 msgid "{min} - {max}"
 msgstr "{min} - {max}"
 
 msgid "{min} to {max}"
-msgstr "{min} bis {max}"
+msgstr "{min}에서 {max}"
 
 msgid "{mission_start_year} - {mission_end_year}"
 msgstr "{mission_start_year} - {mission_end_year}"
 
 msgid "{number} building will be moved"
 msgid_plural "{number} buildings will be moved"
-msgstr[0] "{number} Gebäude wird verschoben"
+msgstr[0] "{number} 건물이 이동될 것입니다"
 
 msgid "{number} building will be removed"
 msgid_plural "{number} buildings will be removed"
-msgstr[0] "{number} Gebäude wird entfernt"
+msgstr[0] "{number} 건물이 제거될 것입니다"
 
 msgid "{number} field will be removed"
 msgid_plural "{number} fields will be removed"
-msgstr[0] "{number} Feld wird entfernt"
+msgstr[0] "{number} 밭이 제거될 것입니다"
 
 msgid "{number} module will be removed"
 msgid_plural "{number} modules will be removed"
-msgstr[0] "{number} Modul wird entfernt"
+msgstr[0] "{number} 모둘이 제거될 것입니다"
 
 msgid "{num} mission"
 msgid_plural "{num} missions"
-msgstr[0] "{num} Mission"
+msgstr[0] "{num} 미션"
 
 msgid "{occupiedSlots} of {maxSlots}"
-msgstr "{occupiedSlots} von {maxSlots}"
+msgstr "{maxSlots} 중 {occupiedSlots} "
 
 msgid "{part}/{total}"
 msgstr "{part}/{total}"
 
 msgid "{percentage}% of lifetime ({years} remaining)"
-msgstr "{percentage}% der Lebensdauer ({years} verbleibend)"
+msgstr "수명 중 {percentage}% 경과 ({years}년 남음)"
 
 msgid "{percentage}% of {total}"
-msgstr "{percentage}% von {total}"
+msgstr "{total} 중 {percentage}%"
 
 msgid ""
 "{percent} overlength: travel time is {seconds1} s, {seconds2} s allowed!"
-msgstr ""
-"{percent} Überlänge: Die Reisezeit beträgt {seconds1} Sekunden, {seconds2} "
-"Sekunden sind erlaubt!"
+msgstr "{percent} 초과: 운행 시간은 {seconds1}인데, {seconds2}초만 가능합니다!"
 
 msgid "{power} hp"
-msgstr "{power} PS"
+msgstr "{power} 마력"
 
 msgid "{power} kW"
 msgstr "{power} kW"
@@ -4757,7 +4771,7 @@ msgid "{prefix}{rating}%"
 msgstr "{prefix}{rating}%"
 
 msgid "{seconds} s"
-msgstr "{seconds} s"
+msgstr "{seconds}초"
 
 msgid "{speed} km/h"
 msgstr "{speed} km/h"
@@ -4766,7 +4780,7 @@ msgid "{speed} mph"
 msgstr "{speed} mph"
 
 msgid "{steepness}: not enough power!"
-msgstr "{steepness}: nicht genug Leistung!"
+msgstr "{steepness}: 힘 부족!"
 
 msgid "{supply}/{demand}"
 msgstr "{supply}/{demand}"
@@ -4775,58 +4789,58 @@ msgid "{supply}/{demand} {iconToolTip}"
 msgstr "{supply}/{demand} {iconToolTip}"
 
 msgid "{townName} Airport"
-msgstr "{townName} Flughafen"
+msgstr "{townName} 공항"
 
 msgid "{townName} Annex"
-msgstr "{townName} Anbau"
+msgstr "{townName} 교외"
 
 msgid "{townName} Branch"
-msgstr "{townName} Abzweigung"
+msgstr "부 {townName}"
 
 msgid "{townName} Cargo"
-msgstr "{townName} Fracht"
+msgstr "{townName} 화물"
 
 msgid "{townName} Cargo Airport"
-msgstr "{townName} Frachtflughafen"
+msgstr "{townName} 화물 공항"
 
 msgid "{townName} Cargo Port"
-msgstr "{townName} Frachthafen"
+msgstr "{townName} 화물 항구"
 
 msgid "{townName} Central"
-msgstr "{townName} Zentrum"
+msgstr "중앙 {townName}"
 
 msgid "{townName} East"
-msgstr "{townName} Ost"
+msgstr "동{townName}"
 
 msgid "{townName} Exchange"
-msgstr "{townName} Abzweig"
+msgstr "{townName} 환승"
 
 msgid "{townName} Halt"
-msgstr "{townName} Haltepunkt"
+msgstr "{townName} 간이역"
 
 msgid "{townName} North"
-msgstr "{townName} Nord"
+msgstr "북{townName}"
 
 msgid "{townName} Port"
-msgstr "{townName} Hafen"
+msgstr "{townName}항"
 
 msgid "{townName} Sidings"
-msgstr "{townName} Nebengleis"
+msgstr "{townName} 옆"
 
 msgid "{townName} Signal #{number}"
-msgstr "Signal {townName} #{number}"
+msgstr "{townName}신호등 #{number}"
 
 msgid "{townName} South"
-msgstr "{townName} Süd"
+msgstr "남{townName}"
 
 msgid "{townName} Transfer"
-msgstr "{townName} Transfer"
+msgstr "{townName} 물류"
 
 msgid "{townName} Waypoint #{number}"
-msgstr "Wegpunkt {townName} #{number}"
+msgstr "{townName} 웨이포인트 #{number}"
 
 msgid "{townName} West"
-msgstr "{townName} West"
+msgstr "서{townName}"
 
 msgid "{townName} {depotName}"
 msgstr "{townName} {depotName}"
@@ -4844,7 +4858,7 @@ msgid "{townName} {stationName} #{number}"
 msgstr "{townName} {stationName} #{number}"
 
 msgid "{username} Transport"
-msgstr "{username} Transport"
+msgstr "{username} 운송"
 
 msgid "{weight} kg"
 msgstr "{weight} kg"
