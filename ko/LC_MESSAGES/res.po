@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-11 17:34+0100\n"
-"PO-Revision-Date: 2021-04-23 15:31+0900\n"
+"PO-Revision-Date: 2021-04-28 17:14+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -16,279 +16,281 @@ msgstr ""
 "X-Source-Language: de_DE\n"
 
 msgid " (with catenary)"
-msgstr ""
+msgstr "(전철선 포함)"
 
 msgid " stations left"
-msgstr ""
+msgstr "남은 역"
 
 msgid " with catenary"
-msgstr ""
+msgstr "전철선 포함"
 
 msgid "${value}"
-msgstr ""
+msgstr "${value}"
 
 msgid "${value} m"
-msgstr ""
+msgstr "${value} m"
 
 msgid "%s m"
-msgstr ""
+msgstr "%s m"
 
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgid "1 m"
-msgstr ""
+msgstr "1m"
 
 msgid "100 m x 50 m platform."
-msgstr ""
+msgstr "100m x 50m 크기"
 
 msgid "10m"
-msgstr ""
+msgstr "10m"
 
 msgid "120m"
-msgstr ""
+msgstr "120m"
 
 msgid "160m"
-msgstr ""
+msgstr "160m"
 
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgid "2 m"
-msgstr ""
+msgstr "2m"
 
 msgid "20m"
-msgstr ""
+msgstr "20m"
 
 msgid "240m"
-msgstr ""
+msgstr "240m"
 
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgid "3 m"
-msgstr ""
+msgstr "3m"
 
 msgid "30m"
-msgstr ""
+msgstr "30m"
 
 msgid "320m"
-msgstr ""
+msgstr "320m"
 
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgid "50 m x 50 m platform."
-msgstr ""
+msgstr "50m x 50m 크기"
 
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgid "80m"
-msgstr ""
+msgstr "80m"
 
 msgid "A bench."
-msgstr ""
+msgstr "벤치."
 
 msgid "A lamp."
-msgstr ""
+msgstr "전등."
 
 msgid "A platform for passengers."
-msgstr ""
+msgstr "승객을 위한 플랫폼."
 
 msgid "A platform with underground connection for passengers."
-msgstr ""
+msgstr "승객용 플랫폼을 지하로 연결합니다."
 
 msgid "A small ramp to connect to the street."
-msgstr ""
+msgstr "도로와 연결하기 위한 작은 경사로."
 
 msgid "A wooden fence."
-msgstr ""
+msgstr "목재 벤치."
 
 msgid "Acacia"
-msgstr ""
+msgstr "아키시아"
 
 msgid "Accept"
-msgstr ""
+msgstr "확인"
 
 msgid ""
 "Adds a second runway to the airport, which allows building a second taxiway."
 msgstr ""
+"공항에 두 번째 활주로를 추가하여, 두 번째 유도로를 건설할 수 있도록 합니다."
 
 msgid ""
 "Adds a second taxiway to the airport, which allows to add more buildings."
 msgstr ""
+"공항에 두 번째 유도로를 추가하여, 더 많은 건물을 건설할 수 있도록 합니다."
 
 msgid "Airfield"
-msgstr ""
+msgstr "비행장"
 
 msgid "Airfield grass runway with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 속도 제한을 가진 비행장 잔디 활주로."
 
 msgid "Airfield grass taxiway with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 제한 속도를 가진 비행장 잔디 유도로."
 
 msgid "Airfield runway"
-msgstr ""
+msgstr "비행장 활주로"
 
 msgid "Airfield taxiway"
-msgstr ""
+msgstr "비행장 유도로"
 
 msgid "Airfield with one runway for small aircraft."
-msgstr ""
+msgstr "소형 항공기를 위한 하나의 활주로를 가진 비행장."
 
 msgid "Airfield with one runway for small cargo aircraft."
-msgstr ""
+msgstr "소형 화물 항공기를 위한 하나의 활주로를 가진 비행장."
 
 msgid "Airfield with one runway for small passenger aircraft."
-msgstr ""
+msgstr "소형 여객기를 위한 하나의 활주로를 가진 비행장."
 
 msgid "Airport"
-msgstr ""
+msgstr "공항"
 
 msgid "Airport with up to two runways for small and large aircraft."
-msgstr ""
+msgstr "소형과 대형 항공기를 위한 두 개의 활주로를 가진 공항."
 
 msgid "Airport with up to two runways for small and large cargo aircraft."
-msgstr ""
+msgstr "소형과 대형 화물 항공기를 위한 두 개의 활주로를 가진 공항."
 
 msgid "Airport with up to two runways for small and large passenger aircraft."
-msgstr ""
+msgstr "소형과 대형 여객기를 위한 두 개의 활주로를 가진 공항."
 
 msgid "Alcohol"
-msgstr ""
+msgstr "주류"
 
 msgid "All"
-msgstr ""
+msgstr "모두"
 
 msgid "American"
-msgstr ""
+msgstr "미국식"
 
 msgid "Approach lights"
-msgstr ""
+msgstr "유도등"
 
 msgid "Asian"
-msgstr ""
+msgstr "아시아식"
 
 msgid "Asian Locomotive description text"
-msgstr ""
+msgstr "아시아 기관차 설명"
 
 msgid "Asphalt"
-msgstr ""
+msgstr "아스팔트"
 
 msgid "Asphalt 01"
-msgstr ""
+msgstr "아스팔트 1"
 
 msgid "Asphalt 02"
-msgstr ""
+msgstr "아스팔트 2"
 
 msgid "Asphalt 03"
-msgstr ""
+msgstr "아스팔트 3"
 
 msgid "Asphalt 04"
-msgstr ""
+msgstr "아스팔트 4"
 
 msgid "Asphalt 05"
-msgstr ""
+msgstr "아스팔트 5"
 
 msgid "Asset"
-msgstr ""
+msgstr "설치물"
 
 msgid "Asset builder"
-msgstr ""
+msgstr "설치물 건설"
 
 msgid "Auto upgrade"
-msgstr ""
+msgstr "자동으로 업그레이드"
 
 msgid "Azalea"
-msgstr ""
+msgstr "Azalea"
 
 msgid "Ballast"
-msgstr ""
+msgstr "Ballast"
 
 msgid "Banana plant"
-msgstr ""
+msgstr "바나나 나무"
 
 msgid "Bear"
-msgstr ""
+msgstr "곰"
 
 msgid "Bench"
-msgstr ""
+msgstr "벤치"
 
 msgid "Big"
-msgstr ""
+msgstr "큰"
 
 msgid "Bristlecone pine"
-msgstr ""
+msgstr "브리스틀콘 소나무"
 
 msgid "Broom snakeweed"
-msgstr ""
+msgstr "빗자루뱀풀"
 
 msgid "Build a large dock"
-msgstr ""
+msgstr "대형 부두 필요"
 
 msgid "Build a small dock"
-msgstr ""
+msgstr "소형 부두 필요"
 
 msgid "Build airports"
-msgstr ""
+msgstr "공항 필요"
 
 msgid "Build harbors"
-msgstr ""
+msgstr "항구 필요"
 
 msgid "Build industries"
-msgstr ""
+msgstr "산업시설 필요"
 
 msgid "Build shipyards"
-msgstr ""
+msgstr "조선소 필요"
 
 msgid "Build street depots"
-msgstr ""
+msgstr "차량용 차고 필요"
 
 msgid "Build street stations"
-msgstr ""
+msgstr "도로 정류장 필요"
 
 msgid "Build streets"
-msgstr ""
+msgstr "도로 필요"
 
 msgid "Build towns"
-msgstr ""
+msgstr "마을 필요"
 
 msgid "Build tracks"
-msgstr ""
+msgstr "선로 필요"
 
 msgid "Build train depots"
-msgstr ""
+msgstr "기차용 차고 필요"
 
 msgid "Build train stations"
-msgstr ""
+msgstr "기차역 필요"
 
 msgid "Build your own Headquarter"
-msgstr ""
+msgstr "본사 건물 필요"
 
 msgid "Building"
-msgstr ""
+msgstr "건물"
 
 msgid "Bulldoze"
-msgstr ""
+msgstr "철거"
 
 msgid "Bus/tram station"
-msgstr ""
+msgstr "버스/트램역"
 
 msgid "Bus/tram stop"
-msgstr ""
+msgstr "버스/트램 정류장"
 
 msgid "CAMPAIGN_DISCLAIMER"
 msgstr ""
@@ -302,250 +304,256 @@ msgstr ""
 "다."
 
 msgid "Cable Stayed Bridge"
-msgstr "Cable-stayed bridge"
+msgstr "사장교"
 
 msgid "Cactus"
-msgstr ""
+msgstr "선인장"
 
 msgid "Canyons"
-msgstr ""
+msgstr "협곡"
 
 msgid "Cargo"
 msgstr ""
 
 msgid "Cargo airfield"
-msgstr ""
+msgstr "화물용 비행장"
 
 msgid "Cargo airport"
-msgstr ""
+msgstr "화물용 공항"
 
 msgid "Cargo buildings"
-msgstr ""
+msgstr "화물용 건물"
 
 msgid "Cargo harbor"
-msgstr ""
+msgstr "화물용 항구"
 
 msgid "Cargo layer"
-msgstr ""
+msgstr "화물 레이어"
 
 msgid "Cargo platform"
-msgstr ""
+msgstr "화물용 플랫폼"
 
 msgid "Cargo station"
-msgstr ""
+msgstr "화물역"
 
 msgid "Cargo terminal"
-msgstr ""
+msgstr "화물 터미널"
 
 msgid "Cargo terminal for airfields."
-msgstr ""
+msgstr "비행장을 위한 화물 터미널."
 
 msgid "Cargo terminal for airports."
-msgstr ""
+msgstr "공항을 위한 화물 터미널."
 
 msgid "Cargo terminus station"
-msgstr ""
+msgstr "화물 종점역"
 
 msgid "Catenary"
-msgstr ""
+msgstr "전철선"
 
 msgid "Cement bridge"
-msgstr ""
+msgstr "시멘트 다리"
 
 msgid "Champagne"
-msgstr ""
+msgstr "샴페인"
 
 msgid "Chapter I"
-msgstr ""
+msgstr "챕터 1"
 
 msgid "Chapter II"
-msgstr ""
+msgstr "챕터 2"
 
 msgid "Chapter III"
-msgstr ""
+msgstr "챕터 3"
 
 msgid "Chemical plant"
-msgstr ""
+msgstr "화학 공장"
 
 msgid "Chinese fan palm"
-msgstr ""
+msgstr "부채야자"
 
 msgid "Cholla cactus"
-msgstr ""
+msgstr "촐라 선인장"
 
 msgid "Churchill Arrow"
-msgstr ""
+msgstr "처칠 애로우"
 
 msgid "Cigars"
-msgstr ""
+msgstr "시가"
 
 msgid "Circular intersection."
-msgstr ""
+msgstr "회전 교차로."
 
 msgid "Cliff Canyon 01"
-msgstr ""
+msgstr "절벽 협곡 1"
 
 msgid "Cliff Canyon 02"
-msgstr ""
+msgstr "절벽 협곡 2"
 
 msgid "Cliff Canyon 03"
-msgstr ""
+msgstr "절벽 협곡 3"
 
 msgid "Cliff Canyon 04"
-msgstr ""
+msgstr "절벽 협곡 4"
 
 msgid "Cliff Mesa 01"
-msgstr ""
+msgstr "절벽 메사 1"
 
 msgid "Climate"
-msgstr ""
+msgstr "기후"
 
 msgid "Cloverleaf interchange"
-msgstr ""
+msgstr "클로버형 교차로"
 
 msgid "Coal"
-msgstr ""
+msgstr "석탄"
 
 msgid "Coal mine"
-msgstr ""
+msgstr "석탄 광산"
 
 msgid "Coconut palm"
-msgstr ""
+msgstr "코코넛 야자"
 
 msgid "Coffee beans"
-msgstr ""
+msgstr "커피콩"
 
 msgid "Coffee fruits"
-msgstr ""
+msgstr "커피 열매"
 
 msgid "Commercial building"
-msgstr ""
+msgstr "상업 건물"
 
 msgid "Common hazel"
-msgstr ""
+msgstr "평범한 헤이즐"
 
 msgid "Company charts"
-msgstr ""
+msgstr "회사 차트"
 
 msgid "Company finances"
-msgstr ""
+msgstr "회사 재무"
 
 msgid "Company headquarters"
-msgstr ""
+msgstr "회사 본사"
 
 msgid "Company logo"
-msgstr ""
+msgstr "회사 로고"
 
 msgid "Construction material"
-msgstr ""
+msgstr "건설 재료"
 
 msgid "Construction materials plant"
-msgstr ""
+msgstr "건설 재료 공장"
 
 msgid "Context help"
-msgstr ""
+msgstr "도움말"
 
 msgid "Continue"
-msgstr ""
+msgstr "계속하기"
 
 msgid "Contour lines layer"
-msgstr ""
+msgstr "등고선 레이어"
 
 msgid "Corn"
-msgstr ""
+msgstr "옥수수"
 
 msgid "Country"
-msgstr ""
+msgstr "시골"
 
 msgid "Cracked rocks 1"
-msgstr ""
+msgstr "부서진 바위 1"
 
 msgid "Cracked rocks 2"
-msgstr ""
+msgstr "부서진 바위 2"
 
 msgid "Cracked rocks 3"
-msgstr ""
+msgstr "부서진 바위 3"
 
 msgid "Cracked rocks 4"
-msgstr ""
+msgstr "부서진 바위 4"
 
 msgid "Crane"
-msgstr ""
+msgstr "크레인"
 
 msgid "Crude oil"
-msgstr ""
+msgstr "원유"
 
 msgid "Curly palm"
-msgstr ""
+msgstr "동그란 야자"
 
 msgid "Custom one way country road"
-msgstr ""
+msgstr "커스텀 일방통행 시골도로"
 
 msgid "Danger signal left"
-msgstr ""
+msgstr "위험 표지판 왼쪽"
 
 msgid "Danger signal left double"
-msgstr ""
+msgstr "위험 표지판 왼쪽 두개"
 
 msgid "Danger signal right"
-msgstr ""
+msgstr "위험 표지판 오른쪽"
 
 msgid "Danger signal right double"
-msgstr ""
+msgstr "위험 표지판 오른쪽 두개"
 
 msgid "Date palm"
-msgstr ""
+msgstr "대추야자"
 
 msgid "Decline"
-msgstr ""
+msgstr "거부하기"
 
 msgid ""
 "Decorative.\n"
 "Roof for passenger platforms."
 msgstr ""
+"장식물.\n"
+"여객용 플랫폼의 지붕."
 
 msgid ""
 "Decorative.\n"
 "Roof with a special design for passenger platforms."
 msgstr ""
+"장식물.\n"
+"여객용 플랫폼을 위한 특별한 디자인의 지붕."
 
 msgid ""
 "Decorative.\n"
 "Small side building for passenger stations."
 msgstr ""
+"장식물.\n"
+"여객용 역을 위한 작은 별관."
 
 msgid "Deer"
-msgstr ""
+msgstr "사슴"
 
 msgid "Depot"
-msgstr "Depot"
+msgstr "차고"
 
 msgid "Desert"
-msgstr ""
+msgstr "사막"
 
 msgid "Desert (assets only)"
-msgstr ""
+msgstr "사막 (설치물만)"
 
 msgid "Destinations layer"
-msgstr ""
+msgstr "목적지 레이어"
 
 msgid "Detail contour (2 m)"
-msgstr ""
+msgstr "자세한 등고선(2m)"
 
 msgid "Determines the approach and takeoff direction of the runway."
-msgstr ""
+msgstr "활주로의 진입과 이륙 방향을 결정하세요."
 
 msgid "Difficulty"
-msgstr ""
+msgstr "난이도"
 
 msgid "Dirt"
-msgstr ""
+msgstr "먼지"
 
 msgid "Double slip switch"
-msgstr ""
+msgstr "이중 선로 변환기 켜기/끄기"
 
 msgid "Double track field lighting"
-msgstr ""
+msgstr "복선 선로용 가로등"
 
 msgid "Dry"
 msgstr ""
@@ -2854,93 +2862,92 @@ msgstr ""
 
 msgid "MISSION_COLONIALISM_CAMPAIGNSCREEN"
 msgstr ""
-"The island of Java: a tropical jewel in the midst of the Indian Ocean, "
-"conscientiously administrated by meticulous Dutch bureaucracy.\n"
-"The year is 1870 and the colony is undergoing a transformation. Recently "
-"individuals have been allowed to lease farmland and manage plantations.\n"
-"The fertile land offers ideal conditions for exporting a multitude of "
-"colonial goods. \n"
-"Off on the way to an exotic experience!"
+"자바 섬은 인도양 가운데에 있는 열대의 보물로, 양심적이고 꼼꼼한, 관료적인 네"
+"덜란드인에 의해 관리되고 있죠.\n"
+"지금은 1870년으로, 식민지는 변화하고 있습니다. 최근에는 개인이 농지를 빌려 플"
+"랜테이션 농장을 경영할 수 있도록 허가되었죠.\n"
+"이 비옥한 토양은 다양한 식민지의 상품들을 수출하기에 최적의 조건입니다.\n"
+"어서 이 이국적인 경험을 하러 가시죠!"
 
 msgid "MISSION_COLONIALISM_INTRO_1"
-msgstr "The Dutch East Indies!"
+msgstr "인도 제국 동쪽의 네덜란드!"
 
 msgid "MISSION_COLONIALISM_INTRO_2"
-msgstr "Surely the most exemplary colonial empire under the sun!"
+msgstr "태양 아래 가장 모범적인 식민지일 겁니다!"
 
 msgid "MISSION_COLONIALISM_INTRO_3"
-msgstr "With luscious fruits and cheap labor in abundance!"
+msgstr "달콤한 과일과 저렴한 노동력이 풍부하죠!"
 
 msgid "MISSION_COLONIALISM_INTRO_4"
-msgstr "You act on behalf of the colonial administration."
+msgstr "식민지를 경영하면서 이익을 남겨야 합니다."
 
 msgid "MISSION_COLONIALISM_INTRO_5"
 msgstr ""
-"A gifted talent in the art of engineering, you have been appointed to "
-"modernize the local transport sector."
+"축복받은 공학에서의 재능 덕분에, 지역 교통을 근대화하라는 지시를 받았습니다."
 
 msgid "MISSION_COLONIALISM_INTRO_6"
-msgstr "Complete this task to the satisfaction of the crown."
+msgstr "과제를 완료하여 왕을 만족시키세요."
 
 msgid "MISSION_COLONIALISM_INTRO_7"
-msgstr "If you do, even the post as governor might be in store for you."
+msgstr "만약 모두 완료한다면, 총독 자리는 당신의 것입니다."
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_BUILD_NAME"
 msgstr "Building a headquarters"
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_BUILD_TASK"
-msgstr "Build a headquarters."
+msgstr "본사를 지으세요."
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_BUILD_TEXT"
-msgstr "Build a prestigious residence that is unrivaled on the whole island."
+msgstr "섬 전체를 통틀어 비교할 수 없는 화려한 거주 시설을 지으세요."
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_CAMPAIGNSCREENNAME"
 msgstr "Mysterious monuments"
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_FINISH_NAME"
-msgstr "A godsend!"
+msgstr "신이시여!"
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_FINISH_TEXT"
-msgstr "What a godsend! Your stylish residence is pleasantly snake-free again!"
+msgstr ""
+"위대한 신이시여! 이 스타일리시한 저택에는 뱀 따위가 들어올 수 없을 겁니다!"
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_HINT1_NAME"
 msgstr "Following the clue"
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_HINT1_TASK"
-msgstr "Find the wise elder in [link=jump_surabaya]${name_surabaya}[/link]."
+msgstr ""
+"[link=jump_surabaya]${name_surabaya}[/link]에서 지혜로운 노인을 찾으세요."
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_HINT1_TEXT"
 msgstr ""
-"A truly attractive estate! \n"
-"But a veritable plague is spoiling all the fun: snakes have occupied the "
-"building. \n"
-"Rumor has it that a wise old woman knows how you can rid yourself of the "
-"snakes in your walls. \n"
-"She’s supposed to be in Surabaya."
+"참 매력적인 땅이네요!\n"
+"하지만 이 해로운 녀석이 모든 행복을 날려버리네요: 뱀이 건물을 점령해 버렸어"
+"요.\n"
+"소문에, 한 지혜로운 할머니가 벽에서 뱀을 모두 없애는 법을 안다고 합니다.\n"
+"아마 Surabaya에 있을 겁니다."
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_HINT2_NAME"
 msgstr "Following the clue"
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_HINT2_TASK"
-msgstr "Find the snake charmer in [link=jump_semarang]${name_semarang}[/link]."
+msgstr ""
+"[link=jump_semarang]${name_semarang}[/link]에서 뱀을 부리는 사람을 찾으세요."
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_HINT2_TEXT"
 msgstr ""
-"The old woman says she doesn’t know a thing, but you should try your luck "
-"with her cousin in Semarang who has a knack for the art of snake charming."
+"그 할머니는 잘 모른다고 했지만, Semarang에 있는 뱀을 부리는 실력이 뛰어난 그"
+"녀의 조카와 시도해 봅시다."
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_HINT3_NAME"
 msgstr "Following the clue"
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_HINT3_TASK"
-msgstr "Find the temple."
+msgstr "사원을 찾으세요."
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_HINT3_TEXT"
 msgstr ""
-"The snake charmer declared that you’ve probably angered the mighty snake "
-"goddess with your projects. \n"
-"The snake priestess of Mount Merapi is the only one who could remedy the "
-"situation."
+"그 뱀을 부리는 사람이 아마 당신의 프로젝트가 뱀의 여신을 노하게 했을 거라고 "
+"합니다.\n"
+"Merapi산에 있는 뱀의 사제가 이 상황을 해결할 수 있는 유일한 방법입니다."
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_NAME"
 msgstr "Mysterious monuments"
@@ -2949,37 +2956,33 @@ msgid "MISSION_COLONIALISM_MEDAL_HQ_SACRIFICE_NAME"
 msgstr "Making an offering"
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_SACRIFICE_TASK"
-msgstr ""
-"Make an offering of coffee beans to the [link=jump_temple1]snake goddess[/"
-"link]."
+msgstr "[link=jump_temple1]뱀의 여신[/link]에게 커피콩을 바치세요."
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_SACRIFICE_TEXT"
 msgstr ""
-"The priestess has spoken: The only way she is willing to call off her "
-"children is if you make a sacrifice to the great snake goddess. \n"
-"Coffee, the priestess prophesied, would be the sure thing to appease the "
-"goddess."
+"사제가 말하기를, 여신의 아이들을 그만두게 하려면 좋은 제물을 바쳐야 한다고 합"
+"니다.\n"
+"사제가 예언하기를 커피를 바치면 여신을 달랠 수 있다고 합니다."
 
 msgid "MISSION_COLONIALISM_MEDAL_HQ_TEXT"
 msgstr ""
-"A formidable enterprise like yours calls for a suitably first-rate branch "
-"office! \n"
-"After all, you’re not just anybody."
+"당신처럼 어마어마한 사업을 하려면 그에 맞는 최고의 사무실이 있어야죠!\n"
+"그러면, 당신은 남과 달라질 겁니다."
 
 msgid "MISSION_COLONIALISM_MEDAL_SCHOOL_CAMPAIGNSCREENNAME"
 msgstr "Digested driver"
 
 msgid "MISSION_COLONIALISM_MEDAL_SCHOOL_HAPPY_NAME"
-msgstr "Good news!"
+msgstr "좋은 소식이네요!"
 
 msgid "MISSION_COLONIALISM_MEDAL_SCHOOL_HAPPY_TEXT"
 msgstr ""
-"Good news! \n"
-"The locomotive engineer has returned safe and sound. \n"
-"While you pictured him in the stomachs of savages, he was having the time of "
-"his life in the virgin forest. \n"
-"Naturally you can’t tolerate misconduct like that and regretfully have to "
-"fire the good man."
+"좋은 소식입니다!\n"
+"기관차 조종사가 무사히 돌아왔습니다.\n"
+"당신이 그가 야만인의 배 속에 들어가는 상상을 하는 동안, 그는 원시림에서 시간"
+"을 보내고 있었습니다.\n"
+"당신은 이 일을 용서할 정도로 자비롭지 않으니까, 안타깝게도 좋은 사람을 해고"
+"할 수 밖에 없겠군요."
 
 msgid "MISSION_COLONIALISM_MEDAL_SCHOOL_NAME"
 msgstr "Digested driver"
