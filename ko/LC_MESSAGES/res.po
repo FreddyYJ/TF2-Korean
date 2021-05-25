@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-11 17:34+0100\n"
-"PO-Revision-Date: 2021-04-28 17:14+0900\n"
+"PO-Revision-Date: 2021-05-25 12:00+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -556,124 +556,124 @@ msgid "Double track field lighting"
 msgstr "복선 선로용 가로등"
 
 msgid "Dry"
-msgstr ""
+msgstr "마른"
 
 msgid "Dutch"
-msgstr ""
+msgstr "네덜란드의"
 
 msgid "Dying"
-msgstr ""
+msgstr "염색"
 
 msgid "Eagle"
-msgstr ""
+msgstr "독수리"
 
 msgid "Earnings"
-msgstr ""
+msgstr "수익"
 
 msgid "Easter Egg"
-msgstr ""
+msgstr "이스터 에그"
 
 msgid "Easy"
-msgstr ""
+msgstr "쉬움"
 
 msgid "Elderberry"
-msgstr ""
+msgstr "엘더베리"
 
 msgid "Electric"
-msgstr ""
+msgstr "전기"
 
 msgid "Emissions layer"
-msgstr ""
+msgstr "공해 레이어"
 
 msgid "English"
-msgstr ""
+msgstr "영국의"
 
 msgid "Environment"
-msgstr ""
+msgstr "환경"
 
 msgid "European"
-msgstr ""
+msgstr "유럽식"
 
 msgid "European linden"
-msgstr ""
+msgstr "유럽 린덴"
 
 msgid "Export heightmap"
-msgstr ""
+msgstr "맵 추출"
 
 msgid "Extra-large country road"
-msgstr ""
+msgstr "매우 큰 시골 도로"
 
 msgid "Extra-large street"
-msgstr ""
+msgstr "매우 큰 도로"
 
 msgid "Extremely Big"
-msgstr ""
+msgstr "매우 큰"
 
 msgid "Farm"
-msgstr ""
+msgstr "농장"
 
 msgid "Farm for steel production"
-msgstr ""
+msgstr "철강 제조를 위한 농장"
 
 msgid "Fence"
-msgstr ""
+msgstr "울타리"
 
 msgid "Field"
-msgstr ""
+msgstr "밭"
 
 msgid "Field Decoration"
-msgstr ""
+msgstr "땅 장식"
 
 msgid "Fish"
-msgstr ""
+msgstr "생선"
 
 msgid "Fishery"
-msgstr ""
+msgstr "어업"
 
 msgid "Flying"
-msgstr ""
+msgstr "날기"
 
 msgid "Food"
-msgstr ""
+msgstr "식량"
 
 msgid "Food factory"
-msgstr ""
+msgstr "식량 공장"
 
 msgid "Food processing plant"
-msgstr ""
+msgstr "식량 처리 시설"
 
 msgid "Forest"
-msgstr ""
+msgstr "숲"
 
 msgid "Forest Ground"
-msgstr ""
+msgstr "삼림지대"
 
 msgid "Forest ground"
-msgstr ""
+msgstr "삼림지대"
 
 msgid "Four-lane road with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 제한 속도를 가진 4차선 도로."
 
 msgid "Four-lane street with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 제한 속도를 가진 4차선 도로."
 
 msgid "Four-way highway intersection."
-msgstr ""
+msgstr "4방향 고속도로 분기점."
 
 msgid "Fox"
-msgstr ""
+msgstr "여우"
 
 msgid "French"
-msgstr ""
+msgstr "프랑스의"
 
 msgid "Fruit"
-msgstr ""
+msgstr "과일"
 
 msgid "Fuel"
-msgstr ""
+msgstr "연료"
 
 msgid "Fuel refinery"
-msgstr ""
+msgstr "연료 정유소"
 
 msgid "GUIDE_ADD_TO_LINE"
 msgstr ""
@@ -879,103 +879,103 @@ msgstr ""
 "있는 물을 보여줍니다."
 
 msgid "Generate heightmap"
-msgstr ""
+msgstr "맵 생성"
 
 msgid "Generate industries"
-msgstr ""
+msgstr "산업시설 생성"
 
 msgid "Generate streets"
-msgstr ""
+msgstr "도로 생성"
 
 msgid "Generate towns"
-msgstr ""
+msgstr "마을 생성"
 
 msgid "German"
-msgstr ""
+msgstr "독일의"
 
 msgid "Gigantic"
-msgstr ""
+msgstr "거대"
 
 msgid "Goods"
-msgstr ""
+msgstr "물건"
 
 msgid "Goods factory"
-msgstr ""
+msgstr "물건 공장"
 
 msgid "Grain"
-msgstr ""
+msgstr "곡물"
 
 msgid "Granite 1"
-msgstr ""
+msgstr "화강암 1"
 
 msgid "Granite 2"
-msgstr ""
+msgstr "화강암 2"
 
 msgid "Granite 3"
-msgstr ""
+msgstr "화강암 3"
 
 msgid "Granite 4"
-msgstr ""
+msgstr "화강암 4"
 
 msgid "Grass Cutted 01"
-msgstr ""
+msgstr "제초된 잔디 1"
 
 msgid "Grass Cutted 02"
-msgstr ""
+msgstr "제초된 잔디 2"
 
 msgid "Grass Gravel"
-msgstr ""
+msgstr "잔디와 자갈 1"
 
 msgid "Grass Gravel 02"
-msgstr ""
+msgstr "잔디와 자갈 2"
 
 msgid "Grass alpine"
-msgstr ""
+msgstr "알프스 잔디"
 
 msgid "Grass brown"
-msgstr ""
+msgstr "갈색 잔디"
 
 msgid "Grass dark green "
-msgstr ""
+msgstr "어두운 갈색 잔디"
 
 msgid "Grass green"
-msgstr ""
+msgstr "초록색 잔디"
 
 msgid "Grass light green"
-msgstr ""
+msgstr "연두색 잔디"
 
 msgid "Gravel 01"
-msgstr ""
+msgstr "자갈 1"
 
 msgid "Gravel 02"
-msgstr ""
+msgstr "자갈 2"
 
 msgid "Gravel 03"
-msgstr ""
+msgstr "자갈 3"
 
 msgid "Gravel 04"
-msgstr ""
+msgstr "자갈 4"
 
 msgid "Greenleaf mazanita"
-msgstr ""
+msgstr "녹색잎마자니타"
 
 msgid "Ground tex builder"
-msgstr ""
+msgstr "지면 텍스쳐 생성기"
 
 msgid "Ground texture"
-msgstr ""
+msgstr "지면 텍스쳐"
 
 msgid "Ground texture border"
-msgstr ""
+msgstr "지면 텍스쳐 경계"
 
 msgid "Ground texture stroke type"
-msgstr ""
+msgstr "지면 텍스쳐 정렬 종류"
 
 msgid "Guano"
-msgstr ""
+msgstr "구아노"
 
 msgid "Gull"
-msgstr ""
+msgstr "갈매기"
 
 msgid "HELP LAYER_EMISSIONS"
 msgstr ""
@@ -1076,10 +1076,10 @@ msgstr ""
 
 msgid "HELP_CONSTRUCTION_MAP_IMPORT"
 msgstr ""
-"Relief maps can be imported from PNG images. It is recommended to use 16-bit "
-"grayscale images.\n"
-"The height and width of the images must be a multiple of 256 plus 1.\n"
-"The images must be placed in the following directory: <<heightmaps_path>>"
+"맵을 PNG 이미지로부터 불러올 수 있습니다. 16비트 그레이스케일 이미지를 권장합"
+"니다.\n"
+"이미지의 높이와 폭은 256x256이어야 합니다.\n"
+"이미지가 <<heightmaps_path>>에 있어야 합니다."
 
 msgid "HELP_CONSTRUCTION_RAIL_DEPOTS"
 msgstr ""
@@ -1361,209 +1361,216 @@ msgstr ""
 "탭은 또한 주민들이 어디로 일하거나 쇼핑하러 가는지를 보여줍니다."
 
 msgid "HQ"
-msgstr ""
+msgstr "본사"
 
 msgid "HUD icon filter"
-msgstr ""
+msgstr "HUD 아이콘 필터"
 
 msgid "Half-barrier crossing"
-msgstr ""
+msgstr "차단기가 절반만 있는 건널목"
 
 msgid "Hangar"
-msgstr ""
+msgstr "격납고"
 
 msgid "Hard"
-msgstr ""
+msgstr "어려움"
 
 msgid "Headquarter"
-msgstr ""
+msgstr "본사"
 
 msgid "Hello there"
-msgstr ""
+msgstr "안녕하십니까"
 
 msgid "High"
-msgstr ""
+msgstr "높음"
 
 msgid "High-speed"
-msgstr ""
+msgstr "고속"
 
 msgid "High-speed tracks"
-msgstr ""
+msgstr "고속 선로"
 
 msgid "High-speed tracks with catenary"
-msgstr ""
+msgstr "전철선이 있는 고속 선로"
 
 msgid "Highway"
-msgstr ""
+msgstr "고속도로"
 
 msgid "Highway ramp"
-msgstr ""
+msgstr "고속도로 출입로"
 
 msgid "Hilliness"
-msgstr ""
+msgstr "경사"
 
 msgid "Hills forest height"
-msgstr ""
+msgstr "언덕 숲 높이"
 
 msgid "Huge"
-msgstr ""
+msgstr "거대"
 
 msgid "Idle"
-msgstr ""
+msgstr "유휴 상태"
 
 msgid "Import heightmap"
-msgstr ""
+msgstr "맵 불러오기"
 
 msgid "Industrial building"
-msgstr ""
+msgstr "산업 건물"
 
 msgid "Industries"
-msgstr ""
+msgstr "산업 시설"
 
 msgid "Industry production level"
-msgstr ""
+msgstr "산업 생산 단계"
 
 msgid "Industry statistics"
-msgstr ""
+msgstr "산업 통계"
 
 msgid "Inner radius"
-msgstr ""
+msgstr "내부 반지름"
 
 msgid "Input"
-msgstr ""
+msgstr "입력"
 
 msgid "Intermediate contour (10 m)"
-msgstr ""
+msgstr "등고선 간격 (10m)"
 
+#, fuzzy
 msgid "Intimidating"
-msgstr ""
+msgstr "위협적"
 
+#, fuzzy
 msgid "Invisible Model"
-msgstr ""
+msgstr "투명 모델"
 
 msgid "Iron bridge"
-msgstr ""
+msgstr "철제 다리"
 
 msgid "Iron ore"
-msgstr ""
+msgstr "철광석"
 
 msgid "Iron ore mine"
-msgstr ""
+msgstr "철광산"
 
 msgid "Islands"
-msgstr ""
+msgstr "섬"
 
 msgid "Italian"
-msgstr ""
+msgstr "이탈리아"
 
 msgid "Joshua tree"
-msgstr ""
+msgstr "조슈아 나무"
 
 msgid "Korean"
-msgstr ""
+msgstr "한국"
 
 msgid "Korean stewartia"
-msgstr ""
+msgstr "노각나무"
 
 msgid "Lamp"
-msgstr ""
+msgstr "전등"
 
 msgid "Land use layer"
-msgstr ""
+msgstr "토지 용도 레이어"
 
 msgid "Landing"
-msgstr ""
+msgstr "접안 시설"
 
+#, fuzzy
 msgid "Landing direction"
-msgstr ""
+msgstr "접안 방향"
 
 msgid "Landing for small and large ships."
-msgstr ""
+msgstr "소형과 대형 선박을 위한 접안 시설."
 
 msgid "Landing for small ships."
-msgstr ""
+msgstr "소형 선박을 위한 접안 시설."
 
 msgid "Large"
-msgstr ""
+msgstr "대형"
 
 msgid "Large airport runway"
-msgstr ""
+msgstr "대형 공항 활주로"
 
 msgid "Large airport runway with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 제한 속도를 가진 대형 공항 활주로."
 
 msgid "Large country road"
-msgstr ""
+msgstr "대형 시골 도로"
 
 msgid "Large dock"
-msgstr ""
+msgstr "대형 부두"
 
 msgid ""
 "Large dock for small and large cargo ships. A large landing is required for "
 "ships to be able to dock."
 msgstr ""
+"소형과 대형 화물선을 위한 대형 부두. 선박이 정박하려면 대형 접안 시설이 필요"
+"합니다."
 
 msgid ""
 "Large dock for small and large passenger ships. A large landing is required "
 "for ships to be able to dock."
 msgstr ""
+"소형과 대형 여객선을 위한 대형 부두. 선박이 정박하려면 대형 접안 시설이 필요"
+"합니다."
 
 msgid "Large highway"
-msgstr ""
+msgstr "대형 고속도로"
 
 msgid "Large landing"
-msgstr ""
+msgstr "대형 접안 시설"
 
 msgid "Large main building"
-msgstr ""
+msgstr "대형 본관"
 
 msgid "Large main building with street access for cargo stations."
-msgstr ""
+msgstr "화물역을 위한 도로에 접근할 수 있는 대형 본관 건물."
 
 msgid "Large main building with street access for passenger stations."
-msgstr ""
+msgstr "여객역을 위한 도로에 접근할 수 있는 대형 본관 건물."
 
 msgid "Large one-way street"
-msgstr ""
+msgstr "대형 일방통행 도로"
 
 msgid "Large side building"
-msgstr ""
+msgstr "대형 별관"
 
 msgid "Large side building with street access for cargo stations."
-msgstr ""
+msgstr "화물역을 위한 도로에 접근할 수 있는 대형 별관 건물."
 
 msgid "Large side building with street access for passenger stations."
-msgstr ""
+msgstr "여객역을 위한 도로에 접근할 수 있는 대형 별관 건물."
 
 msgid "Large street"
-msgstr ""
+msgstr "대형 도로"
 
 msgid "Left"
-msgstr ""
+msgstr "왼쪽"
 
 msgid "Lemon tree"
-msgstr ""
+msgstr "레몬 나무"
 
 msgid "Length"
-msgstr ""
+msgstr "길이"
 
 msgid "Limo"
-msgstr ""
+msgstr "리무진"
 
 msgid "Line manager"
-msgstr ""
+msgstr "노선 관리자"
 
 msgid "Line statistics"
-msgstr ""
+msgstr "노선 통계"
 
 msgid "Livestock"
-msgstr ""
+msgstr "가축"
 
 msgid "Logs"
-msgstr ""
+msgstr "통나무"
 
 msgid "Low"
-msgstr ""
+msgstr "낮음"
 
 msgid "MISSION_ALLINCLUSIVE_ASSET_HIKING_SIGN_DESC"
 msgstr "인스부르크의 등산객과 오스트리아의 휴양객을 위한 표지판입니다."
@@ -12567,648 +12574,650 @@ msgstr ""
 "refusing to put even one more penny into our project. Dammit!"
 
 msgid "Machine factory"
-msgstr ""
+msgstr "기계 생산 공장"
 
 msgid "Machines"
-msgstr ""
+msgstr "기계"
 
 msgid "Machines factory"
-msgstr ""
+msgstr "기계 생산 공장"
 
 msgid "Main building"
-msgstr ""
+msgstr "본관"
 
 msgid "Main building for cargo harbors."
-msgstr ""
+msgstr "화물 항구를 위한 본관 건물."
 
 msgid "Main building for passenger harbors."
-msgstr ""
+msgstr "여객 항구를 위한 본관 건물."
 
 msgid "Main building with street access for airfields."
-msgstr ""
+msgstr "비행장을 위한 도로에 접근할 수 있는 본관 건물."
 
 msgid "Main building with street access for airports."
-msgstr ""
+msgstr "공항을 위한 도로에 접근할 수 있는 본관 건물."
 
 msgid "Main platform"
-msgstr ""
+msgstr "주 플랫폼"
 
 msgid "Mainland"
-msgstr ""
+msgstr "본토"
 
 msgid "Major contour (100 m)"
-msgstr ""
+msgstr "주요 등고선(100m)"
 
 msgid "Marble"
-msgstr ""
+msgstr "대리석"
 
 msgid "Maximal"
-msgstr ""
+msgstr "최대"
 
 msgid "Medium"
-msgstr ""
+msgstr "중간"
 
 msgid "Medium airport runway"
-msgstr ""
+msgstr "중형 공항 활주로"
 
 msgid "Medium airport runway with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 속도 제한을 가진 중형 공항 활주로."
 
 msgid "Medium airport taxiway"
-msgstr ""
+msgstr "중형 공항 유도로"
 
 msgid "Medium airport taxiway with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 속도 제한을 가진 중형 공항 유도로."
 
 msgid "Medium country road"
-msgstr ""
+msgstr "중형 시골 도로"
 
 msgid "Medium highway"
-msgstr ""
+msgstr "중형 고속도로"
 
 msgid "Medium main building"
-msgstr ""
+msgstr "중형 본관"
 
 msgid "Medium main building with street access for cargo stations."
-msgstr ""
+msgstr "화물역을 위한 도로에 접근할 수 있는 중형 본관 건물."
 
 msgid "Medium main building with street access for passenger stations."
-msgstr ""
+msgstr "여객역을 위한 도로에 접근할 수 있는 중형 본관 건물."
 
 msgid "Medium one-way street"
-msgstr ""
+msgstr "중형 일방통행 도로"
 
 msgid "Medium side building"
-msgstr ""
+msgstr "중형 별관"
 
 msgid "Medium side building with street access for cargo stations."
-msgstr ""
+msgstr "화물역을 위한 도로에 접근할 수 있는 중형 별관 건물."
 
 msgid "Medium side building with street access for passenger stations."
-msgstr ""
+msgstr "여객역을 위한 도로에 접근할 수 있는 중형 별관 건물."
 
 msgid "Medium street"
-msgstr ""
+msgstr "중형 도로"
 
 msgid "Mesas"
-msgstr ""
+msgstr "메사"
 
 msgid "Minor contour (50 m)"
-msgstr ""
+msgstr "부 등고선(50m)"
 
 msgid "Misc"
-msgstr ""
+msgstr "기타"
 
 msgid "Miscellaneous"
-msgstr ""
+msgstr "기타"
 
 msgid "Mixed forest vegetation"
-msgstr ""
+msgstr "뒤섞인 풀과 나무"
 
 msgid "Modern Half-barrier crossing"
-msgstr ""
+msgstr "현대적인 절반 차단기를 가진 철도 건널목"
 
 msgid "Modify terrain"
-msgstr ""
+msgstr "지표면 변형"
 
 msgid "Modular bus/tram station."
-msgstr ""
+msgstr "모듈형 버스/트램역."
 
 msgid "Modular harbor for cargo ships."
-msgstr ""
+msgstr "화물선을 위한 모듈형 항구."
 
 msgid "Modular harbor for passenger and cargo ships."
-msgstr ""
+msgstr "화물선과 여객선을 위한 모듈형 항구."
 
 msgid "Modular harbor for passenger ships."
-msgstr ""
+msgstr "여객선을 위한 모듈형 항구."
 
 msgid "Modular street station."
-msgstr ""
+msgstr "모듈형 자동차역."
 
 msgid "Modular terminus station for cargo."
-msgstr ""
+msgstr "화물 열차를 위한 모듈형 종점역."
 
 msgid "Modular terminus station for passengers."
-msgstr ""
+msgstr "여객 열차를 위한 모듈형 종점역."
 
 msgid "Modular train station for cargo and passengers."
-msgstr ""
+msgstr "화물과 여객 열차를 위한 모듈형 기차역."
 
 msgid "Modular train station for cargo."
-msgstr ""
+msgstr "화물 열차를 위한 모듈형 기차역."
 
 msgid "Modular train station for passengers."
-msgstr ""
+msgstr "여객 열차를 위한 모듈형 기차역."
 
 msgid "Modular truck station."
-msgstr ""
+msgstr "모듈형 트럭역."
 
 msgid "Mountain maple"
-msgstr ""
+msgstr "산 단풍"
 
 msgid "Navigable waters layer"
-msgstr ""
+msgstr "운행가능한 물 레이어"
 
 msgid "No"
-msgstr ""
+msgstr "아니오"
 
 msgid "Noise barrier 10m"
-msgstr ""
+msgstr "소음 경계 10m"
 
 msgid "Noise barrier 20m"
-msgstr ""
+msgstr "소음 경계 20m"
 
 msgid "Noise barrier 60m"
-msgstr ""
+msgstr "소음 경계 60m"
 
 msgid "Norwegian"
-msgstr ""
+msgstr "노르웨이"
 
 msgid "Not enough vehicles available at this time"
-msgstr ""
+msgstr "지금은 더 많은 차량 이용 불가"
 
+#, fuzzy
 msgid "Nothing to see here"
-msgstr ""
+msgstr "더 이상 관심 없음"
 
 msgid "Number of cargo items transported"
-msgstr ""
+msgstr "운송된 화물의 양"
 
 msgid "Number of lanes"
-msgstr ""
+msgstr "노선 개수"
 
 msgid "Number of passenger transported"
-msgstr ""
+msgstr "운송된 승객의 양"
 
 msgid "Number of terminals"
-msgstr ""
+msgstr "터미널 개수"
 
 msgid "Number of tracks"
-msgstr ""
+msgstr "선로 개수"
 
 msgid "Ocotillo"
-msgstr ""
+msgstr "오코틸로"
 
 msgid "Oh, what's that?"
-msgstr ""
+msgstr "오, 그게 뭔가요?"
 
 msgid "Oil"
-msgstr ""
+msgstr "석유"
 
 msgid "Oil refinery"
-msgstr ""
+msgstr "정유소"
 
 msgid "Oil sand"
-msgstr ""
+msgstr "석유가 섞인 모래"
 
 msgid "Oil well"
-msgstr ""
+msgstr "유정"
 
 msgid "Ok"
-msgstr ""
+msgstr "확인"
 
 msgid "Ok!"
-msgstr ""
+msgstr "확인!"
 
 msgid "One-lane one-way road with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 제한 속도를 가진 1차로 일방통행 도로."
 
 msgid "One-lane one-way street with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 제한 속도를 가진 1차로 일방통행 도로."
 
 msgid "One-way"
-msgstr ""
+msgstr "일방통행"
 
 msgid "Pageantry"
-msgstr ""
+msgstr "소작농"
 
 msgid "Paint terrain"
-msgstr ""
+msgstr "지표면 색칠"
 
 msgid "Palm"
-msgstr ""
+msgstr "야자나무"
 
 msgid "Palmetto"
-msgstr ""
+msgstr "팔메토"
 
 msgid "Paper"
-msgstr ""
+msgstr "종이"
 
 msgid "Passenger"
-msgstr ""
+msgstr "승객"
 
 msgid "Passenger airfield"
-msgstr ""
+msgstr "여객용 비행장"
 
 msgid "Passenger airport"
-msgstr ""
+msgstr "여객용 공항"
 
 msgid "Passenger buildings"
-msgstr ""
+msgstr "여객용 건물"
 
 msgid "Passenger harbor"
-msgstr ""
+msgstr "여객용 항구"
 
 msgid "Passenger platform"
-msgstr ""
+msgstr "여객용 플랫폼"
 
 msgid "Passenger platform (with underpass)"
-msgstr ""
+msgstr "여객용 플랫폼(지하통로 포함)"
 
 msgid "Passenger station"
-msgstr ""
+msgstr "여객역"
 
 msgid "Passenger terminal"
-msgstr ""
+msgstr "여객용 터미널"
 
 msgid "Passenger terminal for airfields."
-msgstr ""
+msgstr "비행장을 위한 여객용 터미널."
 
 msgid "Passenger terminal for airports."
-msgstr ""
+msgstr "공항을 위한 여객용 터미널."
 
 msgid "Passenger terminus station"
-msgstr ""
+msgstr "여객용 종착역"
 
 msgid "Passenger underpass"
-msgstr ""
+msgstr "여객용 지하통로"
 
 msgid "Passenger/cargo harbor"
-msgstr ""
+msgstr "여객/화물 항구"
 
 msgid "Passengers"
-msgstr ""
+msgstr "승객"
 
 msgid "Path signal"
-msgstr ""
+msgstr "경로 신호"
 
 msgid "Peach tree"
-msgstr ""
+msgstr "복숭아나무"
 
 msgid "Pedestrian entrance"
-msgstr ""
+msgstr "승객 입구"
 
 msgid "Place assets"
-msgstr ""
+msgstr "설치물 설치"
 
 msgid "Place rocks individually or with a brush."
-msgstr ""
+msgstr "돌을 하나씩 또는 붓으로 설치하세요."
 
 msgid "Place trees individually or with a brush."
-msgstr ""
+msgstr "나무를 하나씩 또는 붓으로 설치하세요."
 
 msgid "Plane Parts"
-msgstr ""
+msgstr "비행기 부품"
 
 msgid "Planks"
-msgstr ""
+msgstr "널빤지"
 
 msgid "Plastic"
-msgstr ""
+msgstr "플라스틱"
 
 msgid "Platform for cargo."
-msgstr ""
+msgstr "화물을 위한 플랫폼."
 
 msgid "Platform for waiting cargo."
-msgstr ""
+msgstr "대기중인 화물을 위한 플랫폼."
 
 msgid "Platform for waiting passengers."
-msgstr ""
+msgstr "대기중인 승객을 위한 플랫폼."
 
 msgid "Platform length"
-msgstr ""
+msgstr "플랫폼 길이"
 
 msgid "Platform roof"
-msgstr ""
+msgstr "플랫폼 지붕"
 
 msgid "Platforms"
-msgstr ""
+msgstr "플랫폼"
 
 msgid "Platforms Left"
-msgstr ""
+msgstr "플랫폼 왼쪽"
 
 msgid "Platforms Right"
-msgstr ""
+msgstr "플랫폼 오른쪽"
 
 msgid "Quarry"
-msgstr ""
+msgstr "광산"
 
 msgid "Railroad crossing"
-msgstr ""
+msgstr "철도 건널목"
 
 msgid "Red delicious apple"
-msgstr ""
+msgstr "빨간 맛있는 사과"
 
 msgid "Residential building"
-msgstr ""
+msgstr "주거 건물"
 
 msgid "Ridges"
-msgstr ""
+msgstr "능선"
 
 msgid "Right"
-msgstr ""
+msgstr "오른쪽"
 
 msgid "River bed"
-msgstr ""
+msgstr "강바닥"
 
 msgid "Road depot"
-msgstr ""
+msgstr "자동차 차고"
 
 msgid "Roaring"
-msgstr ""
+msgstr "포효"
 
 msgid "Rock"
-msgstr ""
+msgstr "바위"
 
 msgid "Roundabout"
-msgstr ""
+msgstr "회전교차로"
 
 msgid "Rum"
-msgstr ""
+msgstr "럼주"
 
 msgid "Running"
-msgstr ""
+msgstr "운행중"
 
 msgid "Runway"
-msgstr ""
+msgstr "활주로"
 
 msgid "Russian"
-msgstr ""
+msgstr "러시아"
 
 msgid "Sagebrush"
-msgstr ""
+msgstr "세이지브러시"
 
 msgid "Saguaro cactus"
-msgstr ""
+msgstr "사와로 선인장"
 
 msgid "Salmon"
-msgstr ""
+msgstr "연어"
 
 msgid "Sand"
-msgstr ""
+msgstr "모래"
 
 msgid "Sand 01"
-msgstr ""
+msgstr "모래 1"
 
 msgid "Sand 02"
-msgstr ""
+msgstr "모래 2"
 
 msgid "Sand 03"
-msgstr ""
+msgstr "모래 3"
 
 msgid "Sand 04"
-msgstr ""
+msgstr "모래 4"
 
 msgid "Sand red 01"
-msgstr ""
+msgstr "붉은 모래 1"
 
 msgid "Sand red 02"
-msgstr ""
+msgstr "붉은 모래 2"
 
 msgid "Sand yellow"
-msgstr ""
+msgstr "노란 모래 1"
 
 msgid "Sand yellow 02"
-msgstr ""
+msgstr "노란 모래 2"
 
 msgid "Sandstone 1"
-msgstr ""
+msgstr "사암 1"
 
 msgid "Sandstone 2"
-msgstr ""
+msgstr "사암 2"
 
 msgid "Sandstone 3"
-msgstr ""
+msgstr "사암 3"
 
 msgid "Saw mill"
-msgstr ""
+msgstr "제재소"
 
 msgid "Scale"
-msgstr ""
+msgstr "스케일"
 
 msgid "Scots pine"
-msgstr ""
+msgstr "스코틀랜드 소나무"
 
 msgid "Scree"
-msgstr ""
+msgstr "낙석 1"
 
 msgid "Scree 2"
-msgstr ""
+msgstr "낙석 2"
 
+#, fuzzy
 msgid "Second street connection"
-msgstr ""
+msgstr "도로 교차로"
 
 msgid "Shape"
-msgstr ""
+msgstr "모양"
 
 msgid "Shingle oak"
-msgstr ""
+msgstr "참나무"
 
 msgid "Shinkansen 0 Luxus Series"
-msgstr ""
+msgstr "신칸센 0 룩서스 시리즈"
 
 msgid "Shipyard"
 msgstr ""
 
 msgid "Shrubland vegetation"
-msgstr ""
+msgstr "관목 심기"
 
 msgid "Side entrance"
-msgstr ""
+msgstr "부 출입구"
 
 msgid "Silver Spoons"
-msgstr ""
+msgstr "은 숟가락"
 
 msgid "Silver ore"
-msgstr ""
+msgstr "은광석"
 
 msgid "Simple crossing"
-msgstr ""
+msgstr "단순한 철도 건널목"
 
 msgid "Single track field lighting"
-msgstr ""
+msgstr "단일 선로 전등"
 
 msgid "Sitting down"
-msgstr ""
+msgstr "앉기"
 
 msgid "Six-lane road with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 제한 속도를 가진 6차로 도로."
 
 msgid "Six-lane street with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 제한 속도를 가진 6차로 도로."
 
 msgid "Size"
-msgstr ""
+msgstr "크기"
 
 msgid "Small"
-msgstr ""
+msgstr "소형"
 
 msgid "Small bus/tram stop for passengers, to be placed on the sidewalk."
-msgstr ""
+msgstr "승객을 위한 소형 버스/트램 정류장. 인도에 설치해야 합니다."
 
 msgid "Small country road"
-msgstr ""
+msgstr "소형 시골 도로"
 
 msgid "Small dock"
-msgstr ""
+msgstr "소형 부두"
 
 msgid ""
 "Small dock for small cargo ships. A small landing is required for ships to "
 "be able to dock."
-msgstr ""
+msgstr "소형 화물선을 위한 소형 부두. 접안하려면 소형 접안 시설이 필요합니다."
 
 msgid ""
 "Small dock for small passenger ships. A small landing is required for ships "
 "to be able to dock."
-msgstr ""
+msgstr "소형 여객선을 위한 소형 부두. 접안하려면 소형 접안 시설이 필요합니다."
 
 msgid "Small landing"
-msgstr ""
+msgstr "소형 접안 시설"
 
 msgid "Small main building"
-msgstr ""
+msgstr "소형 본관"
 
 msgid "Small main building with street access for cargo stations."
-msgstr ""
+msgstr "화물역을 위한 소형 본관 건물."
 
 msgid "Small main building with street access for passenger stations."
-msgstr ""
+msgstr "여객역을 위한 소형 본관 건물."
 
 msgid "Small one-way street"
-msgstr ""
+msgstr "소형 일방통행 도로"
 
 msgid "Small side building"
-msgstr ""
+msgstr "소형 별관"
 
 msgid "Small side building with street access for cargo stations."
-msgstr ""
+msgstr "화물역을 위한 소형 별관 건물."
 
 msgid "Small side building with street access for passenger stations."
-msgstr ""
+msgstr "여객역을 위한 소형 별관 건물."
 
 msgid "Small street"
-msgstr ""
+msgstr "소형 도로"
 
 msgid ""
 "Small truck stop to unload cargo, to be placed on the sidewalk. Does not "
 "allow loading of cargo."
 msgstr ""
+"화물 하차를 위한 소형 트럭 정류장. 인도에 배치해야 합니다. 화물 상차는 불가능"
+"합니다."
 
 msgid "Snow 01"
-msgstr ""
+msgstr "눈 1"
 
 msgid "Soil 01"
-msgstr ""
+msgstr "흙 1"
 
 msgid "Soil Sand 01"
-msgstr ""
+msgstr "흙과 모래 1"
 
 msgid "Soil Sand 02"
-msgstr ""
+msgstr "흙과 모래 2"
 
 msgid "Soil Sand 03"
-msgstr ""
+msgstr "흙과 모래 3"
 
 msgid "Something mysterious"
-msgstr ""
+msgstr "불가사의한 무언가"
 
 msgid "Spanish"
-msgstr ""
+msgstr "스페인"
 
 msgid "Special platform roof"
-msgstr ""
+msgstr "특별한 플랫폼 지붕"
 
 msgid "Specialized tracks for higher speeds."
-msgstr ""
+msgstr "고속 주행을 위한 특별한 선로."
 
 msgid "Specialized tracks with catenary for higher speeds."
-msgstr ""
+msgstr "고속 주행을 위한 전철선이 있는 특별한 선로."
 
 msgid "Standard"
-msgstr ""
+msgstr "일반"
 
 msgid "Standard tracks"
-msgstr ""
+msgstr "일반 선로"
 
 msgid "Standard tracks with catenary and limited speed capabilities."
-msgstr ""
+msgstr "제한적인 속도를 가지는 전철선이 있는 일반 선로."
 
 msgid "Standard tracks with limited speed capabilities."
-msgstr ""
+msgstr "제한적인 속도를 가지는 일반 선로."
 
 msgid "Standard tunnel"
-msgstr ""
+msgstr "일반 터널"
 
 msgid "Station entrance"
-msgstr ""
+msgstr "역 입구"
 
 msgid "Station exit"
-msgstr ""
+msgstr "역 출구"
 
 msgid "Station statistics"
-msgstr ""
+msgstr "역 통계"
 
 msgid "Stations"
-msgstr ""
+msgstr "역"
 
 msgid "Stations layer"
-msgstr ""
+msgstr "역 레이어"
 
 msgid "Steel"
-msgstr ""
+msgstr "강철"
 
 msgid "Steel mill"
-msgstr ""
+msgstr "제철소"
 
 msgid "Stone"
-msgstr ""
+msgstr "돌"
 
-#, fuzzy
-#| msgid "Suspension Bridge"
 msgid "Stone bridge"
-msgstr "Suspension bridge"
+msgstr "석재 다리"
 
 msgid "Street access"
-msgstr ""
+msgstr "도로 접근"
 
 msgid "Street access for passengers and cargo."
-msgstr ""
+msgstr "여객과 화물을 위한 도로 접근."
 
 msgid "Street connection"
-msgstr ""
+msgstr "도로 연결"
 
 msgid "Street connection that can be used as an entrance and exit."
-msgstr ""
+msgstr "입구와 출구로 쓰이는 도로 연결."
 
 msgid "Street connection that can be used as an entrance only."
-msgstr ""
+msgstr "입구로만 쓰이는 도로 연결."
 
 msgid "Street connection that can be used as an exit only."
-msgstr ""
+msgstr "출구로만 쓰이는 도로 연결."
 
 msgid "Street station"
-msgstr ""
+msgstr "자동차역"
 
 msgid "Street traffic layer"
-msgstr ""
+msgstr "도로 교통량 레이어"
 
 msgid "Sugar"
-msgstr ""
+msgstr "설탕"
 
 msgid "Sugar maple"
-msgstr ""
+msgstr "사탕 단풍"
 
 msgid "Suspension Bridge"
-msgstr "Suspension bridge"
+msgstr "현수교"
 
 msgid "Swedish"
-msgstr ""
+msgstr "스웨덴"
 
 msgid "Swimming"
-msgstr ""
+msgstr "수영"
 
 msgid "T-intersection"
-msgstr ""
+msgstr "T자형 분기점"
 
 msgid "TIP_CONSTRUCTION_1"
 msgstr "Build bridges high enough for ships to pass."
@@ -13319,149 +13328,150 @@ msgstr ""
 "higher maintenance costs."
 
 msgid "Taxi signal"
-msgstr ""
+msgstr "유도등"
 
 msgid "Taxiway"
-msgstr ""
+msgstr "유도로"
 
 msgid "Temperate"
-msgstr ""
+msgstr "온대"
 
 msgid "Temperate (assets only)"
-msgstr ""
+msgstr "온대(설치물만)"
 
 msgid "Terminals"
-msgstr ""
+msgstr "터미널"
 
 msgid "Terrain alignment"
-msgstr ""
+msgstr "지표면 부드럽게"
 
 msgid "The context help page for this menu or window is not available."
-msgstr ""
+msgstr "이 메뉴나 창을 위한 도움말 페이지는 존재하지 않습니다."
 
 msgid "Three-lane one-way road with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 제한 속도를 가지는 3차선 일방통행 도로."
 
 msgid "Three-lane one-way street with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 제한 속도를 가지는 3차선 일방통행 도로."
 
 msgid "Three-way highway intersection."
-msgstr ""
+msgstr "3차선 고속도로 분기점."
 
 msgid "Tiles hexagon"
-msgstr ""
+msgstr "육각형 타일"
 
 msgid "Tip"
-msgstr ""
+msgstr "팁"
 
 msgid "Tools"
-msgstr ""
+msgstr "도구"
 
 msgid "Tools factory"
-msgstr ""
+msgstr "도구 공장"
 
 msgid "Total earnings"
-msgstr ""
+msgstr "총 수입"
 
 msgid "Town names"
-msgstr ""
+msgstr "마을 이름"
 
 msgid "Town statistics"
-msgstr ""
+msgstr "마을 통계"
 
 msgid "Towns"
-msgstr ""
+msgstr "마을"
 
 msgid "Track assets"
-msgstr ""
+msgstr "선로용 설치물"
 
 msgid "Track speed limits layer"
-msgstr ""
+msgstr "선로 속도 제한 레이어"
 
 msgid "Track type"
-msgstr ""
+msgstr "선로 종류"
 
 msgid "Tracks"
-msgstr ""
+msgstr "선로"
 
 msgid "Train depot"
-msgstr ""
+msgstr "기차 차고"
 
 msgid "Train station"
-msgstr ""
+msgstr "기차역"
 
 msgid "Tram depot"
-msgstr ""
+msgstr "트램 차고"
 
 msgid "Tram track"
-msgstr ""
+msgstr "트램 선로"
 
 msgid "Tree"
-msgstr ""
+msgstr "나무"
 
 msgid "Tree limit"
-msgstr ""
+msgstr "나무 제한"
 
 msgid "Tropical"
-msgstr ""
+msgstr "열대"
 
 msgid "Tropical (assets only)"
-msgstr ""
+msgstr "열대 (설치물만)"
 
 msgid "Tropical vegetation"
-msgstr ""
+msgstr "열대식물 심기"
 
 msgid "Truck station"
-msgstr ""
+msgstr "트럭용 역"
 
 msgid "Truck unload stop"
-msgstr ""
+msgstr "트럭 하자 정류장"
 
 msgid "Two-lane one-way road with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 제한 속도를 가지는 2차선 일방통행 도로."
 
 msgid "Two-lane one-way street with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 제한 속도를 가지는 2차선 일방통행 도로."
 
 msgid "Two-lane road with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 제한 속도를 가지는 2차선 도로."
 
 msgid "Two-lane street with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 제한 속도를 가지는 2차선 도로."
 
 msgid "Underpass for passenger platforms."
-msgstr ""
+msgstr "여객 플랫폼을 위한 지하 통로."
 
 msgid "Unfortunate!"
-msgstr ""
+msgstr "이런!"
 
 msgid "Urban"
-msgstr ""
+msgstr "도심"
 
 msgid ""
 "Used as a normal path signal to regulate traffic or as a one-way signal."
 msgstr ""
+"통행을 통제하기 위한 일반 신호기 또는 일방통행 신호로 사용할 수 있습니다."
 
 msgid "Used for rerouting a line. Can be added to a line like a station."
-msgstr ""
+msgstr "선로의 경로를 설정할 때 사용합니다. 역처럼 노선에 추가할 수 있습니다."
 
 msgid "Used to buy/sell buses and trucks."
-msgstr ""
+msgstr "버스나 트럭을 구매/판매합니다."
 
 msgid "Used to buy/sell ships."
-msgstr ""
+msgstr "선박을 구매/판매합니다."
 
 msgid "Used to buy/sell small aircraft."
-msgstr ""
+msgstr "소형 항공기를 구매/판매합니다."
 
 msgid "Used to buy/sell small and large aircraft."
-msgstr ""
+msgstr "소형과 대형 항공기를 구매/판매합니다."
 
 msgid "Used to buy/sell trains."
-msgstr ""
+msgstr "열차를 구매/판매합니다."
 
 msgid "Used to buy/sell trams."
-msgstr ""
+msgstr "트램을 구매/판매합니다."
 
 msgid "VEHICLE_BUS_ABOAG_DESCRIPTION"
 msgstr ""
