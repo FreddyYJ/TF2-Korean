@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-11 17:34+0100\n"
-"PO-Revision-Date: 2021-05-25 12:00+0900\n"
+"PO-Revision-Date: 2021-05-27 17:11+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -16,13 +16,13 @@ msgstr ""
 "X-Source-Language: de_DE\n"
 
 msgid " (with catenary)"
-msgstr "(전철선 포함)"
+msgstr " (전철선 포함)"
 
 msgid " stations left"
-msgstr "남은 역"
+msgstr " 남은 역"
 
 msgid " with catenary"
-msgstr "전철선 포함"
+msgstr " 전철선 포함"
 
 msgid "${value}"
 msgstr "${value}"
@@ -43,7 +43,7 @@ msgid "1 m"
 msgstr "1m"
 
 msgid "100 m x 50 m platform."
-msgstr "100m x 50m 크기"
+msgstr "100m x 50m 플랫폼."
 
 msgid "10m"
 msgstr "10m"
@@ -85,7 +85,7 @@ msgid "5"
 msgstr "5"
 
 msgid "50 m x 50 m platform."
-msgstr "50m x 50m 크기"
+msgstr "50m x 50m 플랫폼."
 
 msgid "6"
 msgstr "6"
@@ -13479,7 +13479,7 @@ msgstr ""
 "Omnibus AG."
 
 msgid "VEHICLE_BUS_ABOAG_NAME"
-msgstr "Daimler deck seat car"
+msgstr "다임러 데크좌석 차"
 
 msgid "VEHICLE_BUS_AMERICAN_POST_COACH_DESCRIPTION"
 msgstr ""
@@ -13487,13 +13487,13 @@ msgstr ""
 "years."
 
 msgid "VEHICLE_BUS_AMERICAN_POST_COACH_NAME"
-msgstr "American stagecoach"
+msgstr "미국 역마차"
 
 msgid "VEHICLE_BUS_BENZ_O6600_DESCRIPTION"
 msgstr "The city bus, built by Mercedes-Benz, cost 52,785 DM at the time."
 
 msgid "VEHICLE_BUS_BENZ_O6600_NAME"
-msgstr "Mercedes-Benz O 6600"
+msgstr "메르세데스-벤츠 O 6600"
 
 msgid "VEHICLE_BUS_BERKHOF_DUVEDEC_DESCRIPTION"
 msgstr ""
@@ -13517,7 +13517,7 @@ msgstr ""
 "many ways, e.g. as a school bus, a city bus and for other purposes."
 
 msgid "VEHICLE_BUS_CHEVROLET_C60_1974_NAME"
-msgstr "Chevrolet C60"
+msgstr "쉐보레 C60"
 
 msgid "VEHICLE_BUS_D40_DESCRIPTION"
 msgstr ""
@@ -13526,7 +13526,7 @@ msgstr ""
 "made of stainless steel."
 
 msgid "VEHICLE_BUS_D40_NAME"
-msgstr "New Flyer D40"
+msgstr "뉴 플라이어 D40"
 
 msgid "VEHICLE_BUS_DROSHKY_DESCRIPTION"
 msgstr ""
@@ -13534,7 +13534,7 @@ msgstr ""
 "families. Later the Droshky became the predecessor of the modern taxi."
 
 msgid "VEHICLE_BUS_DROSHKY_NAME"
-msgstr "Droshky"
+msgstr "Droshky 마차"
 
 msgid "VEHICLE_BUS_DUX_DESCRIPTION"
 msgstr ""
@@ -13556,7 +13556,7 @@ msgid "VEHICLE_BUS_ET13_DESCRIPTION"
 msgstr "The ET 13 was a widely used engine-powered bus built in Austria."
 
 msgid "VEHICLE_BUS_ET13_NAME"
-msgstr "Postbus ET 13"
+msgstr "포스트버스 ET 13"
 
 msgid "VEHICLE_BUS_FUSO_B46_DESCRIPTION"
 msgstr ""
@@ -13564,7 +13564,7 @@ msgstr ""
 "employees were allowed to give it its name \"Fuso\"."
 
 msgid "VEHICLE_BUS_FUSO_B46_NAME"
-msgstr "Fuso B46"
+msgstr "후소 B46"
 
 msgid "VEHICLE_BUS_GAGGENAU_C40_DESCRIPTION"
 msgstr ""
@@ -13572,7 +13572,7 @@ msgstr ""
 "was manufactured in Germany."
 
 msgid "VEHICLE_BUS_GAGGENAU_C40_NAME"
-msgstr "Gaggenau C40"
+msgstr "가게나우 C40"
 
 msgid "VEHICLE_BUS_GM_FISHBOWL_DESCRIPTION"
 msgstr ""
@@ -13589,7 +13589,7 @@ msgstr ""
 "early years."
 
 msgid "VEHICLE_BUS_HORSE_CARRIAGE_NAME"
-msgstr "Horse-drawn carriage"
+msgstr "마차"
 
 msgid "VEHICLE_BUS_LANDAUER_DESCRIPTION"
 msgstr ""
@@ -13598,7 +13598,7 @@ msgstr ""
 "route."
 
 msgid "VEHICLE_BUS_LANDAUER_NAME"
-msgstr "Landauer"
+msgstr "란다우어"
 
 msgid "VEHICLE_BUS_MACK_1900_USA_DESCRIPTION"
 msgstr ""
@@ -13607,13 +13607,13 @@ msgstr ""
 "a truck. The mileage was one million miles!"
 
 msgid "VEHICLE_BUS_MACK_1900_USA_NAME"
-msgstr "Mack"
+msgstr "맥"
 
 msgid "VEHICLE_BUS_MAN_SL_192_DESCRIPTION"
 msgstr "Standard city bus, which was built in large numbers."
 
 msgid "VEHICLE_BUS_MAN_SL_192_NAME"
-msgstr "MAN SL 192"
+msgstr "만 SL 192"
 
 msgid "VEHICLE_BUS_MAZ_103_DESCRIPTION"
 msgstr ""
@@ -13621,7 +13621,7 @@ msgstr ""
 "Belarus today."
 
 msgid "VEHICLE_BUS_MAZ_103_NAME"
-msgstr "Maz 103"
+msgstr "마즈 103"
 
 msgid "VEHICLE_BUS_OBEISSANTE_DESCRIPTION"
 msgstr ""
@@ -13637,7 +13637,7 @@ msgstr ""
 "years."
 
 msgid "VEHICLE_BUS_POSTKUTSCHE_NAME"
-msgstr "Stagecoach"
+msgstr "역마차"
 
 msgid "VEHICLE_BUS_SAURER_TUESCHER_DESCRIPTION"
 msgstr ""
@@ -13654,7 +13654,7 @@ msgstr ""
 "including New York."
 
 msgid "VEHICLE_BUS_SCHNEIDER_PB2_NAME"
-msgstr "Schneider PB2"
+msgstr "슈나이더 PB2"
 
 msgid "VEHICLE_BUS_TROIKA_DESCRIPTION"
 msgstr ""
@@ -13662,7 +13662,7 @@ msgstr ""
 "the horses next to each other."
 
 msgid "VEHICLE_BUS_TROIKA_NAME"
-msgstr "Troika"
+msgstr "트로이카"
 
 msgid "VEHICLE_BUS_TWIN_COACH_DESCRIPTION"
 msgstr ""
@@ -13670,7 +13670,7 @@ msgstr ""
 "1927 to 1955."
 
 msgid "VEHICLE_BUS_TWIN_COACH_NAME"
-msgstr "Twin Coach 44-S"
+msgstr "트윈 코치 44-S"
 
 msgid "VEHICLE_BUS_VOLVO_5000_DESCRIPTION"
 msgstr ""
@@ -13678,7 +13678,7 @@ msgstr ""
 "bodywork from Säffle."
 
 msgid "VEHICLE_BUS_VOLVO_5000_NAME"
-msgstr "Volvo 5000"
+msgstr "볼보 5000"
 
 msgid "VEHICLE_BUS_WRIGHT_STREETCAR_RTV_DESCRIPTION"
 msgstr ""
@@ -13687,7 +13687,7 @@ msgstr ""
 "compartment and is air-conditioned."
 
 msgid "VEHICLE_BUS_WRIGHT_STREETCAR_RTV_NAME"
-msgstr "Wright StreetCar"
+msgstr "라이트 전차"
 
 msgid "VEHICLE_BUS_ZIS_155_DESCRIPTION"
 msgstr ""
@@ -13703,7 +13703,7 @@ msgstr ""
 "forward by an electric drive."
 
 msgid "VEHICLE_BUS_ZUHAI_GTQ_6186BEVBT3_NAME"
-msgstr "Zuhai GTQ"
+msgstr "주하이 GTQ"
 
 msgid "VEHICLE_MULTIPLEUNIT_ALCO_PA_PB_DESCRIPTION"
 msgstr ""
@@ -13711,7 +13711,7 @@ msgstr ""
 "increased the horsepower rating."
 
 msgid "VEHICLE_MULTIPLEUNIT_ALCO_PA_PB_NAME"
-msgstr "Alco PA/PB"
+msgstr "알코 PA/PB"
 
 msgid "VEHICLE_MULTIPLEUNIT_AVELIA_LIBERTY_DESCRIPTION"
 msgstr ""
@@ -13720,7 +13720,7 @@ msgstr ""
 "299km/h are possible, without tilting 350km/h are possible."
 
 msgid "VEHICLE_MULTIPLEUNIT_AVELIA_LIBERTY_NAME"
-msgstr "Avelia Liberty"
+msgstr "아벨리아 리버티"
 
 msgid "VEHICLE_MULTIPLEUNIT_ES1_LASTOCHKA_DESCRIPTION"
 msgstr ""
@@ -13729,7 +13729,7 @@ msgstr ""
 "Krasnaya Polyana region, which uses AC voltage."
 
 msgid "VEHICLE_MULTIPLEUNIT_ES1_LASTOCHKA_NAME"
-msgstr "ES1 Lastochka"
+msgstr "ES1 라스토치카"
 
 msgid "VEHICLE_MULTIPLEUNIT_FUXING_HAO_DESCRIPTION"
 msgstr ""
@@ -13738,7 +13738,7 @@ msgstr ""
 "to each other."
 
 msgid "VEHICLE_MULTIPLEUNIT_FUXING_HAO_NAME"
-msgstr "Fuxing Hao"
+msgstr "CR400 푸싱하오"
 
 msgid "VEHICLE_MULTIPLEUNIT_ICE1_DESCRIPTION"
 msgstr ""
@@ -13754,7 +13754,7 @@ msgstr ""
 "New York City, used self-powered electric multiple unit cars."
 
 msgid "VEHICLE_MULTIPLEUNIT_METROLINER_NAME"
-msgstr "Metroliner"
+msgstr "메트로라이너"
 
 msgid "VEHICLE_MULTIPLEUNIT_MIRAGE_DESCRIPTION"
 msgstr ""
@@ -13763,7 +13763,7 @@ msgstr ""
 "high acceleration. This led to the nickname \"Mirage\"."
 
 msgid "VEHICLE_MULTIPLEUNIT_MIRAGE_NAME"
-msgstr "RABDe 12/12 Mirage"
+msgstr "RABDe 12/12 미라지"
 
 msgid "VEHICLE_MULTIPLEUNIT_RA2_DESCRIPTION"
 msgstr ""
@@ -13780,7 +13780,7 @@ msgstr ""
 "rarely used."
 
 msgid "VEHICLE_MULTIPLEUNIT_RE_450_NAME"
-msgstr "Re 450 commuter train"
+msgstr "Re 450 통근열차"
 
 msgid "VEHICLE_MULTIPLEUNIT_RUSSIAN_CLASS_ED9M_DESCRIPTION"
 msgstr ""
@@ -13789,7 +13789,7 @@ msgstr ""
 "electrical energy."
 
 msgid "VEHICLE_MULTIPLEUNIT_RUSSIAN_CLASS_ED9M_NAME"
-msgstr "Russian Class ED9M"
+msgstr "러시아 Class ED9M"
 
 msgid "VEHICLE_MULTIPLEUNIT_SHINKANSEN_0S_DESCRIPTION"
 msgstr ""
@@ -13798,7 +13798,7 @@ msgstr ""
 "high speed and high acceleration."
 
 msgid "VEHICLE_MULTIPLEUNIT_SHINKANSEN_0S_NAME"
-msgstr "Shinkansen 0 Series"
+msgstr "신칸센 0 시리즈"
 
 msgid "VEHICLE_MULTIPLEUNIT_SILVERSTREAK_EXPRESS_DESCRIPTION"
 msgstr ""
@@ -13807,7 +13807,7 @@ msgstr ""
 "electrical energy."
 
 msgid "VEHICLE_MULTIPLEUNIT_SILVERSTREAK_EXPRESS_NAME"
-msgstr "Pioneer Zephyr"
+msgstr "파이오니어 제퍼"
 
 msgid "VEHICLE_MULTIPLEUNIT_SPEEDANCE_DESCRIPTION"
 msgstr ""
@@ -13816,7 +13816,7 @@ msgstr ""
 "tilting technology to travel at higher speeds."
 
 msgid "VEHICLE_MULTIPLEUNIT_SPEEDANCE_NAME"
-msgstr "Speedance Express"
+msgstr "스피던스 익스프레스"
 
 msgid "VEHICLE_MULTIPLEUNIT_TGV_2_DESCRIPTION"
 msgstr ""
@@ -13842,7 +13842,7 @@ msgstr ""
 "A318/A319/A320/A321 family."
 
 msgid "VEHICLE_PLANE_AIRBUS_A320_NAME"
-msgstr "Airbus A320"
+msgstr "에어버스 A320"
 
 msgid "VEHICLE_PLANE_BOEING_737_700_CARGO_DESCRIPTION"
 msgstr ""
@@ -13851,7 +13851,7 @@ msgstr ""
 "cargo door on the main deck."
 
 msgid "VEHICLE_PLANE_BOEING_737_700_CARGO_NAME"
-msgstr "Boeing 737-700-C"
+msgstr "보잉 737-700-C"
 
 msgid "VEHICLE_PLANE_BOEING_737_700_DESCRIPTION"
 msgstr ""
@@ -13860,7 +13860,7 @@ msgstr ""
 "for transcontinental flights thanks to its longer range."
 
 msgid "VEHICLE_PLANE_BOEING_737_700_NAME"
-msgstr "Boeing 737-700"
+msgstr "보잉 737-700"
 
 msgid "VEHICLE_PLANE_BOEING_737_CARGO_DESCRIPTION"
 msgstr ""
@@ -13868,7 +13868,7 @@ msgstr ""
 "freight transport. A \"Quick Change\" version was also offered."
 
 msgid "VEHICLE_PLANE_BOEING_737_CARGO_NAME"
-msgstr "Boeing 737-200C"
+msgstr "보잉 737-200C"
 
 msgid "VEHICLE_PLANE_BOEING_737_DESCRIPTION"
 msgstr ""
@@ -13876,7 +13876,7 @@ msgstr ""
 "flights."
 
 msgid "VEHICLE_PLANE_BOEING_737_NAME"
-msgstr "Boeing 737-100"
+msgstr "보잉 737-100"
 
 msgid "VEHICLE_PLANE_BOEING_757_CARGO_DESCRIPTION"
 msgstr ""
@@ -13885,7 +13885,7 @@ msgstr ""
 "completely omitted."
 
 msgid "VEHICLE_PLANE_BOEING_757_CARGO_NAME"
-msgstr "Boeing 757-200PF / SF"
+msgstr "보잉 757-200PF / SF"
 
 msgid "VEHICLE_PLANE_BOEING_757_DESCRIPTION"
 msgstr ""
@@ -13893,7 +13893,7 @@ msgstr ""
 "was built between 1981 and 2004."
 
 msgid "VEHICLE_PLANE_BOEING_757_NAME"
-msgstr "Boeing 757-200"
+msgstr "보잉 757-200"
 
 msgid "VEHICLE_PLANE_BOMBARDIER_CS300_DESCRIPTION"
 msgstr ""
@@ -13902,7 +13902,7 @@ msgstr ""
 "renamed Airbus A220. "
 
 msgid "VEHICLE_PLANE_BOMBARDIER_CS300_NAME"
-msgstr "Bombardier CS300"
+msgstr "봄바디어 CS300"
 
 msgid "VEHICLE_PLANE_BOMBARDIER_DHC_8_402PF_DESCRIPTION"
 msgstr ""
@@ -13911,7 +13911,7 @@ msgstr ""
 "the transport of cargo on pallets. "
 
 msgid "VEHICLE_PLANE_BOMBARDIER_DHC_8_402PF_NAME"
-msgstr "Bombardier DHC-8-402PF"
+msgstr "봄바디어 DHC-8-402PF"
 
 msgid "VEHICLE_PLANE_BOMBARDIER_Q400_DESCRIPTION"
 msgstr ""
@@ -13920,7 +13920,7 @@ msgstr ""
 "insulation."
 
 msgid "VEHICLE_PLANE_BOMBARDIER_Q400_NAME"
-msgstr "Bombardier Q400"
+msgstr "봄바디어 Q400"
 
 msgid "VEHICLE_PLANE_BRISTOL_FREIGHTER_DESCRIPTION"
 msgstr ""
@@ -13929,7 +13929,7 @@ msgstr ""
 "fast ferries, freight was transported instead."
 
 msgid "VEHICLE_PLANE_BRISTOL_FREIGHTER_NAME"
-msgstr "Bristol Freighter"
+msgstr "브리스톨 화물기"
 
 msgid "VEHICLE_PLANE_CANADAIR_CL_44_DESCRIPTION"
 msgstr ""
@@ -13938,7 +13938,7 @@ msgstr ""
 "loading."
 
 msgid "VEHICLE_PLANE_CANADAIR_CL_44_NAME"
-msgstr "Canadair CL-44"
+msgstr "캐나대어 CL-44"
 
 msgid "VEHICLE_PLANE_COMET_4B_DESCRIPTION"
 msgstr ""
@@ -13946,7 +13946,7 @@ msgstr ""
 "capacity (thanks to the longer fuselage) and a smaller wingspan."
 
 msgid "VEHICLE_PLANE_COMET_4B_NAME"
-msgstr "De Havilland Comet 4B"
+msgstr "드 하빌랜드 코멧 4B"
 
 msgid "VEHICLE_PLANE_DORNIER_B_MERKUR_DESCRIPTION"
 msgstr ""
@@ -13954,7 +13954,7 @@ msgstr ""
 "works in Friedrichshafen."
 
 msgid "VEHICLE_PLANE_DORNIER_B_MERKUR_NAME"
-msgstr "Dornier Merkur"
+msgstr "도니어 메르쿠어"
 
 msgid "VEHICLE_PLANE_DOUGLAS_C49_SKYTRAIN_DESCRIPTION"
 msgstr ""
@@ -13963,7 +13963,7 @@ msgstr ""
 "still in use today."
 
 msgid "VEHICLE_PLANE_DOUGLAS_C49_SKYTRAIN_NAME"
-msgstr "Douglas C-49 Skytrain"
+msgstr "더글러스 C-49 스카이트레인"
 
 msgid "VEHICLE_PLANE_DOUGLAS_DC3_DESCRIPTION"
 msgstr ""
@@ -13971,7 +13971,7 @@ msgstr ""
 "range revolutionized air travel in the 1930s and 1940s."
 
 msgid "VEHICLE_PLANE_DOUGLAS_DC3_NAME"
-msgstr "Douglas DC-3"
+msgstr "더글러스 DC-3"
 
 msgid "VEHICLE_PLANE_DOUGLAS_DC4_DESCRIPTION"
 msgstr ""
@@ -13980,7 +13980,7 @@ msgstr ""
 "aviation."
 
 msgid "VEHICLE_PLANE_DOUGLAS_DC4_NAME"
-msgstr "Douglas DC-4"
+msgstr "더글러스 DC-4"
 
 msgid "VEHICLE_PLANE_JUNKERS_F_13_DESCRIPTION"
 msgstr ""
@@ -13988,7 +13988,7 @@ msgstr ""
 "the first all-metal aircraft for civil aviation."
 
 msgid "VEHICLE_PLANE_JUNKERS_F_13_NAME"
-msgstr "Junkers F 13"
+msgstr "융커스 F 13"
 
 msgid "VEHICLE_PLANE_JUNKERS_JU_52_DESCRIPTION"
 msgstr ""
@@ -13997,7 +13997,7 @@ msgstr ""
 "infrastructure."
 
 msgid "VEHICLE_PLANE_JUNKERS_JU_52_NAME"
-msgstr "Junkers JU-52"
+msgstr "융커스 JU-52"
 
 msgid "VEHICLE_PLANE_SHORT_330_DESCRIPTION"
 msgstr ""
@@ -14006,7 +14006,7 @@ msgstr ""
 "nicknamed \"Schuhkarton\"."
 
 msgid "VEHICLE_PLANE_SHORT_330_NAME"
-msgstr "Short 330 C-23 Sherpa"
+msgstr "쇼트 330 C-23 셰르파"
 
 msgid "VEHICLE_PLANE_SUKHOI_SUPERJET_100_DESCRIPTION"
 msgstr ""
@@ -14015,7 +14015,7 @@ msgstr ""
 "western market."
 
 msgid "VEHICLE_PLANE_SUKHOI_SUPERJET_100_NAME"
-msgstr "Sukhoi Superjet 100"
+msgstr "수호이 슈퍼제트 100"
 
 msgid "VEHICLE_PLANE_SUPER_CONNIE_CARGO_DESCRIPTION"
 msgstr ""
@@ -14023,7 +14023,7 @@ msgstr ""
 "L-1049C was equipped with large cargo doors and a heavy-duty floor."
 
 msgid "VEHICLE_PLANE_SUPER_CONNIE_CARGO_NAME"
-msgstr "Lockheed Super Constellation L-1049D/H"
+msgstr "록히드 슈퍼 콘스텔레이션 L-1049D/H"
 
 msgid "VEHICLE_PLANE_SUPER_CONNIE_DESCRIPTION"
 msgstr ""
@@ -14031,7 +14031,7 @@ msgstr ""
 "the most successful version of the Constellation series."
 
 msgid "VEHICLE_PLANE_SUPER_CONNIE_NAME"
-msgstr "Lockheed Super Constellation L-1049"
+msgstr "록히드 슈퍼 콘스텔레이션 L-1049"
 
 msgid "VEHICLE_PLANE_TUPOLEV_TU_204_CARGO_DESCRIPTION"
 msgstr ""
@@ -14039,7 +14039,7 @@ msgstr ""
 "European and Egyptian airlines."
 
 msgid "VEHICLE_PLANE_TUPOLEV_TU_204_CARGO_NAME"
-msgstr "Tupolev Tu-204C"
+msgstr "투폴레프 Tu-204C"
 
 msgid "VEHICLE_PLANE_TUPOLEV_TU_204_DESCRIPTION"
 msgstr ""
@@ -14048,7 +14048,7 @@ msgstr ""
 "supercritical wings and winglets."
 
 msgid "VEHICLE_PLANE_TUPOLEV_TU_204_NAME"
-msgstr "Tupolev Tu-204"
+msgstr "투폴레프 Tu-204"
 
 msgid "VEHICLE_PLANE_VICKERS_VICTORIA_DESCRIPTION"
 msgstr ""
@@ -14056,7 +14056,7 @@ msgstr ""
 "for the transport of troops. Around 100 units were built."
 
 msgid "VEHICLE_PLANE_VICKERS_VICTORIA_NAME"
-msgstr "Vickers Victoria"
+msgstr "빅커스 빅토리아"
 
 msgid "VEHICLE_PLANE_baE_146_CARGO_DESCRIPTION"
 msgstr ""
@@ -14065,7 +14065,7 @@ msgstr ""
 "series."
 
 msgid "VEHICLE_PLANE_baE_146_CARGO_NAME"
-msgstr "Br. Aerospace 146 200 QT"
+msgstr "Br. 에어로스페이스 146 200 QT"
 
 msgid "VEHICLE_PLANE_baE_146_DESCRIPTION"
 msgstr ""
@@ -14074,7 +14074,7 @@ msgstr ""
 "variants."
 
 msgid "VEHICLE_PLANE_baE_146_NAME"
-msgstr "Br. Aerospace 146"
+msgstr "Br. 에어로스페이스 146"
 
 msgid "VEHICLE_PLANE_hERCULES_l100_DESCRIPTION"
 msgstr ""
@@ -14083,7 +14083,7 @@ msgstr ""
 "communications equipment. "
 
 msgid "VEHICLE_PLANE_hERCULES_l100_NAME"
-msgstr "Lockheed L-100 Hercules"
+msgstr "록히드 L-100 헤라클레스"
 
 msgid "VEHICLE_SHIP_DAMEN_FERRY_DESCRIPTION"
 msgstr ""
@@ -14091,7 +14091,7 @@ msgstr ""
 "is powered by 4 MTU main engines."
 
 msgid "VEHICLE_SHIP_DAMEN_FERRY_NAME"
-msgstr "Damen Ferry"
+msgstr "다멘 페리"
 
 msgid "VEHICLE_SHIP_DS_SCHAFFHAUSEN_DESCRIPTION"
 msgstr ""
@@ -14099,7 +14099,7 @@ msgstr ""
 "operated by Schweizer Dampfboot AG."
 
 msgid "VEHICLE_SHIP_DS_SCHAFFHAUSEN_NAME"
-msgstr "Schaffhausen"
+msgstr "샤프하우젠"
 
 msgid "VEHICLE_SHIP_DUNARA_CASTLE_DESCRIPTION"
 msgstr ""
@@ -14107,7 +14107,7 @@ msgstr ""
 "service."
 
 msgid "VEHICLE_SHIP_DUNARA_CASTLE_NAME"
-msgstr "Dunara Castle"
+msgstr "두나라 캐슬"
 
 msgid "VEHICLE_SHIP_FRONTENAC_DESCRIPTION"
 msgstr ""
@@ -14115,7 +14115,7 @@ msgstr ""
 "Cayuga Lake for several decades."
 
 msgid "VEHICLE_SHIP_FRONTENAC_NAME"
-msgstr "Frontenac"
+msgstr "프론테낵"
 
 msgid "VEHICLE_SHIP_GMS_AXALP_V3_DESCRIPTION"
 msgstr ""
@@ -14123,7 +14123,7 @@ msgstr ""
 "modernized several times after it was put into service."
 
 msgid "VEHICLE_SHIP_GMS_AXALP_V3_NAME"
-msgstr "Axalp"
+msgstr "악살프"
 
 msgid "VEHICLE_SHIP_GRAF_ZEPPELIN_DESCRIPTION"
 msgstr ""
@@ -14131,7 +14131,7 @@ msgstr ""
 "the ship was subsequently assembled in Fussach."
 
 msgid "VEHICLE_SHIP_GRAF_ZEPPELIN_NAME"
-msgstr "Graf Zeppelin"
+msgstr "그라프 제펠린"
 
 msgid "VEHICLE_SHIP_HERKULES_XI_DESCRIPTION"
 msgstr ""
@@ -14139,7 +14139,7 @@ msgstr ""
 "flat bottom barges."
 
 msgid "VEHICLE_SHIP_HERKULES_XI_NAME"
-msgstr "Hercules XI Towboat"
+msgstr "헤라클레스 XI 예인선"
 
 msgid "VEHICLE_SHIP_HERKULES_XI_TANKER_DESCRIPTION"
 msgstr ""
@@ -14147,7 +14147,7 @@ msgstr ""
 "flat bottom barges."
 
 msgid "VEHICLE_SHIP_HERKULES_XI_TANKER_NAME"
-msgstr "Hercules XI Tanker Towboat"
+msgstr "헤라클레스 XI 탱크 예인선"
 
 msgid "VEHICLE_SHIP_KLONDIKE_V3_DESCRIPTION"
 msgstr ""
@@ -14155,14 +14155,14 @@ msgstr ""
 "capacity with a similarly low draft."
 
 msgid "VEHICLE_SHIP_KLONDIKE_V3_NAME"
-msgstr "Klondike"
+msgstr "클론다이크"
 
 msgid "VEHICLE_SHIP_MERLIN_V3_DESCRIPTION"
 msgstr ""
 "The Merlin motor barge is a modern river vessel that is used on the Danube."
 
 msgid "VEHICLE_SHIP_MERLIN_V3_NAME"
-msgstr "Merlin"
+msgstr "멀린"
 
 msgid "VEHICLE_SHIP_RIGI_DESCRIPTION"
 msgstr ""
@@ -14171,7 +14171,7 @@ msgstr ""
 "was fired with wood."
 
 msgid "VEHICLE_SHIP_RIGI_NAME"
-msgstr "Rigi"
+msgstr "리기"
 
 msgid "VEHICLE_SHIP_SRN6_DESCRIPTION"
 msgstr ""
@@ -14186,7 +14186,7 @@ msgstr ""
 "The Vandal was the world's first diesel-powered and diesel-electric ship."
 
 msgid "VEHICLE_SHIP_VANDAL_V2_NAME"
-msgstr "Vandal"
+msgstr "반달"
 
 msgid "VEHICLE_SHIP_VIOLA_V2_DESCRIPTION"
 msgstr ""
@@ -14194,7 +14194,7 @@ msgstr ""
 "Rhine."
 
 msgid "VEHICLE_SHIP_VIOLA_V2_NAME"
-msgstr "Viola"
+msgstr "비올라"
 
 msgid "VEHICLE_SHIP_VIRGO_DESCRIPTION"
 msgstr ""
@@ -14202,7 +14202,7 @@ msgstr ""
 "of the zodiac."
 
 msgid "VEHICLE_SHIP_VIRGO_NAME"
-msgstr "Virgo Towboat"
+msgstr "버고 예인선"
 
 msgid "VEHICLE_SHIP_VIRGO_TANKER_DESCRIPTION"
 msgstr ""
@@ -14210,21 +14210,21 @@ msgstr ""
 "of the zodiac."
 
 msgid "VEHICLE_SHIP_VIRGO_TANKER_NAME"
-msgstr "Virgo Tanker Towboat"
+msgstr "버고 탱크 예인선"
 
 msgid "VEHICLE_SHIP_VOTRANS_DESCRIPTION"
 msgstr ""
 "A car can also be stowed on the quarterdeck of this towboat built in Germany."
 
 msgid "VEHICLE_SHIP_VOTRANS_NAME"
-msgstr "Votrans Towboat"
+msgstr "보트란 예인선"
 
 msgid "VEHICLE_SHIP_VOTRANS_TANKER_DESCRIPTION"
 msgstr ""
 "A car can also be stowed on the quarterdeck of this towboat built in Germany."
 
 msgid "VEHICLE_SHIP_VOTRANS_TANKER_NAME"
-msgstr "Votrans Tanker Towboat"
+msgstr "보트란 탱크 예인선"
 
 msgid "VEHICLE_SHIP_WILHELM_V3_DESCRIPTION"
 msgstr ""
@@ -14233,7 +14233,7 @@ msgstr ""
 "Constance."
 
 msgid "VEHICLE_SHIP_WILHELM_V3_NAME"
-msgstr "Wilhelm I"
+msgstr "빌헬름 I세"
 
 msgid "VEHICLE_SHIP_ZOROASTER_V2_DESCRIPTION"
 msgstr ""
@@ -14241,7 +14241,7 @@ msgstr ""
 "later models, the ship was small enough to navigate canals and the Volga."
 
 msgid "VEHICLE_SHIP_ZOROASTER_V2_NAME"
-msgstr "Zoroaster"
+msgstr "자라수슈트라"
 
 msgid "VEHICLE_SHIP_ZURICH_DESCRIPTION"
 msgstr ""
@@ -14249,7 +14249,7 @@ msgstr ""
 "still in service on Lake Constance."
 
 msgid "VEHICLE_SHIP_ZURICH_NAME"
-msgstr "Zurich"
+msgstr "취리히"
 
 msgid "VEHICLE_TRAIN_A3_5_705_DESCRIPTION"
 msgstr ""
@@ -14271,7 +14271,7 @@ msgstr ""
 "by the American Locomotive Company (ALCO) in Schenectady, New York."
 
 msgid "VEHICLE_TRAIN_ALCO_HH600_NAME"
-msgstr "ALCO HH 600"
+msgstr "알코 HH 600"
 
 msgid "VEHICLE_TRAIN_ALCO_PA_DESCRIPTION"
 msgstr ""
@@ -14280,7 +14280,7 @@ msgstr ""
 "driver's cab\"."
 
 msgid "VEHICLE_TRAIN_ALCO_PA_NAME"
-msgstr "Alco PA"
+msgstr "알코 PA"
 
 msgid "VEHICLE_TRAIN_ALCO_PB_DESCRIPTION"
 msgstr ""
@@ -14288,7 +14288,7 @@ msgstr ""
 "doubles the performance."
 
 msgid "VEHICLE_TRAIN_ALCO_PB_NAME"
-msgstr "Alco PB"
+msgstr "알코 PB"
 
 msgid "VEHICLE_TRAIN_ATLANTIC_4_4_2_DESCRIPTION"
 msgstr ""
@@ -14296,7 +14296,7 @@ msgstr ""
 "also common."
 
 msgid "VEHICLE_TRAIN_ATLANTIC_4_4_2_NAME"
-msgstr "4-4-2 Atlantic"
+msgstr "4-4-2 아틀랜틱"
 
 msgid "VEHICLE_TRAIN_BALDWIN_CLASS_56_DESCRIPTION"
 msgstr ""
@@ -14304,7 +14304,7 @@ msgstr ""
 "as heavy trains at half the cost of its predecessors."
 
 msgid "VEHICLE_TRAIN_BALDWIN_CLASS_56_NAME"
-msgstr "2-8-0 Baldwin Class 56"
+msgstr "2-8-0 볼드윈 Class 56"
 
 msgid "VEHICLE_TRAIN_BALDWIN_SIX_WHEELS_DESCRIPTION"
 msgstr ""
@@ -14312,7 +14312,7 @@ msgstr ""
 "1842. His aim was to use the entire weight for power transmission."
 
 msgid "VEHICLE_TRAIN_BALDWIN_SIX_WHEELS_NAME"
-msgstr "Baldwin's Six-Wheels"
+msgstr "볼드윈 6륜"
 
 msgid "VEHICLE_TRAIN_BIGBOY_DESCRIPTION"
 msgstr ""
@@ -14320,7 +14320,7 @@ msgstr ""
 "locomotive technology. It was primarily used for towing freight trains."
 
 msgid "VEHICLE_TRAIN_BIGBOY_NAME"
-msgstr "4-8-8-4 Big Boy"
+msgstr "4-8-8-4 빅보이"
 
 msgid "VEHICLE_TRAIN_BORSIG_1860_DESCRIPTION"
 msgstr ""
@@ -14328,7 +14328,7 @@ msgstr ""
 "very progressive at that time, although it did not yet have a roofed cabin."
 
 msgid "VEHICLE_TRAIN_BORSIG_1860_NAME"
-msgstr "Borsig"
+msgstr "보르지히"
 
 msgid "VEHICLE_TRAIN_BR53_PREUS_G3_DESCRIPTION"
 msgstr ""
@@ -14402,7 +14402,7 @@ msgstr ""
 "the long flat muzzles and the green colour."
 
 msgid "VEHICLE_TRAIN_C6_8_NAME"
-msgstr "Ce 6/8 II Crocodile"
+msgstr "Ce 6/8 II 크로커다일"
 
 msgid "VEHICLE_TRAIN_CHINA_DF4B_DESCRIPTION"
 msgstr ""
@@ -14410,7 +14410,7 @@ msgstr ""
 "locomotive in China for passenger and freight traffic."
 
 msgid "VEHICLE_TRAIN_CHINA_DF4B_NAME"
-msgstr "China Railways DF4B"
+msgstr "중국철도총공사 DF4B"
 
 msgid "VEHICLE_TRAIN_CHINA_DF5_DESCRIPTION"
 msgstr ""
@@ -14418,7 +14418,7 @@ msgstr ""
 "locomotive were successfully built."
 
 msgid "VEHICLE_TRAIN_CHINA_DF5_NAME"
-msgstr "China Railways DF5"
+msgstr "중국철도총공사 DF5"
 
 msgid "VEHICLE_TRAIN_CHINA_HXD3B_DESCRIPTION"
 msgstr ""
@@ -14427,7 +14427,7 @@ msgstr ""
 "and toilet."
 
 msgid "VEHICLE_TRAIN_CHINA_HXD3B_NAME"
-msgstr "China Railways HXD3B"
+msgstr "중국철도총공사 HXD3B"
 
 msgid "VEHICLE_TRAIN_CHINA_JF1_DESCRIPTION"
 msgstr ""
@@ -14435,7 +14435,7 @@ msgstr ""
 "freight traffic during the First World War on the South Manchuria railway."
 
 msgid "VEHICLE_TRAIN_CHINA_JF1_NAME"
-msgstr "China Railways JF1"
+msgstr "중국철도총공사 JF1"
 
 msgid "VEHICLE_TRAIN_CHINA_RM_DESCRIPTION"
 msgstr ""
@@ -14443,7 +14443,7 @@ msgstr ""
 "of the successful SL6 Pacific."
 
 msgid "VEHICLE_TRAIN_CHINA_RM_NAME"
-msgstr "China Railways RM"
+msgstr "중국철도총공사 RM"
 
 msgid "VEHICLE_TRAIN_CHINA_SS9G_DESCRIPTION"
 msgstr ""
@@ -14451,7 +14451,7 @@ msgstr ""
 "and traction required to cope with steep tracks."
 
 msgid "VEHICLE_TRAIN_CHINA_SS9G_NAME"
-msgstr "China Railways SS9G"
+msgstr "중국철도총공사 SS9G"
 
 msgid "VEHICLE_TRAIN_CLASS_9000_DESCRIPTION"
 msgstr ""
@@ -14518,7 +14518,7 @@ msgstr ""
 "This enables a flexible field of application."
 
 msgid "VEHICLE_TRAIN_EURODUAL_NAME"
-msgstr "Eurodual"
+msgstr "유로듀얼"
 
 msgid "VEHICLE_TRAIN_GENERAL_DESCRIPTION"
 msgstr ""
@@ -14527,7 +14527,7 @@ msgstr ""
 "\"The General\"."
 
 msgid "VEHICLE_TRAIN_GENERAL_NAME"
-msgstr "4-4-0 The General"
+msgstr "4-4-0 제너럴"
 
 msgid "VEHICLE_TRAIN_GE_C40_8W_DESCRIPTION"
 msgstr ""
@@ -14560,7 +14560,7 @@ msgstr ""
 "steam era. More than 9500 were used in the USA."
 
 msgid "VEHICLE_TRAIN_HEAVY_MIKADO_NAME"
-msgstr "2-8-2 Mikado"
+msgstr "2-8-2 미카도"
 
 msgid "VEHICLE_TRAIN_HHP_8_DESCRIPTION"
 msgstr ""
@@ -14578,7 +14578,7 @@ msgstr ""
 "Milwaukee Road."
 
 msgid "VEHICLE_TRAIN_HIAWATHA_NAME"
-msgstr "4-4-2 Hiawatha"
+msgstr "4-4-2 히아와타"
 
 msgid "VEHICLE_TRAIN_LNER_CLASS_A4_DESCRIPTION"
 msgstr ""
@@ -14596,7 +14596,7 @@ msgstr ""
 "Edinburgh and London stations at 10am."
 
 msgid "VEHICLE_TRAIN_LNER_FLYING_SCOTSMAN_NAME"
-msgstr "Class A3 Flying Scotsman"
+msgstr "Class A3 플라잉 스콧맨"
 
 msgid "VEHICLE_TRAIN_MILW_EP_2_DESCRIPTION"
 msgstr ""
@@ -14605,7 +14605,7 @@ msgstr ""
 "articulated parts."
 
 msgid "VEHICLE_TRAIN_MILW_EP_2_NAME"
-msgstr "MILW-Class EP-2"
+msgstr "밀워키 Class EP-2"
 
 msgid "VEHICLE_TRAIN_MOGUL_2_6_0_DESCRIPTION"
 msgstr ""
@@ -14613,7 +14613,7 @@ msgstr ""
 "was often built in the USA between 1860 and 1930."
 
 msgid "VEHICLE_TRAIN_MOGUL_2_6_0_NAME"
-msgstr "2-6-0 Mogul"
+msgstr "2-6-0 모굴"
 
 msgid "VEHICLE_TRAIN_M_300_DESCRIPTION"
 msgstr ""
@@ -14630,7 +14630,7 @@ msgstr ""
 "and New Haven."
 
 msgid "VEHICLE_TRAIN_NEW_HAVEN_NAME"
-msgstr "New Haven EP5"
+msgstr "뉴 헤이븐 EP5"
 
 msgid "VEHICLE_TRAIN_NOHAB_DESCRIPTION"
 msgstr ""
@@ -14646,7 +14646,7 @@ msgstr ""
 "Federal Railways."
 
 msgid "VEHICLE_TRAIN_OBB_1042_NAME"
-msgstr "Series 1042"
+msgstr "1042 시리즈"
 
 msgid "VEHICLE_TRAIN_PLM_220_DESCRIPTION"
 msgstr "The very futuristic \"Big C\" is a pioneer of aerodynamic locomotives."
@@ -14666,7 +14666,7 @@ msgid "VEHICLE_TRAIN_RE_450_B_DESCRIPTION"
 msgstr "A standard bilevel car that is often used on agglomeration lines."
 
 msgid "VEHICLE_TRAIN_RE_450_B_NAME"
-msgstr "Bilevel Car"
+msgstr "2층 객차 차량"
 
 msgid "VEHICLE_TRAIN_ROTERPFEIL_DESCRIPTION"
 msgstr "This express train car was widely used in Switzerland."
@@ -14676,12 +14676,12 @@ msgstr "CLe 2/4 Roter Pfeil"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_B_DESCRIPTION"
 msgstr ""
-"Series B locomotives were built in Moscow. Among the special features is a "
-"steam jet feed pump without moving parts, developed by the entrepreneur "
-"Alexander Friedmann.Russian"
+"B 시리즈 기관차들은 모스크바에서 생산되었습니다. 특징으로는 부품의 이동이 없"
+"이 동작하는 증기 제트 방식의 펌프인데, 사업가였던 알렉산더 프리드먼에 의해 개"
+"발되었습니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_B_NAME"
-msgstr "Russian Class B"
+msgstr "러시아 Class B"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_CHS4_DESCRIPTION"
 msgstr ""
@@ -14689,7 +14689,7 @@ msgstr ""
 "required traction. It reached a speed of 200 km/h."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_CHS4_NAME"
-msgstr "Russian Class CHS4"
+msgstr "러시아 Class CHS4"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_FD_DESCRIPTION"
 msgstr ""
@@ -14697,7 +14697,7 @@ msgstr ""
 "construction time was 170 days."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_FD_NAME"
-msgstr "Russian Class FD"
+msgstr "러시아 Class FD"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_F_FAIRLIE_DESCRIPTION"
 msgstr ""
@@ -14705,7 +14705,7 @@ msgstr ""
 "is ideal for complex route profiles with tight curves and steep climbs."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_F_FAIRLIE_NAME"
-msgstr "Russian Class F Fairlie"
+msgstr "러시아 Class F 페어리"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_GV_DESCRIPTION"
 msgstr ""
@@ -14714,7 +14714,7 @@ msgstr ""
 "France, Belgium and Austria."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_GV_NAME"
-msgstr "Russian Class GV"
+msgstr "러시아 Class GV"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_L_DESCRIPTION"
 msgstr ""
@@ -14722,7 +14722,7 @@ msgstr ""
 "locomotives in the Soviet Union. It was in service with more than 4000 units."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_L_NAME"
-msgstr "Russian Class L"
+msgstr "러시아 Class L"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_OB_DESCRIPTION"
 msgstr ""
@@ -14731,7 +14731,7 @@ msgstr ""
 "twelve factories."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_OB_NAME"
-msgstr "Russian Class OB"
+msgstr "러시아 Class OB"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_P36_DESCRIPTION"
 msgstr ""
@@ -14739,16 +14739,15 @@ msgstr ""
 "construction. Among other innovations, it has a mechanical coal supply."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_P36_NAME"
-msgstr "Russian Class P36"
+msgstr "러시아 Class P36"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_PV_DESCRIPTION"
 msgstr ""
-"Locomotives of this series were built in Kolomna on the basis of a Brosig "
-"locomotive. Later models were equipped with then revolutionary Westinghouse "
-"brakes.Russian"
+"이 시리즈 기관차들은 브로시히 기관차들을 기반으로 Kolomna에서 생산되었습니"
+"다. 후기형 모델은 혁명적인 웨스팅하우스 브레이크를 장착하였습니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_PV_NAME"
-msgstr "Russian Class PV"
+msgstr "러시아 Class PV"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_SCH_DESCRIPTION"
 msgstr ""
@@ -14757,7 +14756,7 @@ msgstr ""
 "locomotive in Kharkov."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_SCH_NAME"
-msgstr "Russian Class SCH"
+msgstr "러시아 Class SCH"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_SU_DESCRIPTION"
 msgstr ""
@@ -14765,7 +14764,7 @@ msgstr ""
 "War I, was so successful that it was used for decades."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_SU_NAME"
-msgstr "Russian Class SU"
+msgstr "러시아 Class SU"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_S_DESCRIPTION"
 msgstr ""
@@ -14774,7 +14773,7 @@ msgstr ""
 "be operated with inferior coal."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_S_NAME"
-msgstr "Russian Class S"
+msgstr "러시아 Class S"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_TE3_DESCRIPTION"
 msgstr ""
@@ -14782,16 +14781,16 @@ msgstr ""
 "electrified routes."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_TE3_NAME"
-msgstr "Russian Class TE3"
+msgstr "러시아 Class TE3"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_T_TYPE1_DESCRIPTION"
 msgstr ""
-"The T series locomotives were widely used. In the beginning they were built "
-"without a driving cab, but later they were retrofitted to protect the crew "
-"in bad weather.Russian"
+"T 시리즈 기관차들은 다양한 부분에서 운용되었습니다. 초기에는 운전 공간이 없"
+"이 생산되었지만, 후기에는 승무원들을 악천후로부터 보호하기 위해 개량되었습니"
+"다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_T_TYPE1_NAME"
-msgstr "RussischRussian Class T Type 1"
+msgstr "러시아 Class T Type 1"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_VL80S_DESCRIPTION"
 msgstr ""
@@ -14800,7 +14799,7 @@ msgstr ""
 "vapour, later models used silicon."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_VL80S_NAME"
-msgstr "Russian Class VL80S"
+msgstr "러시아 Class VL80S"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_V_TYPE1_DESCRIPTION"
 msgstr ""
@@ -14809,7 +14808,7 @@ msgstr ""
 "possible."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_V_TYPE1_NAME"
-msgstr "Russian Class V Type 1"
+msgstr "러시아 Class V Type 1"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_YE_DESCRIPTION"
 msgstr ""
@@ -14818,7 +14817,7 @@ msgstr ""
 "Russian engineers."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_YE_NAME"
-msgstr "Russian Class YE"
+msgstr "러시아 Class YE"
 
 msgid "VEHICLE_TRAIN_SCHIENENBUS_DESCRIPTION"
 msgstr ""
@@ -14827,7 +14826,7 @@ msgstr ""
 "unprofitable secondary lines."
 
 msgid "VEHICLE_TRAIN_SCHIENENBUS_NAME"
-msgstr "Railbus"
+msgstr "레일버스"
 
 msgid "VEHICLE_TRAIN_TEN_WHEELER_DESCRIPTION"
 msgstr ""
@@ -14836,7 +14835,7 @@ msgstr ""
 "behavior he is still celebrated as a hero."
 
 msgid "VEHICLE_TRAIN_TEN_WHEELER_NAME"
-msgstr "Ten Wheeler"
+msgstr "4-6-0 텐 휠러"
 
 msgid "VEHICLE_TRAM_ATM_4000_DESCRIPTION"
 msgstr ""
@@ -14852,7 +14851,7 @@ msgstr ""
 "procurement of the Mirage fighter planes, there was a large cost overrun."
 
 msgid "VEHICLE_TRAM_BE4_6MIRAGE_NAME"
-msgstr "Be 4/6 Mirage"
+msgstr "Be 4/6 미라지"
 
 msgid "VEHICLE_TRAM_BE5_6_DESCRIPTION"
 msgstr ""
@@ -14860,7 +14859,7 @@ msgstr ""
 "its way through the city with its four joints."
 
 msgid "VEHICLE_TRAM_BE5_6_NAME"
-msgstr "Be 5/6 Cobra"
+msgstr "Be 5/6 코브라"
 
 msgid "VEHICLE_TRAM_CAF_URBOS3_DESCRIPTION"
 msgstr ""
@@ -14876,7 +14875,7 @@ msgstr ""
 "\" in Vienna, for example."
 
 msgid "VEHICLE_TRAM_DAMPFTRAM_NAME"
-msgstr "Dampftram"
+msgstr "담프트램"
 
 msgid "VEHICLE_TRAM_DL_3000_WITT_DESCRIPTION"
 msgstr ""
@@ -14884,7 +14883,7 @@ msgstr ""
 "are still in use in the Chinese city of Dalian."
 
 msgid "VEHICLE_TRAM_DL_3000_WITT_NAME"
-msgstr "DL 3000 Witt"
+msgstr "DL 3000 위트"
 
 msgid "VEHICLE_TRAM_HALLE_DESCRIPTION"
 msgstr ""
@@ -14892,7 +14891,7 @@ msgstr ""
 "\"Allgemeine Elektricitaets-Gesellschaft Stadtbahn Halle\"."
 
 msgid "VEHICLE_TRAM_HALLE_NAME"
-msgstr "Stadtbahn Halle"
+msgstr "슈타트반 할레"
 
 msgid "VEHICLE_TRAM_HORSE_TROLLEY_CAR_DESCRIPTION"
 msgstr ""
@@ -14900,7 +14899,7 @@ msgstr ""
 "The average streetcar horse had a life expectancy of about two years."
 
 msgid "VEHICLE_TRAM_HORSE_TROLLEY_CAR_NAME"
-msgstr "Horse-Drawn Streetcar USA"
+msgstr "미국식 말이 끄는 전차"
 
 msgid "VEHICLE_TRAM_IVAN_DESCRIPTION"
 msgstr ""
@@ -14908,7 +14907,7 @@ msgstr ""
 "areas because of the danger of sparks and fires."
 
 msgid "VEHICLE_TRAM_IVAN_NAME"
-msgstr "Ivan"
+msgstr "이반"
 
 msgid "VEHICLE_TRAM_KOLOMNA_DESCRIPTION"
 msgstr ""
@@ -14916,7 +14915,7 @@ msgstr ""
 "powered freight locomotive."
 
 msgid "VEHICLE_TRAM_KOLOMNA_NAME"
-msgstr "Kolomna"
+msgstr "콜롬나"
 
 msgid "VEHICLE_TRAM_KTM_1_DESCRIPTION"
 msgstr ""
@@ -14950,7 +14949,7 @@ msgstr ""
 "built."
 
 msgid "VEHICLE_TRAM_MOSCOW_F_NAME"
-msgstr "Moscow F"
+msgstr "모스크바 F"
 
 msgid "VEHICLE_TRAM_ODESSA_DESCRIPTION"
 msgstr ""
@@ -14958,7 +14957,7 @@ msgstr ""
 "thanks to the support of a Belgian company."
 
 msgid "VEHICLE_TRAM_ODESSA_NAME"
-msgstr "Odessa Horse-Drawn Streetcar"
+msgstr "오데사 전차"
 
 msgid "VEHICLE_TRAM_PCC_1643_PITTSBURGH_DESCRIPTION"
 msgstr ""
@@ -14966,7 +14965,7 @@ msgstr ""
 "very successful, in Pittsburgh, for example, 666 PCCs operated on 68 routes."
 
 msgid "VEHICLE_TRAM_PCC_1643_PITTSBURGH_NAME"
-msgstr "PCC 1643 Pittsburgh"
+msgstr "PCC 1643 피츠버그"
 
 msgid "VEHICLE_TRAM_PCC_A_7_DESCRIPTION"
 msgstr ""
@@ -14975,7 +14974,7 @@ msgstr ""
 "round obstructed the streetcar traffic."
 
 msgid "VEHICLE_TRAM_PCC_A_7_NAME"
-msgstr "Toronto PCC A-7"
+msgstr "토론토 PCC A-7"
 
 msgid "VEHICLE_TRAM_PETER_WITT_STREETCAR_DESCRIPTION"
 msgstr ""
@@ -14984,7 +14983,7 @@ msgstr ""
 "door as an exit."
 
 msgid "VEHICLE_TRAM_PETER_WITT_STREETCAR_NAME"
-msgstr "Peter Witt Streetcar"
+msgstr "피터 위트 전차"
 
 msgid "VEHICLE_TRAM_SAN_DIEGO_DESCRIPTION"
 msgstr ""
@@ -14993,7 +14992,7 @@ msgstr ""
 "switched everything to normal gauge."
 
 msgid "VEHICLE_TRAM_SAN_DIEGO_NAME"
-msgstr "San Diego Electric Trolley"
+msgstr "산 디에고 전기 트롤리"
 
 msgid "VEHICLE_TRAM_SCHST_DESCRIPTION"
 msgstr ""
@@ -15008,7 +15007,7 @@ msgstr ""
 "The Skoda 10T is a low-floor streetcar manufactured by Skoda Transportation."
 
 msgid "VEHICLE_TRAM_SKODA_10T_NAME"
-msgstr "Skoda 10 T"
+msgstr "슈코다 10 T"
 
 msgid "VEHICLE_TRAM_STRASSENBAHN1850_DESCRIPTION"
 msgstr ""
@@ -15016,7 +15015,7 @@ msgstr ""
 "horse was needed to pull the wagon."
 
 msgid "VEHICLE_TRAM_STRASSENBAHN1850_NAME"
-msgstr "Horse-Drawn Streetcar"
+msgstr "말이 끄는 전차"
 
 msgid "VEHICLE_TRAM_STRASSENBAHN1850_USA_DESCRIPTION"
 msgstr ""
@@ -15024,7 +15023,7 @@ msgstr ""
 "1832. The earliest streetcars used horses and sometimes mules."
 
 msgid "VEHICLE_TRAM_STRASSENBAHN1850_USA_NAME"
-msgstr "Horse-Drawn Streetcar USA"
+msgstr "미국식 말이 끄는 전차"
 
 msgid "VEHICLE_TRAM_ST_PETERSBURG_DESCRIPTION"
 msgstr ""
@@ -15033,7 +15032,7 @@ msgstr ""
 "dismounting from the vehicle."
 
 msgid "VEHICLE_TRAM_ST_PETERSBURG_NAME"
-msgstr "St. Petersburg Streetcar"
+msgstr "상트페테르부르크 전차"
 
 msgid "VEHICLE_TRAM_TORONTO_CLRV_DESCRIPTION"
 msgstr ""
@@ -15041,7 +15040,7 @@ msgstr ""
 "the aging PCCs with a modern, standardized streetcar."
 
 msgid "VEHICLE_TRAM_TORONTO_CLRV_NAME"
-msgstr "Toronto CRLV"
+msgstr "토론토 CRLV"
 
 msgid "VEHICLE_TRAM_TYP1_DESCRIPTION"
 msgstr ""
@@ -15049,7 +15048,7 @@ msgstr ""
 "preserved in a museum."
 
 msgid "VEHICLE_TRAM_TYP1_NAME"
-msgstr "Type T1"
+msgstr "T1식"
 
 msgid "VEHICLE_TRAM_VITYAZ_M_DESCRIPTION"
 msgstr ""
@@ -15057,7 +15056,7 @@ msgstr ""
 "located below the floor. This allowed wider gangways."
 
 msgid "VEHICLE_TRAM_VITYAZ_M_NAME"
-msgstr "Vityaz M"
+msgstr "비탸지 M"
 
 msgid "VEHICLE_TRUCK_40_TONS_DESCRIPTION"
 msgstr ""
@@ -15065,7 +15064,7 @@ msgstr ""
 "456 kW output."
 
 msgid "VEHICLE_TRUCK_40_TONS_NAME"
-msgstr "40 Ton Tarpaulin Truck"
+msgstr "당수포가 덮인 40톤 트럭"
 
 msgid "VEHICLE_TRUCK_40_TONS_STAKE_DESCRIPTION"
 msgstr ""
@@ -15073,7 +15072,7 @@ msgstr ""
 "with up to 456 kW output."
 
 msgid "VEHICLE_TRUCK_40_TONS_STAKE_NAME"
-msgstr "40 Ton Truck with Side Stakes"
+msgstr "기둥이 있는 40톤 트럭"
 
 msgid "VEHICLE_TRUCK_40_TONS_TANKER_DESCRIPTION"
 msgstr ""
@@ -15081,7 +15080,7 @@ msgstr ""
 "kW output."
 
 msgid "VEHICLE_TRUCK_40_TONS_TANKER_NAME"
-msgstr "40 Ton Tank Truck"
+msgstr "40톤 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_AMERICAN_HORSE_CART_DESCRIPTION"
 msgstr ""
@@ -15089,7 +15088,7 @@ msgstr ""
 "the 18th and 19th centuries in the USA and Canada."
 
 msgid "VEHICLE_TRUCK_AMERICAN_HORSE_CART_NAME"
-msgstr "American Horse-Drawn Carriage with Side Stakes"
+msgstr "기둥이 있는 미국식 화물 마차"
 
 msgid "VEHICLE_TRUCK_AMERICAN_HORSE_CART_UNIVERSAL_DESCRIPTION"
 msgstr ""
@@ -15097,7 +15096,7 @@ msgstr ""
 "the 18th and 19th centuries in the USA and Canada."
 
 msgid "VEHICLE_TRUCK_AMERICAN_HORSE_CART_UNIVERSAL_NAME"
-msgstr "American Covered Horse-Drawn Carriage"
+msgstr "덮개가 있는 미국식 화물 마차"
 
 msgid "VEHICLE_TRUCK_AMERICAN_TRUCK_359_DESCRIPTION"
 msgstr ""
@@ -15106,7 +15105,7 @@ msgstr ""
 "a favorite with North American truckers."
 
 msgid "VEHICLE_TRUCK_AMERICAN_TRUCK_359_NAME"
-msgstr "Peterbilt 359"
+msgstr "피터빌트 359"
 
 msgid "VEHICLE_TRUCK_AMO_F15_TANKER_DESCRIPTION"
 msgstr ""
@@ -15114,7 +15113,7 @@ msgstr ""
 "an official vehicle for high-ranking officers."
 
 msgid "VEHICLE_TRUCK_AMO_F15_TANKER_NAME"
-msgstr "AMO F15 Tank Truck"
+msgstr "AMO F15 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_AMO_F15_UNIVERSAL_DESCRIPTION"
 msgstr ""
@@ -15122,7 +15121,7 @@ msgstr ""
 "an official vehicle for high-ranking officers."
 
 msgid "VEHICLE_TRUCK_AMO_F15_UNIVERSAL_NAME"
-msgstr "AMO F15 Tarpaulin Truck"
+msgstr "방수포가 덮인 AMO F15 트럭"
 
 msgid "VEHICLE_TRUCK_BENZ1912_LKW_DESCRIPTION"
 msgstr ""
@@ -15130,7 +15129,7 @@ msgstr ""
 "wheels."
 
 msgid "VEHICLE_TRUCK_BENZ1912_LKW_NAME"
-msgstr "Benz Tarpaulin Truck"
+msgstr "방수포가 덮인 벤츠 트럭"
 
 msgid "VEHICLE_TRUCK_BENZ1912_LKW_STAKE_DESCRIPTION"
 msgstr ""
@@ -15138,7 +15137,7 @@ msgstr ""
 "wheels."
 
 msgid "VEHICLE_TRUCK_BENZ1912_LKW_STAKE_NAME"
-msgstr "Benz Truck with Side Stakes"
+msgstr "기둥이 있는 벤츠 트럭"
 
 msgid "VEHICLE_TRUCK_CASCADIA_2009_DESCRIPTION"
 msgstr ""
@@ -15146,7 +15145,7 @@ msgstr ""
 "or high-power engines."
 
 msgid "VEHICLE_TRUCK_CASCADIA_2009_NAME"
-msgstr "Cascadia Tarpaulin Truck"
+msgstr "방수포가 덮인 카스카디아 트럭"
 
 msgid "VEHICLE_TRUCK_CASCADIA_2009_TANKER_DESCRIPTION"
 msgstr ""
@@ -15154,7 +15153,7 @@ msgstr ""
 "or high-power engines."
 
 msgid "VEHICLE_TRUCK_CASCADIA_2009_TANKER_NAME"
-msgstr "Cascadia Tank Truck"
+msgstr "카스카디아 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_CATERPILLAR_DESCRIPTION"
 msgstr ""
@@ -15162,7 +15161,7 @@ msgstr ""
 "mining, construction sites and quarries all over the world."
 
 msgid "VEHICLE_TRUCK_CATERPILLAR_NAME"
-msgstr "CAT Dump Truck"
+msgstr "CAT 덤프트럭"
 
 msgid "VEHICLE_TRUCK_DMG_CANNSTATT_DESCRIPTION"
 msgstr ""
@@ -15170,7 +15169,7 @@ msgstr ""
 "manufacturer that operated between 1890 and 1926."
 
 msgid "VEHICLE_TRUCK_DMG_CANNSTATT_NAME"
-msgstr "DMG Cannstatt"
+msgstr "DMG 칸슈탯"
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_STAKE_DESCRIPTION"
 msgstr ""
@@ -15179,7 +15178,7 @@ msgstr ""
 "hp."
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_STAKE_NAME"
-msgstr "FAW Jiefang J6P Truck with Side Stakes"
+msgstr "기둥이 있는 FAW 지에펑 J6P 트럭"
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_TANKER_DESCRIPTION"
 msgstr ""
@@ -15188,7 +15187,7 @@ msgstr ""
 "hp."
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_TANKER_NAME"
-msgstr "FAW Jiefang J6P Tank Truck"
+msgstr "FAW 지에펑 J6P 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_TIPPER_DESCRIPTION"
 msgstr ""
@@ -15197,7 +15196,7 @@ msgstr ""
 "hp."
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_TIPPER_NAME"
-msgstr "FAW Jiefang J6P Dump Truck"
+msgstr "FAW 지에펑 J6P 덤프트럭"
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_UNIVERSAL_DESCRIPTION"
 msgstr ""
@@ -15206,7 +15205,7 @@ msgstr ""
 "hp."
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_UNIVERSAL_NAME"
-msgstr "FAW Jiefang J6P Tarpaulin Truck"
+msgstr "방수포가 덮인 FAW 지에펑 J6P 트럭"
 
 msgid "VEHICLE_TRUCK_FORD_M77_DESCRIPTION"
 msgstr ""
@@ -15214,7 +15213,7 @@ msgstr ""
 "superstructural parts."
 
 msgid "VEHICLE_TRUCK_FORD_M77_NAME"
-msgstr "Ford Model 77 Truck with Side Stakes"
+msgstr "기둥이 있는 포드 모델 77 트럭"
 
 msgid "VEHICLE_TRUCK_FORD_M77_UNIVERSAL_DESCRIPTION"
 msgstr ""
@@ -15222,7 +15221,7 @@ msgstr ""
 "superstructural parts."
 
 msgid "VEHICLE_TRUCK_FORD_M77_UNIVERSAL_NAME"
-msgstr "Ford Model 77 Tarpaulin Truck"
+msgstr "방수포가 덮인 포드 모델 77 트럭"
 
 msgid "VEHICLE_TRUCK_GAZ_3307_TANKER_DESCRIPTION"
 msgstr ""
@@ -15230,7 +15229,7 @@ msgstr ""
 "million times, mainly for the Russian market."
 
 msgid "VEHICLE_TRUCK_GAZ_3307_TANKER_NAME"
-msgstr "Gaz 3307 Tank Truck"
+msgstr "Gaz 3307 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_GAZ_3307_TIPPER_DESCRIPTION"
 msgstr ""
@@ -15238,7 +15237,7 @@ msgstr ""
 "million times, mainly for the Russian market."
 
 msgid "VEHICLE_TRUCK_GAZ_3307_TIPPER_NAME"
-msgstr "Gaz 3307 Dump Truck"
+msgstr "Gaz 3307 덤프트럭"
 
 msgid "VEHICLE_TRUCK_GAZ_3307_UNIVERSAL_DESCRIPTION"
 msgstr ""
@@ -15246,7 +15245,7 @@ msgstr ""
 "million times, mainly for the Russian market."
 
 msgid "VEHICLE_TRUCK_GAZ_3307_UNIVERSAL_NAME"
-msgstr "Gaz 3307 Tarpaulin Truck"
+msgstr "방수포가 덮인 Gaz 3307 트럭"
 
 msgid "VEHICLE_TRUCK_GAZ_MM_STAKE_DESCRIPTION"
 msgstr ""
@@ -15254,7 +15253,7 @@ msgstr ""
 "rebuilt several times during the war due to lack of material."
 
 msgid "VEHICLE_TRUCK_GAZ_MM_STAKE_NAME"
-msgstr "GAZ MM Truck with Side Stakes"
+msgstr "기둥이 있는 GAZ MM Truck"
 
 msgid "VEHICLE_TRUCK_GAZ_MM_UNIVERSAL_DESCRIPTION"
 msgstr ""
@@ -15262,7 +15261,7 @@ msgstr ""
 "rebuilt several times during the war due to lack of material."
 
 msgid "VEHICLE_TRUCK_GAZ_MM_UNIVERSAL_NAME"
-msgstr "Gaz MM Flatbed Truck"
+msgstr "Gaz MM 평판 트럭"
 
 msgid "VEHICLE_TRUCK_HORSEWAGON_1850_DESCRIPTION"
 msgstr "A two-horse carriage with a simple two-axle wagon."
@@ -16047,124 +16046,125 @@ msgid "VEHICLE_WAGGON_WAGEN_BAYRISCH_1865_NAME"
 msgstr "Bavarian Passenger Car"
 
 msgid "Vehicle manager"
-msgstr ""
+msgstr "차량 괸리자"
 
 msgid "Vehicle statistics"
-msgstr ""
+msgstr "차량 통계"
 
 msgid "Vehicle unavailable at this time"
-msgstr ""
+msgstr "지금은 사용할 수 없음"
 
 msgid "Vehicles"
-msgstr ""
+msgstr "차량"
 
 msgid "Very Big"
-msgstr ""
+msgstr "매우 큼"
 
 msgid "Very high"
-msgstr ""
+msgstr "매우 높음"
 
 msgid "Very low"
-msgstr ""
+msgstr "매우 낮음"
 
 msgid "Very small"
-msgstr ""
+msgstr "매우 작음"
 
+#, fuzzy
 msgid "Wandering"
-msgstr ""
+msgstr "방황"
 
 msgid "War material"
-msgstr ""
+msgstr "전쟁 물자"
 
 msgid "Waste water"
-msgstr ""
+msgstr "폐수"
 
 msgid "Water"
-msgstr ""
+msgstr "물"
 
 msgid "Water Dirty"
-msgstr ""
+msgstr "물 오염도"
 
 msgid "Waypoint"
-msgstr ""
+msgstr "웨이포인트"
 
 msgid "Welcome"
-msgstr ""
+msgstr "환영합니다"
 
 msgid "Wheat"
-msgstr ""
+msgstr "밀"
 
 msgid "When disabled, the industry will not require any cargo input"
-msgstr ""
+msgstr "비활성화되면, 산업 시설은 아무 화물도 소비하지 않습니다."
 
 msgid "When disabled, the industry will not up-/downgrade"
-msgstr ""
+msgstr "비활성화되면, 산업 시설은 업/다운그레이드 되지 않습니다."
 
 msgid "Whiskey"
-msgstr ""
+msgstr "위스키"
 
 msgid "Yes"
-msgstr ""
+msgstr "예"
 
 msgid "You didn't see anything..."
-msgstr ""
+msgstr "당신은 아무것도 못 본 겁니다..."
 
 msgid "You need a 2nd runway."
-msgstr ""
+msgstr "두 번째 활주로가 필요합니다."
 
 msgid "bear-description"
-msgstr ""
+msgstr "곰 설명"
 
 msgid "crane-description"
-msgstr ""
+msgstr "크레인 설명"
 
 msgid "deer-description"
-msgstr ""
+msgstr "사슴 설명"
 
 msgid "degree"
-msgstr ""
+msgstr "각도"
 
 msgid "eagle-description"
-msgstr ""
+msgstr "독수리 설명"
 
 msgid "fox-description"
-msgstr ""
+msgstr "여우 설명"
 
 msgid "gull-description"
-msgstr ""
+msgstr "갈매기 설명"
 
 msgid "meters"
-msgstr ""
+msgstr "미터"
 
 msgid "no"
-msgstr ""
+msgstr "아니요"
 
 msgid "not allowed to build or bulldoze here"
-msgstr ""
+msgstr "여기에는 건설/철거 불가"
 
 msgid "not allowed to do this right now"
-msgstr ""
+msgstr "아직 불가"
 
 msgid "off"
-msgstr ""
+msgstr "끄기"
 
 msgid "on"
-msgstr ""
+msgstr "켜기"
 
 msgid "salmon-description"
-msgstr ""
+msgstr "연어 설명"
 
 msgid "stone acting as a stop"
-msgstr ""
+msgstr "돌이 정류장 역할을 합니다"
 
 msgid "stone bus stop"
-msgstr ""
+msgstr "돌 버스 정류장"
 
 msgid "track signals need to be placed in highlighted area"
-msgstr ""
+msgstr "하이라이트된 곳에 철도 신호 필요"
 
 msgid "unused"
-msgstr ""
+msgstr "미사용"
 
 msgid "yes"
-msgstr ""
+msgstr "예"
