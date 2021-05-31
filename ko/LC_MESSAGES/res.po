@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-11 17:34+0100\n"
-"PO-Revision-Date: 2021-05-27 17:11+0900\n"
+"PO-Revision-Date: 2021-05-31 16:50+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -2999,39 +2999,36 @@ msgstr "Building a practice track"
 
 msgid "MISSION_COLONIALISM_MEDAL_SCHOOL_PRACTISE_TASK"
 msgstr ""
-"Build a test track with two small stations and a depot in the "
-"[link=jump_digesteddriver]highlighted area[/link]."
+"[link=jump_digesteddriver]하이라이트된 지역[/link]에 차고와 두 개의 작은 역"
+"을 포함한 시험용 선로를 건설하세요."
 
 msgid "MISSION_COLONIALISM_MEDAL_SCHOOL_PRACTISE_TEXT"
 msgstr ""
-"Several locals show an interest in learning the decidedly noble profession "
-"as locomotive engineer. \n"
-"A practice route for training purposes is needed. \n"
-"Meanwhile, certain signs are feeding horrible rumors about the indigenous "
-"tribes’ diet."
+"몇몇 주민들이 확실히 귀한 직업인 기관차 기관사에 흥미를 보이고 있습니다.\n"
+"훈련을 위한 연습용 노선이 필요합니다.\n"
+"그런데, 토착 원주민들에 대한 끔찍한 소문이 점점 더 늘어나고 있습니다."
 
 msgid "MISSION_COLONIALISM_MEDAL_SCHOOL_TEST_NAME"
 msgstr "Having them drive a loco"
 
 msgid "MISSION_COLONIALISM_MEDAL_SCHOOL_TEST_TASK"
 msgstr ""
-"Buy a locomotive and have it driven along the [link=jump_digesteddriver]test "
-"track[/link] for at least ${meter_amount_driver} meters."
+"기관차를 구매하고 [link=jump_digesteddriver]시험용 선로[/link]를 최소 "
+"${meter_amount_driver}미터 운행하세요."
 
 msgid "MISSION_COLONIALISM_MEDAL_SCHOOL_TEST_TEXT"
 msgstr ""
-"The correct way to drive the vehicle must be practiced first so that "
-"potential passengers are not scared off right away. \n"
-"In the meantime, some hard-to-digest news reaches you: your skilled worker "
-"is said to have fallen victim to a bloodthirsty tribe of cannibals."
+"열차를 올바르게 조종하는 법을 연습해서 승객들이 바로 무서워하지 않도록 해야 "
+"합니다.\n"
+"그리고, 믿기 힘든 소식이 도착했습니다: 한 숙련된 일꾼이 피에 굶주린 식인종들"
+"에 희생되었다고 합니다."
 
 msgid "MISSION_COLONIALISM_MEDAL_SCHOOL_TEXT"
 msgstr ""
-"Oh no! \n"
-"Lukas, the capable engineer on your locomotive, seems to have vanished from "
-"the face of the earth ... or anywhere else, for that matter. \n"
-"Time to find a stand-in! Right away! \n"
-"Would one of the natives be able to meet this difficult challenge?!"
+"이런!\n"
+"루카스, 당신의 유능한 기관사가 자취를 감췄어요... 아니면 어딘가에 있겠죠.\n"
+"어쨌든 바로 찾아야 해요! 당장요!\n"
+"이 어려운 도전을 감당할 현지인이 있을까요?!"
 
 msgid "MISSION_COLONIALISM_MEDAL_SUGAR_CAMPAIGNSCREENNAME"
 msgstr "New lines of business"
@@ -3041,21 +3038,21 @@ msgstr "Deliver sugar"
 
 msgid "MISSION_COLONIALISM_MEDAL_SUGAR_DELIVER_TASK"
 msgstr ""
-"Deliver sugar from the [link=jump_sugar_farm]sugar plantation[/link] to "
-"[link=jump_surabaya]${name_surabaya}[/link]."
+"[link=jump_sugar_farm]설탕 농장[/link]에서 "
+"[link=jump_surabaya]${name_surabaya}[/link]로 설탕을 운송하세요."
 
 msgid "MISSION_COLONIALISM_MEDAL_SUGAR_DELIVER_TEXT"
 msgstr ""
-"The sugar must be transported to town. From there it is shipped and then "
-"served when continental Europeans get together for coffee."
+"설탕을 반드시 마을로 운송해야 합니다. 거기서, 전 유럽으로 운송해서 유럽인들"
+"이 커피를 마실 수 있도록 해야 해요."
 
 msgid "MISSION_COLONIALISM_MEDAL_SUGAR_FINISH_NAME"
-msgstr "How sweet!"
+msgstr "정말 달군요!"
 
 msgid "MISSION_COLONIALISM_MEDAL_SUGAR_FINISH_TEXT"
 msgstr ""
-"The sugar rattles toward town quickly by train. \n"
-"What a pleasure!"
+"설탕이 열차를 타고 빠르게 가고 있습니다.\n"
+"아주 좋아요!"
 
 msgid "MISSION_COLONIALISM_MEDAL_SUGAR_NAME"
 msgstr "New lines of business"
@@ -15267,7 +15264,7 @@ msgid "VEHICLE_TRUCK_HORSEWAGON_1850_DESCRIPTION"
 msgstr "A two-horse carriage with a simple two-axle wagon."
 
 msgid "VEHICLE_TRUCK_HORSEWAGON_1850_NAME"
-msgstr "European Horse-Drawn Carriage"
+msgstr "유럽식 화물 마차"
 
 msgid "VEHICLE_TRUCK_HORSEWAGON_1850_USA_DESCRIPTION"
 msgstr ""
@@ -15275,13 +15272,13 @@ msgstr ""
 "century, from about 1850 to 1910."
 
 msgid "VEHICLE_TRUCK_HORSEWAGON_1850_USA_NAME"
-msgstr "American Horse-Drawn Carriage"
+msgstr "미국식 화물 마차"
 
 msgid "VEHICLE_TRUCK_HORSE_CART_AS_1850_DESCRIPTION"
 msgstr "A single Asian horse-drawn carriage with a single axle wagon."
 
 msgid "VEHICLE_TRUCK_HORSE_CART_AS_1850_NAME"
-msgstr "Asian Horse-Drawn Carriage"
+msgstr "아시아식 화물 마차"
 
 msgid "VEHICLE_TRUCK_HORSE_CART_DESCRIPTION"
 msgstr ""
@@ -15289,7 +15286,7 @@ msgstr ""
 "and pack animals."
 
 msgid "VEHICLE_TRUCK_HORSE_CART_NAME"
-msgstr "European Flatbed Horse-Drawn Carriage"
+msgstr "유럽식 평판 화물 마차"
 
 msgid "VEHICLE_TRUCK_HORSE_CART_UNIVERSAL_DESCRIPTION"
 msgstr ""
@@ -15297,7 +15294,7 @@ msgstr ""
 "and pack animals."
 
 msgid "VEHICLE_TRUCK_HORSE_CART_UNIVERSAL_NAME"
-msgstr "European Covered Horse-Drawn Carriage"
+msgstr "지붕 있는 유럽식 화물 마차"
 
 msgid "VEHICLE_TRUCK_ISUZU_ELF_TLD20_TANKER_DESCRIPTION"
 msgstr ""
@@ -15305,7 +15302,7 @@ msgstr ""
 "still produced today."
 
 msgid "VEHICLE_TRUCK_ISUZU_ELF_TLD20_TANKER_NAME"
-msgstr "Isuzu Elf TLD20 Tank Truck"
+msgstr "이스즈 Elf TLD20 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_ISUZU_ELF_TLD20_UNIVERSAL_DESCRIPTION"
 msgstr ""
@@ -15313,7 +15310,7 @@ msgstr ""
 "still produced today."
 
 msgid "VEHICLE_TRUCK_ISUZU_ELF_TLD20_UNIVERSAL_NAME"
-msgstr "Isuzu Elf TLD20 Flatbed Truck"
+msgstr "이스즈 Elf TLD20 평판 트럭"
 
 msgid "VEHICLE_TRUCK_MACK_AC_DESCRIPTION"
 msgstr ""
@@ -15322,7 +15319,7 @@ msgstr ""
 "chain drive, it was powerful and reliable."
 
 msgid "VEHICLE_TRUCK_MACK_AC_NAME"
-msgstr "Mack AC Flatbed Truck"
+msgstr "맥 AC 평판 트럭"
 
 msgid "VEHICLE_TRUCK_MACK_AC_UNIVERSAL_DESCRIPTION"
 msgstr ""
@@ -15331,7 +15328,7 @@ msgstr ""
 "chain drive, it was powerful and reliable."
 
 msgid "VEHICLE_TRUCK_MACK_AC_UNIVERSAL_NAME"
-msgstr "Mack AC Tarpaulin Truck"
+msgstr "방수포가 덮인 맥 AC 트럭"
 
 msgid "VEHICLE_TRUCK_MAN_19_304_1970_DESCRIPTION"
 msgstr ""
@@ -15339,7 +15336,7 @@ msgstr ""
 "engine hood can be folded forward to facilitate maintenance work."
 
 msgid "VEHICLE_TRUCK_MAN_19_304_1970_NAME"
-msgstr "MAN 19.304 Tarpaulin Truck"
+msgstr "방수포가 덮인 만 19.304 트럭"
 
 msgid "VEHICLE_TRUCK_MAN_19_304_TANKER_DESCRIPTION"
 msgstr ""
@@ -15347,7 +15344,7 @@ msgstr ""
 "can be folded forward to facilitate maintenance work."
 
 msgid "VEHICLE_TRUCK_MAN_19_304_TANKER_NAME"
-msgstr "MAN 19.304 Tank Truck"
+msgstr "만 19.304 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_MAN_19_304_TIPPER_DESCRIPTION"
 msgstr ""
@@ -15355,7 +15352,7 @@ msgstr ""
 "can be folded forward to facilitate maintenance work."
 
 msgid "VEHICLE_TRUCK_MAN_19_304_TIPPER_NAME"
-msgstr "MAN 19.304 Dump Truck"
+msgstr "만 19.304 덤프트럭"
 
 msgid "VEHICLE_TRUCK_NW_FIRST_TRUCK_DESCRIPTION"
 msgstr ""
@@ -15363,7 +15360,7 @@ msgstr ""
 "two engines to be operated in succession depending on load requirements."
 
 msgid "VEHICLE_TRUCK_NW_FIRST_TRUCK_NAME"
-msgstr "NW First Truck"
+msgstr "NW 1호 트럭"
 
 msgid "VEHICLE_TRUCK_OPEL_BLITZ_1930_DESCRIPTION"
 msgstr ""
@@ -15371,7 +15368,7 @@ msgstr ""
 "versions."
 
 msgid "VEHICLE_TRUCK_OPEL_BLITZ_1930_NAME"
-msgstr "Opel Blitz Tarpaulin Truck"
+msgstr "방수포가 덮인 오펠 블리츠 트럭"
 
 msgid "VEHICLE_TRUCK_OPEL_BLITZ_TANKER_DESCRIPTION"
 msgstr ""
@@ -15379,7 +15376,7 @@ msgstr ""
 "versions."
 
 msgid "VEHICLE_TRUCK_OPEL_BLITZ_TANKER_NAME"
-msgstr "Opel Blitz Tank Truck"
+msgstr "오펠 블리츠 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_OPEL_BLITZ_TIPPER_DESCRIPTION"
 msgstr ""
@@ -15387,7 +15384,7 @@ msgstr ""
 "versions."
 
 msgid "VEHICLE_TRUCK_OPEL_BLITZ_TIPPER_NAME"
-msgstr "Opel Blitz Dump Truck"
+msgstr "오펠 블리츠 덤프트럭"
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_STAKE_DESCRIPTION"
 msgstr ""
@@ -15395,7 +15392,7 @@ msgstr ""
 "well as 8 and 12-cylinder V-engines with 55 to 240 hp."
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_STAKE_NAME"
-msgstr "Saurer C Type Truck with Side Stakes"
+msgstr "기둥이 있는 사우러 C식 트럭"
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_TANKER_DESCRIPTION"
 msgstr ""
@@ -15403,7 +15400,7 @@ msgstr ""
 "well as 8 and 12-cylinder V-engines with 55 to 240 hp."
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_TANKER_NAME"
-msgstr "Saurer C Type Tank Truck"
+msgstr "사우러 C식 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_TIPPER_DESCRIPTION"
 msgstr ""
@@ -15411,7 +15408,7 @@ msgstr ""
 "well as 8 and 12-cylinder V-engines with 55 to 240 hp."
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_TIPPER_NAME"
-msgstr "Saurer C Type Tipper Truck"
+msgstr "사우러 C식 덤프트럭"
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_UNIVERSAL_DESCRIPTION"
 msgstr ""
@@ -15419,7 +15416,7 @@ msgstr ""
 "well as 8 and 12-cylinder V-engines with 55 to 240 hp."
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_UNIVERSAL_NAME"
-msgstr "Saurer C Type Tarpaulin Truck"
+msgstr "방수포가 있는 사우러 C식 트럭"
 
 msgid "VEHICLE_TRUCK_STEAM_LORRY_DESCRIPTION"
 msgstr ""
@@ -15427,7 +15424,7 @@ msgstr ""
 "goods by road."
 
 msgid "VEHICLE_TRUCK_STEAM_LORRY_NAME"
-msgstr "Steam Flatbed Truck"
+msgstr "증기 평판 트럭"
 
 msgid "VEHICLE_TRUCK_STEAM_LORRY_UNIVERSAL_DESCRIPTION"
 msgstr ""
@@ -15435,7 +15432,7 @@ msgstr ""
 "goods by road."
 
 msgid "VEHICLE_TRUCK_STEAM_LORRY_UNIVERSAL_NAME"
-msgstr "Steam Tarpaulin Truck"
+msgstr "방수포가 덮인 증기 트럭"
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US6_U10_DESCRIPTION"
 msgstr ""
@@ -15443,7 +15440,7 @@ msgstr ""
 "manufactured during the Second World War and later used in the civil service."
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US6_U10_NAME"
-msgstr "Studebaker US6 Dump Truck"
+msgstr "스튜드베이커 US6 덤프트럭"
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US6_U3_DESCRIPTION"
 msgstr ""
@@ -15451,7 +15448,7 @@ msgstr ""
 "manufactured during the Second World War and later used in the civil service."
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US6_U3_NAME"
-msgstr "Studebaker US6 Truck with Side Stakes"
+msgstr "기둥이 있는 스튜드베이커 US6 트럭"
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US6_U5_DESCRIPTION"
 msgstr ""
@@ -15459,7 +15456,7 @@ msgstr ""
 "manufactured during the Second World War and later used in the civil service."
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US6_U5_NAME"
-msgstr "Studebaker US6 Tank Truck"
+msgstr "스튜드베이커 US6 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US_UNIVERSAL_DESCRIPTION"
 msgstr ""
@@ -15467,7 +15464,7 @@ msgstr ""
 "manufactured during the Second World War and later used in the civil service."
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US_UNIVERSAL_NAME"
-msgstr "Studebaker US6 Tarpaulin Truck"
+msgstr "방수포가 있는 스튜드베이커 US6 트럭"
 
 msgid "VEHICLE_TRUCK_TELEGA_STAKE_DESCRIPTION"
 msgstr ""
@@ -15475,7 +15472,7 @@ msgstr ""
 "transport by the Russian peasant population for centuries."
 
 msgid "VEHICLE_TRUCK_TELEGA_STAKE_NAME"
-msgstr "Asian Horse-Drawn Carriage with Side Stakes"
+msgstr "기둥이 있는 아시아식 화물 마차"
 
 msgid "VEHICLE_TRUCK_TELEGA_UNIVERSAL_DESCRIPTION"
 msgstr ""
@@ -15483,13 +15480,13 @@ msgstr ""
 "transport by the Russian peasant population for centuries."
 
 msgid "VEHICLE_TRUCK_TELEGA_UNIVERSAL_NAME"
-msgstr "Asian Flatbed Horse-Drawn Carriage"
+msgstr "아시아식 평판 화물 마차"
 
 msgid "VEHICLE_TRUCK_URBAN_ETRUCK_DESCRIPTION"
 msgstr "The design of the Urban eTruck is as innovative as its electric drive."
 
 msgid "VEHICLE_TRUCK_URBAN_ETRUCK_NAME"
-msgstr "Urban eTruck"
+msgstr "어반 e-트럭"
 
 msgid "VEHICLE_TRUCK_ZIS_150_TANKER_DESCRIPTION"
 msgstr ""
@@ -15498,7 +15495,7 @@ msgstr ""
 "loss of braking effect."
 
 msgid "VEHICLE_TRUCK_ZIS_150_TANKER_NAME"
-msgstr "ZIS-150 Tank Truck"
+msgstr "ZIS-150 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_ZIS_150_TIPPER_DESCRIPTION"
 msgstr ""
@@ -15507,7 +15504,7 @@ msgstr ""
 "loss of braking effect."
 
 msgid "VEHICLE_TRUCK_ZIS_150_TIPPER_NAME"
-msgstr "ZIS-150 Dump Truck"
+msgstr "ZIS-150 덤프트럭"
 
 msgid "VEHICLE_TRUCK_ZIS_150_UNIVERSAL_DESCRIPTION"
 msgstr ""
@@ -15516,7 +15513,7 @@ msgstr ""
 "loss of braking effect."
 
 msgid "VEHICLE_TRUCK_ZIS_150_UNIVERSAL_NAME"
-msgstr "ZIS-150 Flatbed Truck"
+msgstr "ZIS-150 평판 트럭"
 
 msgid "VEHICLE_WAGGON_3AXES_PERSON_DESCRIPTION"
 msgstr ""
@@ -15524,7 +15521,7 @@ msgstr ""
 "Germany."
 
 msgid "VEHICLE_WAGGON_3AXES_PERSON_NAME"
-msgstr "Six-wheeler"
+msgstr "6-휠러"
 
 msgid "VEHICLE_WAGGON_AMFLEET_DESCRIPTION"
 msgstr ""
@@ -15533,7 +15530,7 @@ msgstr ""
 "electric multiple units."
 
 msgid "VEHICLE_WAGGON_AMFLEET_NAME"
-msgstr "Westrail Westfleet"
+msgstr "웨스트레일 Westfleet"
 
 msgid "VEHICLE_WAGGON_BC4_DESCRIPTION"
 msgstr "A four-axle heavy express train carriage with two trucks."
@@ -15548,7 +15545,7 @@ msgstr ""
 "which resembles an elongated octagon."
 
 msgid "VEHICLE_WAGGON_BILEVEL_NAME"
-msgstr "Bombardier BiLevel"
+msgstr "봄바디어 BiLevel"
 
 msgid "VEHICLE_WAGGON_BOXCAR_1850_DESCRIPTION"
 msgstr ""
@@ -15556,7 +15553,7 @@ msgstr ""
 "design makes loading slower, but also more flexible."
 
 msgid "VEHICLE_WAGGON_BOXCAR_1850_NAME"
-msgstr "Boxcar"
+msgstr "박스형 화차"
 
 msgid "VEHICLE_WAGGON_BOXCAR_1902_DESCRIPTION"
 msgstr ""
@@ -15564,7 +15561,7 @@ msgstr ""
 "different loads. Some of them were even loaded with coal."
 
 msgid "VEHICLE_WAGGON_BOXCAR_1902_NAME"
-msgstr "Boxcar"
+msgstr "박스형 화차"
 
 msgid "VEHICLE_WAGGON_BOXCAR_1945_DESCRIPTION"
 msgstr ""
@@ -15573,7 +15570,7 @@ msgstr ""
 "transporters took over this task."
 
 msgid "VEHICLE_WAGGON_BOXCAR_1945_NAME"
-msgstr "Boxcar"
+msgstr "박스형 화차"
 
 msgid "VEHICLE_WAGGON_BOXCAR_2000_DESCRIPTION"
 msgstr ""
@@ -15581,7 +15578,7 @@ msgstr ""
 "into several areas, whereby only one person is required for operation."
 
 msgid "VEHICLE_WAGGON_BOXCAR_2000_NAME"
-msgstr "Boxcar"
+msgstr "박스형 화차"
 
 msgid "VEHICLE_WAGGON_BOXCAR_AS_1850_DESCRIPTION"
 msgstr ""
@@ -15589,7 +15586,7 @@ msgstr ""
 "variants. Coaches of this type were built until the 1930s."
 
 msgid "VEHICLE_WAGGON_BOXCAR_AS_1850_NAME"
-msgstr "Boxcar"
+msgstr "박스형 화차"
 
 msgid "VEHICLE_WAGGON_BOXCAR_AS_1900_DESCRIPTION"
 msgstr ""
@@ -15597,7 +15594,7 @@ msgstr ""
 "equipped with a platform for the brakeman."
 
 msgid "VEHICLE_WAGGON_BOXCAR_AS_1900_NAME"
-msgstr "Boxcar"
+msgstr "박스형 화차"
 
 msgid "VEHICLE_WAGGON_BOXCAR_AS_1950_DESCRIPTION"
 msgstr ""
@@ -15606,7 +15603,7 @@ msgstr ""
 "conditions or mechanical overloads."
 
 msgid "VEHICLE_WAGGON_BOXCAR_AS_1950_NAME"
-msgstr "Boxcar"
+msgstr "박스형 화차"
 
 msgid "VEHICLE_WAGGON_CHINA_TYPE_25C_DESCRIPTION"
 msgstr ""
@@ -15614,7 +15611,7 @@ msgstr ""
 "for particularly high speeds."
 
 msgid "VEHICLE_WAGGON_CHINA_TYPE_25C_NAME"
-msgstr "China Type 25C"
+msgstr "중국 25C식"
 
 msgid "VEHICLE_WAGGON_CHINA_TYPE_25_DESCRIPTION"
 msgstr ""
@@ -15622,7 +15619,7 @@ msgstr ""
 "large number of revisions."
 
 msgid "VEHICLE_WAGGON_CHINA_TYPE_25_NAME"
-msgstr "China Type 25"
+msgstr "중국 25식"
 
 msgid "VEHICLE_WAGGON_CHINA_TYPE_YZ_22_DESCRIPTION"
 msgstr ""
@@ -15630,7 +15627,7 @@ msgstr ""
 "passenger coaches in China and was produced in a wide variety of designs."
 
 msgid "VEHICLE_WAGGON_CHINA_TYPE_YZ_22_NAME"
-msgstr "China Type YZ 22"
+msgstr "중국 YZ 22식"
 
 msgid "VEHICLE_WAGGON_COMPARTMENT_CAR_DESCRIPTION"
 msgstr ""
@@ -15639,10 +15636,10 @@ msgstr ""
 "arranged in a common car body."
 
 msgid "VEHICLE_WAGGON_COMPARTMENT_CAR_NAME"
-msgstr "Compartment car"
+msgstr "칸막이 화차"
 
 msgid "VEHICLE_WAGGON_D1_SPANISCHB_NAME"
-msgstr "D1/3 Coach"
+msgstr "D1/3 객차"
 
 msgid "VEHICLE_WAGGON_D1_SPANISCHB_NAME_DESCRIPTION"
 msgstr ""
@@ -15656,7 +15653,7 @@ msgstr ""
 "\" (\"Thunderbox\")."
 
 msgid "VEHICLE_WAGGON_DONNERBUECHSE_NAME"
-msgstr "Donnerbüchse"
+msgstr "도너뷕세 객차"
 
 msgid "VEHICLE_WAGGON_EGOROV_20_2_DESCRIPTION"
 msgstr ""
@@ -15664,13 +15661,13 @@ msgstr ""
 "a mobile infirmary."
 
 msgid "VEHICLE_WAGGON_EGOROV_20_2_NAME"
-msgstr "Egorov 20 2"
+msgstr "에고로프 20 2"
 
 msgid "VEHICLE_WAGGON_EW_II_DESCRIPTION"
 msgstr "This four-axle \"Einheitswagen II\" was built in large numbers."
 
 msgid "VEHICLE_WAGGON_EW_II_NAME"
-msgstr "Einheitswagen II"
+msgstr "아인하이츠바겐 II"
 
 msgid "VEHICLE_WAGGON_EW_IV_DESCRIPTION"
 msgstr ""
@@ -15679,7 +15676,7 @@ msgstr ""
 "conditioning for the first time."
 
 msgid "VEHICLE_WAGGON_EW_IV_NAME"
-msgstr "Einheitswagen IV"
+msgstr "아인하이츠바겐 IV"
 
 msgid "VEHICLE_WAGGON_GOLDEN_SAND_DESCRIPTION"
 msgstr ""
@@ -15688,7 +15685,7 @@ msgstr ""
 "operating systems."
 
 msgid "VEHICLE_WAGGON_GOLDEN_SAND_NAME"
-msgstr "All America Golden Sand"
+msgstr "올 아메리칸 골드 샌드"
 
 msgid "VEHICLE_WAGGON_GONDOLA_1850_DESCRIPTION"
 msgstr ""
@@ -15697,7 +15694,7 @@ msgstr ""
 "water boats, so-called \"gondolas\"."
 
 msgid "VEHICLE_WAGGON_GONDOLA_1850_NAME"
-msgstr "Gondola"
+msgstr "곤돌라"
 
 msgid "VEHICLE_WAGGON_GONDOLA_1907_DESCRIPTION"
 msgstr ""
@@ -15705,7 +15702,7 @@ msgstr ""
 "dumped or shoveled."
 
 msgid "VEHICLE_WAGGON_GONDOLA_1907_NAME"
-msgstr "Gondola"
+msgstr "곤돌라"
 
 msgid "VEHICLE_WAGGON_GONDOLA_1955_DESCRIPTION"
 msgstr ""
@@ -15713,7 +15710,7 @@ msgstr ""
 "sometimes in a special device together with a rail."
 
 msgid "VEHICLE_WAGGON_GONDOLA_1955_NAME"
-msgstr "Gondola"
+msgstr "곤돌라"
 
 msgid "VEHICLE_WAGGON_GONDOLA_2000_DESCRIPTION"
 msgstr ""
@@ -15721,7 +15718,7 @@ msgstr ""
 "hydraulic pump is available for this and a manual pump for emergencies."
 
 msgid "VEHICLE_WAGGON_GONDOLA_2000_NAME"
-msgstr "Gondola"
+msgstr "곤돌라"
 
 msgid "VEHICLE_WAGGON_GONDOLA_AS_1850_DESCRIPTION"
 msgstr ""
@@ -15729,7 +15726,7 @@ msgstr ""
 "hand and therefore have a small platform for the brakeman."
 
 msgid "VEHICLE_WAGGON_GONDOLA_AS_1850_NAME"
-msgstr "Gondola"
+msgstr "곤돌라"
 
 msgid "VEHICLE_WAGGON_GONDOLA_AS_1900_DESCRIPTION"
 msgstr ""
@@ -15737,13 +15734,13 @@ msgstr ""
 "the upper part of the coach and the roof."
 
 msgid "VEHICLE_WAGGON_GONDOLA_AS_1900_NAME"
-msgstr "Gondola"
+msgstr "곤돌라"
 
 msgid "VEHICLE_WAGGON_GONDOLA_AS_1950_DESCRIPTION"
 msgstr "This bulk railcar has three axles per truck to enable heavy loading."
 
 msgid "VEHICLE_WAGGON_GONDOLA_AS_1950_NAME"
-msgstr "Gondola"
+msgstr "곤돌라"
 
 msgid "VEHICLE_WAGGON_GOODS_1850_V2_DESCRIPTION"
 msgstr ""
@@ -15752,7 +15749,7 @@ msgstr ""
 "dimensions."
 
 msgid "VEHICLE_WAGGON_GOODS_1850_V2_NAME"
-msgstr "Boxcar"
+msgstr "박스형 화차"
 
 msgid "VEHICLE_WAGGON_HBI1_V2_DESCRIPTION"
 msgstr ""
@@ -15760,7 +15757,7 @@ msgstr ""
 "goods on pallets. Often standardized by the International Union of Railways."
 
 msgid "VEHICLE_WAGGON_HBI1_V2_NAME"
-msgstr "Boxcar"
+msgstr "박스형 화차"
 
 msgid "VEHICLE_WAGGON_KESSELWAGEN_1860_DESCRIPTION"
 msgstr ""
@@ -15769,7 +15766,7 @@ msgstr ""
 "called coach hire companies."
 
 msgid "VEHICLE_WAGGON_KESSELWAGEN_1860_NAME"
-msgstr "Tank car"
+msgstr "탱크차"
 
 msgid "VEHICLE_WAGGON_KESSELWAGEN_1910_DESCRIPTION"
 msgstr ""
@@ -15777,7 +15774,7 @@ msgstr ""
 "from freight cars but had special equipment or special characteristics."
 
 msgid "VEHICLE_WAGGON_KESSELWAGEN_1910_NAME"
-msgstr "Tank car"
+msgstr "탱크차"
 
 msgid "VEHICLE_WAGGON_KESSELWAGEN_1950_DESCRIPTION"
 msgstr ""
@@ -15785,7 +15782,7 @@ msgstr ""
 "load."
 
 msgid "VEHICLE_WAGGON_KESSELWAGEN_1950_NAME"
-msgstr "Tank car"
+msgstr "탱크차"
 
 msgid "VEHICLE_WAGGON_NIKOLAS_1ST_DESCRIPTION"
 msgstr ""
@@ -15793,7 +15790,7 @@ msgstr ""
 "storage. The compartments were insulated and heated."
 
 msgid "VEHICLE_WAGGON_NIKOLAS_1ST_NAME"
-msgstr "Nikolas"
+msgstr "니콜라스"
 
 msgid "VEHICLE_WAGGON_OPEN_1850_DESCRIPTION"
 msgstr ""
@@ -15801,7 +15798,7 @@ msgstr ""
 "cars of simple design were used, many of them flatcars with side shelves."
 
 msgid "VEHICLE_WAGGON_OPEN_1850_NAME"
-msgstr "Gondola"
+msgstr "곤돌라"
 
 msgid "VEHICLE_WAGGON_OPEN_1910_DESCRIPTION"
 msgstr ""
@@ -15809,7 +15806,7 @@ msgstr ""
 "and were built from 1910 with and without brakeman's cab."
 
 msgid "VEHICLE_WAGGON_OPEN_1910_NAME"
-msgstr "Gondola"
+msgstr "곤돌라"
 
 msgid "VEHICLE_WAGGON_OPEN_1975_DESCRIPTION"
 msgstr ""
@@ -15818,7 +15815,7 @@ msgstr ""
 "door."
 
 msgid "VEHICLE_WAGGON_OPEN_1975_NAME"
-msgstr "Gondola"
+msgstr "곤돌라"
 
 msgid "VEHICLE_WAGGON_PARLOR_DESCRIPTION"
 msgstr ""
@@ -15826,13 +15823,13 @@ msgstr ""
 "was widely used in American railroads."
 
 msgid "VEHICLE_WAGGON_PARLOR_NAME"
-msgstr "Heavyweight 28-1 Parlor"
+msgstr "풀맨 헤비웨이트 28-1 팔러"
 
 msgid "VEHICLE_WAGGON_PULLMAN_1850_DESCRIPTION"
 msgstr "An early wooden passenger car that offers little comfort."
 
 msgid "VEHICLE_WAGGON_PULLMAN_1850_NAME"
-msgstr "Passenger Car"
+msgstr "풀맨 객차"
 
 msgid "VEHICLE_WAGGON_PULLMAN_1876_DESCRIPTION"
 msgstr ""
@@ -15840,7 +15837,7 @@ msgstr ""
 "comfort."
 
 msgid "VEHICLE_WAGGON_PULLMAN_1876_NAME"
-msgstr "Passenger Car with Clearstory"
+msgstr "높은 지붕이 있는 풀맨 객차"
 
 msgid "VEHICLE_WAGGON_PULLMAN_1900_DESCRIPTION"
 msgstr ""
@@ -15848,7 +15845,7 @@ msgstr ""
 "USA."
 
 msgid "VEHICLE_WAGGON_PULLMAN_1900_NAME"
-msgstr "Six-Axle Passenger Car"
+msgstr "6-축 풀맨 객차"
 
 msgid "VEHICLE_WAGGON_PUTILOV_3RD_DESCRIPTION"
 msgstr ""
@@ -15856,7 +15853,7 @@ msgstr ""
 "for different classes and was accordingly painted differently."
 
 msgid "VEHICLE_WAGGON_PUTILOV_3RD_NAME"
-msgstr "Putilov"
+msgstr "푸틸로프"
 
 msgid "VEHICLE_WAGGON_RUNGENWAGEN_1850_DESCRIPTION"
 msgstr ""
@@ -15864,7 +15861,7 @@ msgstr ""
 "and the name-giving feature of flat freight cars."
 
 msgid "VEHICLE_WAGGON_RUNGENWAGEN_1850_NAME"
-msgstr "Flatcar with side stakes"
+msgstr "기둥이 있는 평판차"
 
 msgid "VEHICLE_WAGGON_RUNGENWAGEN_1890_DESCRIPTION"
 msgstr ""
@@ -15873,7 +15870,7 @@ msgstr ""
 "country."
 
 msgid "VEHICLE_WAGGON_RUNGENWAGEN_1890_NAME"
-msgstr "Flatcar with side stakes"
+msgstr "기둥이 있는 평판차"
 
 msgid "VEHICLE_WAGGON_RUNGENWAGEN_1950_DESCRIPTION"
 msgstr ""
@@ -15882,7 +15879,7 @@ msgstr ""
 "areas of application for special flatcars were adopted."
 
 msgid "VEHICLE_WAGGON_RUNGENWAGEN_1950_NAME"
-msgstr "Flatcar with side stakes"
+msgstr "기둥이 있는 평판차"
 
 msgid "VEHICLE_WAGGON_RUSSO_BALT_3RD_DESCRIPTION"
 msgstr ""
@@ -15890,7 +15887,7 @@ msgstr ""
 "1950s."
 
 msgid "VEHICLE_WAGGON_RUSSO_BALT_3RD_NAME"
-msgstr "Russo Balt"
+msgstr "루소 발트"
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_1850_DESCRIPTION"
 msgstr ""
@@ -15898,7 +15895,7 @@ msgstr ""
 "are too bulky for loading in closed coaches."
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_1850_NAME"
-msgstr "Flatcar with side stakes"
+msgstr "기둥이 있는 평판차"
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_1895_DESCRIPTION"
 msgstr ""
@@ -15906,7 +15903,7 @@ msgstr ""
 "goods. The struts on the underside provide additional load-bearing capacity."
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_1895_NAME"
-msgstr "Flatcar with side stakes"
+msgstr "기둥이 있는 평판차"
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_1952_DESCRIPTION"
 msgstr ""
@@ -15914,7 +15911,7 @@ msgstr ""
 "a \"skeleton\" because the wagon has no floor but only lateral arms."
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_1952_NAME"
-msgstr "Flatcar with side stakes"
+msgstr "기둥이 있는 평판차"
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_2000_DESCRIPTION"
 msgstr ""
@@ -15923,7 +15920,7 @@ msgstr ""
 "to flaps."
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_2000_NAME"
-msgstr "Flatcar with side stakes"
+msgstr "기둥이 있는 평판차"
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_AS_1850_DESCRIPTION"
 msgstr ""
@@ -15931,7 +15928,7 @@ msgstr ""
 "of wood. Steel girders were only used later."
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_AS_1850_NAME"
-msgstr "Flatcar with side stakes"
+msgstr "기둥이 있는 평판차"
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_AS_1900_DESCRIPTION"
 msgstr ""
@@ -15939,7 +15936,7 @@ msgstr ""
 "equipped with racks to prevent goods from slipping sideways."
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_AS_1900_NAME"
-msgstr "Flatcar with side stakes"
+msgstr "기둥이 있는 평판차"
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_AS_1950_DESCRIPTION"
 msgstr ""
@@ -15947,7 +15944,7 @@ msgstr ""
 "be removed separately as required."
 
 msgid "VEHICLE_WAGGON_STAKE_CAR_AS_1950_NAME"
-msgstr "Flatcar with side stakes"
+msgstr "기둥이 있는 평판차"
 
 msgid "VEHICLE_WAGGON_STREAMLINED_SANTA_FE_DESCRIPTION"
 msgstr ""
@@ -15955,7 +15952,7 @@ msgstr ""
 "aluminum with corrugated side walls."
 
 msgid "VEHICLE_WAGGON_STREAMLINED_SANTA_FE_NAME"
-msgstr "Streamlined Coach New Mexico"
+msgstr "스트림라인 뉴멕시코 객차"
 
 msgid "VEHICLE_WAGGON_SUBURBAN_2ND_DESCRIPTION"
 msgstr ""
@@ -15963,7 +15960,7 @@ msgstr ""
 "with trucks. A toilet is also part of the equipment."
 
 msgid "VEHICLE_WAGGON_SUBURBAN_2ND_NAME"
-msgstr "Suburban"
+msgstr "서버번"
 
 msgid "VEHICLE_WAGGON_TANKCAR_1860_DESCRIPTION"
 msgstr ""
@@ -15971,7 +15968,7 @@ msgstr ""
 "develop this new type of coach for transporting liquids."
 
 msgid "VEHICLE_WAGGON_TANKCAR_1860_NAME"
-msgstr "Tank car"
+msgstr "탱크차"
 
 msgid "VEHICLE_WAGGON_TANKCAR_1899_DESCRIPTION"
 msgstr ""
@@ -15980,7 +15977,7 @@ msgstr ""
 "coaches were already in use."
 
 msgid "VEHICLE_WAGGON_TANKCAR_1899_NAME"
-msgstr "Tank car"
+msgstr "탱크차"
 
 msgid "VEHICLE_WAGGON_TANKCAR_1948_DESCRIPTION"
 msgstr ""
@@ -15989,7 +15986,7 @@ msgstr ""
 "high loads."
 
 msgid "VEHICLE_WAGGON_TANKCAR_1948_NAME"
-msgstr "Tank car"
+msgstr "탱크차"
 
 msgid "VEHICLE_WAGGON_TANKCAR_2000_DESCRIPTION"
 msgstr ""
@@ -15997,14 +15994,14 @@ msgstr ""
 "unloading equipment to meet the different needs of railroad companies."
 
 msgid "VEHICLE_WAGGON_TANKCAR_2000_NAME"
-msgstr "Tank car"
+msgstr "탱크차"
 
 msgid "VEHICLE_WAGGON_TANKCAR_AS_1850_DESCRIPTION"
 msgstr ""
 "The first tanker trucks were simply flatbed cars on which a tank was mounted."
 
 msgid "VEHICLE_WAGGON_TANKCAR_AS_1850_NAME"
-msgstr "Tank car"
+msgstr "탱크차"
 
 msgid "VEHICLE_WAGGON_TANKCAR_AS_1900_DESCRIPTION"
 msgstr ""
@@ -16012,7 +16009,7 @@ msgstr ""
 "early 20th century and was mostly used for the transport of petroleum."
 
 msgid "VEHICLE_WAGGON_TANKCAR_AS_1900_NAME"
-msgstr "Tank car"
+msgstr "탱크차"
 
 msgid "VEHICLE_WAGGON_TANKCAR_AS_1950_DESCRIPTION"
 msgstr ""
@@ -16020,7 +16017,7 @@ msgstr ""
 "various liquids."
 
 msgid "VEHICLE_WAGGON_TANKCAR_AS_1950_NAME"
-msgstr "Tank car"
+msgstr "탱크차"
 
 msgid "VEHICLE_WAGGON_TVZ_61_4447_DESCRIPTION"
 msgstr ""
@@ -16037,13 +16034,13 @@ msgstr ""
 "the construction of freight cars."
 
 msgid "VEHICLE_WAGGON_VERBANDSWAGEN_V2_NAME"
-msgstr "Boxcar"
+msgstr "박스형 화차"
 
 msgid "VEHICLE_WAGGON_WAGEN_BAYRISCH_1865_DESCRIPTION"
 msgstr "Two-axle passenger car with open platforms on both sides."
 
 msgid "VEHICLE_WAGGON_WAGEN_BAYRISCH_1865_NAME"
-msgstr "Bavarian Passenger Car"
+msgstr "바이에른 객차"
 
 msgid "Vehicle manager"
 msgstr "차량 괸리자"
