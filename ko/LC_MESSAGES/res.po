@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-11 17:34+0100\n"
-"PO-Revision-Date: 2021-07-01 17:40+0900\n"
+"PO-Revision-Date: 2021-07-02 15:17+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -4289,7 +4289,7 @@ msgid "MISSION_ICE_INTRO9"
 msgstr "미래를 위해 연방 철도를 만드세요!"
 
 msgid "MISSION_ICE_MEDAL_FIRSTTRY_CAMPAIGNSCREENNAME"
-msgstr "Local Transit Monopoly"
+msgstr "지역 교통 독점"
 
 msgid "MISSION_ICE_MEDAL_FIRSTTRY_FAIL_FINISH_NAME"
 msgstr "요구사항 미달성!"
@@ -4300,13 +4300,13 @@ msgstr ""
 "나중에는 이 계약이 공개 입찰에 들어갈 겁니다."
 
 msgid "MISSION_ICE_MEDAL_FIRSTTRY_NAME"
-msgstr "Local Transit Monopoly"
+msgstr "지역 교통 독점"
 
 msgid "MISSION_ICE_MEDAL_FIRSTTRY_REGION_NAME"
-msgstr "Supply Transit to a Second Federal State"
+msgstr "두번째 주에 교통을 연결하세요"
 
 msgid "MISSION_ICE_MEDAL_FIRSTTRY_REGION_SUB1"
-msgstr "Train stations reached"
+msgstr "도달한 기차역"
 
 msgid "MISSION_ICE_MEDAL_FIRSTTRY_REGION_TASK"
 msgstr "${zone}의 기차역에 지역노선 열차를 배치하세요."
@@ -4333,7 +4333,7 @@ msgstr ""
 "요."
 
 msgid "MISSION_ICE_MEDAL_MANAGER_AIRLINE_NAME"
-msgstr "Establishing an Airline"
+msgstr "항공 노선 생성"
 
 msgid "MISSION_ICE_MEDAL_MANAGER_AIRLINE_TASK"
 msgstr ""
@@ -4346,13 +4346,13 @@ msgstr ""
 "이런 지출을 줄이려면 열차 대신에 비행기를 이용하면 됩니다."
 
 msgid "MISSION_ICE_MEDAL_MANAGER_CAMPAIGNSCREENNAME"
-msgstr "Good Management"
+msgstr "좋은 관리"
 
 msgid "MISSION_ICE_MEDAL_MANAGER_DRIVERS_HINT"
 msgstr "중련 열차란 두 대의 열차가 서로 연결된 것을 의미합니다."
 
 msgid "MISSION_ICE_MEDAL_MANAGER_DRIVERS_NAME"
-msgstr "Cut Back on Staff"
+msgstr "직원 감축"
 
 msgid "MISSION_ICE_MEDAL_MANAGER_DRIVERS_TASK"
 msgstr "ICE 열차를 중련으로만 편성하세요."
@@ -4372,13 +4372,13 @@ msgstr ""
 "습니다."
 
 msgid "MISSION_ICE_MEDAL_MANAGER_INFRASTRUCTURE_NAME"
-msgstr "Divest Infrastructure"
+msgstr "기반 시설 처분"
 
 msgid "MISSION_ICE_MEDAL_MANAGER_INFRASTRUCTURE_SUB1"
-msgstr "Remove roofs"
+msgstr "지붕 제거"
 
 msgid "MISSION_ICE_MEDAL_MANAGER_INFRASTRUCTURE_SUB2"
-msgstr "Remove outbuildings"
+msgstr "별관 철거"
 
 msgid "MISSION_ICE_MEDAL_MANAGER_INFRASTRUCTURE_TASK"
 msgstr "기차역의 지붕과 별관 건물의 수를 줄이세요."
@@ -4389,10 +4389,10 @@ msgstr ""
 "수익을 위해서, 이런 시설들을 철거해서 제3자에게 팔아버립시다."
 
 msgid "MISSION_ICE_MEDAL_MANAGER_MANAGER1_NAME"
-msgstr "Increase Manager Salaries"
+msgstr "관리자 봉급 인상"
 
 msgid "MISSION_ICE_MEDAL_MANAGER_MANAGER1_OPTION"
-msgstr "Pay now"
+msgstr "지금 지불하기"
 
 msgid "MISSION_ICE_MEDAL_MANAGER_MANAGER1_TASK"
 msgstr "관리자들에게 ${blumerbonus_formated}만큼의 보너스를 지급하세요."
@@ -4404,10 +4404,10 @@ msgstr ""
 "관리자들에게 이런 투자는 더 꾸준히 일할 수 있게 해줍니다."
 
 msgid "MISSION_ICE_MEDAL_MANAGER_MANAGER2_NAME"
-msgstr "Increase Manager Salaries"
+msgstr "관리자 봉급 인상"
 
 msgid "MISSION_ICE_MEDAL_MANAGER_MANAGER2_OPTION"
-msgstr "Pay now"
+msgstr "지금 지불하기"
 
 msgid "MISSION_ICE_MEDAL_MANAGER_MANAGER2_TASK"
 msgstr "관리자들에게 ${blumerbonus_formated}만큼의 보너스를 지급하세요."
@@ -4419,10 +4419,10 @@ msgstr ""
 "이런 전략을 반드시 관리해야 합니다."
 
 msgid "MISSION_ICE_MEDAL_MANAGER_MANAGER3_NAME"
-msgstr "Increase Manager Salaries"
+msgstr "관리자 봉급 인상"
 
 msgid "MISSION_ICE_MEDAL_MANAGER_MANAGER3_OPTION"
-msgstr "Pay now"
+msgstr "지금 지불하기"
 
 msgid "MISSION_ICE_MEDAL_MANAGER_MANAGER3_TASK"
 msgstr "관리자들에게 ${blumerbonus_formated}만큼의 보너스를 지급하세요."
@@ -4434,7 +4434,7 @@ msgstr ""
 "이 정도는 예상했으니, 적절한 조치가 필요합니다."
 
 msgid "MISSION_ICE_MEDAL_MANAGER_NAME"
-msgstr "Good Management"
+msgstr "좋은 관리"
 
 msgid "MISSION_ICE_MEDAL_MANAGER_TEXT"
 msgstr ""
@@ -4443,22 +4443,22 @@ msgstr ""
 "이 구조조정 방법들은 지역에 따라 다르게 진행하기로 되어 있습니다."
 
 msgid "MISSION_ICE_MEDAL_STUTTGART_BUILD_NAME"
-msgstr "Renovate Train Station"
+msgstr "기차역 재건설"
 
 msgid "MISSION_ICE_MEDAL_STUTTGART_BUILD_SUB1"
-msgstr "Convert Stuttgart into a through station"
+msgstr "슈투트가르트 역을 통과역으로 변환하세요"
 
 msgid "MISSION_ICE_MEDAL_STUTTGART_BUILD_SUB2"
-msgstr "Build a tunnel in the red area"
+msgstr "빨간색 지역에 터널을 건설하세요"
 
 msgid "MISSION_ICE_MEDAL_STUTTGART_BUILD_SUB3"
-msgstr "Remove trees in the green area"
+msgstr "초록색 지역의 나무를 제거하세요"
 
 msgid "MISSION_ICE_MEDAL_STUTTGART_BUILD_SUB4"
-msgstr "Demolish houses in the yellow area"
+msgstr "노란색 지역의 집들을 철거하세요"
 
 msgid "MISSION_ICE_MEDAL_STUTTGART_BUILD_SUB5"
-msgstr "Lay tracks in the blue water protection area"
+msgstr "파란색 물 보호 지역에 철도를 놓으세요"
 
 msgid "MISSION_ICE_MEDAL_STUTTGART_BUILD_TASK"
 msgstr "슈투트가르트에 새 기차역을 건설하고 모든 요구사항을 만족시키세요."
@@ -4469,7 +4469,7 @@ msgstr ""
 "근처 상수도보호구역과, 성의 정원에 있는 오래된 나무를 이용해야 합니다."
 
 msgid "MISSION_ICE_MEDAL_STUTTGART_CAMPAIGNSCREENNAME"
-msgstr "Station 2000"
+msgstr "21세기 기차역"
 
 msgid "MISSION_ICE_MEDAL_STUTTGART_FINISH_NAME"
 msgstr "세기의 프로젝트!"
@@ -4481,7 +4481,7 @@ msgstr ""
 "효율적이고, 안전하고, 전체 주민들에게 끊임없는 즐거움을 주죠."
 
 msgid "MISSION_ICE_MEDAL_STUTTGART_NAME"
-msgstr "Station 2000"
+msgstr "21세기 기차역"
 
 msgid "MISSION_ICE_MEDAL_STUTTGART_TEXT"
 msgstr ""
@@ -4491,142 +4491,142 @@ msgstr ""
 "이죠."
 
 msgid "MISSION_ICE_NAME"
-msgstr "Liberated Markets"
+msgstr "자유로운 시장"
 
 msgid "MISSION_ICE_PARAMS_ANSBACH"
-msgstr "Ansbach (BY)"
+msgstr "안스바흐 (바이에른)"
 
 msgid "MISSION_ICE_PARAMS_BADKISSINGEN"
-msgstr "Grabfeld"
+msgstr "그랍펠트"
 
 msgid "MISSION_ICE_PARAMS_BADORB"
-msgstr "Bad Orb"
+msgstr "바트 오프"
 
 msgid "MISSION_ICE_PARAMS_CONMATPLANT"
-msgstr "Stuttgart construction materials plant"
+msgstr "슈투트가르트 건설 자재 공장"
 
 msgid "MISSION_ICE_PARAMS_CRAILSHEIM"
-msgstr "Crailsheim (BY)"
+msgstr "크라일스하임 (바이에른)"
 
 msgid "MISSION_ICE_PARAMS_FOODPROCESSING"
-msgstr "Frankfurt food processing plant"
+msgstr "프랑크푸르트 음식 가공 공장"
 
 msgid "MISSION_ICE_PARAMS_FRANKFURT"
-msgstr "Frankfurt"
+msgstr "프랑크푸르트"
 
 msgid "MISSION_ICE_PARAMS_FUELFACTORY"
-msgstr "Frankfurt fuel refinery"
+msgstr "프랑크푸르트 연료 공장"
 
 msgid "MISSION_ICE_PARAMS_FULDA"
-msgstr "Fulda"
+msgstr "풀다"
 
 msgid "MISSION_ICE_PARAMS_GOODSFACTORY"
-msgstr "Stuttgart goods factory"
+msgstr "슈투트가르트 물건 공장"
 
 msgid "MISSION_ICE_PARAMS_GREDING"
-msgstr "Greding (BY)"
+msgstr "그레딩 (바이에른)"
 
 msgid "MISSION_ICE_PARAMS_GRUIBINGEN"
-msgstr "Gruibingen (BW)"
+msgstr "그뤼빙겐 (바덴-뷔르템베르크)"
 
 msgid "MISSION_ICE_PARAMS_HEILBRONN"
-msgstr "Heilbronn (BW)"
+msgstr "하일브론 (바덴-뷔르템베르크)"
 
 msgid "MISSION_ICE_PARAMS_ICE_TEST_DESC"
-msgstr "ICE test train"
+msgstr "ICE 시운전 차량"
 
 msgid "MISSION_ICE_PARAMS_INGOLSTADT"
-msgstr "Ingolstadt (BY)"
+msgstr "잉골슈타트 (바이에른)"
 
 msgid "MISSION_ICE_PARAMS_MACHINESFACTORY"
-msgstr "Nuremberg machines factory"
+msgstr "뉘른베르크 기계 공장"
 
 msgid "MISSION_ICE_PARAMS_MANNHEIM"
-msgstr "Mannheim (BW)"
+msgstr "만하임 (바덴-뷔르템베르크)"
 
 msgid "MISSION_ICE_PARAMS_MUNDELSHEIM"
-msgstr "Mundelsheim (BW)"
+msgstr "문델스하임 (바덴-뷔르템베르크)"
 
 msgid "MISSION_ICE_PARAMS_NUREMBERG"
-msgstr "Nuremberg (BY)"
+msgstr "뉘른베르크 (바이에른)"
 
 msgid "MISSION_ICE_PARAMS_ROHR"
-msgstr "Rohr (BY)"
+msgstr "로어 (바이에른)"
 
 msgid "MISSION_ICE_PARAMS_SINSHEIM"
-msgstr "Sinsheim (BW)"
+msgstr "진스하임 (바덴-뷔르템베르크)"
 
 msgid "MISSION_ICE_PARAMS_STATION_ANSBACH"
-msgstr "Ansbach passenger station"
+msgstr "안스바흐역"
 
 msgid "MISSION_ICE_PARAMS_STATION_BADKISSINGEN"
-msgstr "Grabfeld passenger station"
+msgstr "그랍펠트역"
 
 msgid "MISSION_ICE_PARAMS_STATION_BADORB"
-msgstr "Bad Orb passenger station"
+msgstr "바트 오프 역"
 
 msgid "MISSION_ICE_PARAMS_STATION_CRAILSHEIM"
-msgstr "Crailsheim passenger station"
+msgstr "크라일스하임역"
 
 msgid "MISSION_ICE_PARAMS_STATION_FRANKFURT"
-msgstr "Frankfurt passenger station"
+msgstr "프랑크푸르트역"
 
 msgid "MISSION_ICE_PARAMS_STATION_FULDA"
-msgstr "Fulda passenger station"
+msgstr "풀다역"
 
 msgid "MISSION_ICE_PARAMS_STATION_GREDING"
-msgstr "Greding passenger station"
+msgstr "그레딩역"
 
 msgid "MISSION_ICE_PARAMS_STATION_GRUIBINGEN"
-msgstr "Gruibingen passenger station"
+msgstr "그뤼빙겐역"
 
 msgid "MISSION_ICE_PARAMS_STATION_HEILBRONN"
-msgstr "Heilbronn passenger station"
+msgstr "하일브론역"
 
 msgid "MISSION_ICE_PARAMS_STATION_INGOLSTADT"
-msgstr "Ingolstadt passenger station"
+msgstr "잉골슈타트역"
 
 msgid "MISSION_ICE_PARAMS_STATION_MANNHEIM"
-msgstr "Mannheim passenger station"
+msgstr "만하임역"
 
 msgid "MISSION_ICE_PARAMS_STATION_MUNDELSHEIM"
-msgstr "Mundelsheim passenger station"
+msgstr "문델스하임역"
 
 msgid "MISSION_ICE_PARAMS_STATION_NUREMBERG"
-msgstr "Nuremberg passenger station"
+msgstr "뉘른베르크역"
 
 msgid "MISSION_ICE_PARAMS_STATION_ROHR"
-msgstr "Rohr passenger station"
+msgstr "로어역"
 
 msgid "MISSION_ICE_PARAMS_STATION_SINSHEIM"
 msgstr "진스하임역"
 
 msgid "MISSION_ICE_PARAMS_STATION_STUTTGART"
-msgstr "Stuttgart passenger station"
+msgstr "슈투트가르트역"
 
 msgid "MISSION_ICE_PARAMS_STATION_ULM"
-msgstr "Ulm passenger station"
+msgstr "울름역"
 
 msgid "MISSION_ICE_PARAMS_STATION_WUERZBURG"
-msgstr "Würzburg passenger station"
+msgstr "뷔르츠부르크역"
 
 msgid "MISSION_ICE_PARAMS_STUTTGART"
-msgstr "Stuttgart (BW)"
+msgstr "슈투트가르트 (바덴-뷔르템베르크)"
 
 msgid "MISSION_ICE_PARAMS_TOOLSFACTORY"
-msgstr "Nuremberg tools factory"
+msgstr "뉘른베르크 도구 공장"
 
 msgid "MISSION_ICE_PARAMS_ULM"
-msgstr "Ulm (BW)"
+msgstr "울름 (바덴-뷔르템베르크)"
 
 msgid "MISSION_ICE_PARAMS_WUERZBURG"
-msgstr "Würzburg (BY)"
+msgstr "뷔르츠부르크 (바이에른)"
 
 msgid "MISSION_ICE_TASK_BRANCH_NAME"
-msgstr "Initial Public Offering"
+msgstr "공공 서비스 초기화"
 
 msgid "MISSION_ICE_TASK_BRANCH_REGIONAL_NAME"
-msgstr "Reduce Local Transit"
+msgstr "지역 교통 감소"
 
 msgid "MISSION_ICE_TASK_BRANCH_REGIONAL_TASK1"
 msgstr ""
@@ -4644,13 +4644,13 @@ msgstr ""
 "불가피합니다."
 
 msgid "MISSION_ICE_TASK_BRANCH_SECTIONS_NAME"
-msgstr "Expand Sectors"
+msgstr "지역을 확장하세요"
 
 msgid "MISSION_ICE_TASK_BRANCH_SECTIONS_SUB1"
-msgstr "Earn with Intercity Express"
+msgstr "ICE로 돈을 버세요"
 
 msgid "MISSION_ICE_TASK_BRANCH_SECTIONS_SUB2"
-msgstr "Earn with road vehicles"
+msgstr "자동차로 돈을 버세요"
 
 msgid "MISSION_ICE_TASK_BRANCH_SECTIONS_TASK"
 msgstr ""
@@ -4681,16 +4681,16 @@ msgstr ""
 "회사는 이제 공공으로 나가도 되겠군요!"
 
 msgid "MISSION_ICE_TASK_HIGHSPEED_NAME"
-msgstr "Intercity Express"
+msgstr "도시간 고속열차"
 
 msgid "MISSION_ICE_TASK_HIGHSPEED_OPERATE_NAME"
-msgstr "Run the Intercity Express"
+msgstr "ICE를 운행하세요"
 
 msgid "MISSION_ICE_TASK_HIGHSPEED_OPERATE_SUB1"
-msgstr "Intercity Express trains in operation"
+msgstr "운행중인 ICE"
 
 msgid "MISSION_ICE_TASK_HIGHSPEED_OPERATE_SUB2"
-msgstr "Intercity Express distance driven"
+msgstr "ICE가 운행한 거리"
 
 msgid "MISSION_ICE_TASK_HIGHSPEED_OPERATE_TASK"
 msgstr ""
@@ -4707,19 +4707,19 @@ msgstr ""
 "주요 역은 프랑크푸르트, 만하임, 뉘른베르크, 슈투트가르트, 뷔르츠부르크입니다."
 
 msgid "MISSION_ICE_TASK_HIGHSPEED_PLAN_NAME"
-msgstr "Build the High-speed Rail Line"
+msgstr "고속철도 노선 건설"
 
 msgid "MISSION_ICE_TASK_HIGHSPEED_PLAN_SUB1"
-msgstr "Stuttgart to Mannheim travel time"
+msgstr "슈투트가르트에서 만하임까지 걸리는 시간"
 
 msgid "MISSION_ICE_TASK_HIGHSPEED_PLAN_SUB2"
-msgstr "Mannheim to Frankfurt travel time"
+msgstr "만하임에서 프랑크푸르트까지 걸리는 시간"
 
 msgid "MISSION_ICE_TASK_HIGHSPEED_PLAN_SUB3"
-msgstr "Frankfurt to Würzburg travel time"
+msgstr "프랑크푸르트에서 뷔르츠부르크까지 걸리는 시간"
 
 msgid "MISSION_ICE_TASK_HIGHSPEED_PLAN_SUB4"
-msgstr "Würzburg to Nuremberg travel time"
+msgstr "뷔르츠부르크에서 뉘른베르크까지 걸리는 시간"
 
 msgid "MISSION_ICE_TASK_HIGHSPEED_PLAN_TASK"
 msgstr ""
@@ -4742,7 +4742,7 @@ msgstr ""
 "미래 열차가 달릴 수 있도록 하세요!"
 
 msgid "MISSION_ICE_TASK_PRIVATE_NAME"
-msgstr "Privatization"
+msgstr "민영화"
 
 msgid "MISSION_ICE_TASK_PRIVATE_REDUCE_HINT"
 msgstr ""
@@ -4750,16 +4750,16 @@ msgstr ""
 "역을 수정하려면 역을 클릭하고 \"설정\"을 누르세요."
 
 msgid "MISSION_ICE_TASK_PRIVATE_REDUCE_NAME"
-msgstr "Optimize Infrastructure"
+msgstr "기반 시설 최적화"
 
 msgid "MISSION_ICE_TASK_PRIVATE_REDUCE_SUB1"
-msgstr "Remove meters of platform"
+msgstr "플랫폼의 길이를 줄이세요"
 
 msgid "MISSION_ICE_TASK_PRIVATE_REDUCE_SUB2"
-msgstr "Remove meters of track in train stations"
+msgstr "기차역에 있는 선로의 길이를 줄이세요"
 
 msgid "MISSION_ICE_TASK_PRIVATE_REDUCE_TASK"
-msgstr "Reduce the size of regional train stations"
+msgstr "지역 기차역의 크기를 줄이세요"
 
 msgid "MISSION_ICE_TASK_PRIVATE_REDUCE_TEXT"
 msgstr ""
@@ -4767,7 +4767,7 @@ msgstr ""
 "이 모토를 실현하기 위한 많은 요인들이 있죠."
 
 msgid "MISSION_ICE_TASK_PRIVATE_REVENUE_NAME"
-msgstr "Reach turnover target"
+msgstr "매출 목표량 달성"
 
 msgid "MISSION_ICE_TASK_PRIVATE_REVENUE_TASK"
 msgstr "매출 ${revenue_formated}를 달성하세요."
@@ -4790,17 +4790,17 @@ msgstr ""
 "을 해야 합니다."
 
 msgid "MISSION_ICE_TASK_REGIONAL_NAME"
-msgstr "A Losing Game"
+msgstr "잃어버린 게임"
 
 msgid "MISSION_ICE_TASK_REGIONAL_OPERATION_HINT"
 msgstr ""
 "${credit_formated}만큼의 1년당 보조금이 자동으로 당신의 계좌에 들어올 겁니다."
 
 msgid "MISSION_ICE_TASK_REGIONAL_OPERATION_NAME"
-msgstr "Comply with operating obligation"
+msgstr "운행 규제 충족"
 
 msgid "MISSION_ICE_TASK_REGIONAL_OPERATION_SUB1"
-msgstr "Access to local public transit"
+msgstr "지역 대중교통에 접근하세요"
 
 msgid "MISSION_ICE_TASK_REGIONAL_OPERATION_TASK"
 msgstr "마을의 대중교통 접근성을 ${public_transport}로 늘리세요."
@@ -4812,13 +4812,13 @@ msgstr ""
 "많은 채무가 없었다면 이런 일은 일어나지 않았을 겁니다."
 
 msgid "MISSION_ICE_TASK_REGIONAL_SERVICE_NAME"
-msgstr "Comply with service obligation"
+msgstr "서비스 규제 총족"
 
 msgid "MISSION_ICE_TASK_REGIONAL_SERVICE_SUB1"
-msgstr "Capacity"
+msgstr "수용량"
 
 msgid "MISSION_ICE_TASK_REGIONAL_SERVICE_SUB2"
-msgstr "Frequency"
+msgstr "열차 빈도"
 
 msgid "MISSION_ICE_TASK_REGIONAL_SERVICE_TASK"
 msgstr ""
@@ -4841,13 +4841,13 @@ msgstr ""
 "고 있습니다."
 
 msgid "MISSION_ICE_TASK_REGIO_DECISION_NAME"
-msgstr "Win the Contract"
+msgstr "계약 체결"
 
 msgid "MISSION_ICE_TASK_REGIO_DECISION_OPTION1"
-msgstr "Baden-Württemberg"
+msgstr "바덴-뷔르텐베르크"
 
 msgid "MISSION_ICE_TASK_REGIO_DECISION_OPTION2"
-msgstr "Bavaria"
+msgstr "바바리아"
 
 msgid "MISSION_ICE_TASK_REGIO_DECISION_TASK"
 msgstr ""
@@ -4860,7 +4860,7 @@ msgstr ""
 "회사를 위해 독일 주들과의 계약을 사수해야 합니다."
 
 msgid "MISSION_ICE_TASK_REGIO_NAME"
-msgstr "Regionalization"
+msgstr "지역화"
 
 msgid "MISSION_ICE_TASK_REGIO_TEXT"
 msgstr ""
@@ -4875,19 +4875,19 @@ msgid "MISSION_ICE_TASK_REGIO_TRIAL_HINT"
 msgstr "모든 열차는 지역 노선을 최대 160km/h로 운행할 수 있습니다."
 
 msgid "MISSION_ICE_TASK_REGIO_TRIAL_NAME"
-msgstr "Provisioning of services"
+msgstr "서비스의 공급"
 
 msgid "MISSION_ICE_TASK_REGIO_TRIAL_SUB1"
-msgstr "Travel to all train stations in ${zone} with a regional train"
+msgstr "지역 철도로 ${zone}의 모든 기차역을 운행하세요"
 
 msgid "MISSION_ICE_TASK_REGIO_TRIAL_SUB2"
-msgstr "Travel to no train stations in ${zone} with a regional train"
+msgstr "지역 철도가 ${zone}의 모든 기차역을 운행하지 않도록 하세요"
 
 msgid "MISSION_ICE_TASK_REGIO_TRIAL_SUB3"
-msgstr "Regional trains in use at the same time"
+msgstr "동시에 운행 중인 지역 철도"
 
 msgid "MISSION_ICE_TASK_REGIO_TRIAL_SUB4"
-msgstr "People transported with a regional train"
+msgstr "지역 철도로 운송한 사람 수"
 
 msgid "MISSION_ICE_TASK_REGIO_TRIAL_TASK"
 msgstr "1년 동안 모든 요구사항을 달성하세요."
@@ -4936,7 +4936,7 @@ msgid "MISSION_LEADER_INTRO9"
 msgstr "인민의 영광을 위해!"
 
 msgid "MISSION_LEADER_MEDAL_HUNT_CAMPAIGNSCREENNAME"
-msgstr "Hunting Grounds"
+msgstr "사냥터"
 
 msgid "MISSION_LEADER_MEDAL_HUNT_FINISH_NAME"
 msgstr "좋은 사냥 되세요!"
@@ -4948,16 +4948,16 @@ msgstr ""
 "수 있겠군요."
 
 msgid "MISSION_LEADER_MEDAL_HUNT_FOREST_NAME"
-msgstr "Forest Road"
+msgstr "숲길"
 
 msgid "MISSION_LEADER_MEDAL_HUNT_FOREST_SUB1"
-msgstr "Build a forest road"
+msgstr "숲길을 건설하세요"
 
 msgid "MISSION_LEADER_MEDAL_HUNT_FOREST_SUB2"
-msgstr "Plant trees"
+msgstr "나무를 심으세요"
 
 msgid "MISSION_LEADER_MEDAL_HUNT_FOREST_SUB3"
-msgstr "Find a bear"
+msgstr "곰을 찾으세요"
 
 msgid "MISSION_LEADER_MEDAL_HUNT_FOREST_TASK"
 msgstr ""
@@ -4970,7 +4970,7 @@ msgstr ""
 "그리고 사냥감이 각하를 기다리고 있는지 확인하세요."
 
 msgid "MISSION_LEADER_MEDAL_HUNT_NAME"
-msgstr "Hunting Grounds"
+msgstr "사냥터"
 
 msgid "MISSION_LEADER_MEDAL_HUNT_TEXT"
 msgstr ""
@@ -4980,7 +4980,7 @@ msgstr ""
 "을 동경할 뿐이죠!"
 
 msgid "MISSION_LEADER_MEDAL_PROSPERITY_CAMPAIGNSCREENNAME"
-msgstr "Prosperity"
+msgstr "번영"
 
 msgid "MISSION_LEADER_MEDAL_PROSPERITY_FINISH_NAME"
 msgstr "열광적인 박수!"
@@ -4993,7 +4993,7 @@ msgstr ""
 "고 있습니다."
 
 msgid "MISSION_LEADER_MEDAL_PROSPERITY_NAME"
-msgstr "Prosperity"
+msgstr "번영"
 
 msgid "MISSION_LEADER_MEDAL_PROSPERITY_TEXT"
 msgstr ""
@@ -5003,13 +5003,13 @@ msgstr ""
 "그리고 가장 열심히 일하는 공화국의 동무들만이 존재 가치가 있습니다!"
 
 msgid "MISSION_LEADER_MEDAL_PROSPERITY_TRIUMPHAL_NAME"
-msgstr "Prepare Triumphal Procession"
+msgstr "개선 행진 준비"
 
 msgid "MISSION_LEADER_MEDAL_PROSPERITY_TRIUMPHAL_SUB1"
-msgstr "Apple trees planted"
+msgstr "심은 사과나무"
 
 msgid "MISSION_LEADER_MEDAL_PROSPERITY_TRIUMPHAL_SUB2"
-msgstr "Bring in cheering crowds"
+msgstr "응원단으로 데려오세요"
 
 msgid "MISSION_LEADER_MEDAL_PROSPERITY_TRIUMPHAL_TASK"
 msgstr ""
@@ -5022,10 +5022,10 @@ msgid "MISSION_LEADER_MEDAL_PROSPERITY_TRIUMPHAL_TEXT"
 msgstr "우리나라의 퍼스트 패밀리들의 눈을 즐겁게 해야 합니다."
 
 msgid "MISSION_LEADER_MEDAL_WATER_CAMPAIGNSCREENNAME"
-msgstr "Waterway"
+msgstr "수로"
 
 msgid "MISSION_LEADER_MEDAL_WATER_CARGO_NAME"
-msgstr "Transporting Cargo"
+msgstr "화물 운송"
 
 msgid "MISSION_LEADER_MEDAL_WATER_CARGO_TASK"
 msgstr "${ship_unload_amount}개의 화물을 선박으로 운송하세요."
@@ -5046,7 +5046,7 @@ msgstr ""
 "매우 유용하리라는 것을 증명해 냈군요."
 
 msgid "MISSION_LEADER_MEDAL_WATER_NAME"
-msgstr "Waterway"
+msgstr "수로"
 
 msgid "MISSION_LEADER_MEDAL_WATER_TEXT"
 msgstr ""
@@ -5055,79 +5055,79 @@ msgstr ""
 "그리고 다뉴브의 뱃사공인 나쟈도 모든 계약을 따낼 것을 기뻐할 것이고요."
 
 msgid "MISSION_LEADER_NAME"
-msgstr "Genius of the Carpathians"
+msgstr "서기장님의 천재성"
 
 msgid "MISSION_LEADER_PARAMS_ALEXANDRIA"
-msgstr "Alexandria"
+msgstr "알렉산드리아"
 
 msgid "MISSION_LEADER_PARAMS_BUKAREST"
-msgstr "Bucharest Central District"
+msgstr "부카레스트 중구"
 
 msgid "MISSION_LEADER_PARAMS_CANALSITE"
-msgstr "Canal construction site"
+msgstr "운하 건설 현장"
 
 msgid "MISSION_LEADER_PARAMS_CHEMICALPLANT"
-msgstr "Constanza chemical plant"
+msgstr "콘스탄자 화학공장"
 
 msgid "MISSION_LEADER_PARAMS_DISTRICT1"
-msgstr "Bucharest East District"
+msgstr "부카레스트 동구"
 
 msgid "MISSION_LEADER_PARAMS_DISTRICT2"
-msgstr "Bucharest North District"
+msgstr "부카레스트 북구"
 
 msgid "MISSION_LEADER_PARAMS_DISTRICT3"
-msgstr "Bucharest West District"
+msgstr "부카레스트 서구"
 
 msgid "MISSION_LEADER_PARAMS_EXPORT"
-msgstr "Constanza export"
+msgstr "콘스탄자 수출"
 
 msgid "MISSION_LEADER_PARAMS_GALATI"
-msgstr "Galati"
+msgstr "갈라티"
 
 msgid "MISSION_LEADER_PARAMS_GOODSFACTORY"
-msgstr "Alexandria pomp factory"
+msgstr "알렉산드리아 물건 공장"
 
 msgid "MISSION_LEADER_PARAMS_HARBORDANUBE"
-msgstr "Oil refinery port"
+msgstr "정유소 항구"
 
 msgid "MISSION_LEADER_PARAMS_HARBORKONSTANZA"
-msgstr "Constanza port"
+msgstr "콘스탄자 항구"
 
 msgid "MISSION_LEADER_PARAMS_KONSTANZA"
 msgstr "콘스탄자"
 
 msgid "MISSION_LEADER_PARAMS_MARBLE"
-msgstr "Galati marble quarry"
+msgstr "갈라티 대리석 광산"
 
 msgid "MISSION_LEADER_PARAMS_MARBLECONSUMER"
-msgstr "Bucharest palace construction site"
+msgstr "부카레스트 궁전 건설 현장"
 
 msgid "MISSION_LEADER_PARAMS_OIL1"
-msgstr "Alexandria oil well"
+msgstr "알렉산드리아 유정"
 
 msgid "MISSION_LEADER_PARAMS_OIL2"
-msgstr "Bucharest oil well"
+msgstr "부카레스트 유정"
 
 msgid "MISSION_LEADER_PARAMS_OILREFINERY"
-msgstr "Galati oil refinery"
+msgstr "갈라티 정유소"
 
 msgid "MISSION_LEADER_PARAMS_STEELMILL"
-msgstr "Bucharest steel mill"
+msgstr "부카레스트 제철소"
 
 msgid "MISSION_LEADER_PARAMS_TRIBUNE1"
-msgstr "Canal construction site grandstand"
+msgstr "운하 건설 현장 관람석"
 
 msgid "MISSION_LEADER_PARAMS_TRIBUNE2"
-msgstr "Oil refinery grandstand"
+msgstr "정유소 관람석"
 
 msgid "MISSION_LEADER_PARAMS_TRIBUNE3"
-msgstr "Steel mill grandstand"
+msgstr "제철소 관람석"
 
 msgid "MISSION_LEADER_PARAMS_TRIBUNE4"
-msgstr "Palace grandstand"
+msgstr "궁전 관람석"
 
 msgid "MISSION_LEADER_TASK_CHANNEL_DIG_NAME"
-msgstr "Dig the canal"
+msgstr "운하 건설"
 
 msgid "MISSION_LEADER_TASK_CHANNEL_DIG_TASK"
 msgstr "[link=jump_canal_mid]표시된 지역[/link]에 운하를 건설하세요."
@@ -5136,19 +5136,19 @@ msgid "MISSION_LEADER_TASK_CHANNEL_DIG_TEXT"
 msgstr "이 어마어마한 건설을 최상의 상태로 끝낼 모든 준비가 끝났습니다."
 
 msgid "MISSION_LEADER_TASK_CHANNEL_NAME"
-msgstr "Danube-Black Sea Canal"
+msgstr "다뉴브 강-흑해 운하"
 
 msgid "MISSION_LEADER_TASK_CHANNEL_SITE_NAME"
-msgstr "Supply the Construction Site"
+msgstr "건설 현장 공급"
 
 msgid "MISSION_LEADER_TASK_CHANNEL_SITE_SUB1"
-msgstr "Deliver steel"
+msgstr "철강을 운송하세요"
 
 msgid "MISSION_LEADER_TASK_CHANNEL_SITE_SUB2"
-msgstr "Collect stone"
+msgstr "돌을 모으세요"
 
 msgid "MISSION_LEADER_TASK_CHANNEL_SITE_SUB3"
-msgstr "Transport workers"
+msgstr "노동자를 운송하세요"
 
 msgid "MISSION_LEADER_TASK_CHANNEL_SITE_TASK"
 msgstr ""
@@ -5175,19 +5175,19 @@ msgstr "정말 좋은 자들이군!"
 
 msgid "MISSION_LEADER_TASK_FINISH_TEXT"
 msgstr ""
-"Long live the presidential couple! Hip-hip-hurray! Hurray! Hurray!\n"
-"On the other hand, your services seem to be less appreciated than before.\n"
-"And rumor has it that discord is growing among the people. \n"
-"Maybe the smart move would be to change sides…"
+"서기장 각하, 만수무강하세요! 만세! 만세! 만만세!\n"
+"하지만, 당신의 서비스는 전보다 덜 환영받는 것 같습니다.\n"
+"그리고 소문이 사람들 간의 불화로 발전하고 있습니다.\n"
+"아무래도 편을 바꾸는 것이 현명해 보입니다..."
 
 msgid "MISSION_LEADER_TASK_GIANT_DELIVER_NAME"
-msgstr "Supply City and Industry"
+msgstr "도시와 산업 시설 공급"
 
 msgid "MISSION_LEADER_TASK_GIANT_DELIVER_SUB1"
-msgstr "Supply the city with oil"
+msgstr "도시에 석유를 공급하세요"
 
 msgid "MISSION_LEADER_TASK_GIANT_DELIVER_SUB2"
-msgstr "Produce plastic"
+msgstr "플라스틱을 생산하세요"
 
 msgid "MISSION_LEADER_TASK_GIANT_DELIVER_TASK"
 msgstr ""
@@ -5201,10 +5201,10 @@ msgstr ""
 "세요."
 
 msgid "MISSION_LEADER_TASK_GIANT_NAME"
-msgstr "Prosperity"
+msgstr "번영"
 
 msgid "MISSION_LEADER_TASK_GIANT_OIL_NAME"
-msgstr "Supply the Oil Refinery"
+msgstr "정유소 공급"
 
 msgid "MISSION_LEADER_TASK_GIANT_OIL_TASK"
 msgstr "[link=jump_oilrefinery]정유소[/link]로 원유를 공급하세요."
@@ -5222,7 +5222,7 @@ msgstr ""
 "중요 산업의 확장은 전체 인민의 번영을 가져다 줄 겁니다!"
 
 msgid "MISSION_LEADER_TASK_PALACE_MARBLE_NAME"
-msgstr "Deliver Marble"
+msgstr "대리석을 운송하세요"
 
 msgid "MISSION_LEADER_TASK_PALACE_MARBLE_TASK"
 msgstr ""
@@ -5236,10 +5236,10 @@ msgstr ""
 "예를 들어, 트랜실배니아에서 캔 대리석같은 거요."
 
 msgid "MISSION_LEADER_TASK_PALACE_NAME"
-msgstr "Build the People's House"
+msgstr "인민의 집을 건설하세요"
 
 msgid "MISSION_LEADER_TASK_PALACE_PAGEANTRY_NAME"
-msgstr "Deliver Pomp"
+msgstr "행사 공급"
 
 msgid "MISSION_LEADER_TASK_PALACE_PAGEANTRY_TASK"
 msgstr ""
@@ -5263,13 +5263,13 @@ msgstr ""
 "이 상징물을 개선하는 건설 현장에 당신의 도움이 필요합니다."
 
 msgid "MISSION_LEADER_TASK_PALACE_TRIUMPH_NAME"
-msgstr "Organize the Triumphal Procession"
+msgstr "개선 행진 준비"
 
 msgid "MISSION_LEADER_TASK_PALACE_TRIUMPH_SUB1"
-msgstr "Connect grandstands"
+msgstr "관람석들을 연결하세요"
 
 msgid "MISSION_LEADER_TASK_PALACE_TRIUMPH_SUB2"
-msgstr "Exit grandstands"
+msgstr "관람석에서 나오세요"
 
 msgid "MISSION_LEADER_TASK_PALACE_TRIUMPH_TASK"
 msgstr ""
@@ -5284,16 +5284,16 @@ msgstr ""
 "서기장 각하 부부를 위해 인민들의 행렬을 정리하세요."
 
 msgid "MISSION_LEADER_TASK_PLAN_NAME"
-msgstr "City Planning"
+msgstr "도시 계획"
 
 msgid "MISSION_LEADER_TASK_PLAN_QUARTERS_CENTER_NAME"
-msgstr "Systemizing the north district"
+msgstr "북구 체계화"
 
 msgid "MISSION_LEADER_TASK_PLAN_QUARTERS_CENTER_SUB1"
-msgstr "Demolish houses"
+msgstr "집을 철거하세요"
 
 msgid "MISSION_LEADER_TASK_PLAN_QUARTERS_CENTER_SUB2"
-msgstr "Demolish streets"
+msgstr "도로를 철거하세요"
 
 msgid "MISSION_LEADER_TASK_PLAN_QUARTERS_CENTER_TASK"
 msgstr ""
@@ -5308,13 +5308,13 @@ msgstr ""
 "저리 치워 버리세요!"
 
 msgid "MISSION_LEADER_TASK_PLAN_QUARTERS_EAST_NAME"
-msgstr "Systemizing the east district"
+msgstr "도구 체계화"
 
 msgid "MISSION_LEADER_TASK_PLAN_QUARTERS_EAST_SUB1"
-msgstr "Deliver steel"
+msgstr "철강을 운송하세요"
 
 msgid "MISSION_LEADER_TASK_PLAN_QUARTERS_EAST_SUB2"
-msgstr "Deliver plastic"
+msgstr "플라스틱을 운송하세요"
 
 msgid "MISSION_LEADER_TASK_PLAN_QUARTERS_EAST_TASK"
 msgstr ""
@@ -5329,7 +5329,7 @@ msgstr ""
 "수 있습니다."
 
 msgid "MISSION_LEADER_TASK_PLAN_QUARTERS_NAME"
-msgstr "Systemize the Neighborhoods"
+msgstr "구역 체계화"
 
 msgid "MISSION_LEADER_TASK_PLAN_QUARTERS_TASK"
 msgstr ""
@@ -5342,7 +5342,7 @@ msgstr ""
 "다. 해야 할 게 많아요!"
 
 msgid "MISSION_LEADER_TASK_PLAN_QUARTERS_WEST_NAME"
-msgstr "Systemizing the west district"
+msgstr "서구 체계화"
 
 msgid "MISSION_LEADER_TASK_PLAN_QUARTERS_WEST_TASK"
 msgstr ""
@@ -5365,16 +5365,16 @@ msgstr ""
 "해야 합니다."
 
 msgid "MISSION_LEADER_TASK_PRODUCTION_NAME"
-msgstr "Increased Production"
+msgstr "생산량 증대"
 
 msgid "MISSION_LEADER_TASK_PRODUCTION_STEEL_NAME"
-msgstr "Produce Steel"
+msgstr "철강 생산"
 
 msgid "MISSION_LEADER_TASK_PRODUCTION_STEEL_SUB1"
-msgstr "Deliver iron"
+msgstr "철광석을 운송하세요"
 
 msgid "MISSION_LEADER_TASK_PRODUCTION_STEEL_SUB2"
-msgstr "Transport workers"
+msgstr "노동자를 운송하세요"
 
 msgid "MISSION_LEADER_TASK_PRODUCTION_STEEL_TASK"
 msgstr ""
@@ -5400,7 +5400,7 @@ msgid "MISSION_MACHINES_ASSET_HAY_PILE_DESC"
 msgstr "높은 고도에서의 충격을 완화시키는 데 사용할 수 있습니다."
 
 msgid "MISSION_MACHINES_ASSET_HAY_PILE_NAME"
-msgstr "Haystack"
+msgstr "건초 더미"
 
 msgid "MISSION_MACHINES_CAMPAIGNSCREEN"
 msgstr ""
@@ -5433,10 +5433,10 @@ msgid "MISSION_MACHINES_INTRO7"
 msgstr "이 영광이 프랑스에게로 가도록 하세요!"
 
 msgid "MISSION_MACHINES_MEDAL_BAT_CAMPAIGNSCREENNAME"
-msgstr "Batman"
+msgstr "배트맨"
 
 msgid "MISSION_MACHINES_MEDAL_BAT_CHAMPAGNE_NAME"
-msgstr "Delivering champagne"
+msgstr "샴페인 운송"
 
 msgid "MISSION_MACHINES_MEDAL_BAT_CHAMPAGNE_TASK"
 msgstr ""
@@ -5461,10 +5461,10 @@ msgstr ""
 "다."
 
 msgid "MISSION_MACHINES_MEDAL_BAT_NAME"
-msgstr "Batman"
+msgstr "배트맨"
 
 msgid "MISSION_MACHINES_MEDAL_BAT_RESCUE_NAME"
-msgstr "Saving the Austrian"
+msgstr "오스트리아인 보호"
 
 msgid "MISSION_MACHINES_MEDAL_BAT_RESCUE_TASK"
 msgstr ""
@@ -5486,7 +5486,7 @@ msgstr ""
 "그를 도와 주세요."
 
 msgid "MISSION_MACHINES_MEDAL_BAT_WOOD_NAME"
-msgstr "Delivering wood"
+msgstr "목재 운송"
 
 msgid "MISSION_MACHINES_MEDAL_BAT_WOOD_TASK"
 msgstr ""
@@ -5500,7 +5500,7 @@ msgstr ""
 "재료를 구해 주세요."
 
 msgid "MISSION_MACHINES_MEDAL_LATHAM_CAMPAIGNSCREENNAME"
-msgstr "Beat the competition"
+msgstr "경쟁에서 승리"
 
 msgid "MISSION_MACHINES_MEDAL_LATHAM_FINISH_FAIL_NAME"
 msgstr "너무 늦었어요!"
@@ -5521,7 +5521,7 @@ msgstr ""
 "이제 그가 당신보다 먼저 해협을 비행하는 것은 불가능합니다."
 
 msgid "MISSION_MACHINES_MEDAL_LATHAM_NAME"
-msgstr "Beat the competition"
+msgstr "경쟁에서 승리"
 
 msgid "MISSION_MACHINES_MEDAL_LATHAM_SABOTAGE_HINT"
 msgstr ""
@@ -5529,19 +5529,19 @@ msgstr ""
 "입니다."
 
 msgid "MISSION_MACHINES_MEDAL_LATHAM_SABOTAGE_NAME"
-msgstr "Sabotaging the competition"
+msgstr "경쟁 방해"
 
 msgid "MISSION_MACHINES_MEDAL_LATHAM_SABOTAGE_OPTION"
-msgstr "Sabotage"
+msgstr "방해하기"
 
 msgid "MISSION_MACHINES_MEDAL_LATHAM_SABOTAGE_SUB1"
-msgstr "Number of flights until Latham is done"
+msgstr "라탐의 남은 비행"
 
 msgid "MISSION_MACHINES_MEDAL_LATHAM_SABOTAGE_SUB2_NO"
-msgstr "Latham isn’t flying"
+msgstr "라탐이 비행하고 있지 않습니다"
 
 msgid "MISSION_MACHINES_MEDAL_LATHAM_SABOTAGE_SUB2_YES"
-msgstr "Latham is flying"
+msgstr "라탐이 비행하고 있습니다"
 
 msgid "MISSION_MACHINES_MEDAL_LATHAM_SABOTAGE_TASK"
 msgstr ""
@@ -5564,10 +5564,10 @@ msgstr ""
 "하지만 기적은 계속 일어나죠... 필요하다면, 당신은 도움을 받을 수 있습니다."
 
 msgid "MISSION_MACHINES_MEDAL_MONALISA_CAMPAIGNSCREENNAME"
-msgstr "Mona Lisa’s smile"
+msgstr "모나리자의 미소"
 
 msgid "MISSION_MACHINES_MEDAL_MONALISA_CLUE1_NAME"
-msgstr "Following the clue"
+msgstr "단서 추적"
 
 msgid "MISSION_MACHINES_MEDAL_MONALISA_CLUE1_TASK"
 msgstr "다음 흔적을 찾으세요."
@@ -5579,7 +5579,7 @@ msgstr ""
 "있을 겁니다."
 
 msgid "MISSION_MACHINES_MEDAL_MONALISA_CLUE2_NAME"
-msgstr "Following the clue"
+msgstr "단서 추적"
 
 msgid "MISSION_MACHINES_MEDAL_MONALISA_CLUE2_TASK"
 msgstr "다음 흔적을 찾으세요."
@@ -5592,7 +5592,7 @@ msgstr ""
 "그들이 그림을 그림의 고향인 이탈리아로 옮기려고 한다면 죽은 목숨입니다."
 
 msgid "MISSION_MACHINES_MEDAL_MONALISA_CLUE3_NAME"
-msgstr "Following the clue"
+msgstr "단서 추적"
 
 msgid "MISSION_MACHINES_MEDAL_MONALISA_CLUE3_TASK"
 msgstr "다음 흔적을 찾으세요."
@@ -5613,7 +5613,7 @@ msgstr ""
 "다. 그는 모나리자의 수수께끼같은 미소에 완전히 빠졌다고 하는군요."
 
 msgid "MISSION_MACHINES_MEDAL_MONALISA_NAME"
-msgstr "Mona Lisa’s smile"
+msgstr "모나리자의 미소"
 
 msgid "MISSION_MACHINES_MEDAL_MONALISA_TEXT"
 msgstr ""
@@ -5623,115 +5623,115 @@ msgstr ""
 "소중한 그림을 찾고 범인을 잡으세요."
 
 msgid "MISSION_MACHINES_NAME"
-msgstr "Magnificent Machines"
+msgstr "웅장한 기계"
 
 msgid "MISSION_MACHINES_PARAMS_BLERIOT_WORKSHOP"
-msgstr "Blériot’s workshop"
+msgstr "블레리오의 작업장"
 
 msgid "MISSION_MACHINES_PARAMS_CALAIS"
-msgstr "Calais"
+msgstr "칼레"
 
 msgid "MISSION_MACHINES_PARAMS_CALAIS_AIRFIELD"
-msgstr "Calais airfield"
+msgstr "칼레 비행장"
 
 msgid "MISSION_MACHINES_PARAMS_CALAIS_HANGAR"
-msgstr "Calais airfield hangar"
+msgstr "칼레 비행장 격납고"
 
 msgid "MISSION_MACHINES_PARAMS_CALAIS_TRIBUNE"
-msgstr "Calais spectators stand"
+msgstr "칼레 관중석"
 
 msgid "MISSION_MACHINES_PARAMS_CHAMPAGNEFACTORY"
-msgstr "Reims champagne factory"
+msgstr "레임 샴페인 공장"
 
 msgid "MISSION_MACHINES_PARAMS_DOVER"
-msgstr "Dover"
+msgstr "도버"
 
 msgid "MISSION_MACHINES_PARAMS_DOVER_AIRFIELD"
-msgstr "Dover airfield"
+msgstr "도버 비행장"
 
 msgid "MISSION_MACHINES_PARAMS_DOVER_HANGAR"
-msgstr "Dover airfield hangar"
+msgstr "도버 비행장 격납고"
 
 msgid "MISSION_MACHINES_PARAMS_FUELREFINERY"
-msgstr "Reims fuel refinery"
+msgstr "레임 연료 공장"
 
 msgid "MISSION_MACHINES_PARAMS_LATHAM_AIRFIELD"
-msgstr "Latham’s airfield"
+msgstr "라탐의 비행장"
 
 msgid "MISSION_MACHINES_PARAMS_LATHAM_HANGAR"
-msgstr "Latham’s hangar"
+msgstr "라탐의 격납고"
 
 msgid "MISSION_MACHINES_PARAMS_LATHAM_PLANE"
-msgstr "Latham’s plane"
+msgstr "라탐의 비행기"
 
 msgid "MISSION_MACHINES_PARAMS_LEMANS"
-msgstr "Le Mans"
+msgstr "르망"
 
 msgid "MISSION_MACHINES_PARAMS_LEMANS_AIRFIELD"
-msgstr "Le Mans airfield"
+msgstr "르망 비행장"
 
 msgid "MISSION_MACHINES_PARAMS_LEMANS_AIRFIELD_DELIVERY"
-msgstr "Le Mans airfield supply"
+msgstr "르망 비행장 공급처"
 
 msgid "MISSION_MACHINES_PARAMS_LEMANS_HANGAR"
-msgstr "Le Mans airfield hangar"
+msgstr "르망 비행장 격납고"
 
 msgid "MISSION_MACHINES_PARAMS_LEMANS_TRIBUNE"
-msgstr "Le Mans spectators stand"
+msgstr "르망 관중석"
 
 msgid "MISSION_MACHINES_PARAMS_LODNON"
-msgstr "London"
+msgstr "런던"
 
 msgid "MISSION_MACHINES_PARAMS_LONDON_AIRFIELD"
-msgstr "London airfield"
+msgstr "런던 비행장"
 
 msgid "MISSION_MACHINES_PARAMS_LONDON_HANGAR"
-msgstr "London airfield hangar"
+msgstr "런던 비행장 격납고"
 
 msgid "MISSION_MACHINES_PARAMS_MACHINEFACTORY"
-msgstr "Le Mans machines factory"
+msgstr "르망 기계 공장"
 
 msgid "MISSION_MACHINES_PARAMS_PARIS"
-msgstr "Paris"
+msgstr "파리"
 
 msgid "MISSION_MACHINES_PARAMS_PARIS_AIRFIELD"
-msgstr "Paris airfield"
+msgstr "파리 비행장"
 
 msgid "MISSION_MACHINES_PARAMS_PARIS_AIRFIELD_DELIVERY"
-msgstr "Paris airfield supply"
+msgstr "파리 비행장 공급처"
 
 msgid "MISSION_MACHINES_PARAMS_PARIS_HANGAR"
-msgstr "Paris airfield hangar"
+msgstr "파리 비행장 격납고"
 
 msgid "MISSION_MACHINES_PARAMS_REICHELT_WORKSHOP"
-msgstr "The Austrian’s workshop"
+msgstr "오스트리아인의 작업장"
 
 msgid "MISSION_MACHINES_PARAMS_REIMS"
-msgstr "Reims"
+msgstr "레임"
 
 msgid "MISSION_MACHINES_PARAMS_REIMS_AIRFIELD"
-msgstr "Reims airfield"
+msgstr "레임 비행장"
 
 msgid "MISSION_MACHINES_PARAMS_REIMS_HANGAR"
-msgstr "Reims airfield hangar"
+msgstr "레임 비행장 격납고"
 
 msgid "MISSION_MACHINES_PARAMS_REIMS_TRIBUNE"
-msgstr "Reims spectators stand"
+msgstr "레임 관중석"
 
 msgid "MISSION_MACHINES_PARAMS_SAWMILL"
-msgstr "Le Mans saw mill"
+msgstr "르망 제재소"
 
 msgid "MISSION_MACHINES_PARAMS_STEELMILL"
-msgstr "Reims steel mill"
+msgstr "레임 제철소"
 
 msgid "MISSION_MACHINES_TASK_CHANNEL_FLIGHT_NAME"
-msgstr "Crossing the Channel"
+msgstr "해협 횡단"
 
 msgid "MISSION_MACHINES_TASK_CHANNEL_FLIGHT_OPTION1"
-msgstr "Allocate an airplane to a route"
+msgstr "노선에 비행기 배치"
 
 msgid "MISSION_MACHINES_TASK_CHANNEL_FLIGHT_OPTION2"
-msgstr "Land"
+msgstr "착륙"
 
 msgid "MISSION_MACHINES_TASK_CHANNEL_FLIGHT_TASK"
 msgstr ""
@@ -5746,10 +5746,10 @@ msgstr ""
 "이제 당신이 해협을 횡단하는 처녀 비행을 할 영광을 가지게 되었습니다."
 
 msgid "MISSION_MACHINES_TASK_CHANNEL_HULL_NAME"
-msgstr "Improving the fuselage"
+msgstr "동체 개선"
 
 msgid "MISSION_MACHINES_TASK_CHANNEL_HULL_SUB1"
-msgstr "Delivering planks"
+msgstr "판자 운송"
 
 msgid "MISSION_MACHINES_TASK_CHANNEL_HULL_TASK"
 msgstr ""
@@ -5762,10 +5762,10 @@ msgstr ""
 "이것은 특별히 생산된 목재 부품으로 해결할 수 있습니다."
 
 msgid "MISSION_MACHINES_TASK_CHANNEL_NAME"
-msgstr "Crossing the Channel"
+msgstr "해협 횡단"
 
 msgid "MISSION_MACHINES_TASK_CHANNEL_RETURN_NAME"
-msgstr "Selling the airplane"
+msgstr "비행기 판매"
 
 msgid "MISSION_MACHINES_TASK_CHANNEL_RETURN_TASK"
 msgstr "비행기를 파세요."
@@ -5778,10 +5778,10 @@ msgstr ""
 "금 핫한 아이템이 있거든요."
 
 msgid "MISSION_MACHINES_TASK_CHANNEL_SHOW_NAME"
-msgstr "Preparing for the flight"
+msgstr "비행 준비"
 
 msgid "MISSION_MACHINES_TASK_CHANNEL_SHOW_SUB1"
-msgstr "Deliver fuel"
+msgstr "연료를 운송하세요"
 
 msgid "MISSION_MACHINES_TASK_CHANNEL_SHOW_TASK"
 msgstr ""
@@ -5811,13 +5811,13 @@ msgstr ""
 "항공에서의 위대한 국가 만세! 프랑스 만세!"
 
 msgid "MISSION_MACHINES_TASK_FIRSTTRY_FLIGHT_NAME"
-msgstr "Completing a round trip"
+msgstr "순회 비행 완료"
 
 msgid "MISSION_MACHINES_TASK_FIRSTTRY_FLIGHT_SUB1"
-msgstr "Allocate an airplane to a route"
+msgstr "노선에 비행기 배치"
 
 msgid "MISSION_MACHINES_TASK_FIRSTTRY_FLIGHT_SUB2"
-msgstr "Have the airplane take off"
+msgstr "비행기를 이륙시키세요"
 
 msgid "MISSION_MACHINES_TASK_FIRSTTRY_FLIGHT_TASK"
 msgstr ""
@@ -5830,10 +5830,10 @@ msgstr ""
 "험 비행을 요청했습니다."
 
 msgid "MISSION_MACHINES_TASK_FIRSTTRY_NAME"
-msgstr "First attempts at flight"
+msgstr "첫 비행 시도"
 
 msgid "MISSION_MACHINES_TASK_FIRSTTRY_PRODUCE_NAME"
-msgstr "Producing machines"
+msgstr "기계 생산"
 
 msgid "MISSION_MACHINES_TASK_FIRSTTRY_PRODUCE_TASK"
 msgstr ""
@@ -5846,7 +5846,7 @@ msgstr ""
 "수 있도록 하세요."
 
 msgid "MISSION_MACHINES_TASK_FIRSTTRY_RETURN_NAME"
-msgstr "Selling the airplane"
+msgstr "비행기 판매"
 
 msgid "MISSION_MACHINES_TASK_FIRSTTRY_RETURN_TASK"
 msgstr "비행기를 파세요."
@@ -5867,10 +5867,10 @@ msgstr ""
 "동차 전등을 판다면요. 그를 도우세요!"
 
 msgid "MISSION_MACHINES_TASK_LEMANS_ENGINE_NAME"
-msgstr "Improving the engine"
+msgstr "엔진 개선"
 
 msgid "MISSION_MACHINES_TASK_LEMANS_ENGINE_SUB1"
-msgstr "Delivering machines"
+msgstr "기계 운송"
 
 msgid "MISSION_MACHINES_TASK_LEMANS_ENGINE_TASK"
 msgstr ""
@@ -5884,7 +5884,7 @@ msgstr ""
 "필요한 부품들은 블레리오 씨의 작업장으로 가져가세요."
 
 msgid "MISSION_MACHINES_TASK_LEMANS_FLIGHT_NAME"
-msgstr "Flying a course"
+msgstr "코스 비행"
 
 msgid "MISSION_MACHINES_TASK_LEMANS_FLIGHT_TASK"
 msgstr ""
@@ -5898,10 +5898,10 @@ msgstr ""
 "주세요."
 
 msgid "MISSION_MACHINES_TASK_LEMANS_NAME"
-msgstr "A great air show"
+msgstr "위대한 에어쇼"
 
 msgid "MISSION_MACHINES_TASK_LEMANS_RETURN_NAME"
-msgstr "Selling the airplane"
+msgstr "비행기 판매"
 
 msgid "MISSION_MACHINES_TASK_LEMANS_RETURN_TASK"
 msgstr "비행기를 파세요."
@@ -5912,10 +5912,10 @@ msgstr ""
 "양키들은 부러움에 몸부림치고 있습니다. 그리고 고객들은 이미 줄을 섰죠."
 
 msgid "MISSION_MACHINES_TASK_LEMANS_SHOW_NAME"
-msgstr "Preparing for the air show"
+msgstr "에어쇼 준비"
 
 msgid "MISSION_MACHINES_TASK_LEMANS_SHOW_SUB1"
-msgstr "Bring the public to the event"
+msgstr "행사에 사람들을 데려오세요"
 
 msgid "MISSION_MACHINES_TASK_LEMANS_SHOW_TASK"
 msgstr ""
@@ -5938,10 +5938,10 @@ msgstr ""
 "인들이 알게 될 겁니다."
 
 msgid "MISSION_MACHINES_TASK_LONDON_ACROBATICS_NAME"
-msgstr "Aerial acrobatics"
+msgstr "공중 곡예"
 
 msgid "MISSION_MACHINES_TASK_LONDON_ACROBATICS_SUB1"
-msgstr "Delivering parts"
+msgstr "부품 운송"
 
 msgid "MISSION_MACHINES_TASK_LONDON_ACROBATICS_TASK"
 msgstr ""
@@ -5953,10 +5953,10 @@ msgid "MISSION_MACHINES_TASK_LONDON_ACROBATICS_TEXT"
 msgstr "공중 곡예를 위한 비행기는 특히 더 단단한 부품이 필요합니다."
 
 msgid "MISSION_MACHINES_TASK_LONDON_ARMY_NAME"
-msgstr "Army aircraft"
+msgstr "육군의 비행기"
 
 msgid "MISSION_MACHINES_TASK_LONDON_ARMY_SUB1"
-msgstr "Transporting personnel"
+msgstr "인원 운송"
 
 msgid "MISSION_MACHINES_TASK_LONDON_ARMY_TASK"
 msgstr ""
@@ -5970,16 +5970,16 @@ msgstr ""
 "차고로 그들을 안내하세요."
 
 msgid "MISSION_MACHINES_TASK_LONDON_DECISION_NAME"
-msgstr "Making a decision"
+msgstr "결정하기"
 
 msgid "MISSION_MACHINES_TASK_LONDON_DECISION_OPTION1"
-msgstr "Airplanes for the military"
+msgstr "군대를 위한 비행기"
 
 msgid "MISSION_MACHINES_TASK_LONDON_DECISION_OPTION2"
-msgstr "Airplanes for the flight schools"
+msgstr "비행 학교를 위한 비행기"
 
 msgid "MISSION_MACHINES_TASK_LONDON_DECISION_OPTION3"
-msgstr "Airplanes for stunt flying"
+msgstr "곡예 비행을 위한 비행기"
 
 msgid "MISSION_MACHINES_TASK_LONDON_DECISION_TASK"
 msgstr "어떤 종류의 비행기를 생산할지 결정하세요."
@@ -5993,13 +5993,13 @@ msgstr ""
 "당신의 친구는 무슨 주문을 먼저 받아야 할까요?"
 
 msgid "MISSION_MACHINES_TASK_LONDON_FLIGHT_NAME"
-msgstr "Completing the race"
+msgstr "레이스 완주"
 
 msgid "MISSION_MACHINES_TASK_LONDON_FLIGHT_OPTION1"
-msgstr "Allocate an airplane to a route"
+msgstr "노선에 비행기 배치"
 
 msgid "MISSION_MACHINES_TASK_LONDON_FLIGHT_OPTION2"
-msgstr "Land"
+msgstr "착륙"
 
 msgid "MISSION_MACHINES_TASK_LONDON_FLIGHT_TASK"
 msgstr ""
@@ -6015,13 +6015,13 @@ msgstr ""
 "어느 나라에서 온 사람이 비행을 완벽히 해낼지 보여주세요."
 
 msgid "MISSION_MACHINES_TASK_LONDON_NAME"
-msgstr "Air race"
+msgstr "공중 레이스"
 
 msgid "MISSION_MACHINES_TASK_LONDON_SCHOOL_NAME"
-msgstr "Running a flight school"
+msgstr "비행 학교 운영"
 
 msgid "MISSION_MACHINES_TASK_LONDON_SCHOOL_SUB1"
-msgstr "Flights with people"
+msgstr "사람들과 비행"
 
 msgid "MISSION_MACHINES_TASK_LONDON_SCHOOL_TASK"
 msgstr ""
@@ -6044,10 +6044,10 @@ msgstr ""
 "면 그의 가장 최신 시리즈의 비행기를 지원해준다고 합니다."
 
 msgid "MISSION_MACHINES_TASK_REIMS_FLIGHT_NAME"
-msgstr "Competing in flight week"
+msgstr "비행 주에 경쟁"
 
 msgid "MISSION_MACHINES_TASK_REIMS_FLIGHT_SUB1"
-msgstr "Meters of flight"
+msgstr "비행한 거리"
 
 msgid "MISSION_MACHINES_TASK_REIMS_FLIGHT_TASK"
 msgstr ""
@@ -6062,7 +6062,7 @@ msgstr ""
 "장거리 레이스에서 당신의 기술을 관중들에게 보여주고 1등을 차지하세요."
 
 msgid "MISSION_MACHINES_TASK_REIMS_FUEL_NAME"
-msgstr "Delivering fuel"
+msgstr "연료 운송"
 
 msgid "MISSION_MACHINES_TASK_REIMS_FUEL_TASK"
 msgstr ""
@@ -6075,10 +6075,10 @@ msgstr ""
 "니다. 당신의 서비스로 그를 도우세요. 그가 당신에게 연료를 채워줄 겁니다."
 
 msgid "MISSION_MACHINES_TASK_REIMS_NAME"
-msgstr "A great flight week"
+msgstr "위대한 비행 주간"
 
 msgid "MISSION_MACHINES_TASK_REIMS_RETURN_NAME"
-msgstr "Selling the airplane"
+msgstr "비행기 판매"
 
 msgid "MISSION_MACHINES_TASK_REIMS_RETURN_TASK"
 msgstr "비행기를 파세요."
@@ -6091,13 +6091,13 @@ msgstr ""
 "하지만 라로쉬 남작이 비행에 열광했고 당신의 비행기를 꼭 사고 싶어 합니다."
 
 msgid "MISSION_MACHINES_TASK_REIMS_SHOW_NAME"
-msgstr "Preparing for the event"
+msgstr "행사 준비"
 
 msgid "MISSION_MACHINES_TASK_REIMS_SHOW_SUB1"
-msgstr "Deliver champagne"
+msgstr "샴페인 운송"
 
 msgid "MISSION_MACHINES_TASK_REIMS_SHOW_SUB2"
-msgstr "Deliver planks for the stand"
+msgstr "관중석에 판자 운송"
 
 msgid "MISSION_MACHINES_TASK_REIMS_SHOW_TASK"
 msgstr ""
@@ -6124,7 +6124,7 @@ msgid "MISSION_MACHINES_VEHICLE_BLERIOT_DESCRIPTION"
 msgstr "비행의 선구자인 루이 블레리오의 비행기"
 
 msgid "MISSION_MACHINES_VEHICLE_BLERIOT_NAME"
-msgstr "Blériot XI"
+msgstr "블레리오 XI"
 
 msgid "MISSION_OILSANDS_CAMPAIGNSCREEN"
 msgstr ""
@@ -6159,7 +6159,7 @@ msgid "MISSION_OILSANDS_INTRO7"
 msgstr "...그리고 캐나다 경제의 행복을 위해서요."
 
 msgid "MISSION_OILSANDS_MEDAL_ANIMALS_AREA_NAME"
-msgstr "Rich Fauna"
+msgstr "다양한 동물상"
 
 msgid "MISSION_OILSANDS_MEDAL_ANIMALS_AREA_TASK"
 msgstr "버스로 동물에 흥미있는 방문객들을 데려오세요."
@@ -6170,7 +6170,7 @@ msgstr ""
 "록 할 수 있을 것이라고 생각하고 있습니다, 환경 단체의 불만에도 불구하고요."
 
 msgid "MISSION_OILSANDS_MEDAL_ANIMALS_CAMPAIGNSCREENNAME"
-msgstr "Rich Fauna"
+msgstr "다양한 동물상"
 
 msgid "MISSION_OILSANDS_MEDAL_ANIMALS_FINISH_NAME"
 msgstr "정말 다양하군요!"
@@ -6181,7 +6181,7 @@ msgstr ""
 "역청 채굴에 감사해하고 있습니다."
 
 msgid "MISSION_OILSANDS_MEDAL_ANIMALS_NAME"
-msgstr "Organize a Sand Quarry Safari"
+msgstr "모래 광산 여행 준비"
 
 msgid "MISSION_OILSANDS_MEDAL_ANIMALS_TEXT"
 msgstr ""
@@ -6190,13 +6190,13 @@ msgstr ""
 "쑥쓰럽게도 대부분의 사람들이 이걸 알고 있더군요."
 
 msgid "MISSION_OILSANDS_MEDAL_DINOSAUR_CAMPAIGNSCREENNAME"
-msgstr "Fascinating Fossils"
+msgstr "매력적인 화석"
 
 msgid "MISSION_OILSANDS_MEDAL_DINOSAUR_DIG_NAME"
-msgstr "Start the Archaeological Dig"
+msgstr "고고학 발굴 시작"
 
 msgid "MISSION_OILSANDS_MEDAL_DINOSAUR_DIG_SUB1"
-msgstr "Transport the research team"
+msgstr "연구 팀을 운송하세요"
 
 msgid "MISSION_OILSANDS_MEDAL_DINOSAUR_DIG_SUB2"
 msgstr "뼈를 파내세요"
@@ -6222,7 +6222,7 @@ msgstr ""
 "매우 흥미롭군요!"
 
 msgid "MISSION_OILSANDS_MEDAL_DINOSAUR_NAME"
-msgstr "Fascinating Fossils"
+msgstr "매력적인 화석"
 
 msgid "MISSION_OILSANDS_MEDAL_DINOSAUR_TEXT"
 msgstr ""
@@ -6230,7 +6230,7 @@ msgstr ""
 "이게 무엇인지 알아내기 전까지 잠깐동안 작업을 중지합시다."
 
 msgid "MISSION_OILSANDS_MEDAL_TREES_CAMPAIGNSCREENNAME"
-msgstr "Reforestation"
+msgstr "재조림"
 
 msgid "MISSION_OILSANDS_MEDAL_TREES_FINISH_NAME"
 msgstr "사랑스러운 나무네요!"
@@ -6241,10 +6241,10 @@ msgstr ""
 "더 이상 모든 나무들을 위한 숲은 볼 수 없을 겁니다."
 
 msgid "MISSION_OILSANDS_MEDAL_TREES_NAME"
-msgstr "Reforestation"
+msgstr "재조림"
 
 msgid "MISSION_OILSANDS_MEDAL_TREES_PLANT_NAME"
-msgstr "Plant Trees"
+msgstr "나무 심기"
 
 msgid "MISSION_OILSANDS_MEDAL_TREES_PLANT_TASK"
 msgstr "나무를 심으세요."
@@ -6258,58 +6258,58 @@ msgstr ""
 "당연히 회사의 이익에 대한 적절한 보상을 해야 합니다."
 
 msgid "MISSION_OILSANDS_NAME"
-msgstr "Oil Sands"
+msgstr "오일샌드"
 
 msgid "MISSION_OILSANDS_PARAMS_ATHABASCA"
-msgstr "Athabasca"
+msgstr "애서베스카"
 
 msgid "MISSION_OILSANDS_PARAMS_CHEMICALPLANT"
-msgstr "Fort McMurray chemical plant"
+msgstr "맥머레이 요새 화학공장"
 
 msgid "MISSION_OILSANDS_PARAMS_CONMATPLANT"
-msgstr "Athabasca construction materials plant"
+msgstr "애서베스카 건설 자재 공장"
 
 msgid "MISSION_OILSANDS_PARAMS_EDMONTON"
-msgstr "Edmonton"
+msgstr "애드먼튼"
 
 msgid "MISSION_OILSANDS_PARAMS_EXCAVATION"
-msgstr "Excavation site"
+msgstr "발굴 현장"
 
 msgid "MISSION_OILSANDS_PARAMS_FOODFACTORY"
-msgstr "Athabasca food processing plant"
+msgstr "애서베스카 음식 가공 공장"
 
 msgid "MISSION_OILSANDS_PARAMS_FORTMCMURRAY"
-msgstr "Fort McMurray"
+msgstr "맥머레이 요새"
 
 msgid "MISSION_OILSANDS_PARAMS_GOODSFACTORY"
-msgstr "Athabasca goods factory"
+msgstr "애서베스카 물건 공장"
 
 msgid "MISSION_OILSANDS_PARAMS_MACHINESDUMP"
-msgstr "Oil refinery machines storage"
+msgstr "정유소 기계 창고"
 
 msgid "MISSION_OILSANDS_PARAMS_MACHINESFACTORY"
-msgstr "Edmonton machines factory"
+msgstr "애드먼튼 기계 공장"
 
 msgid "MISSION_OILSANDS_PARAMS_OILSAND1"
-msgstr "Oil sands mine 1"
+msgstr "오일샌드 광산 1"
 
 msgid "MISSION_OILSANDS_PARAMS_OILSAND2"
-msgstr "Oil sands mine 2"
+msgstr "오일샌드 광산 2"
 
 msgid "MISSION_OILSANDS_PARAMS_OILSAND3"
-msgstr "Oil sands mine 3"
+msgstr "오일샌드 광산 3"
 
 msgid "MISSION_OILSANDS_PARAMS_REFINERY"
-msgstr "Fort McMurray oil refinery"
+msgstr "맥머레이 요새 정유소"
 
 msgid "MISSION_OILSANDS_PARAMS_SEDIMENTATIONTANK3"
-msgstr "Settling basin"
+msgstr "폐수 저장소"
 
 msgid "MISSION_OILSANDS_PARAMS_SEWAGE"
-msgstr "Wastewater unloading site"
+msgstr "폐수 저장소"
 
 msgid "MISSION_OILSANDS_TASK_ALTERNATIVEA_NAME"
-msgstr "Switch to Alternatives"
+msgstr "대안 사업으로 전환"
 
 msgid "MISSION_OILSANDS_TASK_ALTERNATIVEA_TEXT"
 msgstr ""
@@ -6319,7 +6319,7 @@ msgstr ""
 "다른 말에 베팅하는 것이 더 현명해 보이는군요."
 
 msgid "MISSION_OILSANDS_TASK_ALTERNATIVEB_NAME"
-msgstr "Back to the Oil Business"
+msgstr "석유 사업으로 복귀"
 
 msgid "MISSION_OILSANDS_TASK_ALTERNATIVEB_TEXT"
 msgstr ""
@@ -6343,10 +6343,10 @@ msgstr ""
 "지금 바로 약한 부분이 없어졌는지 확인해야 합니다."
 
 msgid "MISSION_OILSANDS_TASK_ALTERNATIVE_CATASTROPHE_NAME"
-msgstr "Limiting the damage"
+msgstr "피해 최소화"
 
 msgid "MISSION_OILSANDS_TASK_ALTERNATIVE_CATASTROPHE_SUB1"
-msgstr "Basin sealed"
+msgstr "저장소 유츌됨"
 
 msgid "MISSION_OILSANDS_TASK_ALTERNATIVE_CATASTROPHE_TASK"
 msgstr ""
@@ -6360,10 +6360,10 @@ msgstr ""
 "최대한 피해를 줄이고 최대한 빨리 저장소를 봉인해야 합니다."
 
 msgid "MISSION_OILSANDS_TASK_DECISION_CLEAN2_NAME"
-msgstr "Transforming the image"
+msgstr "이미지 변경"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_CLEAN2_SUB1"
-msgstr "Operating only trams"
+msgstr "트램만 운행"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_CLEAN2_TASK"
 msgstr "지역 대중교통에 트램만을 배치하세요."
@@ -6374,16 +6374,16 @@ msgstr ""
 "나중에는 지역 대중교통에 화석 연료를 쓰지 않게 될 겁니다."
 
 msgid "MISSION_OILSANDS_TASK_DECISION_CLEAN_NAME"
-msgstr "Switch to Alternatives"
+msgstr "대안 사업으로 전환"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_CLEAN_OPTION"
-msgstr "Pay now"
+msgstr "지금 지불하기"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_CLEAN_SUB1"
-msgstr "Make goods out of plastic"
+msgstr "플라스틱 없이 물건 생산"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_CLEAN_SUB2"
-msgstr "Paid for research"
+msgstr "연구에 지불"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_CLEAN_TASK"
 msgstr ""
@@ -6397,13 +6397,13 @@ msgstr ""
 "미래에는 사업의 대안 분야에 더 집중해야 할 겁니다."
 
 msgid "MISSION_OILSANDS_TASK_DECISION_DECIDE_NAME"
-msgstr "Making a decision"
+msgstr "결정하기"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_DECIDE_OPTION1"
-msgstr "Switch to alternatives"
+msgstr "대안 사업으로 전환"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_DECIDE_OPTION2"
-msgstr "Back to the oil business"
+msgstr "석유 사업으로 복귀"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_DECIDE_TASK"
 msgstr "결정을 내리세요."
@@ -6412,7 +6412,7 @@ msgid "MISSION_OILSANDS_TASK_DECISION_DECIDE_TEXT"
 msgstr "역청 사업의 투자를 늘릴지, 아니면 대안 사업으로 변경할지 선택하세요."
 
 msgid "MISSION_OILSANDS_TASK_DECISION_DIRTY2_NAME"
-msgstr "Dispose of Wastewater"
+msgstr "폐수 저장"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_DIRTY2_TASK"
 msgstr ""
@@ -6426,13 +6426,13 @@ msgstr ""
 "폐수를 처리할 수 있는 다른 방법을 알아보세요."
 
 msgid "MISSION_OILSANDS_TASK_DECISION_DIRTY_NAME"
-msgstr "Increase Oil Production"
+msgstr "석유 생산 증가"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_DIRTY_SUB1"
-msgstr "Deliver machines"
+msgstr "기계를 운송하세요"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_DIRTY_SUB2"
-msgstr "Invest in modernization"
+msgstr "현대화 투자"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_DIRTY_TASK"
 msgstr ""
@@ -6447,7 +6447,7 @@ msgstr ""
 "더욱이, 석유 사업이 없다면 캐나다의 경제는 수직하강할 겁니다."
 
 msgid "MISSION_OILSANDS_TASK_DECISION_NAME"
-msgstr "Business of the Future"
+msgstr "미래의 사업"
 
 msgid "MISSION_OILSANDS_TASK_DECISION_TEXT"
 msgstr ""
@@ -6468,10 +6468,10 @@ msgstr ""
 "그리고 당신은 이에 대한 책임을 공유하고 있죠."
 
 msgid "MISSION_OILSANDS_TASK_NATURE_BRIBE_NAME"
-msgstr "Supporting the Community"
+msgstr "커뮤니티 지원"
 
 msgid "MISSION_OILSANDS_TASK_NATURE_BRIBE_SUB1"
-msgstr "Earn money"
+msgstr "돈을 버세요"
 
 msgid "MISSION_OILSANDS_TASK_NATURE_BRIBE_TASK"
 msgstr ""
@@ -6486,10 +6486,10 @@ msgstr ""
 "것을 도와야 합니다."
 
 msgid "MISSION_OILSANDS_TASK_NATURE_CLARIFIER_NAME"
-msgstr "Seal the Settling Basin"
+msgstr "폐수 저장소 밀봉"
 
 msgid "MISSION_OILSANDS_TASK_NATURE_CLARIFIER_SUB1"
-msgstr "Deliver plastic"
+msgstr "플라스틱을 운송하세요"
 
 msgid "MISSION_OILSANDS_TASK_NATURE_CLARIFIER_TASK"
 msgstr ""
@@ -6504,7 +6504,7 @@ msgstr ""
 "인 장치들을 설치하려 합니다."
 
 msgid "MISSION_OILSANDS_TASK_NATURE_FISH2_NAME"
-msgstr "An Anomaly"
+msgstr "변칙"
 
 msgid "MISSION_OILSANDS_TASK_NATURE_FISH2_TASK"
 msgstr "먼 [link=jump_fishpos2marker]상류[/link]에서 다른 물고기를 잡으세요."
@@ -6516,7 +6516,7 @@ msgstr ""
 "또 다른 동물이 이를 증명해 줄 겁니다."
 
 msgid "MISSION_OILSANDS_TASK_NATURE_FISH3_NAME"
-msgstr "Another Anomaly"
+msgstr "또 다른 변칙"
 
 msgid "MISSION_OILSANDS_TASK_NATURE_FISH3_TASK"
 msgstr "먼 [link=jump_fishpos3marker]상류[/link]에서 다른 물고기를 잡으세요."
@@ -6528,7 +6528,7 @@ msgstr ""
 "몇몇 물질들이 약간 상승한 것은 허용 오차 내에 있습니다."
 
 msgid "MISSION_OILSANDS_TASK_NATURE_FISH_NAME"
-msgstr "Catch Fish"
+msgstr "물고기 낚시"
 
 msgid "MISSION_OILSANDS_TASK_NATURE_FISH_TASK"
 msgstr "[link=jump_fishpos1marker]표시된 지역[/link]에서 물고기를 잡으세요."
@@ -6540,7 +6540,7 @@ msgstr ""
 "증명해줄 겁니다."
 
 msgid "MISSION_OILSANDS_TASK_NATURE_MEASURES_NAME"
-msgstr "Take Action"
+msgstr "행동하기"
 
 msgid "MISSION_OILSANDS_TASK_NATURE_MEASURES_TASK"
 msgstr ""
@@ -6556,10 +6556,10 @@ msgstr ""
 "왜냐하면 책임감은 지도자의 의무니까요."
 
 msgid "MISSION_OILSANDS_TASK_NATURE_NAME"
-msgstr "Environmental Measures"
+msgstr "환경 보호"
 
 msgid "MISSION_OILSANDS_TASK_NATURE_PROBE_NAME"
-msgstr "Take Measurements"
+msgstr "조치 취하기"
 
 msgid "MISSION_OILSANDS_TASK_NATURE_PROBE_TASK"
 msgstr ""
@@ -6584,13 +6584,13 @@ msgid "MISSION_OILSANDS_TASK_PREPARE_EQUIPMENT_HINT"
 msgstr "나무를 제거하려면 설치물 메뉴에서 지우개 도구를 사용하세요."
 
 msgid "MISSION_OILSANDS_TASK_PREPARE_EQUIPMENT_NAME"
-msgstr "Preparing an Extraction Pit"
+msgstr "발굴 현장 준비"
 
 msgid "MISSION_OILSANDS_TASK_PREPARE_EQUIPMENT_SUB1"
-msgstr "Delivering machines"
+msgstr "기계 운송"
 
 msgid "MISSION_OILSANDS_TASK_PREPARE_EQUIPMENT_SUB2"
-msgstr "Trees to uproot"
+msgstr "나무 뿌리뽑기"
 
 msgid "MISSION_OILSANDS_TASK_PREPARE_EQUIPMENT_TASK"
 msgstr ""
@@ -6604,13 +6604,13 @@ msgstr ""
 "필요한 장비를 운송하고 석유를 위한 역청을 채굴할 준비를 마치세요."
 
 msgid "MISSION_OILSANDS_TASK_PREPARE_NAME"
-msgstr "Oil Sands Extraction"
+msgstr "오일 샌드 발굴"
 
 msgid "MISSION_OILSANDS_TASK_PREPARE_SAND_NAME"
-msgstr "Deliver Oil"
+msgstr "석유 운송"
 
 msgid "MISSION_OILSANDS_TASK_PREPARE_SAND_SUB2"
-msgstr "Deliver oil to any consumer"
+msgstr "아무 소비자에게나 석유를 운송하세요"
 
 msgid "MISSION_OILSANDS_TASK_PREPARE_SAND_TASK"
 msgstr ""
@@ -6633,16 +6633,16 @@ msgstr ""
 "하는 석유 가격은 이 과정으로 수익이 남도록 만들었죠."
 
 msgid "MISSION_OILSANDS_TASK_TOWN_GROW_NAME"
-msgstr "Help the town grow"
+msgstr "마을 성장 지원"
 
 msgid "MISSION_OILSANDS_TASK_TOWN_GROW_SUB1"
-msgstr "Value for public transit"
+msgstr "대중교통 수치"
 
 msgid "MISSION_OILSANDS_TASK_TOWN_GROW_SUB2"
-msgstr "Deliver goods"
+msgstr "물건을 운송하세요"
 
 msgid "MISSION_OILSANDS_TASK_TOWN_GROW_SUB3"
-msgstr "Deliver food"
+msgstr "음식을 운송하세요"
 
 msgid "MISSION_OILSANDS_TASK_TOWN_GROW_TASK"
 msgstr ""
@@ -6656,7 +6656,7 @@ msgstr ""
 "여기 모든 사람들이 자동차가 있지만, 더 나은 교통 수단은 나쁠 것 없겠죠."
 
 msgid "MISSION_OILSANDS_TASK_TOWN_NAME"
-msgstr "Fort McMurray"
+msgstr "맥머레이 요새"
 
 msgid "MISSION_OILSANDS_TASK_TOWN_TEXT"
 msgstr ""
@@ -6668,10 +6668,10 @@ msgstr ""
 "이 채굴을 위해 이곳에 왔습니다."
 
 msgid "MISSION_OILSANDS_TASK_TOWN_WORKERS_NAME"
-msgstr "Transport Workers"
+msgstr "노동자 운송"
 
 msgid "MISSION_OILSANDS_TASK_TOWN_WORKERS_SUB1"
-msgstr "Transport workers"
+msgstr "노동자를 운송하세요"
 
 msgid "MISSION_OILSANDS_TASK_TOWN_WORKERS_TASK"
 msgstr "[link=jump_refinery]정유소[/link]로 직원들을 데려오세요."
@@ -6709,7 +6709,7 @@ msgstr ""
 "해!"
 
 msgid "MISSION_PARADISO_MEDAL_MARIAGE_CAMPAIGNSCREENNAME"
-msgstr "Love stories and marriage matters"
+msgstr "러브 스토리와 결혼 문제"
 
 msgid "MISSION_PARADISO_MEDAL_MARIAGE_FINISH_NAME"
 msgstr "부부 싸움!"
@@ -6722,7 +6722,7 @@ msgstr ""
 "그와 더불어, 돌아다니던 노총각들은 이제 매우 무해해졌습니다."
 
 msgid "MISSION_PARADISO_MEDAL_MARIAGE_NAME"
-msgstr "Love stories and marriage matters"
+msgstr "러브 스토리와 결혼 문제"
 
 msgid "MISSION_PARADISO_MEDAL_MARIAGE_TEXT"
 msgstr ""
@@ -6733,13 +6733,13 @@ msgstr ""
 "그리고 이를 위해 가족을 꾸리는 것보다 더 책임감있는 방법이 있을까요?"
 
 msgid "MISSION_PARADISO_MEDAL_MARIAGE_TRANSPORT_NAME"
-msgstr "Arranging weddings"
+msgstr "결혼 정리"
 
 msgid "MISSION_PARADISO_MEDAL_MARIAGE_TRANSPORT_SUB1"
-msgstr "Carrying people"
+msgstr "운송한 사람"
 
 msgid "MISSION_PARADISO_MEDAL_MARIAGE_TRANSPORT_SUB2"
-msgstr "Plant trees"
+msgstr "나무를 심으세요"
 
 msgid "MISSION_PARADISO_MEDAL_MARIAGE_TRANSPORT_TASK"
 msgstr ""
@@ -6756,7 +6756,7 @@ msgstr ""
 "니다."
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_CAMPAIGNSCREENNAME"
-msgstr "Taking the weight of people’s feet"
+msgstr "사람들의 발의 무게"
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_FINISH_NAME"
 msgstr "안도의 한숨!"
@@ -6768,25 +6768,24 @@ msgstr ""
 "그 뿐만 아니라, 즐거운 향기를 맡을 수도 있게 되었죠!"
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_NAME"
-msgstr "Taking the weight of people’s feet"
+msgstr "사람들의 발의 무게"
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_SMELL_NAME"
-msgstr "Preventing odors"
+msgstr "악취 예방"
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_SMELL_SUB1"
-msgstr "Carrying people"
+msgstr "운송한 사람"
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_SMELL_SUB3"
-msgstr "No stop by the hotel"
+msgstr "호텔에 정류장 없음"
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_SMELL_SUB4"
-msgstr "No stop by the hospital"
+msgstr "병원에 정류장 없음"
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_SMELL_TASK"
 msgstr ""
-"Build a streetcar and transport ${tram_smell_people} people. Avoid stops "
-"near the [link=jump_hotel]hotel[/link] and the [link=jump_hospital]hospital[/"
-"link]"
+"트램을 건설하고 ${tram_smell_people}명의 사람을 운송하세요. [link=jump_hotel]"
+"호텔[/link]과 [link=jump_hospital]병원[/link] 근처에 정류장을 피하세요."
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_SMELL_TEXT"
 msgstr ""
@@ -6795,13 +6794,13 @@ msgstr ""
 "은 아무도 없을 겁니다."
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_TECHNOLOGY_NAME"
-msgstr "Advanced technology"
+msgstr "고급 기술"
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_TECHNOLOGY_SUB1"
-msgstr "Transporting passengers"
+msgstr "운송한 승객"
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_TECHNOLOGY_SUB2"
-msgstr "No horses to be seen"
+msgstr "말이 없어야 합니다"
 
 msgid "MISSION_PARADISO_MEDAL_TRAM_TECHNOLOGY_TASK"
 msgstr ""
@@ -6821,7 +6820,7 @@ msgstr ""
 "커뮤니티 사람들이 이제 발로 걸어 다니지 않아도 될 기회를 줄 겁니다."
 
 msgid "MISSION_PARADISO_MEDAL_WORMS_CAMPAIGNSCREENNAME"
-msgstr "The fastest worm in Mexico"
+msgstr "멕시코에서 가장 빠른 벌레"
 
 msgid "MISSION_PARADISO_MEDAL_WORMS_FINISH_NAME"
 msgstr "벌레다!"
@@ -6830,7 +6829,7 @@ msgid "MISSION_PARADISO_MEDAL_WORMS_FINISH_TEXT"
 msgstr "예! 결국 잡았습니다-멕시코에서 가장 빠른 벌레를요!"
 
 msgid "MISSION_PARADISO_MEDAL_WORMS_HINT1_NAME"
-msgstr "Following the clue"
+msgstr "단서 찾기"
 
 msgid "MISSION_PARADISO_MEDAL_WORMS_HINT1_TASK"
 msgstr ""
@@ -6843,7 +6842,7 @@ msgstr ""
 "는 숲과 제재소 사이에서 벌레를 잡을 수 있을 거라고 하는군요-서두른다면요."
 
 msgid "MISSION_PARADISO_MEDAL_WORMS_HINT2_NAME"
-msgstr "Following the clue"
+msgstr "단서 찾기"
 
 msgid "MISSION_PARADISO_MEDAL_WORMS_HINT2_TASK"
 msgstr ""
@@ -6856,7 +6855,7 @@ msgstr ""
 "우 빠르게 사라진 것 같습니다. 마을 근처 강둑에서 한 번 시도해 보죠."
 
 msgid "MISSION_PARADISO_MEDAL_WORMS_HINT3_NAME"
-msgstr "Following the clue"
+msgstr "단서 찾기"
 
 msgid "MISSION_PARADISO_MEDAL_WORMS_HINT3_TASK"
 msgstr ""
@@ -6869,7 +6868,7 @@ msgstr ""
 "아마 해안의 많은 부두들 중 하나에서 운이 따라줄 거예요!"
 
 msgid "MISSION_PARADISO_MEDAL_WORMS_NAME"
-msgstr "The fastest worm in Mexico"
+msgstr "멕시코에서 가장 빠른 벌레"
 
 msgid "MISSION_PARADISO_MEDAL_WORMS_TEXT"
 msgstr ""
@@ -6880,7 +6879,7 @@ msgstr ""
 "지하에서 살아가는 톡 쏘는 악당들을 찾을 준비를 하세요."
 
 msgid "MISSION_PARADISO_NAME"
-msgstr "Pacific Paradise"
+msgstr "태평양의 천국"
 
 msgid "MISSION_PARADISO_PARAMS_CACTUS_FARM"
 msgstr "El Fuerte cactus farm"
