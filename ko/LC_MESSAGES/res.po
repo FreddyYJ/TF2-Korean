@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-11 17:34+0100\n"
-"PO-Revision-Date: 2021-07-02 15:17+0900\n"
+"PO-Revision-Date: 2021-07-03 10:35+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 3.0\n"
 "X-Language: en_US\n"
 "X-Source-Language: de_DE\n"
 
@@ -6882,52 +6882,52 @@ msgid "MISSION_PARADISO_NAME"
 msgstr "태평양의 천국"
 
 msgid "MISSION_PARADISO_PARAMS_CACTUS_FARM"
-msgstr "El Fuerte cactus farm"
+msgstr "엘 푸에르테 선인장 농장"
 
 msgid "MISSION_PARADISO_PARAMS_CACTUS_FARM_GUANO"
-msgstr "El Fuerte cactus farm guano delivery"
+msgstr "엘 푸에르테 선인장 농장 구아노 공급처"
 
 msgid "MISSION_PARADISO_PARAMS_DESTILLERY"
-msgstr "El Fuerte distillery"
+msgstr "엘 푸에르테 양조장"
 
 msgid "MISSION_PARADISO_PARAMS_ELFUERTE"
-msgstr "El Fuerte"
+msgstr "엘 푸에르테"
 
 msgid "MISSION_PARADISO_PARAMS_ELFUERTE_MARKET"
-msgstr "El Fuerte market"
+msgstr "엘 푸에르테 시장"
 
 msgid "MISSION_PARADISO_PARAMS_FOREST"
-msgstr "Topolobampo forest"
+msgstr "토폴로밤포 숲"
 
 msgid "MISSION_PARADISO_PARAMS_GUANO_FARM"
-msgstr "Topolobampo guano warehouse"
+msgstr "토폴로밤포 구아노 창고"
 
 msgid "MISSION_PARADISO_PARAMS_HOSPITAL"
-msgstr "Topolobampo hospital"
+msgstr "토폴로밤포 병원"
 
 msgid "MISSION_PARADISO_PARAMS_HOTEL"
-msgstr "Topolobampo hotel"
+msgstr "토폴로밤포 호텔"
 
 msgid "MISSION_PARADISO_PARAMS_PLATFORM"
-msgstr "Romantic viewpoint"
+msgstr "로맨틱한 뷰포인트"
 
 msgid "MISSION_PARADISO_PARAMS_SILVERORE_MINE"
-msgstr "El Fuerte silver mine"
+msgstr "엘 푸테르테 은광산"
 
 msgid "MISSION_PARADISO_PARAMS_SILVERORE_MINE_WOOD"
-msgstr "El Fuerte silver mine log delivery"
+msgstr "엘 푸에르테 은광산 통나무 공급처"
 
 msgid "MISSION_PARADISO_PARAMS_SPOON_FACTORY"
-msgstr "Topolobampo silver spoon factory"
+msgstr "토폴로밤포 은수저 공장"
 
 msgid "MISSION_PARADISO_PARAMS_TOPOLOBAMPO"
-msgstr "Topolobampo"
+msgstr "토폴로밤포"
 
 msgid "MISSION_PARADISO_PARAMS_TOPOLOBAMPO_EXPORT"
-msgstr "Topolobampo export"
+msgstr "토폴로밤포 수출"
 
 msgid "MISSION_PARADISO_TASK_CITY_MATERIAL_NAME"
-msgstr "Delivering logs"
+msgstr "통나무 운송"
 
 msgid "MISSION_PARADISO_TASK_CITY_MATERIAL_TASK"
 msgstr ""
@@ -6940,7 +6940,7 @@ msgstr ""
 "당신에 해야 할 것은 그것들을 마을로 가져오는 것 뿐입니다."
 
 msgid "MISSION_PARADISO_TASK_CITY_NAME"
-msgstr "City of dreams"
+msgstr "꿈의 도시"
 
 msgid "MISSION_PARADISO_TASK_CITY_TEXT"
 msgstr ""
@@ -6965,7 +6965,7 @@ msgstr ""
 "건설할 수 있을 겁니다."
 
 msgid "MISSION_PARADISO_TASK_HAPPYNESS_FARM_END_NAME"
-msgstr "Stinking heaps"
+msgstr "냄새나는 더미"
 
 msgid "MISSION_PARADISO_TASK_HAPPYNESS_FARM_END_TEXT"
 msgstr ""
@@ -6975,7 +6975,7 @@ msgstr ""
 "더미들이 여기저기에 쌓이고 있습니다."
 
 msgid "MISSION_PARADISO_TASK_HAPPYNESS_FARM_NAME"
-msgstr "Fertilizing farms"
+msgstr "농장 비료 살포"
 
 msgid "MISSION_PARADISO_TASK_HAPPYNESS_FARM_TASK"
 msgstr ""
@@ -6988,7 +6988,7 @@ msgstr ""
 "섬의 해안가에 있는 새들은 떠난 후에 매우 강력한 비료를 남기죠."
 
 msgid "MISSION_PARADISO_TASK_HAPPYNESS_MINE_END_NAME"
-msgstr "Mine caved in"
+msgstr "더 깊이"
 
 msgid "MISSION_PARADISO_TASK_HAPPYNESS_MINE_END_TEXT"
 msgstr ""
@@ -6997,7 +6997,7 @@ msgstr ""
 "뭐든 간에, 본능에 굴복한 것은 맞는 것 같아요."
 
 msgid "MISSION_PARADISO_TASK_HAPPYNESS_MINE_NAME"
-msgstr "Expanding the mine"
+msgstr "광산 확장"
 
 msgid "MISSION_PARADISO_TASK_HAPPYNESS_MINE_TASK"
 msgstr ""
@@ -7011,7 +7011,7 @@ msgstr ""
 "갱도는 통나무로 지탱해야 합니다-서부 야생에서 증명된 방법이죠."
 
 msgid "MISSION_PARADISO_TASK_HAPPYNESS_NAME"
-msgstr "General well-being"
+msgstr "진정한 웰빙"
 
 msgid "MISSION_PARADISO_TASK_HAPPYNESS_TEXT"
 msgstr ""
@@ -7023,7 +7023,7 @@ msgstr ""
 "럽다면 누구도 더 이상 이사가지 않을 겁니다."
 
 msgid "MISSION_PARADISO_TASK_INFRASTRUCTURE_HOSPITAL_NAME"
-msgstr "Supplying the hospital"
+msgstr "병원 공급"
 
 msgid "MISSION_PARADISO_TASK_INFRASTRUCTURE_HOSPITAL_TASK"
 msgstr ""
@@ -7038,7 +7038,7 @@ msgstr ""
 "다."
 
 msgid "MISSION_PARADISO_TASK_INFRASTRUCTURE_HOTEL_NAME"
-msgstr "Supplying the hotel"
+msgstr "호텔 공급"
 
 msgid "MISSION_PARADISO_TASK_INFRASTRUCTURE_HOTEL_TASK"
 msgstr "[link=jump_hotel]호텔[/link]에 ${spoon_2}개의 은수저를 운송하세요."
@@ -7051,7 +7051,7 @@ msgstr ""
 "요."
 
 msgid "MISSION_PARADISO_TASK_INFRASTRUCTURE_MATERIAL_NAME"
-msgstr "Supplying institutions"
+msgstr "공공기관 공급"
 
 msgid "MISSION_PARADISO_TASK_INFRASTRUCTURE_MATERIAL_TASK"
 msgstr ""
@@ -7076,10 +7076,10 @@ msgstr ""
 "도 만만치 않게 중요하죠!"
 
 msgid "MISSION_PARADISO_TASK_RETREAT_NAME"
-msgstr "Quiet withdrawal"
+msgstr "조용한 철수"
 
 msgid "MISSION_PARADISO_TASK_RETREAT_SELL_NAME"
-msgstr "Selling the remaining stock"
+msgstr "남은 재고 판매"
 
 msgid "MISSION_PARADISO_TASK_RETREAT_SELL_TASK"
 msgstr ""
@@ -7101,7 +7101,7 @@ msgstr ""
 "이것이 미래 세대가 모든 것들을 새로 시작할 수 있는 유일한 방법입니다."
 
 msgid "MISSION_PARADISO_TASK_RETREAT_TRACKS_NAME"
-msgstr "Erase the traces"
+msgstr "흔적 제거"
 
 msgid "MISSION_PARADISO_TASK_RETREAT_TRACKS_TASK"
 msgstr ""
@@ -7113,10 +7113,10 @@ msgstr ""
 "이게 미래 세대가 나중에 완전히 새로운 시작을 할 수 있게 할 유일한 길입니다."
 
 msgid "MISSION_PARADISO_TASK_SURPLUS_NAME"
-msgstr "Growth and prosperity"
+msgstr "성장과 번영"
 
 msgid "MISSION_PARADISO_TASK_SURPLUS_OVERSEAS_ALC_NAME"
-msgstr "Export alcohol"
+msgstr "주류 수출"
 
 msgid "MISSION_PARADISO_TASK_SURPLUS_OVERSEAS_ALC_TASK"
 msgstr ""
@@ -7129,16 +7129,16 @@ msgstr ""
 "감염을 막기 위해서인데, 두말 없이 수출할 수 있을 겁니다."
 
 msgid "MISSION_PARADISO_TASK_SURPLUS_OVERSEAS_NAME"
-msgstr "Overseas trade"
+msgstr "해외 무역"
 
 msgid "MISSION_PARADISO_TASK_SURPLUS_OVERSEAS_OPTION1"
-msgstr "Export ${export_alcohol} alcohol"
+msgstr "주류 ${export_alcohol}병 수출"
 
 msgid "MISSION_PARADISO_TASK_SURPLUS_OVERSEAS_OPTION2"
-msgstr "Export ${export_spoon} silver spoons"
+msgstr "은수저 ${export_spoon}개 수출"
 
 msgid "MISSION_PARADISO_TASK_SURPLUS_OVERSEAS_SILVER_NAME"
-msgstr "Export silver spoons"
+msgstr "은수저 수출"
 
 msgid "MISSION_PARADISO_TASK_SURPLUS_OVERSEAS_SILVER_TASK"
 msgstr ""
@@ -7244,7 +7244,7 @@ msgid "MISSION_REDSTAR_INDSUTRYBUILDER_TEXT"
 msgstr "어떤 산업을 건설할 지 선택하세요."
 
 msgid "MISSION_REDSTAR_INDSUTRYBUILDER_WINDOW_NAME"
-msgstr "Convert industry"
+msgstr "산업 전환"
 
 msgid "MISSION_REDSTAR_INTRO1"
 msgstr "적이 패배했습니다."
@@ -7268,7 +7268,7 @@ msgid "MISSION_REDSTAR_INTRO6"
 msgstr "중화인민공화국의 영원을 위해!"
 
 msgid "MISSION_REDSTAR_MEDAL_PROFIT_CAMPAIGNSCREENNAME"
-msgstr "Internal profits"
+msgstr "내부 수익"
 
 msgid "MISSION_REDSTAR_MEDAL_PROFIT_FINISH_NAME"
 msgstr "다 냈어요!"
@@ -7279,10 +7279,10 @@ msgstr ""
 "성의 비용으로 부자가 되는 것은 좋은 생각이 아닌 듯합니다."
 
 msgid "MISSION_REDSTAR_MEDAL_PROFIT_HIDE_NAME"
-msgstr "Hushing up activities"
+msgstr "활동 무마"
 
 msgid "MISSION_REDSTAR_MEDAL_PROFIT_HIDE_PROGRESS"
-msgstr "Lines for importing machines: ${x}"
+msgstr "기계 수입을 위한 노선: ${x}"
 
 msgid "MISSION_REDSTAR_MEDAL_PROFIT_HIDE_TASK"
 msgstr "당신이 이전에 건설했던 노선을 제거해서 당신의 활동을 무마하세요."
@@ -7296,7 +7296,7 @@ msgstr ""
 "록 해야 합니다."
 
 msgid "MISSION_REDSTAR_MEDAL_PROFIT_MACHINES_NAME"
-msgstr "Delivering machines"
+msgstr "기계 운송"
 
 msgid "MISSION_REDSTAR_MEDAL_PROFIT_MACHINES_TASK"
 msgstr "물건 공장에 ${amount_machines_m2}개의 기계를 운송하세요."
@@ -7307,13 +7307,13 @@ msgstr ""
 "는 것을 제안했습니다."
 
 msgid "MISSION_REDSTAR_MEDAL_PROFIT_NAME"
-msgstr "Internal profits"
+msgstr "내부 수익"
 
 msgid "MISSION_REDSTAR_MEDAL_PROFIT_PAYBACK_NAME"
-msgstr "Paying back public funds"
+msgstr "공공에 반환"
 
 msgid "MISSION_REDSTAR_MEDAL_PROFIT_PAYBACK_OPTION"
-msgstr "Pay back ${x}"
+msgstr "${x} 반환"
 
 msgid "MISSION_REDSTAR_MEDAL_PROFIT_PAYBACK_TASK"
 msgstr "당신의 수익의 두 배를 지불하세요."
@@ -7331,7 +7331,7 @@ msgstr ""
 "동료 동지들은 서로 도움을 주죠."
 
 msgid "MISSION_REDSTAR_MEDAL_SMELT_CAMPAIGNSCREENNAME"
-msgstr "Furnace at full blast"
+msgstr "용광로를 최대 화력으로"
 
 msgid "MISSION_REDSTAR_MEDAL_SMELT_FINISH_NAME"
 msgstr "질 좋은 철강!"
@@ -7346,7 +7346,7 @@ msgid "MISSION_REDSTAR_MEDAL_SMELT_MACHINES_HINT"
 msgstr "이제 건설 현장에 더 많은 건설 옵션이 가능합니다."
 
 msgid "MISSION_REDSTAR_MEDAL_SMELT_MACHINES_NAME"
-msgstr "Melting down machines"
+msgstr "기계 녹이기"
 
 msgid "MISSION_REDSTAR_MEDAL_SMELT_MACHINES_TASK"
 msgstr "철강 생산량을 늘리기 위해 기계를 농장으로 운송하세요."
@@ -7358,7 +7358,7 @@ msgstr ""
 "니다."
 
 msgid "MISSION_REDSTAR_MEDAL_SMELT_NAME"
-msgstr "Furnace at full blast"
+msgstr "용광로를 최대 화력으로"
 
 msgid "MISSION_REDSTAR_MEDAL_SMELT_TEXT"
 msgstr ""
@@ -7368,10 +7368,10 @@ msgstr ""
 "용광로를 최대 화력으로 가동하세요!"
 
 msgid "MISSION_REDSTAR_MEDAL_SPARROW_BUGS_NAME"
-msgstr "Plague of beetles"
+msgstr "벌레의 괴롭힘"
 
 msgid "MISSION_REDSTAR_MEDAL_SPARROW_BUGS_SUB1"
-msgstr "Drive in areas"
+msgstr "지역을 운전하세요"
 
 msgid "MISSION_REDSTAR_MEDAL_SPARROW_BUGS_TASK"
 msgstr ""
@@ -7386,7 +7386,7 @@ msgstr ""
 "해충들을 반드시 제거해야 합니다."
 
 msgid "MISSION_REDSTAR_MEDAL_SPARROW_CAMPAIGNSCREENNAME"
-msgstr "The great plagues"
+msgstr "위대한 전염병"
 
 msgid "MISSION_REDSTAR_MEDAL_SPARROW_FINISH_NAME"
 msgstr "세척 완료!"
@@ -7397,13 +7397,13 @@ msgstr ""
 "지표면에 약간의 독성은 식물의 성장을 억제하지는 않을 겁니다... 오히려 반대죠!"
 
 msgid "MISSION_REDSTAR_MEDAL_SPARROW_NAME"
-msgstr "The great plagues"
+msgstr "위대한 전염병"
 
 msgid "MISSION_REDSTAR_MEDAL_SPARROW_NOISE_NAME"
-msgstr "Sparrow campaign"
+msgstr "참새 캠페인"
 
 msgid "MISSION_REDSTAR_MEDAL_SPARROW_NOISE_SUB1"
-msgstr "Cause noise"
+msgstr "소음을 내세요"
 
 msgid "MISSION_REDSTAR_MEDAL_SPARROW_NOISE_TASK"
 msgstr "참새를 겁주기 위해 소음을 내세요."
@@ -7421,113 +7421,113 @@ msgstr ""
 "당 중앙에서 이 녀석들을 없애는 일을 당신에게 맡겼습니다."
 
 msgid "MISSION_REDSTAR_NAME"
-msgstr "People‘s Republic"
+msgstr "인민공화국"
 
 msgid "MISSION_REDSTAR_PARAMS_CHENGDU"
-msgstr "Chengdu"
+msgstr "청두"
 
 msgid "MISSION_REDSTAR_PARAMS_CHONGQING"
-msgstr "Chongqing"
+msgstr "충칭"
 
 msgid "MISSION_REDSTAR_PARAMS_COALMINE_EAST"
-msgstr "Suining coal mine"
+msgstr "쑤이닝 석탄 광산"
 
 msgid "MISSION_REDSTAR_PARAMS_COALMINE_WEST"
-msgstr "Ziyang coal mine"
+msgstr "쯔양 석탄 광산"
 
 msgid "MISSION_REDSTAR_PARAMS_CONSTRUCTIONSITE1"
-msgstr "Industrial construction site 1"
+msgstr "산업 건설 현장 1"
 
 msgid "MISSION_REDSTAR_PARAMS_CONSTRUCTIONSITE2"
-msgstr "Industrial construction site 2"
+msgstr "산업 건설 현장 2"
 
 msgid "MISSION_REDSTAR_PARAMS_CONSTRUCTIONSITE3"
-msgstr "Industrial construction site 3"
+msgstr "산업 건설 현장 3"
 
 msgid "MISSION_REDSTAR_PARAMS_CONSTRUCTIONSITE4"
-msgstr "Industrial construction site 4"
+msgstr "산업 건설 현장 4"
 
 msgid "MISSION_REDSTAR_PARAMS_CONSTRUCTIONSITE5"
-msgstr "Industrial construction site 5"
+msgstr "산업 건설 현장 5"
 
 msgid "MISSION_REDSTAR_PARAMS_CONSTRUCTIONSITE6"
-msgstr "Industrial construction site 6"
+msgstr "산업 건설 현장 6"
 
 msgid "MISSION_REDSTAR_PARAMS_CONSTRUCTIONSITE7"
-msgstr "Industrial construction site 7"
+msgstr "산업 건설 현장 7"
 
 msgid "MISSION_REDSTAR_PARAMS_CONSTRUCTIONSITE8"
-msgstr "Industrial construction site 8"
+msgstr "산업 건설 현장 8"
 
 msgid "MISSION_REDSTAR_PARAMS_DAMSITE"
-msgstr "Dam construction site"
+msgstr "댐 건설 현장"
 
 msgid "MISSION_REDSTAR_PARAMS_GUANGAN"
-msgstr "Guang'an"
+msgstr "광안"
 
 msgid "MISSION_REDSTAR_PARAMS_IRONMINE_EAST"
-msgstr "Chongqing iron ore mine"
+msgstr "충칭 철광석 광산"
 
 msgid "MISSION_REDSTAR_PARAMS_IRONMINE_WEST"
-msgstr "Lesan iron ore mine"
+msgstr "러산 철광석 광산"
 
 msgid "MISSION_REDSTAR_PARAMS_LESHAN"
-msgstr "Leshan"
+msgstr "러산"
 
 msgid "MISSION_REDSTAR_PARAMS_LUZHOU"
-msgstr "Luzhou"
+msgstr "루저우"
 
 msgid "MISSION_REDSTAR_PARAMS_MACHINESIMPORT"
-msgstr "Machine import warehouse"
+msgstr "기계 수입 창고"
 
 msgid "MISSION_REDSTAR_PARAMS_MACHINESIMPORT2"
-msgstr "Machine import warehouse"
+msgstr "기계 수입 창고"
 
 msgid "MISSION_REDSTAR_PARAMS_MACHINESIMPORT3"
-msgstr "Machine import warehouse"
+msgstr "기계 수입 창고"
 
 msgid "MISSION_REDSTAR_PARAMS_NANCHONG"
-msgstr "Nanchong"
+msgstr "난충"
 
 msgid "MISSION_REDSTAR_PARAMS_NEIJIANG"
-msgstr "Neijiang"
+msgstr "네이장"
 
 msgid "MISSION_REDSTAR_PARAMS_STEELMILL_EAST"
-msgstr "Chongqing steelworks"
+msgstr "충칭 제철소"
 
 msgid "MISSION_REDSTAR_PARAMS_STEELMILL_WEST"
-msgstr "Zigong steelworks"
+msgstr "쯔궁 제철소"
 
 msgid "MISSION_REDSTAR_PARAMS_SUINING"
-msgstr "Suining"
+msgstr "쑤이닝"
 
 msgid "MISSION_REDSTAR_PARAMS_TRACKINDUSTRY"
-msgstr "Track construction factory"
+msgstr "선로 생산 공장"
 
 msgid "MISSION_REDSTAR_PARAMS_TRAINSTATION_CHENGDU"
-msgstr "Chengdu passenger station"
+msgstr "청두역"
 
 msgid "MISSION_REDSTAR_PARAMS_TRAINSTATION_CHONGQING"
-msgstr "Chongqing passenger station"
+msgstr "충칭역"
 
 msgid "MISSION_REDSTAR_PARAMS_TRAINSTATION_NEIJIANG"
-msgstr "Neijiang passenger station"
+msgstr "네이장역"
 
 msgid "MISSION_REDSTAR_PARAMS_TRAINSTATION_ZIYANG"
-msgstr "Ziyang passenger station"
+msgstr "쯔양역"
 
 msgid "MISSION_REDSTAR_PARAMS_ZIGONG"
-msgstr "Zigong"
+msgstr "쯔궁"
 
 msgid "MISSION_REDSTAR_PARAMS_ZIYANG"
-msgstr "Ziyang"
+msgstr "쯔양"
 
 msgid "MISSION_REDSTAR_TASK_CORRECTION_MAXTRAIN_HINT"
 msgstr ""
 "한 개의 화물을 화물열차로 1km 운송하면 1 화물열차 운송거리로 계산됩니다."
 
 msgid "MISSION_REDSTAR_TASK_CORRECTION_MAXTRAIN_NAME"
-msgstr "Maximizing railway freight distances"
+msgstr "화물열차 운행거리 최대화"
 
 msgid "MISSION_REDSTAR_TASK_CORRECTION_MAXTRAIN_TASK"
 msgstr ""
@@ -7542,7 +7542,7 @@ msgstr ""
 "명하세요."
 
 msgid "MISSION_REDSTAR_TASK_CORRECTION_NAME"
-msgstr "Upward correction"
+msgstr "목표 상향"
 
 msgid "MISSION_REDSTAR_TASK_CORRECTION_PLASTIC_HINT"
 msgstr ""
@@ -7550,7 +7550,7 @@ msgstr ""
 "이제 건설 현장에 더 많은 건설 옵션이 가능합니다."
 
 msgid "MISSION_REDSTAR_TASK_CORRECTION_PLASTIC_NAME"
-msgstr "Encouraging plastic production"
+msgstr "플라스틱 생산 증대"
 
 msgid "MISSION_REDSTAR_TASK_CORRECTION_PLASTIC_TASK"
 msgstr "화학 공장을 지으세요."
@@ -7575,13 +7575,13 @@ msgstr ""
 "할 겁니다."
 
 msgid "MISSION_REDSTAR_TASK_CORRECTION_TOWNS_NAME"
-msgstr "Supplying towns"
+msgstr "마을 공급"
 
 msgid "MISSION_REDSTAR_TASK_CORRECTION_TOWNS_SUB1"
-msgstr "Let the cities grow"
+msgstr "도시를 성장시키세요"
 
 msgid "MISSION_REDSTAR_TASK_CORRECTION_TOWNS_SUB2"
-msgstr "Deliver goods to the towns"
+msgstr "마을에 물건을 공급하세요"
 
 msgid "MISSION_REDSTAR_TASK_CORRECTION_TOWNS_TASK"
 msgstr ""
@@ -7595,7 +7595,7 @@ msgstr ""
 "증명하세요."
 
 msgid "MISSION_REDSTAR_TASK_DECENTRAL_MINTRAIN_NAME"
-msgstr "Reducing railway freight distances"
+msgstr "화물열차 운행거리 최소화"
 
 msgid "MISSION_REDSTAR_TASK_DECENTRAL_MINTRAIN_TASK"
 msgstr "화물열차 운송거리를 월당 ${kmpermonth4_max}km까지 줄이세요."
@@ -7607,13 +7607,13 @@ msgstr ""
 "다."
 
 msgid "MISSION_REDSTAR_TASK_DECENTRAL_NAME"
-msgstr "Decentralization"
+msgstr "지방 분권"
 
 msgid "MISSION_REDSTAR_TASK_DECENTRAL_STEEL_HINT"
 msgstr "이제 건설 현장에 더 많은 건설 옵션이 가능합니다."
 
 msgid "MISSION_REDSTAR_TASK_DECENTRAL_STEEL_NAME"
-msgstr "Collecting steel"
+msgstr "철강 수집"
 
 msgid "MISSION_REDSTAR_TASK_DECENTRAL_STEEL_TASK"
 msgstr ""
@@ -7636,7 +7636,7 @@ msgstr ""
 "중앙 권력이 직접 조종하는 것 대신, 각 지역이 자신들의 산업을 관리해야 합니다."
 
 msgid "MISSION_REDSTAR_TASK_FINISH_NAME"
-msgstr "Retirement"
+msgstr "은퇴"
 
 msgid "MISSION_REDSTAR_TASK_FINISH_TEXT"
 msgstr ""
@@ -7644,13 +7644,13 @@ msgstr ""
 "스러워해도 됩니다."
 
 msgid "MISSION_REDSTAR_TASK_LEAP_DAM_NAME"
-msgstr "Building a dam"
+msgstr "댐 건설"
 
 msgid "MISSION_REDSTAR_TASK_LEAP_DAM_SUB2"
-msgstr "Deliver steel"
+msgstr "철강을 운송하세요"
 
 msgid "MISSION_REDSTAR_TASK_LEAP_DAM_SUB3"
-msgstr "Deliver machines"
+msgstr "기계를 운송하세요"
 
 msgid "MISSION_REDSTAR_TASK_LEAP_DAM_TASK"
 msgstr ""
@@ -7663,7 +7663,7 @@ msgstr ""
 "설해야 합니다."
 
 msgid "MISSION_REDSTAR_TASK_LEAP_NAME"
-msgstr "The great leap"
+msgstr "위대한 도약"
 
 msgid "MISSION_REDSTAR_TASK_LEAP_TEXT"
 msgstr ""
@@ -7674,7 +7674,7 @@ msgstr ""
 "즉시 이 일들을 시작하세요."
 
 msgid "MISSION_REDSTAR_TASK_PLAN_NAME"
-msgstr "The first five-year plan"
+msgstr "첫 5개년 계획"
 
 msgid "MISSION_REDSTAR_TASK_PLAN_TEXT"
 msgstr ""
@@ -7688,13 +7688,13 @@ msgid "MISSION_REDSTAR_TASK_PLAN_TOWNS_HINT"
 msgstr "이제 건설 현장에 더 많은 건설 옵션이 가능합니다."
 
 msgid "MISSION_REDSTAR_TASK_PLAN_TOWNS_NAME"
-msgstr "Supplying towns"
+msgstr "마을 공급"
 
 msgid "MISSION_REDSTAR_TASK_PLAN_TOWNS_SUB1"
-msgstr "Deliver food to the towns"
+msgstr "마을에 음식을 운송하세요"
 
 msgid "MISSION_REDSTAR_TASK_PLAN_TOWNS_SUB2"
-msgstr "Deliver goods to the towns"
+msgstr "마을에 물건을 공급하세요"
 
 msgid "MISSION_REDSTAR_TASK_PLAN_TOWNS_TASK"
 msgstr "마을에 ${cargo2}개의 식량과 ${cargo2}개의 화물을 운송하세요."
@@ -7708,7 +7708,7 @@ msgid "MISSION_REDSTAR_TASK_REBUILD_GRAIN_HINT"
 msgstr "이제 건설 현장에 더 많은 건설 옵션이 가능합니다."
 
 msgid "MISSION_REDSTAR_TASK_REBUILD_GRAIN_NAME"
-msgstr "Encouraging grain production"
+msgstr "곡물 생산 증대"
 
 msgid "MISSION_REDSTAR_TASK_REBUILD_GRAIN_TASK"
 msgstr "농장을 지으세요."
@@ -7719,10 +7719,10 @@ msgstr ""
 "들을 도우세요."
 
 msgid "MISSION_REDSTAR_TASK_REBUILD_MACHINES_NAME"
-msgstr "Importing machines"
+msgstr "기계 수입"
 
 msgid "MISSION_REDSTAR_TASK_REBUILD_MACHINES_SUB1"
-msgstr "Export grain"
+msgstr "곡물 수출"
 
 msgid "MISSION_REDSTAR_TASK_REBUILD_MACHINES_TASK"
 msgstr ""
@@ -7735,16 +7735,16 @@ msgstr ""
 "당분간은, 우리의 친구인 소련에서 기계를 식량과 교환해서 수입할 겁니다."
 
 msgid "MISSION_REDSTAR_TASK_REBUILD_NAME"
-msgstr "Rebuilding"
+msgstr "재건축"
 
 msgid "MISSION_REDSTAR_TASK_REBUILD_STEEL_NAME"
-msgstr "Restoring tracks"
+msgstr "선로 재건축"
 
 msgid "MISSION_REDSTAR_TASK_REBUILD_STEEL_SUB1"
-msgstr "Deliver steel"
+msgstr "철강을 운송하세요"
 
 msgid "MISSION_REDSTAR_TASK_REBUILD_STEEL_SUB2"
-msgstr "Connect Chengdu and Chongqing"
+msgstr "청두와 충칭을 연결하세요"
 
 msgid "MISSION_REDSTAR_TASK_REBUILD_STEEL_TASK"
 msgstr ""
@@ -7767,7 +7767,7 @@ msgid "MISSION_SHINKANSEN_ASSET_TORII_DESC"
 msgstr "일본 전통 건축에서 볼 수 있습니다."
 
 msgid "MISSION_SHINKANSEN_ASSET_TORII_NAME"
-msgstr "Torii"
+msgstr "토리"
 
 msgid "MISSION_SHINKANSEN_CAMPAIGNSCREEN"
 msgstr ""
@@ -7799,16 +7799,16 @@ msgid "MISSION_SHINKANSEN_INTRO7"
 msgstr "지속 발전을 통한 정확한 완벽!"
 
 msgid "MISSION_SHINKANSEN_MEDAL_GARDEN_CAMPAIGNSCREENNAME"
-msgstr "Horticulture"
+msgstr "원예"
 
 msgid "MISSION_SHINKANSEN_MEDAL_GARDEN_DECO_NAME"
-msgstr "Create a Garden"
+msgstr "정원 제작"
 
 msgid "MISSION_SHINKANSEN_MEDAL_GARDEN_DECO_SUB1"
-msgstr "Placed the correct number of each type of stone"
+msgstr "각 종류의 돌을 정확한 수만큼 배치하세요"
 
 msgid "MISSION_SHINKANSEN_MEDAL_GARDEN_DECO_SUB2"
-msgstr "Placed the correct number of each type of tree"
+msgstr "각 종류의 나무를 정확한 수만큼 배치하세요"
 
 msgid "MISSION_SHINKANSEN_MEDAL_GARDEN_DECO_TASK"
 msgstr ""
@@ -7829,7 +7829,7 @@ msgstr ""
 "방문하는 사람은 평온해질 겁니다."
 
 msgid "MISSION_SHINKANSEN_MEDAL_GARDEN_NAME"
-msgstr "Japanese Horticulture"
+msgstr "일본식 원예"
 
 msgid "MISSION_SHINKANSEN_MEDAL_GARDEN_TEXT"
 msgstr ""
@@ -7838,7 +7838,7 @@ msgstr ""
 "otherworldly beyond. Divine and earthly beings. Permanence and transience…"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MONSTER_CAMPAIGNSCREENNAME"
-msgstr "Sea Monster"
+msgstr "바다 괴물"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MONSTER_FINISH_NAME"
 msgstr "멈춰요!"
@@ -7852,7 +7852,7 @@ msgstr ""
 "better stop…"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MONSTER_FISH_NAME"
-msgstr "Deliver Fish"
+msgstr "물고기 운송"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MONSTER_FISH_TASK"
 msgstr "[link=jump_hq]어업 본부[/link]에 10,000마리의 생선을 운송하세요."
@@ -7864,7 +7864,7 @@ msgstr ""
 "식 요리를 위한 다른 별미같은 거요."
 
 msgid "MISSION_SHINKANSEN_MEDAL_MONSTER_LOCATE_NAME"
-msgstr "Pinpoint the Earthquake"
+msgstr "진원지 특정"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MONSTER_LOCATE_TASK"
 msgstr "나고야 근처의 바다에서 진원지를 찾으세요."
@@ -7877,7 +7877,7 @@ msgstr ""
 "확히요."
 
 msgid "MISSION_SHINKANSEN_MEDAL_MONSTER_NAME"
-msgstr "Fish and other marine creatures"
+msgstr "물고기와 다른 바다 생물"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MONSTER_QUAKE1_NAME"
 msgstr "땅이 흔들립니다..."
@@ -7915,31 +7915,31 @@ msgstr ""
 "고래로 큰 돈을 벌 수 있습니다."
 
 msgid "MISSION_SHINKANSEN_MEDAL_MUDA_AVOID_NAME"
-msgstr "Avoiding the Seven Muda"
+msgstr "7개의 무다 제거"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MUDA_AVOID_SUB1"
-msgstr "Businesses don't throw away any goods"
+msgstr "사업은 아무것도 버리지 않습니다"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MUDA_AVOID_SUB2"
-msgstr "No overcrowded passenger stations"
+msgstr "과포화된 여객역이 없어야 합니다"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MUDA_AVOID_SUB3"
-msgstr "No half-filled trains"
+msgstr "빈 열차가 없어야 합니다"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MUDA_AVOID_SUB4"
-msgstr "No overcrowded cargo stations"
+msgstr "과포화된 화물역이 없어야 합니다"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MUDA_AVOID_SUB5"
-msgstr "Build as few switch points as possible"
+msgstr "전환점을 최대한 줄여야 합니다"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MUDA_AVOID_SUB6"
-msgstr "Only modern trucks"
+msgstr "현대적인 선로만 있어야 합니다"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MUDA_AVOID_SUB7"
-msgstr "Trains maintained"
+msgstr "열차를 점검해야 합니다"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MUDA_AVOID_TASK"
-msgstr "Avoid the seven muda"
+msgstr "7개의 무다를 피하세요"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MUDA_AVOID_TEXT"
 msgstr ""
@@ -7947,7 +7947,7 @@ msgstr ""
 "다를 피하세요."
 
 msgid "MISSION_SHINKANSEN_MEDAL_MUDA_CAMPAIGNSCREENNAME"
-msgstr "Continuous Improvement"
+msgstr "지속적인 개선"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MUDA_FINISH_NAME"
 msgstr "품질 향상!"
@@ -7956,7 +7956,7 @@ msgid "MISSION_SHINKANSEN_MEDAL_MUDA_FINISH_TEXT"
 msgstr "아주 좋아요. 당신의 신중한 관리 덕분에, 효율 손실은 최소화되었습니다."
 
 msgid "MISSION_SHINKANSEN_MEDAL_MUDA_NAME"
-msgstr "The Seven Muda"
+msgstr "7개의 무다"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MUDA_TEXT"
 msgstr ""
