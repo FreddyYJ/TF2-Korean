@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-11 17:34+0100\n"
-"PO-Revision-Date: 2021-07-03 10:35+0900\n"
+"PO-Revision-Date: 2021-07-06 18:07+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 2.3\n"
 "X-Language: en_US\n"
 "X-Source-Language: de_DE\n"
 
@@ -7833,9 +7833,9 @@ msgstr "일본식 원예"
 
 msgid "MISSION_SHINKANSEN_MEDAL_GARDEN_TEXT"
 msgstr ""
-"Laying out a Japanese garden is a fine art. Each stone, each tree, whatever "
-"the object, it symbolizes something else. The worldly on this side and the "
-"otherworldly beyond. Divine and earthly beings. Permanence and transience…"
+"일본식 정원을 꾸미는 것은 뛰어난 예술이죠. 각 돌, 각 나무, 어느 물체든지, 뭔"
+"가를 상징하죠. 속세의 것은 다른 세계를 가리킵니다. 신계와 현세에 존재하죠. 영"
+"원과 일시..."
 
 msgid "MISSION_SHINKANSEN_MEDAL_MONSTER_CAMPAIGNSCREENNAME"
 msgstr "바다 괴물"
@@ -7845,11 +7845,9 @@ msgstr "멈춰요!"
 
 msgid "MISSION_SHINKANSEN_MEDAL_MONSTER_FINISH_TEXT"
 msgstr ""
-"It looks like your sideline has startled something really monstrous deep "
-"down in the ocean. \n"
-"Something that seems to be bothered by your activities. \n"
-"It's bubbling and churning and scratching the ship's hull. Maybe you'd "
-"better stop…"
+"당신의 부업은 바다 깊은 괴물에 정말로 놀란 것 같군요.\n"
+"뭔가가 당신의 활동 덕분에 화가 난 것 같습니다.\n"
+"부글부글거리며 휘저으며 배의 선체를 긁고 있습니다. 아마 멈춰야 할 겁니다..."
 
 msgid "MISSION_SHINKANSEN_MEDAL_MONSTER_FISH_NAME"
 msgstr "물고기 운송"
@@ -7893,10 +7891,10 @@ msgstr "땅이 흔들립니다..."
 
 msgid "MISSION_SHINKANSEN_MEDAL_MONSTER_QUAKE2_TEXT"
 msgstr ""
-"It's bucking again. \n"
-"What could've done that? \n"
-"How weird. \n"
-"As if your trawl net tickled something at the bottom of the ocean…"
+"또 흔들리고 있습니다.\n"
+"무슨 일일까요?\n"
+"이상하네요.\n"
+"당신의 저인망이 바다 아래에 있는 뭔가를 간지럽힌 걸까요..."
 
 msgid "MISSION_SHINKANSEN_MEDAL_MONSTER_QUAKE3_NAME"
 msgstr "땅이 흔들립니다..."
@@ -7966,55 +7964,55 @@ msgstr ""
 "적절한 가공입니다."
 
 msgid "MISSION_SHINKANSEN_NAME"
-msgstr "Shinkansen"
+msgstr "신칸센"
 
 msgid "MISSION_SHINKANSEN_PARAMS_CONMATPLANT"
-msgstr "Nagoya construction materials plant"
+msgstr "나고야 건설 자재 공장"
 
 msgid "MISSION_SHINKANSEN_PARAMS_FOODPROCESSING"
-msgstr "Tokyo food processing plant"
+msgstr "도쿄 음식 가공 공장"
 
 msgid "MISSION_SHINKANSEN_PARAMS_HAMAMATSU"
-msgstr "Hamamatsu"
+msgstr "하마마츠"
 
 msgid "MISSION_SHINKANSEN_PARAMS_HQ"
-msgstr "Central"
+msgstr "중앙"
 
 msgid "MISSION_SHINKANSEN_PARAMS_MISHIMA"
-msgstr "Mishima"
+msgstr "미시마"
 
 msgid "MISSION_SHINKANSEN_PARAMS_NAGOYA"
-msgstr "Nagoya"
+msgstr "나고야"
 
 msgid "MISSION_SHINKANSEN_PARAMS_OSAKA"
-msgstr "Osaka"
+msgstr "오사카"
 
 msgid "MISSION_SHINKANSEN_PARAMS_RANCH"
-msgstr "Tokyo farm"
+msgstr "도쿄 농장"
 
 msgid "MISSION_SHINKANSEN_PARAMS_SHIGA"
-msgstr "Shiga"
+msgstr "시가"
 
 msgid "MISSION_SHINKANSEN_PARAMS_STEELMILL"
-msgstr "Hamamatsu steel mill"
+msgstr "하마마츠 제철소"
 
 msgid "MISSION_SHINKANSEN_PARAMS_STONEDUMP"
-msgstr "Hamamatsu bridge construction site"
+msgstr "하마마츠 다리 건설 현장"
 
 msgid "MISSION_SHINKANSEN_PARAMS_STONEPILE"
-msgstr "Mishima tunnel construction site"
+msgstr "미시마 터널 건설 현장"
 
 msgid "MISSION_SHINKANSEN_PARAMS_TOKIO"
-msgstr "Tokyo"
+msgstr "도쿄"
 
 msgid "MISSION_SHINKANSEN_TASK_BUILD_MATERIAL_NAME"
-msgstr "Deliver Materials"
+msgstr "자재 운송"
 
 msgid "MISSION_SHINKANSEN_TASK_BUILD_MATERIAL_SUB1"
-msgstr "Deliver Steel"
+msgstr "철강을 운송하세요"
 
 msgid "MISSION_SHINKANSEN_TASK_BUILD_MATERIAL_SUB2"
-msgstr "Deliver construction materials"
+msgstr "건설 자재를 운송하세요"
 
 msgid "MISSION_SHINKANSEN_TASK_BUILD_MATERIAL_TASK"
 msgstr ""
@@ -8028,7 +8026,7 @@ msgstr ""
 "안정성을 위해서는 많은 양의 철강과 콘크리트가 필요할 겁니다."
 
 msgid "MISSION_SHINKANSEN_TASK_BUILD_NAME"
-msgstr "High-Speed Rail"
+msgstr "고속철도"
 
 msgid "MISSION_SHINKANSEN_TASK_BUILD_TEXT"
 msgstr ""
@@ -8039,16 +8037,16 @@ msgstr ""
 "사를 섬세하게 계획하세요."
 
 msgid "MISSION_SHINKANSEN_TASK_BUILD_TRACKS_NAME"
-msgstr "Build the Rail"
+msgstr "선로 건설"
 
 msgid "MISSION_SHINKANSEN_TASK_BUILD_TRACKS_SUB1"
-msgstr "Stations connected"
+msgstr "연결한 역"
 
 msgid "MISSION_SHINKANSEN_TASK_BUILD_TRACKS_SUB2"
-msgstr "Bridge constructed"
+msgstr "연결한 다리"
 
 msgid "MISSION_SHINKANSEN_TASK_BUILD_TRACKS_SUB3"
-msgstr "Tunnel constructed"
+msgstr "연결한 터널"
 
 msgid "MISSION_SHINKANSEN_TASK_BUILD_TRACKS_TASK"
 msgstr ""
@@ -8073,13 +8071,13 @@ msgstr ""
 "나고 있습니다."
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_NAME"
-msgstr "Bring the Railroad into Operation"
+msgstr "철도 운행 시작"
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_NOISEA_NAME"
-msgstr "Reducing noise pollution in Shiga"
+msgstr "시가의 소음 공해 감소"
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_NOISEA_OPTION"
-msgstr "Make payment"
+msgstr "돈을 지불하세요"
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_NOISEA_TASK"
 msgstr ""
@@ -8093,10 +8091,10 @@ msgstr ""
 "아니면, 방음벽에 투자하는 것도 방법입니다."
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_NOISEB_NAME"
-msgstr "Reducing noise pollution in Hamamatsu"
+msgstr "하마마츠의 소음 공해 감소"
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_NOISEB_OPTION"
-msgstr "Make payment"
+msgstr "돈을 지불하세요"
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_NOISEB_TASK"
 msgstr ""
@@ -8110,10 +8108,10 @@ msgstr ""
 "그들이 생각을 바꾸는지 지켜보거나 다른 지역으로 이사하는 것을 지원하세요."
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_NOISEC_NAME"
-msgstr "Reducing noise pollution in Mishima"
+msgstr "미시마의 소음 공해 감소"
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_NOISEC_OPTION"
-msgstr "Make payment"
+msgstr "돈을 지불하세요"
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_NOISEC_TASK"
 msgstr ""
@@ -8126,7 +8124,7 @@ msgstr ""
 "그들의 상황을 나아지게 하지 않으면 보상금을 지불해야 할 겁니다."
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_NOISE_NAME"
-msgstr "Reduce Noise Pollution"
+msgstr "소음 공해 감소"
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_NOISE_TASK"
 msgstr ""
@@ -8147,16 +8145,16 @@ msgstr ""
 "선로 옆에 사는 주민들이 소음으로 불평하고 있습니다..."
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_TRACKS_NAME"
-msgstr "Optimize the Railroad"
+msgstr "철도 최적화"
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_TRACKS_SUB1"
-msgstr "Capacity of the line"
+msgstr "노선 수용량"
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_TRACKS_SUB2"
-msgstr "Train waiting time under ${x}%"
+msgstr "${x}%이하의 열차 대기 시간"
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_TRACKS_SUB3"
-msgstr "Average speed"
+msgstr "평균 속도"
 
 msgid "MISSION_SHINKANSEN_TASK_OPERATE_TRACKS_TASK"
 msgstr ""
@@ -8169,10 +8167,10 @@ msgstr ""
 "용량을 늘리고, 대기 시간을 줄여야 하죠!"
 
 msgid "MISSION_SHINKANSEN_TASK_PLAN_FUJI_NAME"
-msgstr "Preparing the tunnel construction"
+msgstr "터널 건설 준비"
 
 msgid "MISSION_SHINKANSEN_TASK_PLAN_FUJI_SUB1"
-msgstr "Removing stone"
+msgstr "돌 제거"
 
 msgid "MISSION_SHINKANSEN_TASK_PLAN_FUJI_TASK"
 msgstr ""
@@ -8187,10 +8185,10 @@ msgstr ""
 "터널 건설을 위한 드릴을 시험하세요."
 
 msgid "MISSION_SHINKANSEN_TASK_PLAN_HAMANA_NAME"
-msgstr "Preparing the bridge construction"
+msgstr "다리 건설 준비"
 
 msgid "MISSION_SHINKANSEN_TASK_PLAN_HAMANA_SUB1"
-msgstr "Deliver construction material"
+msgstr "건설 자재를 운송하세요"
 
 msgid "MISSION_SHINKANSEN_TASK_PLAN_HAMANA_TASK"
 msgstr ""
@@ -8203,7 +8201,7 @@ msgstr ""
 "다리를 지을 준비를 하세요."
 
 msgid "MISSION_SHINKANSEN_TASK_PLAN_KYOTO_NAME"
-msgstr "Resettlement"
+msgstr "재결산"
 
 msgid "MISSION_SHINKANSEN_TASK_PLAN_KYOTO_TASK"
 msgstr "표시된 지역의 버스 정류장을 제거하세요."
@@ -8215,10 +8213,10 @@ msgstr ""
 "그들이 새 지역에서 한쪽으로 밀려나지 않도록 하세요."
 
 msgid "MISSION_SHINKANSEN_TASK_PLAN_NAME"
-msgstr "Planning and Measuring"
+msgstr "계획 수립과 측량"
 
 msgid "MISSION_SHINKANSEN_TASK_PLAN_PARTS_NAME"
-msgstr "Prepare Sections of Rail"
+msgstr "철도 부분 준비"
 
 msgid "MISSION_SHINKANSEN_TASK_PLAN_PARTS_TASK"
 msgstr ""
@@ -8240,13 +8238,13 @@ msgstr ""
 "이런 건설에서의 도전을 극복하고 일본 공학의 정수를 만드세요!"
 
 msgid "MISSION_SHINKANSEN_TASK_PREPARE_BREAKTEST_NAME"
-msgstr "Testing emergency stop"
+msgstr "비상 제동 시험"
 
 msgid "MISSION_SHINKANSEN_TASK_PREPARE_BREAKTEST_SUB1"
-msgstr "Trains at speed"
+msgstr "속도에 도달한 열차"
 
 msgid "MISSION_SHINKANSEN_TASK_PREPARE_BREAKTEST_SUB2"
-msgstr "Trains stopped"
+msgstr "정지한 열차"
 
 msgid "MISSION_SHINKANSEN_TASK_PREPARE_BREAKTEST_TASK"
 msgstr ""
@@ -8261,7 +8259,7 @@ msgstr ""
 "니다."
 
 msgid "MISSION_SHINKANSEN_TASK_PREPARE_CREW_NAME"
-msgstr "Bringing the maintenance crew"
+msgstr "정비 인력 운송"
 
 msgid "MISSION_SHINKANSEN_TASK_PREPARE_CREW_TASK"
 msgstr "[link=jump_hq]본사[/link]에 ${workers}명의 노동자를 고용하세요."
@@ -8272,16 +8270,16 @@ msgstr ""
 "이를 위해 총괄 사무실에 더 많은 인력이 필요합니다."
 
 msgid "MISSION_SHINKANSEN_TASK_PREPARE_MEASURE_NAME"
-msgstr "Taking measurements"
+msgstr "측량"
 
 msgid "MISSION_SHINKANSEN_TASK_PREPARE_MEASURE_SUB1"
-msgstr "Travel along the rails"
+msgstr "철도를 운행하세요"
 
 msgid "MISSION_SHINKANSEN_TASK_PREPARE_MEASURE_SUB2"
-msgstr "Meters traveled in tunnels"
+msgstr "터널을 운행한 거리"
 
 msgid "MISSION_SHINKANSEN_TASK_PREPARE_MEASURE_SUB3"
-msgstr "Meters traveled on bridges"
+msgstr "다리를 운행한 거리"
 
 msgid "MISSION_SHINKANSEN_TASK_PREPARE_MEASURE_TASK"
 msgstr ""
@@ -8296,7 +8294,7 @@ msgstr ""
 "필요한 시운전을 실시하세요."
 
 msgid "MISSION_SHINKANSEN_TASK_PREPARE_NAME"
-msgstr "Test Runs"
+msgstr "시험 운전"
 
 msgid "MISSION_SHINKANSEN_TASK_PREPARE_TEXT"
 msgstr ""
@@ -8306,16 +8304,16 @@ msgstr ""
 "고, 지진에 최상의 대비를 하세요."
 
 msgid "MISSION_SHINKANSEN_TASK_SUCCESS_CUSTOMERS_NAME"
-msgstr "Satisfying customer needs"
+msgstr "고객 만족"
 
 msgid "MISSION_SHINKANSEN_TASK_SUCCESS_CUSTOMERS_SUB1"
 msgstr "본사로 음식을 운송하세요."
 
 msgid "MISSION_SHINKANSEN_TASK_SUCCESS_CUSTOMERS_SUB3"
-msgstr "Train stations should not be overcrowded"
+msgstr "기차역이 과포화되지 않아야 합니다"
 
 msgid "MISSION_SHINKANSEN_TASK_SUCCESS_CUSTOMERS_SUB4"
-msgstr "Achieve minimal frequency"
+msgstr "최소 운행 빈도 달성"
 
 msgid "MISSION_SHINKANSEN_TASK_SUCCESS_CUSTOMERS_TASK"
 msgstr "고객들의 다양한 요구를 충족해서 고객들을 만족시키세요."
@@ -8329,7 +8327,7 @@ msgstr ""
 "더욱이, 열차가 더 자주 운행해야 하죠."
 
 msgid "MISSION_SHINKANSEN_TASK_SUCCESS_NAME"
-msgstr "Satisfaction and Success"
+msgstr "만족과 성공"
 
 msgid "MISSION_SHINKANSEN_TASK_SUCCESS_TEXT"
 msgstr ""
@@ -8340,16 +8338,16 @@ msgstr ""
 "입니다."
 
 msgid "MISSION_SHINKANSEN_TASK_SUCCESS_TRANSPORT_NAME"
-msgstr "Having financial success"
+msgstr "재무적인 성공 달성"
 
 msgid "MISSION_SHINKANSEN_TASK_SUCCESS_TRANSPORT_OPTION1"
-msgstr "Pay off ${cost} construction debts"
+msgstr "${cost}의 건설 부채 상환"
 
 msgid "MISSION_SHINKANSEN_TASK_SUCCESS_TRANSPORT_SUB1"
-msgstr "Construction debts paid"
+msgstr "상환한 건설 부채"
 
 msgid "MISSION_SHINKANSEN_TASK_SUCCESS_TRANSPORT_SUB2"
-msgstr "Passengers transported"
+msgstr "운송한 승객"
 
 msgid "MISSION_SHINKANSEN_TASK_SUCCESS_TRANSPORT_TASK"
 msgstr ""
@@ -8367,7 +8365,7 @@ msgstr ""
 "속 시험용 열차의 별명입니다."
 
 msgid "MISSION_SHINKANSEN_VEHICLE_DRYELLOW_NAME"
-msgstr "Dr. Yellow"
+msgstr "옐로우 박사"
 
 msgid "MISSION_SILVERCITY_CAMPAIGNSCREEN"
 msgstr ""
@@ -8399,10 +8397,10 @@ msgid "MISSION_SILVERCITY_INTRO6"
 msgstr "곧 당신은 수많은 금괴들을 실어나를 수 있게 될 겁니다!"
 
 msgid "MISSION_SILVERCITY_MEDAL_BIGFOOT_CAMPAIGNSCREENNAME"
-msgstr "Monstrous beast"
+msgstr "야생 괴물"
 
 msgid "MISSION_SILVERCITY_MEDAL_BIGFOOT_CLUE1_NAME"
-msgstr "Following the clue"
+msgstr "단서 따라가기"
 
 msgid "MISSION_SILVERCITY_MEDAL_BIGFOOT_CLUE1_TASK"
 msgstr "다음 단서를 찾으세요."
@@ -8415,7 +8413,7 @@ msgstr ""
 "이건 그에게서 사실을 듣기 전에 센 술 몇 잔을 먹여야 한다는 것을 의미하죠."
 
 msgid "MISSION_SILVERCITY_MEDAL_BIGFOOT_CLUE2_NAME"
-msgstr "Following the clue"
+msgstr "단서 따라가기"
 
 msgid "MISSION_SILVERCITY_MEDAL_BIGFOOT_CLUE2_TASK"
 msgstr "다음 단서를 찾으세요."
@@ -8430,7 +8428,7 @@ msgstr ""
 "가 실수하지 않았다면요..."
 
 msgid "MISSION_SILVERCITY_MEDAL_BIGFOOT_CLUE3_NAME"
-msgstr "Following the clue"
+msgstr "단서 따라가기"
 
 msgid "MISSION_SILVERCITY_MEDAL_BIGFOOT_CLUE3_TASK"
 msgstr "다음 단서를 찾으세요."
@@ -8455,7 +8453,7 @@ msgstr ""
 "음, 여기서 더 나아갈 필요는 없어 보이네요."
 
 msgid "MISSION_SILVERCITY_MEDAL_BIGFOOT_NAME"
-msgstr "Monstrous beast"
+msgstr "야생 괴물"
 
 msgid "MISSION_SILVERCITY_MEDAL_BIGFOOT_TEXT"
 msgstr ""
@@ -8466,7 +8464,7 @@ msgstr ""
 "보고자에게 무슨 일인지 물어보세요."
 
 msgid "MISSION_SILVERCITY_MEDAL_GRANDOPENING_CAMPAIGNSCREENNAME"
-msgstr "Enjoy a ride"
+msgstr "운행 개시"
 
 msgid "MISSION_SILVERCITY_MEDAL_GRANDOPENING_FINISH_NAME"
 msgstr "만세!"
@@ -8475,10 +8473,10 @@ msgid "MISSION_SILVERCITY_MEDAL_GRANDOPENING_FINISH_TEXT"
 msgstr "만세! 끝없이 축하하고 있습니다-그리고 이 모든 것은 당신 덕분이죠!"
 
 msgid "MISSION_SILVERCITY_MEDAL_GRANDOPENING_NAME"
-msgstr "Fabulous fun"
+msgstr "멋진 재미"
 
 msgid "MISSION_SILVERCITY_MEDAL_GRANDOPENING_ONBOARD_NAME"
-msgstr "Enjoy a ride"
+msgstr "운행 개시"
 
 msgid "MISSION_SILVERCITY_MEDAL_GRANDOPENING_ONBOARD_TASK"
 msgstr "열차를 클릭하고 조종석 시점으로 전환하세요."
@@ -8494,10 +8492,10 @@ msgstr ""
 "열차를 탈 기회를 놓치지 말고 기쁨을 누리세요."
 
 msgid "MISSION_SILVERCITY_MEDAL_PONDEROSA_CAMPAIGNSCREENNAME"
-msgstr "Ponderosa Ranch"
+msgstr "폰데로사 목장"
 
 msgid "MISSION_SILVERCITY_MEDAL_PONDEROSA_DELIVER_NAME"
-msgstr "Delivering more logs"
+msgstr "더 많은 통나무 운송"
 
 msgid "MISSION_SILVERCITY_MEDAL_PONDEROSA_DELIVER_TASK"
 msgstr ""
@@ -8519,7 +8517,7 @@ msgstr ""
 "죠!"
 
 msgid "MISSION_SILVERCITY_MEDAL_PONDEROSA_NAME"
-msgstr "Ponderosa Ranch"
+msgstr "폰데로사 목장"
 
 msgid "MISSION_SILVERCITY_MEDAL_PONDEROSA_TEXT"
 msgstr ""
@@ -8529,55 +8527,55 @@ msgstr ""
 "그들은 자신들을 훼손하려는 사람들에 친절하지 않습니다."
 
 msgid "MISSION_SILVERCITY_NAME"
-msgstr "Mining Miracle"
+msgstr "광업의 기적"
 
 msgid "MISSION_SILVERCITY_PARAMS_CARSON"
-msgstr "Carson City"
+msgstr "카슨 시티"
 
 msgid "MISSION_SILVERCITY_PARAMS_FOREST_CARSON"
-msgstr "Ponderosa Ranch"
+msgstr "폰데로사 농장"
 
 msgid "MISSION_SILVERCITY_PARAMS_FOREST_VIRGINIA"
-msgstr "Virginia forest"
+msgstr "버지니아 숲"
 
 msgid "MISSION_SILVERCITY_PARAMS_LAKEHOUSE"
-msgstr "The house on the lake"
+msgstr "호숫가의 집"
 
 msgid "MISSION_SILVERCITY_PARAMS_RAILSTATION_CARSON"
-msgstr "Carson City cargo station"
+msgstr "카슨 시티 화물역"
 
 msgid "MISSION_SILVERCITY_PARAMS_RAILSTATION_RENO"
-msgstr "Reno passenger station"
+msgstr "레노 여객역"
 
 msgid "MISSION_SILVERCITY_PARAMS_RENO"
-msgstr "Reno"
+msgstr "레노"
 
 msgid "MISSION_SILVERCITY_PARAMS_SILVEROREMINE"
-msgstr "Virginia silver mine"
+msgstr "버지니아 은광산"
 
 msgid "MISSION_SILVERCITY_PARAMS_SILVEROREMINEWOODDEPOSIT"
-msgstr "Mine timber supply"
+msgstr "광산 목재 공급처"
 
 msgid "MISSION_SILVERCITY_PARAMS_SILVEROREMINE_INITIAL"
-msgstr "Virginia gold mine"
+msgstr "버지니아 금광산"
 
 msgid "MISSION_SILVERCITY_PARAMS_SILVERPROCESSING"
-msgstr "Carson City silver ore processing"
+msgstr "카슨 시티 은 제련소"
 
 msgid "MISSION_SILVERCITY_PARAMS_TRUCKSTATION_CARSON"
-msgstr "Carson City truck stop"
+msgstr "카슨 시티 트럭 정류장"
 
 msgid "MISSION_SILVERCITY_PARAMS_TRUCKSTATION_VIRGINIA"
-msgstr "Virginia City truck stop"
+msgstr "버지니아 시티 트럭 정류장"
 
 msgid "MISSION_SILVERCITY_PARAMS_VIRGINIA"
-msgstr "Virginia City"
+msgstr "버지니아 시티"
 
 msgid "MISSION_SILVERCITY_PARAMS_WOODPROCESSING"
-msgstr "Carson City furnace firing"
+msgstr "카슨 시티 용광로"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_ASSIGN_NAME"
-msgstr "Allocating a vehicle to the line"
+msgstr "노선에 차량 배치"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_ASSIGN_TASK"
 msgstr "노선에 열차를 배치하세요."
@@ -8593,13 +8591,13 @@ msgstr ""
 "결되도록 하세요."
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_CONNECT_NAME"
-msgstr "Connecting the depot"
+msgstr "차고 연결"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_CONNECT_SUB1"
-msgstr "Connection between the depot and Virginia"
+msgstr "차고와 버지니아 연결"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_CONNECT_SUB2"
-msgstr "Connection between ${name_virginiaCity} and ${name_carsonCity}"
+msgstr "${name_virginiaCity}와 ${name_carsonCity} 연결"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_CONNECT_TASK"
 msgstr ""
@@ -8611,7 +8609,7 @@ msgstr ""
 "이제 연결해야 합니다."
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_DEPOT_NAME"
-msgstr "Building a depot"
+msgstr "차고 건설"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_DEPOT_TASK"
 msgstr ""
@@ -8622,7 +8620,7 @@ msgid "MISSION_SILVERCITY_TASK_CARGO_DEPOT_TEXT"
 msgstr "함리적인 철도라면 적절한 철도 차고가 필요하죠!"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_LINE_NAME"
-msgstr "Establishing a line"
+msgstr "노선 생성"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_LINE_TASK"
 msgstr ""
@@ -8634,10 +8632,10 @@ msgid "MISSION_SILVERCITY_TASK_CARGO_LINE_TEXT"
 msgstr "협곡을 통해 모든 광석을 운송할 수 있도록 철도 노선을 생성하세요."
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_NAME"
-msgstr "Booming business"
+msgstr "사업의 폭발"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_SELLMINE_NAME"
-msgstr "Selling the silver mine"
+msgstr "은광산 매각"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_SELLMINE_OPTION"
 msgstr "지금 은 광산을 파세요."
@@ -8649,7 +8647,7 @@ msgid "MISSION_SILVERCITY_TASK_CARGO_SELLMINE_TEXT"
 msgstr "그 쓸데없는 녀석을 없애버리세요."
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_STATION_NAME"
-msgstr "Building a cargo station"
+msgstr "화물역 건설"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_STATION_TASK"
 msgstr ""
@@ -8679,16 +8677,16 @@ msgstr ""
 "그하세요."
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_TRACKS_NAME"
-msgstr "Building the missing tracks"
+msgstr "부서진 선로 건설"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_TRACKS_SUB1"
-msgstr "Devil’s Pass"
+msgstr "악마의 통로"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_TRACKS_SUB2"
-msgstr "Skull Rocks"
+msgstr "해골 바위"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_TRACKS_SUB3"
-msgstr "Washington Hill"
+msgstr "워싱턴 언덕"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_TRACKS_TASK"
 msgstr ""
@@ -8700,7 +8698,7 @@ msgid "MISSION_SILVERCITY_TASK_CARGO_TRACKS_TEXT"
 msgstr "지형이 위험천만해서 몇 개의 급격한 곡선이 필요합니다."
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_TRAIN_NAME"
-msgstr "Buying a vehicle"
+msgstr "차량 구매"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_TRAIN_TASK"
 msgstr ""
@@ -8711,7 +8709,7 @@ msgid "MISSION_SILVERCITY_TASK_CARGO_TRAIN_TEXT"
 msgstr "이제 아름다운 기관차와 몇 개의 화차를 구매할 때입니다."
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_TRANSPORT_NAME"
-msgstr "Delivering silver ore"
+msgstr "은광석 운송"
 
 msgid "MISSION_SILVERCITY_TASK_CARGO_TRANSPORT_TASK"
 msgstr ""
@@ -8736,7 +8734,7 @@ msgstr ""
 "당신의 철도 사업은 네바다주의 진정한 금광산이라 할 수 있죠!"
 
 msgid "MISSION_SILVERCITY_TASK_MINE_LOCATE_NAME"
-msgstr "Finding the mine"
+msgstr "광맥 찾기"
 
 msgid "MISSION_SILVERCITY_TASK_MINE_LOCATE_TASK"
 msgstr "카메라를 움직이고 광산을 클릭하세요."
@@ -8745,19 +8743,19 @@ msgid "MISSION_SILVERCITY_TASK_MINE_LOCATE_TEXT"
 msgstr "광산의 입구를 찾으세요!"
 
 msgid "MISSION_SILVERCITY_TASK_MINE_MOVECAM_NAME"
-msgstr "Using the camera"
+msgstr "카메라 사용"
 
 msgid "MISSION_SILVERCITY_TASK_MINE_MOVECAM_SUB1"
-msgstr "Move the camera"
+msgstr "카메라를 움직이세요"
 
 msgid "MISSION_SILVERCITY_TASK_MINE_MOVECAM_SUB2"
-msgstr "Zoom the camera"
+msgstr "카메라를 확대하세요"
 
 msgid "MISSION_SILVERCITY_TASK_MINE_MOVECAM_SUB3"
-msgstr "Rotate the camera"
+msgstr "카메라를 회전하세요"
 
 msgid "MISSION_SILVERCITY_TASK_MINE_MOVECAM_SUB4"
-msgstr "Tilt the camera"
+msgstr "카메라를 기울이세요"
 
 msgid "MISSION_SILVERCITY_TASK_MINE_MOVECAM_TASK"
 msgstr "카메라를 움직이고, 확대하고, 회전하고, 기울이세요."
@@ -8766,7 +8764,7 @@ msgid "MISSION_SILVERCITY_TASK_MINE_MOVECAM_TEXT"
 msgstr "겉을 보고 어디어 금덩이들이 자고 있는지 찾아내세요."
 
 msgid "MISSION_SILVERCITY_TASK_MINE_NAME"
-msgstr "Searching for the shaft"
+msgstr "축대를 위한 공간 찾기"
 
 msgid "MISSION_SILVERCITY_TASK_MINE_TEXT"
 msgstr ""
