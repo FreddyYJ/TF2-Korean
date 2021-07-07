@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-11 17:34+0100\n"
-"PO-Revision-Date: 2021-07-06 18:07+0900\n"
+"PO-Revision-Date: 2021-07-07 12:22+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -8779,7 +8779,7 @@ msgstr ""
 "이 있다면, 승객들은 운송 수단을 바꿔 탈 수 있습니다."
 
 msgid "MISSION_SILVERCITY_TASK_OUTSIDE_CONNECT_NAME"
-msgstr "Connecting cities"
+msgstr "도시 연결"
 
 msgid "MISSION_SILVERCITY_TASK_OUTSIDE_CONNECT_TASK"
 msgstr ""
@@ -8791,7 +8791,7 @@ msgid "MISSION_SILVERCITY_TASK_OUTSIDE_CONNECT_TEXT"
 msgstr "전 세계가 진정한 신흥 도시인 카슨 시티와 연결되도록 하세요."
 
 msgid "MISSION_SILVERCITY_TASK_OUTSIDE_LINE_NAME"
-msgstr "Establishing and allocating a line"
+msgstr "노선을 생성 및 배치"
 
 msgid "MISSION_SILVERCITY_TASK_OUTSIDE_LINE_TASK"
 msgstr ""
@@ -8805,7 +8805,7 @@ msgstr ""
 "다!"
 
 msgid "MISSION_SILVERCITY_TASK_OUTSIDE_NAME"
-msgstr "The wonder of ${name_carsonCity}"
+msgstr "${name_carsonCity}의 경이"
 
 msgid "MISSION_SILVERCITY_TASK_OUTSIDE_TEXT"
 msgstr ""
@@ -8817,7 +8817,7 @@ msgstr ""
 "여객 사업에 뛰어드세요. 당신의 표는 마을에서 가장 핫한 물건이 될 겁니다."
 
 msgid "MISSION_SILVERCITY_TASK_OUTSIDE_TRAIN_NAME"
-msgstr "Buying a passenger train"
+msgstr "여객 열차 구매"
 
 msgid "MISSION_SILVERCITY_TASK_OUTSIDE_TRAIN_TASK"
 msgstr ""
@@ -8828,13 +8828,13 @@ msgid "MISSION_SILVERCITY_TASK_OUTSIDE_TRAIN_TEXT"
 msgstr "열차를 구매해서 전 세게 사람들이 카슨 시티에 올 수 있도록 하세요."
 
 msgid "MISSION_SILVERCITY_TASK_OUTSIDE_TRANSPORT_NAME"
-msgstr "Transporting passengers"
+msgstr "승객 운송"
 
 msgid "MISSION_SILVERCITY_TASK_OUTSIDE_TRANSPORT_SUB1"
-msgstr "Bring people to ${name_carsonCity}"
+msgstr "${name_carsonCity}로 승객을 운송하세요"
 
 msgid "MISSION_SILVERCITY_TASK_OUTSIDE_TRANSPORT_SUB2"
-msgstr "Bring people to ${name_reno}"
+msgstr "${name_reno}로 승객을 운송하세요"
 
 msgid "MISSION_SILVERCITY_TASK_OUTSIDE_TRANSPORT_TASK"
 msgstr ""
@@ -8848,7 +8848,7 @@ msgstr ""
 "모두가 당신의 아름다운 철도를 이용하고 싶어 안달내고 있습니다."
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_ASSIGN_NAME"
-msgstr "Allocating a vehicle to the line"
+msgstr "노선에 열차 배치"
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_ASSIGN_TASK"
 msgstr "노선에 마차를 배치하세요."
@@ -8859,7 +8859,7 @@ msgstr ""
 "운송을 시작할 수 있겠습니다."
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_DELIVER_NAME"
-msgstr "Delivering logs"
+msgstr "통나무 운송"
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_DELIVER_TASK"
 msgstr ""
@@ -8872,7 +8872,7 @@ msgstr ""
 "그러면... 행운을 빌어요!"
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_DEPOT_NAME"
-msgstr "Building a depot"
+msgstr "차고 건설"
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_DEPOT_TASK"
 msgstr ""
@@ -8883,7 +8883,7 @@ msgid "MISSION_SILVERCITY_TASK_SHAFT_DEPOT_TEXT"
 msgstr "이제 마차들을 주차할 작은 차고가 필요합니다."
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_LINE_NAME"
-msgstr "Establishing a line"
+msgstr "노선 생성"
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_LINE_TASK"
 msgstr ""
@@ -8895,7 +8895,7 @@ msgid "MISSION_SILVERCITY_TASK_SHAFT_LINE_TEXT"
 msgstr "머리가 둔한 운전사들에게 어느 노선을 이용할 건지 설명하세요."
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_NAME"
-msgstr "Stability in the mining galleries"
+msgstr "광산 갱도의 안정성"
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_TEXT"
 msgstr ""
@@ -8906,7 +8906,7 @@ msgstr ""
 "이 막대기들은 갱도를 안정화하기에 완벽할 겁니다."
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_TRUCK_NAME"
-msgstr "Building a truck stop"
+msgstr "트럭 정류장 건설"
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_TRUCK_TASK"
 msgstr ""
@@ -8917,7 +8917,7 @@ msgid "MISSION_SILVERCITY_TASK_SHAFT_TRUCK_TEXT"
 msgstr "마차들이 통나무를 실을 정류장을 건설하세요."
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_VEHICLE_NAME"
-msgstr "Buying a vehicle"
+msgstr "차량 구매"
 
 msgid "MISSION_SILVERCITY_TASK_SHAFT_VEHICLE_TASK"
 msgstr ""
@@ -8929,7 +8929,7 @@ msgstr ""
 "이죠."
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_BUS_NAME"
-msgstr "Buying and allocating vehicles"
+msgstr "차량 구매 및 배치"
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_BUS_TASK"
 msgstr ""
@@ -8939,7 +8939,7 @@ msgid "MISSION_SILVERCITY_TASK_TOWN_BUS_TEXT"
 msgstr "몇 대의 마차를 구매해서 운행을 시작할 수 있도록 하세요."
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_DEPOT_NAME"
-msgstr "Building a depot"
+msgstr "차고 건설"
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_DEPOT_TASK"
 msgstr ""
@@ -8949,7 +8949,7 @@ msgid "MISSION_SILVERCITY_TASK_TOWN_DEPOT_TEXT"
 msgstr "말들이 쉴 수 있고 마차가 대기할 수 있는 차고를 건설하세요."
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_LAYER_NAME"
-msgstr "Activating a layer"
+msgstr "레이어 활성화"
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_LAYER_TASK"
 msgstr "토지 용도 레이어를 활성화하세요."
@@ -8958,16 +8958,16 @@ msgid "MISSION_SILVERCITY_TASK_TOWN_LAYER_TEXT"
 msgstr "당신의 미래의 승객들이 필요로 하는 것을 알아내세요."
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_LINE_NAME"
-msgstr "Establishing a line"
+msgstr "노선 생성"
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_LINE_SUB1"
-msgstr "Add a stop in a residential area"
+msgstr "주거 구역에 정류장 추가"
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_LINE_SUB2"
-msgstr "Add a stop in a business district"
+msgstr "상업 구역에 정류장 추가"
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_LINE_SUB3"
-msgstr "Add a stop in an industrial area"
+msgstr "산업 구역에 정류장 추가"
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_LINE_TASK"
 msgstr ""
@@ -8978,22 +8978,22 @@ msgid "MISSION_SILVERCITY_TASK_TOWN_LINE_TEXT"
 msgstr "당신의 차량이 아무 정류장도 놓치지 않도록 하세요."
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_NAME"
-msgstr "Dry feet"
+msgstr "건조한 발"
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_STATION_HINT"
 msgstr "작은 버스 정류장은 인도에 바로 배치할 수 있습니다."
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_STATION_NAME"
-msgstr "Building stops"
+msgstr "정류장 건설"
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_STATION_SUB1"
-msgstr "In a residential area"
+msgstr "주거 구역"
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_STATION_SUB2"
-msgstr "In a business district"
+msgstr "상업 구역"
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_STATION_SUB3"
-msgstr "In an industrial area"
+msgstr "산업 구역"
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_STATION_TASK"
 msgstr ""
@@ -9011,7 +9011,7 @@ msgstr ""
 "그들의 멋진 신발이 진흙 도로에 더러워지지 않도록 하세요."
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_TRANSPORT_NAME"
-msgstr "Transporting passengers"
+msgstr "승객 운송"
 
 msgid "MISSION_SILVERCITY_TASK_TOWN_TRANSPORT_TASK"
 msgstr ""
@@ -9051,7 +9051,7 @@ msgid "MISSION_STARFLIGHT_INTRO6"
 msgstr "하워드 휴스 씨를 세상에서 가장 부유하도록 만드세요."
 
 msgid "MISSION_STARFLIGHT_MEDAL_GOLF_AIRFIELD_NAME"
-msgstr "Building an airfield"
+msgstr "비행장 건설"
 
 msgid "MISSION_STARFLIGHT_MEDAL_GOLF_AIRFIELD_TASK"
 msgstr "[link=jump_golfcourse]골프 코스[/link] 근처에 공항을 지으세요."
@@ -9063,13 +9063,13 @@ msgstr ""
 "록 하세요."
 
 msgid "MISSION_STARFLIGHT_MEDAL_GOLF_CAMPAIGNSCREENNAME"
-msgstr "Professional golfer"
+msgstr "프로 골프 선수"
 
 msgid "MISSION_STARFLIGHT_MEDAL_GOLF_COURSE_NAME"
-msgstr "Building a golf course"
+msgstr "골프 코스 건설"
 
 msgid "MISSION_STARFLIGHT_MEDAL_GOLF_COURSE_SUB1"
-msgstr "Deliver sand"
+msgstr "모래를 운송하세요"
 
 msgid "MISSION_STARFLIGHT_MEDAL_GOLF_COURSE_TASK"
 msgstr "[link=jump_golfcourse]골프 코스[/link]에 모래를 운송하세요."
