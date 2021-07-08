@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-14 12:35+0100\n"
-"PO-Revision-Date: 2020-12-14 12:36+0100\n"
+"POT-Creation-Date: 2021-07-06 09:50+0200\n"
+"PO-Revision-Date: 2021-07-06 09:53+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -11,9 +11,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 2.4.2\n"
 "X-Language: de_CH\n"
 "X-Source-Language: C\n"
+"X-Generator: Poedit 3.0\n"
 
 msgid "  - activate your dedicated graphics card (if available)"
 msgstr "  - aktiviere die dedizierte Grafikkarte (falls vorhanden)"
@@ -50,9 +50,6 @@ msgid "%1% industry"
 msgid_plural "%1% industries"
 msgstr[0] "%1% Industrie"
 msgstr[1] "%1% Industrien"
-
-msgid "%1% min"
-msgstr "%1% min"
 
 msgid "%1% mod available"
 msgid_plural "%1% mods available"
@@ -188,12 +185,6 @@ msgstr "(Kein Ziel)"
 msgid "(stopped)"
 msgstr "(angehalten)"
 
-msgid "1/2x"
-msgstr "1/2x"
-
-msgid "1/4x"
-msgstr "1/4x"
-
 msgid "100%"
 msgstr "100%"
 
@@ -223,9 +214,6 @@ msgstr "1:4"
 
 msgid "1:5"
 msgstr "1:5"
-
-msgid "1x"
-msgstr "1x"
 
 msgid "200%"
 msgstr "200%"
@@ -265,8 +253,8 @@ msgstr "Ein neues Fahrzeug ist verfügbar!"
 
 msgid "A one-way street can't have stops or waypoints on both sides"
 msgstr ""
-"Eine Einbahnstrasse darf nicht auf beiden Seiten Haltestellen oder Wegpunkte"
-" haben"
+"Eine Einbahnstrasse darf nicht auf beiden Seiten Haltestellen oder Wegpunkte "
+"haben"
 
 msgid ""
 "A path has been found, but one or more sections of the path are not "
@@ -274,13 +262,13 @@ msgid ""
 "tool to modify the sections."
 msgstr ""
 "Ein Weg wurde gefunden, das Fahrzeug benötigt jedoch ein komplett "
-"elektrifizierter Weg. Benutze das Elektrifizieren-Tool um die entsprechenden"
-" Abschnitte anzupassen."
+"elektrifizierter Weg. Benutze das Elektrifizieren-Tool um die entsprechenden "
+"Abschnitte anzupassen."
 
 msgid ""
-"A path has been found, but one or more sections of the path do not have tram"
-" tracks. The vehicle requires tram tracks. Use the tram track tool to modify"
-" the sections."
+"A path has been found, but one or more sections of the path do not have tram "
+"tracks. The vehicle requires tram tracks. Use the tram track tool to modify "
+"the sections."
 msgstr ""
 "Ein Weg wurde gefunden, das Fahrzeug benötigt jedoch Tramschienen. Benutze "
 "das Tramschienen-Tool um die entsprechenden Abschnitte anzupassen."
@@ -301,6 +289,9 @@ msgstr ""
 
 msgid "A station appears consecutively twice"
 msgstr "Eine Haltestelle ist zweimal hintereinander aufgeführt"
+
+msgid "Accept"
+msgstr "Zustimmen"
 
 msgid "Accept!"
 msgstr "Akzeptiert!"
@@ -418,6 +409,9 @@ msgstr "Antialiasing"
 
 msgid "Antique"
 msgstr "Antik"
+
+msgid "Any cargo type"
+msgstr "Beliebige Gütertypen"
 
 msgid "Apply"
 msgstr "Anwenden"
@@ -541,6 +535,9 @@ msgstr "Grosse Ausgaben"
 
 msgid "Bit depth must be 1, 8 or 16."
 msgstr "Bittiefe muss 1, 8 oder 16 sein."
+
+msgid "Bloom"
+msgstr "Bloom"
 
 msgid "Bob Ross"
 msgstr "Bob Ross"
@@ -875,9 +872,6 @@ msgstr "Datum ändern"
 msgid "Change note:"
 msgstr "Änderungen:"
 
-msgid "Change type"
-msgstr "Typ ändern"
-
 msgid "Charles Alton Ellis"
 msgstr "Charles Alton Ellis"
 
@@ -950,6 +944,12 @@ msgstr "Fahrzeug klonen"
 
 msgid "Close all"
 msgstr "Alle schliessen"
+
+msgid "Cockpit camera: next position"
+msgstr "Cockpitkamera: Nächste Position"
+
+msgid "Cockpit camera: previous position"
+msgstr "Cockpitkamera: Vorherige Position"
 
 msgid "Collapse"
 msgstr "Verkleinern"
@@ -1245,6 +1245,9 @@ msgstr "Untertitel löschen"
 msgid "Deliver every product to every city that requires it."
 msgstr "Erfülle die Güterbedürfnisse aller Städte."
 
+msgid "Departure configuration"
+msgstr "Haltestellenkonfiguration"
+
 msgid "Depot contains vehicles"
 msgstr "Depot enthält Fahrzeuge"
 
@@ -1302,6 +1305,9 @@ msgstr "Alle deaktivieren"
 msgid "Disable all mods currently visible in the list"
 msgstr "Deaktiviere alle in der Liste sichtbaren Mods"
 
+msgid "Disable construction snapping"
+msgstr "Deaktivierung Einrasterung"
+
 msgid "Disable mod"
 msgstr "Mod deaktivieren"
 
@@ -1311,8 +1317,14 @@ msgstr "Deaktiviert"
 msgid "Disconnected!"
 msgstr "Getrennt!"
 
+msgid "Display mode"
+msgstr "Anzeigemodus"
+
 msgid "Distance units"
 msgstr "Distanzeinheit"
+
+msgid "Do not show again"
+msgstr "Nicht erneut anzeigen"
 
 msgid "Do you wish to proceed?"
 msgstr "Möchtest Du fortfahren?"
@@ -1398,6 +1410,9 @@ msgstr "Emissionswert unter Mauscursor: %s"
 
 msgid "Emissions layer"
 msgstr "Emissionen"
+
+msgid "Empty"
+msgstr "Leer"
 
 msgid "Empty construction"
 msgstr "Leere Konstruktion"
@@ -1583,6 +1598,9 @@ msgstr "Vollladen jeder Fracht"
 
 msgid "Full load (any)"
 msgstr "Vollladen einer Fracht"
+
+msgid "Fullscreen"
+msgstr "Vollbild"
 
 msgid "Game"
 msgstr "Spiel"
@@ -1770,8 +1788,8 @@ msgstr "Sorge dafür, dass ein Zug eine Höhe von über 450 Meter erreicht."
 msgid ""
 "Have all tracks electrified and high speed. Have at least 100km of tracks."
 msgstr ""
-"Besitze ausschliesslich elektrifizierte Hochgeschwindigkeitsgleise mit einer"
-" Länge von mindestens 100 km."
+"Besitze ausschliesslich elektrifizierte Hochgeschwindigkeitsgleise mit einer "
+"Länge von mindestens 100 km."
 
 msgid "Have at least 300 cargo items waiting at a train station."
 msgstr ""
@@ -1905,6 +1923,9 @@ msgstr "Industrienstatistik"
 msgid "Infrastructure"
 msgstr "Infrastruktur"
 
+msgid "Initial street angle range"
+msgstr "Anfangs-Strassenwinkelbereich"
+
 msgid "Insert fade after"
 msgstr "Überblendung danach einfügen"
 
@@ -1934,9 +1955,6 @@ msgstr "Interner Fehler (siehe Konsole für Details)"
 
 msgid "Interns"
 msgstr "Praktikanten"
-
-msgid "Invalid UTF-8 encountered"
-msgstr "Ungültiges UTF-8 gefunden"
 
 msgid "Invalid configuration, %1% module will collide."
 msgid_plural "Invalid configuration, %1% modules will collide."
@@ -2283,8 +2301,8 @@ msgstr "Master"
 msgid "Maximum loan: %1%"
 msgstr "Maximales Darlehen: %1%"
 
-msgid "Maximum waiting time"
-msgstr "Maximale Wartezeit"
+msgid "Maximum time before departure"
+msgstr "Maximale Haltezeit vor der Abfahrt"
 
 msgid "Mediocre"
 msgstr "Mittelmässig"
@@ -2298,6 +2316,9 @@ msgstr "Menü-Musik"
 msgid "Metropolis"
 msgstr "Metropole"
 
+msgid "Minimum time before departure"
+msgstr "Minimale Haltezeit vor der Abfahrt"
+
 msgid "Minus old vehicle value"
 msgstr "Abzüglich momentaner Fahrzeugwert"
 
@@ -2309,6 +2330,9 @@ msgstr "Verschiedenes"
 
 msgid "Missing electric tracks"
 msgstr "Elektrifizierte Gleise fehlen"
+
+msgid "Missing resources"
+msgstr "Fehlende Ressourcen"
 
 msgid "Missing tram tracks"
 msgstr "Tramgleise fehlen"
@@ -2380,16 +2404,13 @@ msgid "Move vehicle up"
 msgstr "Fahrzeug nach oben verschieben"
 
 msgid "Multiple units"
-msgstr "Triebwagen"
+msgstr "Zugkompositionen"
 
 msgid "Museum line"
 msgstr "Museumslinie"
 
 msgid "Music"
 msgstr "Musik"
-
-msgid "Music era-dependent"
-msgstr "Musik Epochenabhängig"
 
 msgid "Music player"
 msgstr "Musikplayer"
@@ -2438,6 +2459,9 @@ msgstr "Keine Linie"
 
 msgid "No bridge"
 msgstr "Keine Brücke"
+
+msgid "No cargo type"
+msgstr "Keine Gütertypen"
 
 msgid "No construction set!"
 msgstr "Keine Konstruktion verfügbar!"
@@ -2522,6 +2546,9 @@ msgstr "Kein Tunnel"
 msgid "No vehicles to replace!"
 msgstr "Es gibt keine zu ersetzende Fahrzeuge!"
 
+msgid "No vehicles with current filter setting available"
+msgstr "Keine Fahrzeuge mit aktueller Filtereinstellung verfügbar"
+
 msgid "Node locked"
 msgstr "Knoten gesperrt"
 
@@ -2533,6 +2560,9 @@ msgstr "Normal"
 
 msgid "Not assigned to a terminal"
 msgstr "Keinem Terminal zugewiesen"
+
+msgid "Not compatible for replacement"
+msgstr "Nicht kompatibel"
 
 msgid "Not contained by any line as waypoint"
 msgstr "Bei keiner Linie als Wegpunkt enthalten"
@@ -2663,6 +2693,11 @@ msgstr "Heightmap überschreiben?"
 msgid "Overwrite savegame?"
 msgstr "Spielstand überschreiben?"
 
+msgid "Own streets."
+msgstr ""
+"Strassen mit Spielereigentum aufrüsten um automatische Änderungen zu "
+"regulieren"
+
 msgid "Ownership test failed"
 msgstr "Ownership Test fehlgeschlagen"
 
@@ -2755,6 +2790,12 @@ msgstr "Spielereigentum"
 
 msgid "Player owned"
 msgstr "Spielereigentum"
+
+msgid "Player ownership"
+msgstr "Spielereigentum-Tool"
+
+msgid "Player ownership control tool"
+msgstr "Spielereigentum-Tool"
 
 msgid "Please try installing the latest drivers for your graphics card."
 msgstr ""
@@ -2948,6 +2989,9 @@ msgstr "Rückerstattung: %1%"
 msgid "Relative mode"
 msgstr "Relativmodus"
 
+msgid "Reload all textures?"
+msgstr "Texturen neu laden?"
+
 msgid "Relocate"
 msgstr "Umplatzieren"
 
@@ -2996,6 +3040,9 @@ msgstr[1] "Fahrzeuge ersetzen"
 
 msgid "Replace vehicles"
 msgstr "Fahrzeuge ersetzen"
+
+msgid "Replacing existing"
+msgstr "Ersetzen"
 
 msgid "Replacing vehicle"
 msgstr "Ersatzfahrzeug"
@@ -3095,8 +3142,14 @@ msgstr "Betriebskosten: +{percentage}%"
 msgid "Save"
 msgstr "Speichern"
 
+msgid "Save & play"
+msgstr "Speichern & Spielen"
+
 msgid "Save and apply settings"
 msgstr "Einstellungen anwenden und speichern"
+
+msgid "Save and play map"
+msgstr "Karte speichern und spielen"
 
 msgid "Save camera config"
 msgstr "Speiche Kamerakonfiguration"
@@ -3114,6 +3167,9 @@ msgid "Save the settings"
 msgstr "Einstellungen speichern"
 
 msgid "Save..."
+msgstr "Speichern..."
+
+msgid "Save... get ready to play map"
 msgstr "Speichern..."
 
 msgid "Saved game \"%1%\""
@@ -3294,6 +3350,9 @@ msgstr "Spiel laden Dialog einblenden"
 msgid "Show loading order"
 msgstr "Ladereihenfolge anzeigen"
 
+msgid "Show missing resources dialog"
+msgstr "Warnungen für fehlende Ressourcen anzeigen "
+
 msgid "Show only visible lines"
 msgstr "Nur sichtbare Linien anzeigen"
 
@@ -3384,9 +3443,6 @@ msgstr "Stationen-Layer ein- oder ausblenden"
 msgid "Show/hide statistics window"
 msgstr "Statistikfenster ein- oder ausblenden"
 
-msgid "Show/hide street builder menu"
-msgstr "Zeige Baumenü Strassen"
-
 msgid "Show/hide street builder menu (curved mode)"
 msgstr "Zeige Baumenü Strassen (gebogen)"
 
@@ -3419,9 +3475,6 @@ msgstr "Zeige Baumenü Terrain-Werkzeuge"
 
 msgid "Show/hide town statistics"
 msgstr "Stadtstatistiken ein- oder ausblenden"
-
-msgid "Show/hide track builder menu"
-msgstr "Zeige Baumenü Gleise"
 
 msgid "Show/hide track builder menu (upgrade mode)"
 msgstr "Zeige Baumenü Gleis-Verbesserungen"
@@ -3490,8 +3543,8 @@ msgid "Smooth tool"
 msgstr "Glättungstool"
 
 msgid ""
-"Some DLCs and/or mods could not be found. Please install them first in order"
-" to load this savegame."
+"Some DLCs and/or mods could not be found. Please install them first in order "
+"to load this savegame."
 msgstr ""
 "Einige DLCs und/oder Mods konnten nicht gefunden werden. Bitte installiere "
 "diese zuerst, um den Spielstand zu laden."
@@ -3627,9 +3680,6 @@ msgstr "Gerade"
 msgid "Street constructions"
 msgstr "Strassen-Konstruktionen"
 
-msgid "Street modification tools"
-msgstr "Strassenmodifizierungstools"
-
 msgid "Street traffic layer"
 msgstr "Strassenverkehr"
 
@@ -3687,6 +3737,9 @@ msgstr "Terminals"
 msgid "Terrain"
 msgstr "Gelände"
 
+msgid "Terrain textures"
+msgstr "Bodentexturen"
+
 msgid "Terrain tools"
 msgstr "Terrain-Tools"
 
@@ -3704,6 +3757,23 @@ msgstr "Der Zustand von mehreren Fahrzeugen ist sehr schlecht."
 
 msgid "The existing Steam Workshop item will be updated"
 msgstr "Das existierende Objekt im Steam Workshop wird aktualisiert"
+
+msgid "The following models of your savegame were replaced: "
+msgstr "Die folgenden Modelle im Spielestand werden ersetzt:"
+
+msgid ""
+"The following resources are missing and were irreversibly replaced with "
+"placeholders.\n"
+"The game should continue to work, but you are advised to backup the current "
+"savegame.\n"
+"Reload the savegame with the neccessary mods to restore them."
+msgstr ""
+"Die folgenden Ressourcen fehlen und wurden unwiderruflich durch Platzhalter "
+"ersetzt.\n"
+"Das Spiel sollte weiterhin funktionieren, es wird jedoch empfohlen den "
+"aktuellen Spielstand zu sichern.\n"
+"Laden Sie das Savegame mit den notwendigen Mods neu, um Ressourcen "
+"wiederherzustellen. "
 
 msgid "The future is now, old man"
 msgstr "The future is now, old man"
@@ -3760,6 +3830,12 @@ msgstr ""
 "Das Format dieser Mod ist veraltet. Bitte kontaktiere den Autor, um eine "
 "aktuelle Version zu erhalten."
 
+msgid ""
+"This requires reloading all textures, might take a long time and will "
+"momentarily freeze the game. Save your progression before triggering this "
+"operation."
+msgstr "Dies erfordert das Neuladen aller Texturen und kann lange dauern."
+
 msgid "This setting can only be changed in the main menu"
 msgstr "Diese Einstellung kann nur im Hauptmenu geändert werden"
 
@@ -3790,7 +3866,8 @@ msgstr "Heute {time}"
 
 msgid "Toggle camera positions with <Page Up> and <Page Down> keys"
 msgstr ""
-"Kameraposition kann mit Tasten <Page Up> und <Page Down> geändert werden"
+"Kameraposition kann mit Tasten <<cockpitCameraPosNext>> und "
+"<<cockpitCameraPosPrevious>> geändert werden"
 
 msgid "Toggle precedence"
 msgstr "Vortritt ein/aus"
@@ -3803,6 +3880,9 @@ msgstr "Krümmung zu gross"
 
 msgid "Too much slope"
 msgstr "Steigung zu gross"
+
+msgid "Tools"
+msgstr "Werkzeuge"
 
 msgid "Top length (rail)"
 msgstr "Max. Länge (Züge)"
@@ -3856,11 +3936,8 @@ msgstr "Städte"
 msgid "Towns/industries"
 msgstr "Städte/Industrien"
 
-msgid "Track modification tool"
-msgstr "Gleismodifizierungstool"
-
-msgid "Track modification tools"
-msgstr "Gleismodifizierungstools"
+msgid "Track constructions"
+msgstr "Gleis-Konstruktionen"
 
 msgid "Track speed limits layer"
 msgstr "Geschwindigkeitslimits"
@@ -3873,6 +3950,9 @@ msgstr "Zugkraft"
 
 msgid "Traffic"
 msgstr "Verkehr"
+
+msgid "Traffic light control tool"
+msgstr "Verkehrsampel-Tool"
 
 msgid "Traffic lights"
 msgstr "Verkehrsampeln"
@@ -3995,6 +4075,9 @@ msgstr "Weg zur Haltestelle kann nicht gefunden werden"
 msgid "Unconnected streets"
 msgstr "Nicht verbundene Strassen"
 
+msgid "Understood!"
+msgstr "Verstanden"
+
 msgid "Unemployed"
 msgstr "Arbeitslos"
 
@@ -4025,6 +4108,9 @@ msgstr "Aufrüsten"
 msgid "Upgrade streets with bus lanes."
 msgstr "Strassen mit Busspuren aufrüsten."
 
+msgid "Upgrade streets with traffic lights."
+msgstr "Strassen mit Verkehrsampeln aufrüsten"
+
 msgid "Upgrade streets with tram tracks."
 msgstr "Strassen mit Tramgleisen aufrüsten."
 
@@ -4053,8 +4139,7 @@ msgid "Upper {townName}"
 msgstr "Ober-{townName}"
 
 msgid "Use <Alt> + <Enter> to toggle between full-screen and windowed mode."
-msgstr ""
-"Benutze <Alt> + <Enter>, um zwischen Vollbild und Fenstermodus umzuschalten."
+msgstr "Benutze <Alt> + <Enter>, um zwischen Anzeigemodi umzuschalten."
 
 msgid "Use default connections"
 msgstr "Standardverbindungen benutzen"
@@ -4073,6 +4158,9 @@ msgstr "Erstellung des Benutzerprofils fehlgeschlagen"
 
 msgid "Using the time control, go back in time."
 msgstr "Gehe mit der Zeitsteuerung zurück in der Zeit."
+
+msgid "VSync"
+msgstr "VSync"
 
 msgid "Vacant"
 msgstr "Frei"
@@ -4160,8 +4248,8 @@ msgstr "Warnung: das Hinzufügen dieser Mod kann unerwartete Ergebnisse haben."
 
 msgid "Warning: adding this mod will likely cause the game to crash."
 msgstr ""
-"Warnung: das Hinzufügen dieser Mod wird das Spiel wahrscheinlich zum Absturz"
-" bringen."
+"Warnung: das Hinzufügen dieser Mod wird das Spiel wahrscheinlich zum Absturz "
+"bringen."
 
 msgid "Warning: removing this mod may lead to unexpected results."
 msgstr "Warnung: das Entfernen dieser Mod kann unerwartete Ergebnisse haben."
@@ -4194,11 +4282,6 @@ msgstr "Gewicht %1% + %2% (Güter)"
 
 msgid "Weight units"
 msgstr "Gewichtseinheit"
-
-msgid ""
-"When waiting for full load, depart after the specified period of inactivity"
-msgstr ""
-"Beim Vollladen bei Inaktivität nach der angegebenen Zeitspanne losfahren"
 
 msgid "Window settings"
 msgstr "Fenstereinstellungen"
@@ -4319,6 +4402,14 @@ msgstr "lbf"
 msgid "from %1%"
 msgstr "ab %1%"
 
+msgctxt "game-speed"
+msgid "1/{factor}x"
+msgstr "1/{factor}x"
+
+msgctxt "game-speed"
+msgid "{factor}x"
+msgstr "{factor}x"
+
 msgctxt "gameSpeed"
 msgid "1x"
 msgstr "1x"
@@ -4334,6 +4425,12 @@ msgstr "4x"
 msgctxt "main station name"
 msgid "{townName}"
 msgstr "{townName}"
+
+msgid "max. wait time"
+msgstr "Max. Haltezeit"
+
+msgid "min. wait time"
+msgstr "Min. Haltezeit"
 
 msgctxt "mod-state"
 msgid "Built-in mods"
@@ -4379,6 +4476,10 @@ msgstr "PS"
 msgctxt "power-unit"
 msgid "kW"
 msgstr "kW"
+
+msgctxt "settings"
+msgid "Language"
+msgstr "Sprache"
 
 msgctxt "settings"
 msgid "Localization"
@@ -4474,9 +4575,6 @@ msgstr "keine"
 msgid "unknown error"
 msgstr "unbekannter Fehler"
 
-msgid "unlimited"
-msgstr "unbeschränkt"
-
 msgctxt "vacant-jobs"
 msgid "none"
 msgstr "keine"
@@ -4522,6 +4620,9 @@ msgstr "t/Tonne"
 
 msgid "{angle} deg field of view"
 msgstr "{angle}-Grad-Blickfeld"
+
+msgid "{angle}°"
+msgstr "{angle}°"
 
 msgid "{cargoType}: {loadSpeed}x"
 msgstr "{cargoType}: {loadSpeed}x"
@@ -4596,6 +4697,24 @@ msgid "{number} module will be removed"
 msgid_plural "{number} modules will be removed"
 msgstr[0] "{number} Modul wird entfernt"
 msgstr[1] "{number} Module werden entfernt"
+
+msgid "{number} referenced bridge types not found."
+msgstr "{number} referenzierte Brückentypen nicht gefunden."
+
+msgid "{number} referenced ground textures not found."
+msgstr "{number} referenzierte Bodentexturen nicht gefunden."
+
+msgid "{number} referenced materials not found."
+msgstr "{number} referenzierte Materialien nicht gefunden."
+
+msgid "{number} referenced street types not found."
+msgstr "{number} referenzierte Strassentypen nicht gefunden."
+
+msgid "{number} referenced track types not found."
+msgstr "{number} referenzierte Schienentypen nicht gefunden."
+
+msgid "{number} referenced tunnel types not found."
+msgstr "{number} referenzierte Tunneltypen nicht gefunden."
 
 msgid "{num} mission"
 msgid_plural "{num} missions"

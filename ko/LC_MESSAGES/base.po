@@ -4653,3 +4653,169 @@ msgstr "{weight} t"
 
 msgid "{width} x {height}"
 msgstr "{width} x {height}"
+
+msgid "Maximum time before departure"
+msgstr "Maximum stop time before departure"
+
+msgid "Minimum time before departure"
+msgstr "Minimum stop time before departure"
+
+msgid "Not compatible for replacement"
+msgstr "Not compatible"
+
+msgid "Own streets."
+msgstr "Upgrade streets with player ownership to regulate automatic changes."
+
+msgid "Player ownership control tool"
+msgstr "Player ownership tool"
+
+msgid "Reload all textures?"
+msgstr "Reload textures?"
+
+msgid "Save... get ready to play map"
+msgstr "Save..."
+
+msgid ""
+"This requires reloading all textures, might take a long time and will "
+"momentarily freeze the game. Save your progression before triggering this "
+"operation."
+msgstr ""
+"This requires reloading all textures except terrain textures and might take "
+"a while."
+
+msgid "Traffic light control tool"
+msgstr "Traffic light tool"
+
+msgid "max. wait time"
+msgstr "Max. stop time"
+
+msgid "min. wait time"
+msgstr "Min. stop time"
+
+msgid "Accept"
+msgstr "Zustimmen"
+
+msgid "Any cargo type"
+msgstr "Beliebige Gütertypen"
+
+msgid "Bloom"
+msgstr "Bloom"
+
+msgid "Cockpit camera: next position"
+msgstr "Cockpitkamera: Nächste Position"
+
+msgid "Cockpit camera: previous position"
+msgstr "Cockpitkamera: Vorherige Position"
+
+msgid "Departure configuration"
+msgstr "Haltestellenkonfiguration"
+
+msgid "Disable construction snapping"
+msgstr "Deaktivierung Einrasterung"
+
+msgid "Display mode"
+msgstr "Anzeigemodus"
+
+msgid "Do not show again"
+msgstr "Nicht erneut anzeigen"
+
+msgid "Empty"
+msgstr "Leer"
+
+msgid "Fullscreen"
+msgstr "Vollbild"
+
+msgid "Initial street angle range"
+msgstr "Anfangs-Strassenwinkelbereich"
+
+msgid "Missing resources"
+msgstr "Fehlende Ressourcen"
+
+msgid "No cargo type"
+msgstr "Keine Gütertypen"
+
+msgid "No vehicles with current filter setting available"
+msgstr "Keine Fahrzeuge mit aktueller Filtereinstellung verfügbar"
+
+msgid "Player ownership"
+msgstr "Spielereigentum-Tool"
+
+msgid "Replacing existing"
+msgstr "Ersetzen"
+
+msgid "Save & play"
+msgstr "Speichern & Spielen"
+
+msgid "Save and play map"
+msgstr "Karte speichern und spielen"
+
+msgid "Show missing resources dialog"
+msgstr "Warnungen für fehlende Ressourcen anzeigen "
+
+msgid "Terrain textures"
+msgstr "Bodentexturen"
+
+msgid "The following models of your savegame were replaced: "
+msgstr "Die folgenden Modelle im Spielestand werden ersetzt:"
+
+msgid ""
+"The following resources are missing and were irreversibly replaced with "
+"placeholders.\n"
+"The game should continue to work, but you are advised to backup the current "
+"savegame.\n"
+"Reload the savegame with the neccessary mods to restore them."
+msgstr ""
+"Die folgenden Ressourcen fehlen und wurden unwiderruflich durch Platzhalter "
+"ersetzt.\n"
+"Das Spiel sollte weiterhin funktionieren, es wird jedoch empfohlen den "
+"aktuellen Spielstand zu sichern.\n"
+"Laden Sie das Savegame mit den notwendigen Mods neu, um Ressourcen "
+"wiederherzustellen. "
+
+msgid "Tools"
+msgstr "Werkzeuge"
+
+msgid "Track constructions"
+msgstr "Gleis-Konstruktionen"
+
+msgid "Understood!"
+msgstr "Verstanden"
+
+msgid "Upgrade streets with traffic lights."
+msgstr "Strassen mit Verkehrsampeln aufrüsten"
+
+msgid "VSync"
+msgstr "VSync"
+
+msgctxt "game-speed"
+msgid "1/{factor}x"
+msgstr "1/{factor}x"
+
+msgctxt "game-speed"
+msgid "{factor}x"
+msgstr "{factor}x"
+
+msgctxt "settings"
+msgid "Language"
+msgstr "Sprache"
+
+msgid "{angle}°"
+msgstr "{angle}°"
+
+msgid "{number} referenced bridge types not found."
+msgstr "{number} referenzierte Brückentypen nicht gefunden."
+
+msgid "{number} referenced ground textures not found."
+msgstr "{number} referenzierte Bodentexturen nicht gefunden."
+
+msgid "{number} referenced materials not found."
+msgstr "{number} referenzierte Materialien nicht gefunden."
+
+msgid "{number} referenced street types not found."
+msgstr "{number} referenzierte Strassentypen nicht gefunden."
+
+msgid "{number} referenced track types not found."
+msgstr "{number} referenzierte Schienentypen nicht gefunden."
+
+msgid "{number} referenced tunnel types not found."
+msgstr "{number} referenzierte Tunneltypen nicht gefunden."

@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TransportFever\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-06 09:50+0200\n"
+"PO-Revision-Date: 2021-07-04 20:16+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+
+msgid "Camera move down"
+msgstr "Camera move backward"
+
+msgid "Camera move up"
+msgstr "Camera move forward"
+
+msgid "Cargo stop can not used by passenger vehicles"
+msgstr "Cargo stop can not be used by passenger vehicles"
+
+msgid "Maximum time before departure"
+msgstr "Maximum stop time before departure"
+
+msgid "Minimum time before departure"
+msgstr "Minimum stop time before departure"
+
+msgid "Not compatible for replacement"
+msgstr "Not compatible"
+
+msgid "Own streets."
+msgstr "Upgrade streets with player ownership to regulate automatic changes."
+
+msgid "Player ownership control tool"
+msgstr "Player ownership tool"
+
+msgid "Reload all textures?"
+msgstr "Reload textures?"
+
+msgid "Save... get ready to play map"
+msgstr "Save..."
+
+msgid ""
+"This requires reloading all textures, might take a long time and will "
+"momentarily freeze the game. Save your progression before triggering this "
+"operation."
+msgstr ""
+"This requires reloading all textures except terrain textures and might take "
+"a while."
+
+msgid "Toggle camera positions with <Page Up> and <Page Down> keys"
+msgstr ""
+"Toggle camera positions with <<cockpitCameraPosNext>> and "
+"<<cockpitCameraPosPrevious>> keys"
+
+msgid "Traffic light control tool"
+msgstr "Traffic light tool"
+
+msgid "Use <Alt> + <Enter> to toggle between full-screen and windowed mode."
+msgstr "Use <Alt> + <Enter> to toggle between display modes."
+
+msgid "max. wait time"
+msgstr "Max. stop time"
+
+msgid "min. wait time"
+msgstr "Min. stop time"
