@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-11 17:34+0100\n"
-"PO-Revision-Date: 2021-07-07 17:35+0900\n"
+"PO-Revision-Date: 2021-07-08 17:17+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -1435,10 +1435,8 @@ msgstr "입력"
 msgid "Intermediate contour (10 m)"
 msgstr "등고선 간격 (10m)"
 
-
 msgid "Intimidating"
 msgstr "위협적"
-
 
 msgid "Invisible Model"
 msgstr "투명 모델"
@@ -1475,7 +1473,6 @@ msgstr "토지 용도 레이어"
 
 msgid "Landing"
 msgstr "접안 시설"
-
 
 msgid "Landing direction"
 msgstr "접안 방향"
@@ -12318,7 +12315,6 @@ msgstr "노르웨이"
 msgid "Not enough vehicles available at this time"
 msgstr "지금은 더 많은 차량 이용 불가"
 
-
 msgid "Nothing to see here"
 msgstr "더 이상 관심 없음"
 
@@ -12585,7 +12581,6 @@ msgstr "낙석 1"
 
 msgid "Scree 2"
 msgstr "낙석 2"
-
 
 msgid "Second street connection"
 msgstr "도로 교차로"
@@ -13342,7 +13337,6 @@ msgstr ""
 msgid "VEHICLE_MULTIPLEUNIT_SHINKANSEN_0S_NAME"
 msgstr "신칸센 0 시리즈"
 
-
 msgid "VEHICLE_MULTIPLEUNIT_SILVERSTREAK_EXPRESS_DESCRIPTION"
 msgstr ""
 "ED9M시리즈의 열차들은 무마모 회생 제동을 장착하고 있습니다. 이것은 제동하는 "
@@ -13962,221 +13956,210 @@ msgstr "중국철도총공사 SS9G"
 
 msgid "VEHICLE_TRAIN_CLASS_9000_DESCRIPTION"
 msgstr ""
-"These locomotives were quite successful, but a nightmare for maintenance "
-"because of their internal third cylinders which powered the cranked second "
-"drive axles."
+"이 기관차들은 꽤 성공적이었지만, 두 번째 동력 축에 크랭크 힘을 가하는 내부의 "
+"세 번째 실린더 때문에 정비는 악몽이었습니다."
 
 msgid "VEHICLE_TRAIN_CLASS_9000_NAME"
 msgstr "4-12-2 Class 9000"
 
 msgid "VEHICLE_TRAIN_CLASS_PRR_GG1_DESCRIPTION"
 msgstr ""
-"With its beautiful, streamlined design, the GG1 not only looked good, it "
-"also reached high speeds and remained in service for many years."
+"GG1은 아름다운 유선형의 디자인으로 외관이 뛰어날 뿐만 아니라, 고속에 도달할 "
+"수 있어서 오랜 기간 동안 운행되었습니다."
 
 msgid "VEHICLE_TRAIN_CLASS_PRR_GG1_NAME"
 msgstr "PRR-Class GG1"
 
 msgid "VEHICLE_TRAIN_D1_3_NEW_DESCRIPTION"
 msgstr ""
-"This train was given the legendary name \"Spanish Brötli Railway\" because "
-"the fine Zurich gentlemen had puff pastry brought from a well-known Baden "
-"chef especially for the trip."
+"이 열차는 취리히의 한 신사가 여행을 위해 특별히 잘 알려진 바덴의 요리사로부"
+"터 가져온 패스트리를 부풀렸기 때문에 전설적인 \"스페인 브뤼틀리 철도\"라는 이"
+"름을 가지게 되었습니다."
 
 msgid "VEHICLE_TRAIN_D1_3_NEW_NAME"
 msgstr "D 1/3"
 
 msgid "VEHICLE_TRAIN_DB_V100_DESCRIPTION"
 msgstr ""
-"This locomotive with diesel-hydraulic drive was built to replace the steam "
-"locomotives used on non-electrified branch lines."
+"이 디젤 유압 동력을 가진 기관차는 비전철 지선 구간에서 사용되던 증기 기관차들"
+"을 대체하기 위해 생산되었습니다."
 
 msgid "VEHICLE_TRAIN_DB_V100_NAME"
 msgstr "BR V 100"
 
 msgid "VEHICLE_TRAIN_EMD_AEM_7_DESCRIPTION"
 msgstr ""
-"This locomotive used the latest technology with thyristor control of the "
-"traction motors so that maximum power was available without wheel slip."
+"이 기관차는 견인 모터의 사이리스터 컨트롤 같은 최신 기술들을 사용해서 바퀴가 "
+"미끄러지지 않고 최대 출력을 낼 수 있습니다."
 
 msgid "VEHICLE_TRAIN_EMD_AEM_7_NAME"
 msgstr "EMD AEM-7"
 
 msgid "VEHICLE_TRAIN_EMD_GP9_NEW_DESCRIPTION"
 msgstr ""
-"The GP9 series of GM's Electro-Motive Division was a great success and "
-"became one of the most successful diesel locomotives ever built."
+"GM의 EMD사의 GP9시리즈는 큰 성공을 거두었고 지금까지 가장 성공적인 디젤 기관"
+"차 중 하나가 되었습니다."
 
 msgid "VEHICLE_TRAIN_EMD_GP9_NEW_NAME"
 msgstr "EMD GP 9"
 
 msgid "VEHICLE_TRAIN_EMD_SD40_DESCRIPTION"
 msgstr ""
-"The SD40-2 are true icons of the American railroad. They can be found "
-"practically anywhere and in front of any train."
+"SD40-2는 정말로 미국 철도의 상징이라고 할 수 있습니다. 거의 모든 곳에서 어느 "
+"열차든지 맨 앞에서 찾을 수 있습니다."
 
 msgid "VEHICLE_TRAIN_EMD_SD40_NAME"
 msgstr "EMD SD40-2"
 
 msgid "VEHICLE_TRAIN_EURODUAL_DESCRIPTION"
 msgstr ""
-"The Eurodual is a dual-mode locomotive for passenger and freight traffic and "
-"can be operated both electrically and with a diesel-electrical combination. "
-"This enables a flexible field of application."
+"유로듀얼은 여객과 화물 운송을 위한 두 가지 모드를 가진 기관차이며 전기와 디"
+"젤 방식 모두를 이용하여 운행할 수 있습니다. 이것은 유연한 운용을 할 수 있게 "
+"해줍니다."
 
 msgid "VEHICLE_TRAIN_EURODUAL_NAME"
 msgstr "유로듀얼"
 
 msgid "VEHICLE_TRAIN_GENERAL_DESCRIPTION"
 msgstr ""
-"This \"American\" type locomotive has been used very successfully on many "
-"railroad lines in the USA and is also known from the Buster Keaton film "
-"\"The General\"."
+"이 \"미국\"식 기관차는 미국의 많은 철도 노선에서 매우 성공적이었으며 버스터 "
+"키튼의 영화 \"제너럴\"로 알려져 있기도 합니다."
 
 msgid "VEHICLE_TRAIN_GENERAL_NAME"
 msgstr "4-4-0 제너럴"
 
 msgid "VEHICLE_TRAIN_GE_C40_8W_DESCRIPTION"
 msgstr ""
-"These six-axle diesel-electric locomotives are built by GE Transportation. "
-"They differ from the Dash 8-40C by a wider safety cab."
+"이 6축 디젤 전기 기관차는 GE 트랜스포테이션에 의해 생산되었습니다. 더 넓고 안"
+"전한 기관실을 가졌다는 점에서 대쉬 8-40C와 다릅니다."
 
 msgid "VEHICLE_TRAIN_GE_C40_8W_NAME"
 msgstr "GE C40-8W"
 
 msgid "VEHICLE_TRAIN_GE_E60C_2_DESCRIPTION"
 msgstr ""
-"A type from Bombardier's family of electric and diesel-electric locomotives "
-"for use in medium freight and passenger trains."
+"봄바디어의 전기와 디젤 기관차 시리즈에서 나온 이 종류는 중간 수준의 화물과 여"
+"객 열차에 사용되었습니다."
 
 msgid "VEHICLE_TRAIN_GE_E60C_2_NAME"
 msgstr "Ge E60C-2"
 
 msgid "VEHICLE_TRAIN_GE_P42_DC_DESCRIPTION"
 msgstr ""
-"The GE Genesis series is unique among the currently built North American "
-"locomotives, because the locomotives are particularly light due to the full "
-"shell construction."
+"GE의 제네시스 시리즈는 완전한 쉘 구조라는 점에서 현재 생산된 북아메리카의 기"
+"관차들보다 특이합니다."
 
 msgid "VEHICLE_TRAIN_GE_P42_DC_NAME"
 msgstr "GE P42 DC"
 
 msgid "VEHICLE_TRAIN_HEAVY_MIKADO_DESCRIPTION"
 msgstr ""
-"\"Mikados\" were the most common freight locomotives until the end of the "
-"steam era. More than 9500 were used in the USA."
+"\"미카도\"는 증기 시대 말기까지 가장 일반적인 화물용 기관차였습니다. 미국에"
+"서 9500대 이상이 사용되었습니다."
 
 msgid "VEHICLE_TRAIN_HEAVY_MIKADO_NAME"
 msgstr "2-8-2 미카도"
 
 msgid "VEHICLE_TRAIN_HHP_8_DESCRIPTION"
 msgstr ""
-"HHP-8 means \"High Horse Power 8000\". The twin cabin electric locomotive "
-"was manufactured for use by Westrail and the Maryland Area Regional Commuter "
-"System."
+"HHP-8은 \"고마력 8000\"이라는 뜻입니다. 이 두 기관실을 가진 전기 기관차는 웨"
+"스트레일과 메릴랜드 지역 철도(MARCS)에 의해 생산되었습니다."
 
 msgid "VEHICLE_TRAIN_HHP_8_NAME"
 msgstr "HHP 8"
 
 msgid "VEHICLE_TRAIN_HIAWATHA_DESCRIPTION"
 msgstr ""
-"These high-speed \"Atlantic\" locomotives were fitted with streamlined "
-"fairings. They were built by ALCO to tow the Hiawatha passenger trains on "
-"Milwaukee Road."
+"이 \"아틀랜틱\" 고속 기관차는 최신식 연결 장치에 최적화되어 있습니다. 밀워키 "
+"노선에서 히아와타 여객 열차를 견인하기 위해 알코가 생산하였습니다."
 
 msgid "VEHICLE_TRAIN_HIAWATHA_NAME"
 msgstr "4-4-2 히아와타"
 
 msgid "VEHICLE_TRAIN_LNER_CLASS_A4_DESCRIPTION"
 msgstr ""
-"Express steam locomotive of the London and North Eastern Railway. On 3 July "
-"1938, the \"4468 Mallard\" locomotive set the world speed record for steam "
-"locomotives at 201.2 km/h, which is still valid today."
+"런던과 노스이스트 철도의 고속 증기 기관차입니다. 1938년 7월 3일, \"4468 맬러"
+"드\" 기관차가 201.2km/h를 달성하여 증기 기관차의 세계 신기록을 세웠고, 아직까"
+"지 깨지지 않았습니다."
 
 msgid "VEHICLE_TRAIN_LNER_CLASS_A4_NAME"
 msgstr "Class A4"
 
 msgid "VEHICLE_TRAIN_LNER_FLYING_SCOTSMAN_DESCRIPTION"
 msgstr ""
-"The Flying Scotsman is a pair of trains from London via York and Newcastle "
-"to Edinburgh and back via the East Coast Main Line. Both trains left "
-"Edinburgh and London stations at 10am."
+"플라잉 스콧맨은 런던에서 요크와 뉴캐슬을 경유하여 에딘버러까지 간 후 이스트코"
+"스트 주선으로 돌아오는 한 쌍의 열차입니다. 오전 10시에 두 열차가 동시에 에딘"
+"버러와 런던 역을 출발했습니다."
 
 msgid "VEHICLE_TRAIN_LNER_FLYING_SCOTSMAN_NAME"
 msgstr "Class A3 플라잉 스콧맨"
 
 msgid "VEHICLE_TRAIN_MILW_EP_2_DESCRIPTION"
 msgstr ""
-"This locomotive, commonly known as the \"Bi-Polar\", was one of the most "
-"interesting and complex ever developed. It consists of no less than three "
-"articulated parts."
+"보통 \"바이-폴러\"라고 알려진 이 기관차는 지금까지 개발된 기관차 중에서 가장 "
+"흥미롭고 복잡했습니다. 최소 3개의 부품이 연결되어 있었습니다."
 
 msgid "VEHICLE_TRAIN_MILW_EP_2_NAME"
 msgstr "밀워키 Class EP-2"
 
 msgid "VEHICLE_TRAIN_MOGUL_2_6_0_DESCRIPTION"
 msgstr ""
-"The 2-6-0 axle arrangement was mainly used for tank locomotives. This type "
-"was often built in the USA between 1860 and 1930."
+"2-6-0축 배열은 주로 탱크식 증기 기관차에 사용되었습니다. 이 종류는 주로 1860"
+"년에서 1930년까지 미국에서 사용되었습니다."
 
 msgid "VEHICLE_TRAIN_MOGUL_2_6_0_NAME"
 msgstr "2-6-0 모굴"
 
 msgid "VEHICLE_TRAIN_M_300_DESCRIPTION"
 msgstr ""
-"These railcars were called \"Skunks\" because people said: \"You can smell "
-"them before you can see them\"."
+"이 철도 차량들은 사람들이 \"보이지 않아도 냄새로 알 수 있다\"고 해서 \"스컹크"
+"\"라고 불렸습니다."
 
 msgid "VEHICLE_TRAIN_M_300_NAME"
 msgstr "M-300"
 
 msgid "VEHICLE_TRAIN_NEW_HAVEN_DESCRIPTION"
 msgstr ""
-"The New Haven EP-5 was an electric locomotive from General Electric. "
-"Originally it was mainly used on the passenger route between New York City "
-"and New Haven."
+"뉴 헤이븐 EP-5는 GE의 전기 기관차입니다. 원래 뉴욕 시티와 뉴 헤이븐 사이의 여"
+"객 열차에 사용하려고 하였습니다."
 
 msgid "VEHICLE_TRAIN_NEW_HAVEN_NAME"
 msgstr "뉴 헤이븐 EP5"
 
 msgid "VEHICLE_TRAIN_NOHAB_DESCRIPTION"
 msgstr ""
-"This diesel-electric locomotive was a European licensed version of the "
-"American standard F-series locomotive from GM."
+"이 디젤 전기 기관차는 GM의 미국 표준 F시리즈 기관차의 유럽식 버전입니다."
 
 msgid "VEHICLE_TRAIN_NOHAB_NAME"
 msgstr "NoHAB AA16"
 
 msgid "VEHICLE_TRAIN_OBB_1042_DESCRIPTION"
-msgstr ""
-"The series 1042 was a widely used electric locomotive of the Austrian "
-"Federal Railways."
+msgstr "1042시리즈는 오스트리아 연방 철도에서 널리 사용되는 전기 기관차입니다."
 
 msgid "VEHICLE_TRAIN_OBB_1042_NAME"
 msgstr "1042 시리즈"
 
 msgid "VEHICLE_TRAIN_PLM_220_DESCRIPTION"
-msgstr "The very futuristic \"Big C\" is a pioneer of aerodynamic locomotives."
+msgstr "매우 미래적인 \"빅 C\"는 공기역학적인 기관차의 선구자입니다."
 
 msgid "VEHICLE_TRAIN_PLM_220_NAME"
 msgstr "PLM 220"
 
 msgid "VEHICLE_TRAIN_RE_44I_DESCRIPTION"
 msgstr ""
-"This light electric express locomotive was the first in Switzerland to be "
-"equipped with trucks."
+"이 가벼운 고속 전기 기관차는 대차가 장착된 스위스 최초의 기관차였습니다."
 
 msgid "VEHICLE_TRAIN_RE_44I_NAME"
 msgstr "Re 4/4"
 
 msgid "VEHICLE_TRAIN_RE_450_B_DESCRIPTION"
-msgstr "A standard bilevel car that is often used on agglomeration lines."
+msgstr "바쁜 노선에 주로 사용되는 표준적인 2층 객차입니다."
 
 msgid "VEHICLE_TRAIN_RE_450_B_NAME"
 msgstr "2층 객차 차량"
 
 msgid "VEHICLE_TRAIN_ROTERPFEIL_DESCRIPTION"
-msgstr "This express train car was widely used in Switzerland."
+msgstr "이 고속열차 차량은 스위스에서 널리 사용됩니다."
 
 msgid "VEHICLE_TRAIN_ROTERPFEIL_NAME"
 msgstr "CLe 2/4 Roter Pfeil"
@@ -14192,58 +14175,56 @@ msgstr "러시아 Class B"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_CHS4_DESCRIPTION"
 msgstr ""
-"The locomotive has been improved and redesigned several times to achieve the "
-"required traction. It reached a speed of 200 km/h."
+"이 기관차는 필요한 견인력을 달성하기 위해 몇 번의 개선과 재설계를 거쳤습니"
+"다. 200km/h의 속도를 달성했습니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_CHS4_NAME"
 msgstr "러시아 Class CHS4"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_FD_DESCRIPTION"
 msgstr ""
-"The planning of this locomotive took only 100 days and the average "
-"construction time was 170 days."
+"이 기관차의 계획은 100일 밖에 걸리지 않았고 평균 생산 시간은 170일이었습니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_FD_NAME"
 msgstr "러시아 Class FD"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_F_FAIRLIE_DESCRIPTION"
 msgstr ""
-"The most characteristic feature of this steam locomotive is its symmetry. It "
-"is ideal for complex route profiles with tight curves and steep climbs."
+"이 증기 기관차의 가장 뚜렷한 특징은 균형입니다. 급격한 곡선과 가파른 등반이 "
+"있는 복잡한 노선에 이상적입니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_F_FAIRLIE_NAME"
 msgstr "러시아 Class F 페어리"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_GV_DESCRIPTION"
 msgstr ""
-"This locomotive was purchased for freight train traffic on the line from "
-"Petersburg to Warsaw. The first models were built by factories in England, "
-"France, Belgium and Austria."
+"이 기관차는 상트페테르부르크에서 바르샤바까지의 노선의 화물 열차를 위해 구매"
+"하였습니다. 첫 모델은 영국, 프랑스, 벨기에와 오스트리아의 공장에서 생산되었습"
+"니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_GV_NAME"
 msgstr "러시아 Class GV"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_L_DESCRIPTION"
 msgstr ""
-"This powerful 1-5-0 type was one of the most reliable and popular "
-"locomotives in the Soviet Union. It was in service with more than 4000 units."
+"이 강력한 1-5-0 종류는 소련에서 가장 믿을 수 있고 인기있는 기관차 중 하나였습"
+"니다. 4000대 이상의 운행되었습니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_L_NAME"
 msgstr "러시아 Class L"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_OB_DESCRIPTION"
 msgstr ""
-"The so-called \"Snovnoy\" became the first main locomotive of the Russian "
-"railway fleet. Between 1890 and 1915 more than 9000 units were produced in "
-"twelve factories."
+"이 기관차는 러시아 철도의 첫 주력 기관차여서 \"스노프노이\"라고도 불렸습니"
+"다. 1890년에서 1915년 사이에 12개의 공장에서 9000대 이상이 생산되었습니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_OB_NAME"
 msgstr "러시아 Class OB"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_P36_DESCRIPTION"
 msgstr ""
-"This locomotive represents the technical highlight of Soviet steam train "
-"construction. Among other innovations, it has a mechanical coal supply."
+"이 기관차는 소련의 증기 열차 생산의 기술적인 전설기를 대표합니다. 혁신 중에"
+"는 기계적인 석탄 공급 장치가 있었습니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_P36_NAME"
 msgstr "러시아 Class P36"
@@ -14258,34 +14239,30 @@ msgstr "러시아 Class PV"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_SCH_DESCRIPTION"
 msgstr ""
-"With the increase of freight trains during the late 19th century, after the "
-"purchase of locomotives from the USA, it was decided to build this type of "
-"locomotive in Kharkov."
+"19세기 후반 화물열차의 증가와 함께, 미국에서 이 기관차들을 구매한 이후, 이 종"
+"류의 기관차들을 하리코프에서 생산하기로 결정했습니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_SCH_NAME"
 msgstr "러시아 Class SCH"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_SU_DESCRIPTION"
 msgstr ""
-"This new design, which could also be operated with inferior coal after World "
-"War I, was so successful that it was used for decades."
+"1차 세계 대전 이후에 저품질의 석탄으로도 운행할 수 있었던 이 새로운 설계는 매"
+"우 성공적이어서 수십 년동안 사용되었습니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_SU_NAME"
 msgstr "러시아 Class SU"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_S_DESCRIPTION"
 msgstr ""
-"At the beginning of the 20th century, stocks of high-quality coal were "
-"running low. This locomotive was designed in such a way that it could also "
-"be operated with inferior coal."
+"20세기 초반, 고품질의 석탄의 재고가 부족해졌습니다. 이 기관차는 저품질의 석탄"
+"으로도 운행할 수 있도록 설계되었습니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_S_NAME"
 msgstr "러시아 Class S"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_TE3_DESCRIPTION"
-msgstr ""
-"In the 1960s, the TE3 was the main freight locomotive for all non-"
-"electrified routes."
+msgstr "1960년대에, TE3는 모든 비전철 구간에서 주력 화물용 기관차였습니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_TE3_NAME"
 msgstr "러시아 Class TE3"
@@ -14301,726 +14278,677 @@ msgstr "러시아 Class T Type 1"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_VL80S_DESCRIPTION"
 msgstr ""
-"Built for 33 years, the VL80 series is regarded as the longest built "
-"locomotive of the Soviet Union. Early models used a rectifier with mercury "
-"vapour, later models used silicon."
+"33년동안 생산된 VL80시리즈는 소련에서 생산된 가장 긴 기관차였습니다. 초기 모"
+"델은 수은 증기 정류기를 사용했고, 후기 모델은 실리콘을 사용했습니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_VL80S_NAME"
 msgstr "러시아 Class VL80S"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_V_TYPE1_DESCRIPTION"
 msgstr ""
-"This type 2-2-0 locomotive was used as a passenger locomotive on the route "
-"from St. Petersburg to Moscow. The large drive wheels made high speeds "
-"possible."
+"이 2-2-0 종류의 기관차는 상트페테르부르크에서 모스크바까지의 구간에서 여객용 "
+"기관차로 사용되었습니다. 큰 동력 바퀴는 고속 주행이 가능하게 합니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_V_TYPE1_NAME"
 msgstr "러시아 Class V Type 1"
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_YE_DESCRIPTION"
 msgstr ""
-"Over 3000 units of this locomotive were built in the USA during the First "
-"and Second World Wars for Russia and the Soviet Union. It was designed by "
-"Russian engineers."
+"3000대 이상의 이 기관차들이 1차와 2차 세계 대전 동안 러시아와 소련을 위해 미"
+"국에서 생산되었습니다. 러시아 공학자들에 의해 설계되었습니다."
 
 msgid "VEHICLE_TRAIN_RUSSIAN_CLASS_YE_NAME"
 msgstr "러시아 Class YE"
 
 msgid "VEHICLE_TRAIN_SCHIENENBUS_DESCRIPTION"
 msgstr ""
-"This diesel-powered, two-axle railcar in lightweight construction with "
-"diesel engines built into the chassis underneath the car was used on "
-"unprofitable secondary lines."
+"이 디젤 동력의 2축 철도 차량은 차량의 섀시 아래에 디젤 엔진을 장착해 생산이 "
+"쉬웠습니다. 수익이 나지 않는 부가적인 노선에서 사용되었습니다."
 
 msgid "VEHICLE_TRAIN_SCHIENENBUS_NAME"
 msgstr "레일버스"
 
 msgid "VEHICLE_TRAIN_TEN_WHEELER_DESCRIPTION"
 msgstr ""
-"A model of this freight and passenger locomotive was driven by Casey Jones "
-"on the night of his fatal crash on April 30, 1900. Due to his heroic "
-"behavior he is still celebrated as a hero."
+"이 화물과 여객용 기관차의 모델은 1900년 4월 30일 밤에 케이시 존스의 큰 사고"
+"에 의해 추진되었습니다. 그의 영웅적인 행동 덕분에 그는 아직까지 영웅으로 추앙"
+"받고 있습니다."
 
 msgid "VEHICLE_TRAIN_TEN_WHEELER_NAME"
 msgstr "4-6-0 텐 휠러"
 
 msgid "VEHICLE_TRAM_ATM_4000_DESCRIPTION"
-msgstr ""
-"The 4000 is an articulated vehicle with only two drive axles and a suspended "
-"center box."
+msgstr "4000은 오직 두 개의 동력축과 중앙 엔진실을 가진 굴절 차량이었습니다."
 
 msgid "VEHICLE_TRAM_ATM_4000_NAME"
 msgstr "Atm 4000"
 
 msgid "VEHICLE_TRAM_BE4_6MIRAGE_DESCRIPTION"
 msgstr ""
-"The nickname of this streetcar, \"Mirage\", originated because, as with the "
-"procurement of the Mirage fighter planes, there was a large cost overrun."
+"이 트램의 별명인 \"미라지\"는 미라지 전투기와 같이, 엄청난 비용 초과로 지어졌"
+"습니다."
 
 msgid "VEHICLE_TRAM_BE4_6MIRAGE_NAME"
 msgstr "Be 4/6 미라지"
 
 msgid "VEHICLE_TRAM_BE5_6_DESCRIPTION"
 msgstr ""
-"The continuous low-floor Cobra streetcar is called that because it \"winds\" "
-"its way through the city with its four joints."
+"저상 굴절 트램인 코브라는 4개의 관절로 도시를 \"기어가서\" 코브라라는 이름이 "
+"붙었습니다."
 
 msgid "VEHICLE_TRAM_BE5_6_NAME"
 msgstr "Be 5/6 코브라"
 
 msgid "VEHICLE_TRAM_CAF_URBOS3_DESCRIPTION"
 msgstr ""
-"There are currently three series of Urbos railcars. The first Urbos 3 series "
-"went into service on 21 March 2011 for the Seville streetcar line."
+"현재 Urbos 철도차량에는 3종류가 있습니다. 첫 Urbos 3 시리즈는 2011년 3월 21"
+"일 세비야 트램 노선에 투입되었습니다."
 
 msgid "VEHICLE_TRAM_CAF_URBOS3_NAME"
 msgstr "CAF Urbos 3"
 
 msgid "VEHICLE_TRAM_DAMPFTRAM_DESCRIPTION"
-msgstr ""
-"Two-axle locomotive of the steam tram, as it was used as a \"steam streetcar"
-"\" in Vienna, for example."
+msgstr "증기 트램의 2축 기관차로, 빈 등에서 \"증기 트램\"으로 사용되었습니다."
 
 msgid "VEHICLE_TRAM_DAMPFTRAM_NAME"
 msgstr "담프트램"
 
 msgid "VEHICLE_TRAM_DL_3000_WITT_DESCRIPTION"
 msgstr ""
-"Built in Japan in the 1930s, these streetcars resemble Witt streetcars and "
-"are still in use in the Chinese city of Dalian."
+"1930년대 일본에서 생산된 이 트램은 위트 트램과 비슷하고 아직 중국 다롄의 도시"
+"에서 사용되고 있습니다."
 
 msgid "VEHICLE_TRAM_DL_3000_WITT_NAME"
 msgstr "DL 3000 위트"
 
 msgid "VEHICLE_TRAM_HALLE_DESCRIPTION"
 msgstr ""
-"A two-axle, electric streetcar with an open platform on both sides of the "
-"\"Allgemeine Elektricitaets-Gesellschaft Stadtbahn Halle\"."
+"\"일반 전기 트램 복도\"의 양 쪽에 열린 승강문을 가진 2축 전기 트램입니다."
 
 msgid "VEHICLE_TRAM_HALLE_NAME"
 msgstr "슈타트반 할레"
 
 msgid "VEHICLE_TRAM_HORSE_TROLLEY_CAR_DESCRIPTION"
 msgstr ""
-"In the mid-1880s, 188 million passengers per year were carried in the USA. "
-"The average streetcar horse had a life expectancy of about two years."
+"1880년대 중반, 미국에서 연당 1억 8800만 명의 승객을 운송했습니다. 트램용 말"
+"의 평균 기대 수명은 약 2년이었습니다."
 
 msgid "VEHICLE_TRAM_HORSE_TROLLEY_CAR_NAME"
 msgstr "미국식 말이 끄는 전차"
 
 msgid "VEHICLE_TRAM_IVAN_DESCRIPTION"
 msgstr ""
-"The tracks of this streetcar were laid through fields and sparsely built-up "
-"areas because of the danger of sparks and fires."
+"이 트램의 선로는 스파크와 화재 위험 때문에 포장 구간이 드물고 비포장 구간이 "
+"많습니다."
 
 msgid "VEHICLE_TRAM_IVAN_NAME"
 msgstr "이반"
 
 msgid "VEHICLE_TRAM_KOLOMNA_DESCRIPTION"
-msgstr ""
-"The first vehicle ever produced at the Koloma Locomotive Works was a steam-"
-"powered freight locomotive."
+msgstr "콜롬나 로코모티브 웍스의 첫 차량은 화물용 증기 기관차였습니다."
 
 msgid "VEHICLE_TRAM_KOLOMNA_NAME"
 msgstr "콜롬나"
 
 msgid "VEHICLE_TRAM_KTM_1_DESCRIPTION"
 msgstr ""
-"This two-axle streetcar was built after the Second World War and was the "
-"first single-axle streetcar manufactured by the Soviet Union."
+"이 2축 트램은 2차 세계 대전 이후에 생산되었고 소련이 생산한 최초의 단일축 트"
+"램이었습니다."
 
 msgid "VEHICLE_TRAM_KTM_1_NAME"
 msgstr "KTM 1"
 
 msgid "VEHICLE_TRAM_LM_68_DESCRIPTION"
 msgstr ""
-"This vehicle, which can be used as a multiple traction system, was called an "
-"\"Aquarium\" because of its large side windows and skylights."
+"다양한 견인 시스템을 가지고 있는 이 차량은 큰 창문과 천장 창문 덕분에 \"아쿠"
+"아리움\"이라고 불렸습니다."
 
 msgid "VEHICLE_TRAM_LM_68_NAME"
 msgstr "LM 68"
 
 msgid "VEHICLE_TRAM_LVS_86_DESCRIPTION"
 msgstr ""
-"This model was developed in St. Petersburg, then known as Leningrad. It "
-"consists of two equally sized sections, each with two electric motors, which "
-"can also act as brakes."
+"이 모델은 당시에 레닌그라드라고 알려져 있던 상트페테르부르크에서 개발되었습니"
+"다. 두 개의 똑같은 부분으로 나누어져, 각 부분에 브레이크로도 동작할 수 있는 "
+"전기 모터가 장착되었습니다."
 
 msgid "VEHICLE_TRAM_LVS_86_NAME"
 msgstr "LVS 86"
 
 msgid "VEHICLE_TRAM_MOSCOW_F_DESCRIPTION"
 msgstr ""
-"Literally called a \"Lantern\", these streetcars circulated for over 50 "
-"years in the city of Moscow. More than 600 streetcars of this model were "
-"built."
+"보통 \"랜턴\"이라고 불린 이 트램은 50년 이상 모스크바를 운행했습니다. 600대 "
+"이상의 이 모델이 생산되었습니다."
 
 msgid "VEHICLE_TRAM_MOSCOW_F_NAME"
 msgstr "모스크바 F"
 
 msgid "VEHICLE_TRAM_ODESSA_DESCRIPTION"
 msgstr ""
-"The first horse-drawn streetcar in the city of Odessa was put into operation "
-"thanks to the support of a Belgian company."
+"오데사 시의 첫 말이 끄는 트램은 벨기에 회사 덕분에 운행될 수 있었습니다."
 
 msgid "VEHICLE_TRAM_ODESSA_NAME"
 msgstr "오데사 전차"
 
 msgid "VEHICLE_TRAM_PCC_1643_PITTSBURGH_DESCRIPTION"
 msgstr ""
-"The PCC (Presidents' Conference Committee) streetcar design proved to be "
-"very successful, in Pittsburgh, for example, 666 PCCs operated on 68 routes."
+"PCC(대통령 회의 위원회) 트램의 설계는 매우 성공적이어서, 피츠버그에서는 666대"
+"의 PCC들이 68개 노선을 운행했습니다."
 
 msgid "VEHICLE_TRAM_PCC_1643_PITTSBURGH_NAME"
 msgstr "PCC 1643 피츠버그"
 
 msgid "VEHICLE_TRAM_PCC_A_7_DESCRIPTION"
 msgstr ""
-"Also from PCC, the A-7 ran on the busiest line of Toronto, the Bloor line. "
-"It was supposed to fight the upcoming traffic jams, but 56 light signals per "
-"round obstructed the streetcar traffic."
+"PCC 처럼, A-7은 토론토의 가장 바쁜 노선인 블루어 노선을 운행합니다. 앞으로의 "
+"교통 체증에 대응하기 위함이었지만, 56개의 신호등이 트램 운행을 방해하고 있습"
+"니다."
 
 msgid "VEHICLE_TRAM_PCC_A_7_NAME"
 msgstr "토론토 PCC A-7"
 
 msgid "VEHICLE_TRAM_PETER_WITT_STREETCAR_DESCRIPTION"
 msgstr ""
-"Designed by Peter Witt, this streetcar was used in many North American "
-"cities, especially Toronto and Cleveland. Typical is the use of the center "
-"door as an exit."
+"피터 위트가 설계한 이 트램은 많은 북아메리카 도시에서 사용되었고, 특히 토론토"
+"와 클리블랜드에서 많이 사용되었습니다. 보통 중앙 문을 내리는 문으로 사용했습"
+"니다."
 
 msgid "VEHICLE_TRAM_PETER_WITT_STREETCAR_NAME"
 msgstr "피터 위트 전차"
 
 msgid "VEHICLE_TRAM_SAN_DIEGO_DESCRIPTION"
 msgstr ""
-"The Citizens Traction Company converted old cable cars into electric "
-"streetcars. Later the San Diego Electric Railway took over the company and "
-"switched everything to normal gauge."
+"시민 운송 회사가 낡은 케이블 차량을 전기 트램으로 교체했습니다. 나중에 산 디"
+"에고 전기 철도가 회사를 인수했고 모든 것들을 보통 수준으로 변경했습니다."
 
 msgid "VEHICLE_TRAM_SAN_DIEGO_NAME"
 msgstr "산 디에고 전기 트롤리"
 
 msgid "VEHICLE_TRAM_SCHST_DESCRIPTION"
-msgstr ""
-"Two-axle streetcar from the home town of the game, Schaffhausen in "
-"Switzerland."
+msgstr "게임의 고향인 스위스의 샤프하우젠의 2축 트램입니다."
 
 msgid "VEHICLE_TRAM_SCHST_NAME"
 msgstr "Ce 2/2 SchSt"
 
 msgid "VEHICLE_TRAM_SKODA_10T_DESCRIPTION"
-msgstr ""
-"The Skoda 10T is a low-floor streetcar manufactured by Skoda Transportation."
+msgstr "슈코다 10T는 슈코다 운송회사가 생산한 저상 트램입니다."
 
 msgid "VEHICLE_TRAM_SKODA_10T_NAME"
 msgstr "슈코다 10 T"
 
 msgid "VEHICLE_TRAM_STRASSENBAHN1850_DESCRIPTION"
 msgstr ""
-"The first streetcars were drawn by horses. Thanks to the rails, only one "
-"horse was needed to pull the wagon."
+"최초의 트램은 말이 끌었습니다. 선로 덕분에, 차량을 견인할 때 한 마리의 말만 "
+"필요했습니다."
 
 msgid "VEHICLE_TRAM_STRASSENBAHN1850_NAME"
 msgstr "말이 끄는 전차"
 
 msgid "VEHICLE_TRAM_STRASSENBAHN1850_USA_DESCRIPTION"
 msgstr ""
-"In the United States, the very first streetcar appeared on November 26, "
-"1832. The earliest streetcars used horses and sometimes mules."
+"미국에서, 최초의 트램은 1832년 11월 26일에 등장했습니다. 초기 트램은 말을 사"
+"용했고 가끔 노새를 사용하기도 했습니다."
 
 msgid "VEHICLE_TRAM_STRASSENBAHN1850_USA_NAME"
 msgstr "미국식 말이 끄는 전차"
 
 msgid "VEHICLE_TRAM_ST_PETERSBURG_DESCRIPTION"
 msgstr ""
-"The first streetcar in St. Petersburg to be built on Russian broad gauge. In "
-"the two-storey coach people would sometimes step on others’ heads when "
-"dismounting from the vehicle."
+"상트페테르부르크 최초의 트램은 러시아의 광궤로 제작되었습니다. 2층의 승객들"
+"은 차량에서 내리기 위해 가끔 아래층 승객의 머리를 밟아야 했습니다."
 
 msgid "VEHICLE_TRAM_ST_PETERSBURG_NAME"
 msgstr "상트페테르부르크 전차"
 
 msgid "VEHICLE_TRAM_TORONTO_CLRV_DESCRIPTION"
 msgstr ""
-"The CLRV (Canadian Light Rail Vehicle) was a successful attempt to replace "
-"the aging PCCs with a modern, standardized streetcar."
+"CLRV(캐나다 경전철 차량)은 낡은 PCC를 성공적으로 현대적이고 표준화된 트램으"
+"로 대체했습니다."
 
 msgid "VEHICLE_TRAM_TORONTO_CLRV_NAME"
 msgstr "토론토 CRLV"
 
 msgid "VEHICLE_TRAM_TYP1_DESCRIPTION"
-msgstr ""
-"Built by Gothaer Waggonbau/Bothman, a train of this T1 type has been "
-"preserved in a museum."
+msgstr "고타르 바곤바우가 생산한 이 T1식 열차는 박물관에 보존되어 있습니다."
 
 msgid "VEHICLE_TRAM_TYP1_NAME"
 msgstr "T1식"
 
 msgid "VEHICLE_TRAM_VITYAZ_M_DESCRIPTION"
 msgstr ""
-"The trucks of this low-floor streetcar contain traction motors which are "
-"located below the floor. This allowed wider gangways."
+"이 저상 트램의 대차는 바닥 아래에 위치해서 견인 모터를 포함하고 있습니다. 이"
+"것은 더 넓은 통로를 가질 수 있게 해줍니다."
 
 msgid "VEHICLE_TRAM_VITYAZ_M_NAME"
 msgstr "비탸지 M"
 
 msgid "VEHICLE_TRUCK_40_TONS_DESCRIPTION"
 msgstr ""
-"A six-axle tarpaulin truck equipped with a V8 turbo diesel engine with up to "
-"456 kW output."
+"이 6축 방수포 트럭은 V8 터보 디젤 엔진을 장착하고 456kW의 출력을 냅니다."
 
 msgid "VEHICLE_TRUCK_40_TONS_NAME"
-msgstr "당수포가 덮인 40톤 트럭"
+msgstr "방수포가 덮인 40톤 트럭"
 
 msgid "VEHICLE_TRUCK_40_TONS_STAKE_DESCRIPTION"
 msgstr ""
-"A six-axle truck with side stakes equipped with a V8 turbo diesel engine "
-"with up to 456 kW output."
+"이 기둥이 있는 6축 트럭은 V8 터보 디젤 엔진을 장착하고 456kW의 출력을 냅니다."
 
 msgid "VEHICLE_TRUCK_40_TONS_STAKE_NAME"
 msgstr "기둥이 있는 40톤 트럭"
 
 msgid "VEHICLE_TRUCK_40_TONS_TANKER_DESCRIPTION"
-msgstr ""
-"A six-axle tank truck equipped with a V8 turbo diesel engine with up to 456 "
-"kW output."
+msgstr "이 6축 탱크 트럭은 V8 터보 디젤 엔진을 장착하고 456kW의 출력을 냅니다."
 
 msgid "VEHICLE_TRUCK_40_TONS_TANKER_NAME"
 msgstr "40톤 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_AMERICAN_HORSE_CART_DESCRIPTION"
 msgstr ""
-"Type of wagon that was also frequently used for long-distance transport in "
-"the 18th and 19th centuries in the USA and Canada."
+"18세기와 19세기 미국과 캐나다에서 장거리 운송용으로 흔히 사용된 마차입니다."
 
 msgid "VEHICLE_TRUCK_AMERICAN_HORSE_CART_NAME"
 msgstr "기둥이 있는 미국식 화물 마차"
 
 msgid "VEHICLE_TRUCK_AMERICAN_HORSE_CART_UNIVERSAL_DESCRIPTION"
 msgstr ""
-"Type of wagon that was also frequently used for long-distance transport in "
-"the 18th and 19th centuries in the USA and Canada."
+"18세기와 19세기 미국과 캐나다에서 장거리 운송용으로 흔히 사용된 마차입니다."
 
 msgid "VEHICLE_TRUCK_AMERICAN_HORSE_CART_UNIVERSAL_NAME"
 msgstr "덮개가 있는 미국식 화물 마차"
 
 msgid "VEHICLE_TRUCK_AMERICAN_TRUCK_359_DESCRIPTION"
 msgstr ""
-"The durable Peterbilt 359 \"Bull Nose\" is a high-performance truck with low "
-"maintenance requirements. Its powerful engine and many chrome parts made it "
-"a favorite with North American truckers."
+"튼튼한 피터빌트 359 \"황소뿔\"은 적은 정비로 고성능을 내는 트럭입니다. 강력"
+"한 엔진과 많은 크롬 부품들은 북아메리카 트럭커들의 최애입니다."
 
 msgid "VEHICLE_TRUCK_AMERICAN_TRUCK_359_NAME"
 msgstr "피터빌트 359"
 
 msgid "VEHICLE_TRUCK_AMO_F15_TANKER_DESCRIPTION"
 msgstr ""
-"This Soviet truck was originally based on the Fiat F-15. It also served as "
-"an official vehicle for high-ranking officers."
+"이 소련제 트럭은 원래 피아트 F-15에 기반하고 있습니다. 또 고위직 공무원들의 "
+"공식 차량이기도 합니다."
 
 msgid "VEHICLE_TRUCK_AMO_F15_TANKER_NAME"
 msgstr "AMO F15 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_AMO_F15_UNIVERSAL_DESCRIPTION"
 msgstr ""
-"This Soviet truck was originally based on the Fiat F-15. It also served as "
-"an official vehicle for high-ranking officers."
+"이 소련제 트럭은 원래 피아트 F-15에 기반하고 있습니다. 또 고위직 공무원들의 "
+"공식 차량이기도 합니다."
 
 msgid "VEHICLE_TRUCK_AMO_F15_UNIVERSAL_NAME"
 msgstr "방수포가 덮인 AMO F15 트럭"
 
 msgid "VEHICLE_TRUCK_BENZ1912_LKW_DESCRIPTION"
 msgstr ""
-"A typical early Mercedes-Benz truck, at that time still on solid rubber "
-"wheels."
+"전형적인 초기 메르세데스-벤츠 트럭으로, 당시에는 아직 고체 고무 바퀴를 사용했"
+"습니다."
 
 msgid "VEHICLE_TRUCK_BENZ1912_LKW_NAME"
 msgstr "방수포가 덮인 벤츠 트럭"
 
 msgid "VEHICLE_TRUCK_BENZ1912_LKW_STAKE_DESCRIPTION"
 msgstr ""
-"A typical early Mercedes-Benz truck, at that time still on solid rubber "
-"wheels."
+"전형적인 초기 메르세데스-벤츠 트럭으로, 당시에는 아직 고체 고무 바퀴를 사용했"
+"습니다."
 
 msgid "VEHICLE_TRUCK_BENZ1912_LKW_STAKE_NAME"
 msgstr "기둥이 있는 벤츠 트럭"
 
 msgid "VEHICLE_TRUCK_CASCADIA_2009_DESCRIPTION"
 msgstr ""
-"The Cascadia is the flagship of Freightliner. Available with fuel-efficient "
-"or high-power engines."
+"카스카디아는 프라이트라이너의 상징입니다. 연료 효율과 고출력 엔진 중 하나를 "
+"선택할 수 있습니다."
 
 msgid "VEHICLE_TRUCK_CASCADIA_2009_NAME"
 msgstr "방수포가 덮인 카스카디아 트럭"
 
 msgid "VEHICLE_TRUCK_CASCADIA_2009_TANKER_DESCRIPTION"
 msgstr ""
-"The Cascadia is the flagship of Freightliner. Available with fuel-efficient "
-"or high-power engines."
+"카스카디아는 프라이트라이너의 상징입니다. 연료 효율과 고출력 엔진 중 하나를 "
+"선택할 수 있습니다."
 
 msgid "VEHICLE_TRUCK_CASCADIA_2009_TANKER_NAME"
 msgstr "카스카디아 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_CATERPILLAR_DESCRIPTION"
 msgstr ""
-"The robust dump trucks prove their worth in the rough conditions of open pit "
-"mining, construction sites and quarries all over the world."
+"강력한 덤프 트럭은 전 세계의 개방된 광산, 건설 현장, 채석장같은 거친 환경에"
+"서 그들의 가치를 증명합니다."
 
 msgid "VEHICLE_TRUCK_CATERPILLAR_NAME"
 msgstr "CAT 덤프트럭"
 
 msgid "VEHICLE_TRUCK_DMG_CANNSTATT_DESCRIPTION"
 msgstr ""
-"The Daimler Motor Company was a German engine and later automobile "
-"manufacturer that operated between 1890 and 1926."
+"다임러 자동차 회사는 독일의 엔진 회사이자 나중에는 자동차 제조사로 1890년과 "
+"1926년 사이에 운영했습니다."
 
 msgid "VEHICLE_TRUCK_DMG_CANNSTATT_NAME"
 msgstr "DMG 칸슈탯"
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_STAKE_DESCRIPTION"
 msgstr ""
-"These trucks manufactured in China were developed over a period of 7 years "
-"and carry weights from 8 to 24 tons. The engines are equipped with up to 460 "
-"hp."
+"이 중국에서 생산된 트럭은 7년 동안 개발되었으며 8~24톤의 화물을 운송합니다. "
+"엔진은 460마력입니다."
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_STAKE_NAME"
 msgstr "기둥이 있는 FAW 지에펑 J6P 트럭"
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_TANKER_DESCRIPTION"
 msgstr ""
-"These trucks manufactured in China were developed over a period of 7 years "
-"and carry weights from 8 to 24 tons. The engines are equipped with up to 460 "
-"hp."
+"이 중국에서 생산된 트럭은 7년 동안 개발되었으며 8~24톤의 화물을 운송합니다. "
+"엔진은 460마력입니다."
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_TANKER_NAME"
 msgstr "FAW 지에펑 J6P 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_TIPPER_DESCRIPTION"
 msgstr ""
-"These trucks manufactured in China were developed over a period of 7 years "
-"and carry weights from 8 to 24 tons. The engines are equipped with up to 460 "
-"hp."
+"이 중국에서 생산된 트럭은 7년 동안 개발되었으며 8~24톤의 화물을 운송합니다. "
+"엔진은 460마력입니다."
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_TIPPER_NAME"
 msgstr "FAW 지에펑 J6P 덤프트럭"
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_UNIVERSAL_DESCRIPTION"
 msgstr ""
-"These trucks manufactured in China were developed over a period of 7 years "
-"and carry weights from 8 to 24 tons. The engines are equipped with up to 460 "
-"hp."
+"이 중국에서 생산된 트럭은 7년 동안 개발되었으며 8~24톤의 화물을 운송합니다. "
+"엔진은 460마력입니다."
 
 msgid "VEHICLE_TRUCK_FAW_JIEFANG_J6P_UNIVERSAL_NAME"
 msgstr "방수포가 덮인 FAW 지에펑 J6P 트럭"
 
 msgid "VEHICLE_TRUCK_FORD_M77_DESCRIPTION"
 msgstr ""
-"A ubiquitous truck, built as a standard platform with many different "
-"superstructural parts."
+"유비쿼터스 트럭으로, 많은 상부 구조물을 얹을 수 있는 표준 플랫폼으로 제작되었"
+"습니다."
 
 msgid "VEHICLE_TRUCK_FORD_M77_NAME"
 msgstr "기둥이 있는 포드 모델 77 트럭"
 
 msgid "VEHICLE_TRUCK_FORD_M77_UNIVERSAL_DESCRIPTION"
 msgstr ""
-"A ubiquitous truck, built as a standard platform with many different "
-"superstructural parts."
+"유비쿼터스 트럭으로, 많은 상부 구조물을 얹을 수 있는 표준 플랫폼으로 제작되었"
+"습니다."
 
 msgid "VEHICLE_TRUCK_FORD_M77_UNIVERSAL_NAME"
 msgstr "방수포가 덮인 포드 모델 77 트럭"
 
 msgid "VEHICLE_TRUCK_GAZ_3307_TANKER_DESCRIPTION"
 msgstr ""
-"Powered by a V8 gasoline engine, this truck was produced more than 1.5 "
-"million times, mainly for the Russian market."
+"V8 가솔린 엔진을 장착한 이 트럭은 150만 대 이상이 생산되었으며, 주로 러시아 "
+"시장에서 판매되었습니다."
 
 msgid "VEHICLE_TRUCK_GAZ_3307_TANKER_NAME"
 msgstr "Gaz 3307 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_GAZ_3307_TIPPER_DESCRIPTION"
 msgstr ""
-"Powered by a V8 gasoline engine, this truck was produced more than 1.5 "
-"million times, mainly for the Russian market."
+"V8 가솔린 엔진을 장착한 이 트럭은 150만 대 이상이 생산되었으며, 주로 러시아 "
+"시장에서 판매되었습니다."
 
 msgid "VEHICLE_TRUCK_GAZ_3307_TIPPER_NAME"
 msgstr "Gaz 3307 덤프트럭"
 
 msgid "VEHICLE_TRUCK_GAZ_3307_UNIVERSAL_DESCRIPTION"
 msgstr ""
-"Powered by a V8 gasoline engine, this truck was produced more than 1.5 "
-"million times, mainly for the Russian market."
+"V8 가솔린 엔진을 장착한 이 트럭은 150만 대 이상이 생산되었으며, 주로 러시아 "
+"시장에서 판매되었습니다."
 
 msgid "VEHICLE_TRUCK_GAZ_3307_UNIVERSAL_NAME"
 msgstr "방수포가 덮인 Gaz 3307 트럭"
 
 msgid "VEHICLE_TRUCK_GAZ_MM_STAKE_DESCRIPTION"
 msgstr ""
-"Originally an exact copy of the Ford-AA built in the USA, this truck was "
-"rebuilt several times during the war due to lack of material."
+"원래 미국의 포드-AA의 완벽한 복제품이었던 이 트럭은 원자재 부족으로 전쟁 동"
+"안 몇 번 개조되었습니다."
 
 msgid "VEHICLE_TRUCK_GAZ_MM_STAKE_NAME"
 msgstr "기둥이 있는 GAZ MM Truck"
 
 msgid "VEHICLE_TRUCK_GAZ_MM_UNIVERSAL_DESCRIPTION"
 msgstr ""
-"Originally an exact copy of the Ford-AA built in the USA, this truck was "
-"rebuilt several times during the war due to lack of material."
+"원래 미국의 포드-AA의 완벽한 복제품이었던 이 트럭은 원자재 부족으로 전쟁 동"
+"안 몇 번 개조되었습니다."
 
 msgid "VEHICLE_TRUCK_GAZ_MM_UNIVERSAL_NAME"
 msgstr "Gaz MM 평판 트럭"
 
 msgid "VEHICLE_TRUCK_HORSEWAGON_1850_DESCRIPTION"
-msgstr "A two-horse carriage with a simple two-axle wagon."
+msgstr "말 두 마리가 끄는 단순한 2축 마차입니다."
 
 msgid "VEHICLE_TRUCK_HORSEWAGON_1850_NAME"
 msgstr "유럽식 화물 마차"
 
 msgid "VEHICLE_TRUCK_HORSEWAGON_1850_USA_DESCRIPTION"
 msgstr ""
-"In the United States, the true peak of the wagon era lasted less than a "
-"century, from about 1850 to 1910."
+"미국에서, 마차 시대의 전성기는 1850년부터 1910년까지, 한 세기가 안 됩니다."
 
 msgid "VEHICLE_TRUCK_HORSEWAGON_1850_USA_NAME"
 msgstr "미국식 화물 마차"
 
 msgid "VEHICLE_TRUCK_HORSE_CART_AS_1850_DESCRIPTION"
-msgstr "A single Asian horse-drawn carriage with a single axle wagon."
+msgstr "말 한 마리가 끄는 1축 마차입니다."
 
 msgid "VEHICLE_TRUCK_HORSE_CART_AS_1850_NAME"
 msgstr "아시아식 화물 마차"
 
 msgid "VEHICLE_TRUCK_HORSE_CART_DESCRIPTION"
-msgstr ""
-"In their domesticated form, the horses were mainly used as riding, working "
-"and pack animals."
+msgstr "길들여진 말은 주로 타고 다니거나, 일을 시키거나, 짐을 옳겼습니다."
 
 msgid "VEHICLE_TRUCK_HORSE_CART_NAME"
 msgstr "유럽식 평판 화물 마차"
 
 msgid "VEHICLE_TRUCK_HORSE_CART_UNIVERSAL_DESCRIPTION"
-msgstr ""
-"In their domesticated form, the horses were mainly used as riding, working "
-"and pack animals."
+msgstr "길들여진 말은 주로 타고 다니거나, 일을 시키거나, 짐을 옳겼습니다."
 
 msgid "VEHICLE_TRUCK_HORSE_CART_UNIVERSAL_NAME"
 msgstr "지붕 있는 유럽식 화물 마차"
 
 msgid "VEHICLE_TRUCK_ISUZU_ELF_TLD20_TANKER_DESCRIPTION"
 msgstr ""
-"Outside Japan, known as the N Series, this very popular medium truck is "
-"still produced today."
+"일본 밖에서는 N시리즈로 알려진 이 트럭은, 오늘날까지 생산되는 매우 인기 있는 "
+"중형 트럭입니다."
 
 msgid "VEHICLE_TRUCK_ISUZU_ELF_TLD20_TANKER_NAME"
 msgstr "이스즈 Elf TLD20 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_ISUZU_ELF_TLD20_UNIVERSAL_DESCRIPTION"
 msgstr ""
-"Outside Japan, known as the N Series, this very popular medium truck is "
-"still produced today."
+"일본 밖에서는 N시리즈로 알려진 이 트럭은, 오늘날까지 생산되는 매우 인기 있는 "
+"중형 트럭입니다."
 
 msgid "VEHICLE_TRUCK_ISUZU_ELF_TLD20_UNIVERSAL_NAME"
 msgstr "이스즈 Elf TLD20 평판 트럭"
 
 msgid "VEHICLE_TRUCK_MACK_AC_DESCRIPTION"
 msgstr ""
-"The AC heavy-duty truck with its familiar conical hood was the truck that "
-"led to the creation of its nickname Bulldog. With its 6.2-litre engine and "
-"chain drive, it was powerful and reliable."
+"친숙한 원뿔형 후드가 달린 AC 중장비 트럭은 불독이라는 별명을 가지고 있습니"
+"다. 6.2리터 엔진과 체인 동력으로, 강력하고 믿음직합니다."
 
 msgid "VEHICLE_TRUCK_MACK_AC_NAME"
 msgstr "맥 AC 평판 트럭"
 
 msgid "VEHICLE_TRUCK_MACK_AC_UNIVERSAL_DESCRIPTION"
 msgstr ""
-"The AC heavy-duty truck with its familiar conical hood was the truck that "
-"led to the creation of its nickname Bulldog. With its 6.2-litre engine and "
-"chain drive, it was powerful and reliable."
+"친숙한 원뿔형 후드가 달린 AC 중장비 트럭은 불독이라는 별명을 가지고 있습니"
+"다. 6.2리터 엔진과 체인 동력으로, 강력하고 믿음직합니다."
 
 msgid "VEHICLE_TRUCK_MACK_AC_UNIVERSAL_NAME"
 msgstr "방수포가 덮인 맥 AC 트럭"
 
 msgid "VEHICLE_TRUCK_MAN_19_304_1970_DESCRIPTION"
 msgstr ""
-"A three-axle MAN D 2658 with V8 engine and 230 hp. For the first time, the "
-"engine hood can be folded forward to facilitate maintenance work."
+"230마력 V8엔진을 가진 3축 만 D 2658입니다. 처음에는, 정비를 위해 엔진 후드가 "
+"앞으로 접혔습니다."
 
 msgid "VEHICLE_TRUCK_MAN_19_304_1970_NAME"
 msgstr "방수포가 덮인 만 19.304 트럭"
 
 msgid "VEHICLE_TRUCK_MAN_19_304_TANKER_DESCRIPTION"
 msgstr ""
-"A six wheeler with a 230 hp V8 engine. For the first time, the engine hood "
-"can be folded forward to facilitate maintenance work."
+"230마력 V8엔진을 가진 3축 만 D 2658입니다. 처음에는, 정비를 위해 엔진 후드가 "
+"앞으로 접혔습니다."
 
 msgid "VEHICLE_TRUCK_MAN_19_304_TANKER_NAME"
 msgstr "만 19.304 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_MAN_19_304_TIPPER_DESCRIPTION"
 msgstr ""
-"A six wheeler with a 230 hp V8 engine. For the first time, the engine hood "
-"can be folded forward to facilitate maintenance work."
+"230마력 V8엔진을 가진 3축 만 D 2658입니다. 처음에는, 정비를 위해 엔진 후드가 "
+"앞으로 접혔습니다."
 
 msgid "VEHICLE_TRUCK_MAN_19_304_TIPPER_NAME"
 msgstr "만 19.304 덤프트럭"
 
 msgid "VEHICLE_TRUCK_NW_FIRST_TRUCK_DESCRIPTION"
 msgstr ""
-"The truck now known as the \"Tatra\" had a unique engine set-up that allowed "
-"two engines to be operated in succession depending on load requirements."
+"지금은 \"테트라\"라고 알려진 이 트럭은 독특한 엔진 설정을 가지고 있어 화물 상"
+"태에 따라 두 개의 엔진이 연속적으로 동작할 수 있도록 해줍니다."
 
 msgid "VEHICLE_TRUCK_NW_FIRST_TRUCK_NAME"
 msgstr "NW 1호 트럭"
 
 msgid "VEHICLE_TRUCK_OPEL_BLITZ_1930_DESCRIPTION"
-msgstr ""
-"An extremely popular truck from Opel, that was built in several different "
-"versions."
+msgstr "오펠의 매우 인기있는 트럭으로, 몇 개의 다른 버전으로 생산되었습니다."
 
 msgid "VEHICLE_TRUCK_OPEL_BLITZ_1930_NAME"
 msgstr "방수포가 덮인 오펠 블리츠 트럭"
 
 msgid "VEHICLE_TRUCK_OPEL_BLITZ_TANKER_DESCRIPTION"
-msgstr ""
-"An extremely popular truck from Opel, that was built in several different "
-"versions."
+msgstr "오펠의 매우 인기있는 트럭으로, 몇 개의 다른 버전으로 생산되었습니다."
 
 msgid "VEHICLE_TRUCK_OPEL_BLITZ_TANKER_NAME"
 msgstr "오펠 블리츠 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_OPEL_BLITZ_TIPPER_DESCRIPTION"
-msgstr ""
-"An extremely popular truck from Opel, that was built in several different "
-"versions."
+msgstr "오펠의 매우 인기있는 트럭으로, 몇 개의 다른 버전으로 생산되었습니다."
 
 msgid "VEHICLE_TRUCK_OPEL_BLITZ_TIPPER_NAME"
 msgstr "오펠 블리츠 덤프트럭"
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_STAKE_DESCRIPTION"
 msgstr ""
-"The C-type engine range consisted of 4 and 6-cylinder in-line engines as "
-"well as 8 and 12-cylinder V-engines with 55 to 240 hp."
+"C식 엔진은 I4와 I6 엔진, 그리고 V8과 V12엔진으로 55마력부터 240마력까지 낼 "
+"수 있습니다."
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_STAKE_NAME"
 msgstr "기둥이 있는 사우러 C식 트럭"
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_TANKER_DESCRIPTION"
 msgstr ""
-"The C-type engine range consisted of 4 and 6-cylinder in-line engines as "
-"well as 8 and 12-cylinder V-engines with 55 to 240 hp."
+"C식 엔진은 I4와 I6 엔진, 그리고 V8과 V12엔진으로 55마력부터 240마력까지 낼 "
+"수 있습니다."
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_TANKER_NAME"
 msgstr "사우러 C식 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_TIPPER_DESCRIPTION"
 msgstr ""
-"The C-type engine range consisted of 4 and 6-cylinder in-line engines as "
-"well as 8 and 12-cylinder V-engines with 55 to 240 hp."
+"C식 엔진은 I4와 I6 엔진, 그리고 V8과 V12엔진으로 55마력부터 240마력까지 낼 "
+"수 있습니다."
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_TIPPER_NAME"
 msgstr "사우러 C식 덤프트럭"
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_UNIVERSAL_DESCRIPTION"
 msgstr ""
-"The C-type engine range consisted of 4 and 6-cylinder in-line engines as "
-"well as 8 and 12-cylinder V-engines with 55 to 240 hp."
+"C식 엔진은 I4와 I6 엔진, 그리고 V8과 V12엔진으로 55마력부터 240마력까지 낼 "
+"수 있습니다."
 
 msgid "VEHICLE_TRUCK_SAURER_C_TYP_UNIVERSAL_NAME"
 msgstr "방수포가 있는 사우러 C식 트럭"
 
 msgid "VEHICLE_TRUCK_STEAM_LORRY_DESCRIPTION"
 msgstr ""
-"Steam trucks were widely used in the early twentieth century to transport "
-"goods by road."
+"증기 트럭은 20세기 초반 도로로 화물을 운송하기 위해 널리 사용되었습니다."
 
 msgid "VEHICLE_TRUCK_STEAM_LORRY_NAME"
 msgstr "증기 평판 트럭"
 
 msgid "VEHICLE_TRUCK_STEAM_LORRY_UNIVERSAL_DESCRIPTION"
 msgstr ""
-"Steam trucks were widely used in the early twentieth century to transport "
-"goods by road."
+"증기 트럭은 20세기 초반 도로로 화물을 운송하기 위해 널리 사용되었습니다."
 
 msgid "VEHICLE_TRUCK_STEAM_LORRY_UNIVERSAL_NAME"
 msgstr "방수포가 덮인 증기 트럭"
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US6_U10_DESCRIPTION"
 msgstr ""
-"The Studebaker US6 is a 2.5 tonner of the Studebaker Corporation, "
-"manufactured during the Second World War and later used in the civil service."
+"스튜드베이커 US6은 스튜드베이커 주식회사의 2.5톤 트럭으로, 2차 세계 대전 동"
+"안 생산되었으며 나중에는 민각용으로 사용했습니다."
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US6_U10_NAME"
 msgstr "스튜드베이커 US6 덤프트럭"
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US6_U3_DESCRIPTION"
 msgstr ""
-"The Studebaker US6 is a 2.5 tonner of the Studebaker Corporation, "
-"manufactured during the Second World War and later used in the civil service."
+"스튜드베이커 US6은 스튜드베이커 주식회사의 2.5톤 트럭으로, 2차 세계 대전 동"
+"안 생산되었으며 나중에는 민각용으로 사용했습니다."
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US6_U3_NAME"
 msgstr "기둥이 있는 스튜드베이커 US6 트럭"
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US6_U5_DESCRIPTION"
 msgstr ""
-"The Studebaker US6 is a 2.5 tonner of the Studebaker Corporation, "
-"manufactured during the Second World War and later used in the civil service."
+"스튜드베이커 US6은 스튜드베이커 주식회사의 2.5톤 트럭으로, 2차 세계 대전 동"
+"안 생산되었으며 나중에는 민각용으로 사용했습니다."
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US6_U5_NAME"
 msgstr "스튜드베이커 US6 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US_UNIVERSAL_DESCRIPTION"
 msgstr ""
-"The Studebaker US6 is a 2.5 tonner of the Studebaker Corporation, "
-"manufactured during the Second World War and later used in the civil service."
+"스튜드베이커 US6은 스튜드베이커 주식회사의 2.5톤 트럭으로, 2차 세계 대전 동"
+"안 생산되었으며 나중에는 민각용으로 사용했습니다."
 
 msgid "VEHICLE_TRUCK_STUDEBAKER_US_UNIVERSAL_NAME"
 msgstr "방수포가 있는 스튜드베이커 US6 트럭"
 
 msgid "VEHICLE_TRUCK_TELEGA_STAKE_DESCRIPTION"
 msgstr ""
-"The 4-wheel horse-drawn carriage has been used as a typical means of "
-"transport by the Russian peasant population for centuries."
+"4바퀴 마차는 한 세기동안 러시아 농부들이 전통적인 의미의 운송을 위해 사용되었"
+"습니다."
 
 msgid "VEHICLE_TRUCK_TELEGA_STAKE_NAME"
 msgstr "기둥이 있는 아시아식 화물 마차"
 
 msgid "VEHICLE_TRUCK_TELEGA_UNIVERSAL_DESCRIPTION"
 msgstr ""
-"The 4-wheel horse-drawn carriage has been used as a typical means of "
-"transport by the Russian peasant population for centuries."
+"4바퀴 마차는 한 세기동안 러시아 농부들이 전통적인 의미의 운송을 위해 사용되었"
+"습니다."
 
 msgid "VEHICLE_TRUCK_TELEGA_UNIVERSAL_NAME"
 msgstr "아시아식 평판 화물 마차"
 
 msgid "VEHICLE_TRUCK_URBAN_ETRUCK_DESCRIPTION"
-msgstr "The design of the Urban eTruck is as innovative as its electric drive."
+msgstr "어반 e-트럭의 설계는 전기 차량의 혁신입니다."
 
 msgid "VEHICLE_TRUCK_URBAN_ETRUCK_NAME"
 msgstr "어반 e-트럭"
 
 msgid "VEHICLE_TRUCK_ZIS_150_TANKER_DESCRIPTION"
 msgstr ""
-"The payload of this vehicle was up to 4 tons. One weak point, however, was "
-"the drive shaft, which broke easily under heavy load and led to a sudden "
-"loss of braking effect."
+"이 차량의 적재량은 4톤 이상입나다. 하지만, 하나의 약점은, 동력 샤프트인데, 무"
+"거운 화물에 쉽게 부러졌으며 갑자기 브레이크가 동작하지 않도록 해버렸습니다."
 
 msgid "VEHICLE_TRUCK_ZIS_150_TANKER_NAME"
 msgstr "ZIS-150 탱크 트럭"
 
 msgid "VEHICLE_TRUCK_ZIS_150_TIPPER_DESCRIPTION"
 msgstr ""
-"The payload of this vehicle was up to 4 tons. One weak point, however, was "
-"the drive shaft, which broke easily under heavy load and led to a sudden "
-"loss of braking effect."
+"이 차량의 적재량은 4톤 이상입나다. 하지만, 하나의 약점은, 동력 샤프트인데, 무"
+"거운 화물에 쉽게 부러졌으며 갑자기 브레이크가 동작하지 않도록 해버렸습니다."
 
 msgid "VEHICLE_TRUCK_ZIS_150_TIPPER_NAME"
 msgstr "ZIS-150 덤프트럭"
 
 msgid "VEHICLE_TRUCK_ZIS_150_UNIVERSAL_DESCRIPTION"
 msgstr ""
-"The payload of this vehicle was up to 4 tons. One weak point, however, was "
-"the drive shaft, which broke easily under heavy load and led to a sudden "
-"loss of braking effect."
+"이 차량의 적재량은 4톤 이상입나다. 하지만, 하나의 약점은, 동력 샤프트인데, 무"
+"거운 화물에 쉽게 부러졌으며 갑자기 브레이크가 동작하지 않도록 해버렸습니다."
 
 msgid "VEHICLE_TRUCK_ZIS_150_UNIVERSAL_NAME"
 msgstr "ZIS-150 평판 트럭"
@@ -15575,7 +15503,6 @@ msgstr "매우 낮음"
 
 msgid "Very small"
 msgstr "매우 작음"
-
 
 msgid "Wandering"
 msgstr "방황"
