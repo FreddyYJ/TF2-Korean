@@ -1435,11 +1435,11 @@ msgstr "입력"
 msgid "Intermediate contour (10 m)"
 msgstr "등고선 간격 (10m)"
 
-#, fuzzy
+
 msgid "Intimidating"
 msgstr "위협적"
 
-#, fuzzy
+
 msgid "Invisible Model"
 msgstr "투명 모델"
 
@@ -1476,7 +1476,7 @@ msgstr "토지 용도 레이어"
 msgid "Landing"
 msgstr "접안 시설"
 
-#, fuzzy
+
 msgid "Landing direction"
 msgstr "접안 방향"
 
@@ -12318,7 +12318,7 @@ msgstr "노르웨이"
 msgid "Not enough vehicles available at this time"
 msgstr "지금은 더 많은 차량 이용 불가"
 
-#, fuzzy
+
 msgid "Nothing to see here"
 msgstr "더 이상 관심 없음"
 
@@ -12586,7 +12586,7 @@ msgstr "낙석 1"
 msgid "Scree 2"
 msgstr "낙석 2"
 
-#, fuzzy
+
 msgid "Second street connection"
 msgstr "도로 교차로"
 
@@ -13342,7 +13342,7 @@ msgstr ""
 msgid "VEHICLE_MULTIPLEUNIT_SHINKANSEN_0S_NAME"
 msgstr "신칸센 0 시리즈"
 
-#, fuzzy
+
 msgid "VEHICLE_MULTIPLEUNIT_SILVERSTREAK_EXPRESS_DESCRIPTION"
 msgstr ""
 "ED9M시리즈의 열차들은 무마모 회생 제동을 장착하고 있습니다. 이것은 제동하는 "
@@ -15576,7 +15576,7 @@ msgstr "매우 낮음"
 msgid "Very small"
 msgstr "매우 작음"
 
-#, fuzzy
+
 msgid "Wandering"
 msgstr "방황"
 
