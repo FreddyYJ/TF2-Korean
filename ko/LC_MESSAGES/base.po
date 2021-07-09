@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-14 12:35+0100\n"
-"PO-Revision-Date: 2021-07-08 10:25+0900\n"
+"PO-Revision-Date: 2021-07-09 11:02+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -4646,117 +4646,117 @@ msgid "{weight} kg"
 msgstr "{weight} kg"
 
 msgid "{weight} lb"
-msgstr "{weight} lb"
+msgstr "{weight} 파운드"
 
 msgid "{weight} t"
-msgstr "{weight} t"
+msgstr "{weight} 톤"
 
 msgid "{width} x {height}"
 msgstr "{width} x {height}"
 
 msgid "Maximum time before departure"
-msgstr "Maximum stop time before departure"
+msgstr "출발 전 최대 정지 시간"
 
 msgid "Minimum time before departure"
-msgstr "Minimum stop time before departure"
+msgstr "출발 전 최소 정지 시간"
 
 msgid "Not compatible for replacement"
-msgstr "Not compatible"
+msgstr "호환되지 않음"
 
 msgid "Own streets."
-msgstr "Upgrade streets with player ownership to regulate automatic changes."
+msgstr "도로에 플레이어의 소유권을 부여해 자동 변환을 막는 업그레이드."
 
 msgid "Player ownership control tool"
-msgstr "Player ownership tool"
+msgstr "플레이어 소유권 도구"
 
 msgid "Reload all textures?"
-msgstr "Reload textures?"
+msgstr "텍스쳐를 다시 불러올까요?"
 
 msgid "Save... get ready to play map"
-msgstr "Save..."
+msgstr "저장중..."
 
 msgid ""
 "This requires reloading all textures, might take a long time and will "
 "momentarily freeze the game. Save your progression before triggering this "
 "operation."
 msgstr ""
-"This requires reloading all textures except terrain textures and might take "
-"a while."
+"이것은 지표면 텍스쳐를 제외한 모든 텍스쳐를 불러와야 하므로 꽤 시간이 걸릴 겁"
+"니다."
 
 msgid "Traffic light control tool"
-msgstr "Traffic light tool"
+msgstr "신호등 도구"
 
 msgid "max. wait time"
-msgstr "Max. stop time"
+msgstr "최대 정지 시간"
 
 msgid "min. wait time"
-msgstr "Min. stop time"
+msgstr "최소 정지 시간"
 
 msgid "Accept"
-msgstr "Zustimmen"
+msgstr "확인"
 
 msgid "Any cargo type"
-msgstr "Beliebige Gütertypen"
+msgstr "아무 화물"
 
 msgid "Bloom"
-msgstr "Bloom"
+msgstr "핌"
 
 msgid "Cockpit camera: next position"
-msgstr "Cockpitkamera: Nächste Position"
+msgstr "기관실 시점: 다음 위치"
 
 msgid "Cockpit camera: previous position"
-msgstr "Cockpitkamera: Vorherige Position"
+msgstr "기관실 시점: 이전 위치"
 
 msgid "Departure configuration"
-msgstr "Haltestellenkonfiguration"
+msgstr "출발 설정"
 
 msgid "Disable construction snapping"
-msgstr "Deaktivierung Einrasterung"
+msgstr "건설 끊기 비활성화"
 
 msgid "Display mode"
-msgstr "Anzeigemodus"
+msgstr "디스플레이 모드"
 
 msgid "Do not show again"
-msgstr "Nicht erneut anzeigen"
+msgstr "다시 보지 않습니다"
 
 msgid "Empty"
-msgstr "Leer"
+msgstr "비었음"
 
 msgid "Fullscreen"
-msgstr "Vollbild"
+msgstr "전체화면"
 
 msgid "Initial street angle range"
-msgstr "Anfangs-Strassenwinkelbereich"
+msgstr "초기 도로 각도 범위"
 
 msgid "Missing resources"
-msgstr "Fehlende Ressourcen"
+msgstr "없는 리소스"
 
 msgid "No cargo type"
-msgstr "Keine Gütertypen"
+msgstr "화물 종류 없음"
 
 msgid "No vehicles with current filter setting available"
-msgstr "Keine Fahrzeuge mit aktueller Filtereinstellung verfügbar"
+msgstr "현재 필터 설정에 맞는 차량 없음"
 
 msgid "Player ownership"
-msgstr "Spielereigentum-Tool"
+msgstr "플레이어 소유권"
 
 msgid "Replacing existing"
-msgstr "Ersetzen"
+msgstr "교체"
 
 msgid "Save & play"
-msgstr "Speichern & Spielen"
+msgstr "저장하고 플레이"
 
 msgid "Save and play map"
-msgstr "Karte speichern und spielen"
+msgstr "저장하고 맵 플레이"
 
 msgid "Show missing resources dialog"
-msgstr "Warnungen für fehlende Ressourcen anzeigen "
+msgstr "없어진 리소스 보기"
 
 msgid "Terrain textures"
-msgstr "Bodentexturen"
+msgstr "지표면 텍스쳐"
 
 msgid "The following models of your savegame were replaced: "
-msgstr "Die folgenden Modelle im Spielestand werden ersetzt:"
+msgstr "저장된 게임의 다음 모델이 변경될 겁니다: "
 
 msgid ""
 "The following resources are missing and were irreversibly replaced with "
@@ -4765,27 +4765,24 @@ msgid ""
 "savegame.\n"
 "Reload the savegame with the neccessary mods to restore them."
 msgstr ""
-"Die folgenden Ressourcen fehlen und wurden unwiderruflich durch Platzhalter "
-"ersetzt.\n"
-"Das Spiel sollte weiterhin funktionieren, es wird jedoch empfohlen den "
-"aktuellen Spielstand zu sichern.\n"
-"Laden Sie das Savegame mit den notwendigen Mods neu, um Ressourcen "
-"wiederherzustellen. "
+"다음 리소스가 없어 대체 리소스로 교체되고 되돌릴 수 없습니다.\n"
+"게임을 계속 진행할 수 있지만, 현재 세이브를 백업하기를 권장합니다.\n"
+"필요한 모드와 함께 세이브를 불러오세요."
 
 msgid "Tools"
-msgstr "Werkzeuge"
+msgstr "도구"
 
 msgid "Track constructions"
-msgstr "Gleis-Konstruktionen"
+msgstr "선로 건설"
 
 msgid "Understood!"
-msgstr "Verstanden"
+msgstr "이해했습니다!"
 
 msgid "Upgrade streets with traffic lights."
-msgstr "Strassen mit Verkehrsampeln aufrüsten"
+msgstr "도로에 신호등을 추가하는 업그레이드."
 
 msgid "VSync"
-msgstr "VSync"
+msgstr "수직 동기화"
 
 msgctxt "game-speed"
 msgid "1/{factor}x"
@@ -4797,25 +4794,25 @@ msgstr "{factor}x"
 
 msgctxt "settings"
 msgid "Language"
-msgstr "Sprache"
+msgstr "언어"
 
 msgid "{angle}°"
 msgstr "{angle}°"
 
 msgid "{number} referenced bridge types not found."
-msgstr "{number} referenzierte Brückentypen nicht gefunden."
+msgstr "{number}개의 다리 종류를 찾을 수 없습니다."
 
 msgid "{number} referenced ground textures not found."
-msgstr "{number} referenzierte Bodentexturen nicht gefunden."
+msgstr "{number}개의 지표 텍스쳐를 찾을 수 없습니다."
 
 msgid "{number} referenced materials not found."
-msgstr "{number} referenzierte Materialien nicht gefunden."
+msgstr "{number}개의 재료를 찾을 수 없습니다."
 
 msgid "{number} referenced street types not found."
-msgstr "{number} referenzierte Strassentypen nicht gefunden."
+msgstr "{number}개의 도로 종류를 찾을 수 없습니다."
 
 msgid "{number} referenced track types not found."
-msgstr "{number} referenzierte Schienentypen nicht gefunden."
+msgstr "{number}개의 선로 종류를 찾을 수 없습니다."
 
 msgid "{number} referenced tunnel types not found."
-msgstr "{number} referenzierte Tunneltypen nicht gefunden."
+msgstr "{number}개의 터널 종류를 찾을 수 없습니다."
