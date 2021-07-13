@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-11 17:34+0100\n"
-"PO-Revision-Date: 2021-07-12 17:24+0900\n"
+"PO-Revision-Date: 2021-07-13 13:41+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -11627,76 +11627,76 @@ msgstr ""
 "소한 10마리가 없어졌죠..."
 
 msgid "MISSION_VICECOUNTY_NAME"
-msgstr "The Sinful South"
+msgstr "남쪽의 범죄자"
 
 msgid "MISSION_VICECOUNTY_PARAMS_CATERING"
-msgstr "Film crew catering"
+msgstr "영화 직원 음식 공급"
 
 msgid "MISSION_VICECOUNTY_PARAMS_CIGARFACTORY"
-msgstr "Havana cigar factory"
+msgstr "하바나 시가 공장"
 
 msgid "MISSION_VICECOUNTY_PARAMS_CONMATPLANT"
-msgstr "Miami construction materials plant"
+msgstr "마이애미 건설 자재 공장"
 
 msgid "MISSION_VICECOUNTY_PARAMS_CUBA_AIRPORT"
-msgstr "Havana airfield"
+msgstr "하바나 비행장"
 
 msgid "MISSION_VICECOUNTY_PARAMS_DISTILLERY"
-msgstr "Havana rum distillery"
+msgstr "하바나 럼 양조장"
 
 msgid "MISSION_VICECOUNTY_PARAMS_EVERGLADES"
-msgstr "Everglades tourist center"
+msgstr "에버글래이드 관광 센터"
 
 msgid "MISSION_VICECOUNTY_PARAMS_FARM"
-msgstr "Bahamas plantation"
+msgstr "바하마 농장"
 
 msgid "MISSION_VICECOUNTY_PARAMS_FOODPROCESSING"
-msgstr "West Palm Beach food processing plant"
+msgstr "서부 야자수 해변 음식 가공 공장"
 
 msgid "MISSION_VICECOUNTY_PARAMS_FORTMYERS"
-msgstr "Fort Myers"
+msgstr "마이어스 요새"
 
 msgid "MISSION_VICECOUNTY_PARAMS_GOODSFACTORY"
-msgstr "Havana goods factory"
+msgstr "하바나 물건 공장"
 
 msgid "MISSION_VICECOUNTY_PARAMS_HARBOR_CUBA"
-msgstr "Havana port"
+msgstr "하바나 항구"
 
 msgid "MISSION_VICECOUNTY_PARAMS_HARBOR_EVERGLADES"
-msgstr "Everglades port"
+msgstr "에버글래이드 항구"
 
 msgid "MISSION_VICECOUNTY_PARAMS_HARBOR_MIAMI"
-msgstr "Miami port"
+msgstr "마이애미 항구"
 
 msgid "MISSION_VICECOUNTY_PARAMS_HAVANNA"
-msgstr "Havana"
+msgstr "하바나"
 
 msgid "MISSION_VICECOUNTY_PARAMS_KEYWEST"
-msgstr "Key West"
+msgstr "키웨스트"
 
 msgid "MISSION_VICECOUNTY_PARAMS_MIAMI"
-msgstr "Miami"
+msgstr "마이애미"
 
 msgid "MISSION_VICECOUNTY_PARAMS_MIAMI_AIRPORT"
 msgstr "마이애미 비행장"
 
 msgid "MISSION_VICECOUNTY_PARAMS_NASSAU"
-msgstr "Nassau"
+msgstr "나사우"
 
 msgid "MISSION_VICECOUNTY_PARAMS_NASSAU_AIRPORT"
-msgstr "Nassau airfield"
+msgstr "나사우 비행장"
 
 msgid "MISSION_VICECOUNTY_PARAMS_WESTPALMBEACH"
-msgstr "West Palm Beach"
+msgstr "서부 야자수 해변"
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_BUILDA_NAME"
-msgstr "Constructing the retirement homes"
+msgstr "은퇴자의 집 건설"
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_BUILDA_SUB1"
-msgstr "Deliver construction materials"
+msgstr "건설 자재 운송"
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_BUILDA_SUB2"
-msgstr "Deliver cigars"
+msgstr "시가 운송"
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_BUILDA_TASK"
 msgstr ""
@@ -11710,19 +11710,19 @@ msgstr ""
 "당신의 현금이 언젠가 압수되지 않는 유일한 방법입니다."
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_BUILDB_NAME"
-msgstr "Constructing the party central"
+msgstr "파티장 건설"
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_BUILDB_SUB1"
-msgstr "Deliver construction materials"
+msgstr "건설 자재 운송"
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_BUILDB_SUB2"
-msgstr "Deliver rum"
+msgstr "럼 운송"
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_BUILDB_TASK"
 msgstr ""
-"Deliver ${conmat_amount_palm} [link=jump_conmatplant]construction materials[/"
-"link] and ${rum_amount_palm} [link=jump_distillery]rum[/link] to the "
-"[link=jump_westpalmbeach]spring break resort[/link]."
+"[link=jump_westpalmbeach]스프링 브레이크 리조트[/link]에 "
+"${conmat_amount_palm}개의 [link=jump_conmatplant]건설 자재[/link]와 "
+"${rum_amount_palm}병의 [link=jump_distillery]럼[/link]을 운송하세요."
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_BUILDB_TEXT"
 msgstr ""
@@ -11741,13 +11741,13 @@ msgstr ""
 "최소한 당신의 보스는 화가 치밀어 오르겠죠."
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_DECISION_NAME"
-msgstr "Look for an Investment"
+msgstr "투자할 곳 탐색"
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_DECISION_OPTION1"
-msgstr "Build retirement community"
+msgstr "은퇴자의 커뮤니티 건설하기"
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_DECISION_OPTION2"
-msgstr "Build spring break resort"
+msgstr "스프링 브레이크 리조트 건설하기"
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_DECISION_TASK"
 msgstr "결정을 내리세요."
@@ -11759,13 +11759,13 @@ msgstr ""
 "이 높아 보입니다."
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_NAME"
-msgstr "Construction Boom"
+msgstr "건설 붐"
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_POLICE_NAME"
-msgstr "Avoiding the police checkpoint"
+msgstr "경찰 검문 피하기"
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_POLICE_SUB1"
-msgstr "Seconds remaining"
+msgstr "남은 시간(초)"
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_POLICE_TASK"
 msgstr ""
@@ -11773,8 +11773,8 @@ msgstr ""
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_POLICE_TEXT"
 msgstr ""
-"Life is wild, footloose and fancy-free on the streets of Florida. \n"
-"And the police are hot on your heels…"
+"플로리다에서 삶은 야생적이고, 바쁘며 아무런 규제가 없죠.\n"
+"그리고 경찰들이 당신의 뒤를 쫓고 있습니다..."
 
 msgid "MISSION_VICECOUNTY_TASK_BOOM_TEXT"
 msgstr ""
@@ -11793,22 +11793,22 @@ msgstr ""
 "하지만 행운의 악마 덕분에, 당신을 놓아주었습니다."
 
 msgid "MISSION_VICECOUNTY_TASK_CARGO_NAME"
-msgstr "Even More Smuggling"
+msgstr "더 많은 밀수"
 
 msgid "MISSION_VICECOUNTY_TASK_CARGO_PLANE_HINT"
 msgstr "시가와 럼의 운송은 같은 양의 승객이 먼저 운송되면 성공으로 계산됩니다."
 
 msgid "MISSION_VICECOUNTY_TASK_CARGO_PLANE_NAME"
-msgstr "Fulfilling the air cargo delivery"
+msgstr "항공 화물 운송 개시"
 
 msgid "MISSION_VICECOUNTY_TASK_CARGO_PLANE_SUB1"
-msgstr "Passengers transported"
+msgstr "운송한 승객"
 
 msgid "MISSION_VICECOUNTY_TASK_CARGO_PLANE_SUB2"
-msgstr "Rum delivered"
+msgstr "운송한 럼"
 
 msgid "MISSION_VICECOUNTY_TASK_CARGO_PLANE_SUB3"
-msgstr "Cigars delivered"
+msgstr "운송한 시가"
 
 msgid "MISSION_VICECOUNTY_TASK_CARGO_PLANE_TASK"
 msgstr ""
@@ -11824,10 +11824,10 @@ msgstr ""
 "관광용 항공사로 위장해서 당국이 당신을 주시하지 않도록 하세요."
 
 msgid "MISSION_VICECOUNTY_TASK_CARGO_POLICE_NAME"
-msgstr "Avoiding the border patrol"
+msgstr "국경 경비대 회피"
 
 msgid "MISSION_VICECOUNTY_TASK_CARGO_POLICE_SUB1"
-msgstr "Seconds remaining"
+msgstr "남은 시간(초)"
 
 msgid "MISSION_VICECOUNTY_TASK_CARGO_POLICE_TASK"
 msgstr ""
@@ -11858,16 +11858,16 @@ msgstr ""
 "이건 모두 당신 스스로 만들어낸 인상적인 경력이죠."
 
 msgid "MISSION_VICECOUNTY_TASK_RUM_BOAT_NAME"
-msgstr "Fulfilling the ship delivery"
+msgstr "선박 운송 개시"
 
 msgid "MISSION_VICECOUNTY_TASK_RUM_BOAT_SUB1"
-msgstr "Fruit delivered"
+msgstr "운송한 과일"
 
 msgid "MISSION_VICECOUNTY_TASK_RUM_BOAT_SUB2"
-msgstr "Rum delivered"
+msgstr "운송한 럼"
 
 msgid "MISSION_VICECOUNTY_TASK_RUM_BOAT_SUB3"
-msgstr "Cigars delivered"
+msgstr "운송한 시가"
 
 msgid "MISSION_VICECOUNTY_TASK_RUM_BOAT_TASK"
 msgstr ""
@@ -11891,13 +11891,13 @@ msgstr ""
 "참 운이 없네요!"
 
 msgid "MISSION_VICECOUNTY_TASK_RUM_NAME"
-msgstr "Smuggling"
+msgstr "밀수"
 
 msgid "MISSION_VICECOUNTY_TASK_RUM_POLICE_NAME"
-msgstr "Avoiding the border patrol"
+msgstr "국경 경비대 회피"
 
 msgid "MISSION_VICECOUNTY_TASK_RUM_POLICE_SUB1"
-msgstr "Seconds remaining"
+msgstr "남은 시간(초)"
 
 msgid "MISSION_VICECOUNTY_TASK_RUM_POLICE_TASK"
 msgstr ""
@@ -11919,7 +11919,7 @@ msgstr ""
 "하지만 당신이 잡히면 신이 당신을 도와줄 겁니다!"
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_BLOCKADE_NAME"
-msgstr "Blocking the Road"
+msgstr "도로 막기"
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_BLOCKADE_TASK"
 msgstr ""
@@ -11933,7 +11933,7 @@ msgstr ""
 "질주할 도로에 아무것도 없도록 하세요."
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_BRIDGE_NAME"
-msgstr "Blow up Bridges"
+msgstr "다리 폭파"
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_BRIDGE_TASK"
 msgstr ""
@@ -11941,13 +11941,11 @@ msgstr ""
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_BRIDGE_TEXT"
 msgstr ""
-"According to the script, at this point the bad guys are supposed to blow up "
-"several bridges all at once.\n"
-"Naturally you've never done anything like that. But you have heard about how "
-"it's done…"
+"대본에 의하면, 이때 악당들이 동시에 몇 개의 다리를 폭파해야 합니다.\n"
+"당연히 이런 것은 해보신 적 없겠죠. 하지만 어떻게 해야 할 지 아실 겁니다..."
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_CATERING_NAME"
-msgstr "Supplying the film crew"
+msgstr "영화 직원 공급"
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_CATERING_TASK"
 msgstr ""
@@ -11960,7 +11958,7 @@ msgstr ""
 "TV 직원들은 최고의 음식을 공급받기 원합니다."
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_HOVER_NAME"
-msgstr "Staging the chase scene"
+msgstr "추격 장면 촬영"
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_HOVER_TASK"
 msgstr ""
@@ -11974,10 +11972,10 @@ msgstr ""
 "이 장면이 잘 촬영될 수 있도록 하세요."
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_NAME"
-msgstr "TV Series"
+msgstr "TV 시리즈"
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_SCOUT_NAME"
-msgstr "Producing the TV series"
+msgstr "TV 시리즈 제작"
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_SCOUT_TASK"
 msgstr ""
@@ -11994,7 +11992,7 @@ msgstr ""
 "다."
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_STUNT_NAME"
-msgstr "Performing the airplane stunt"
+msgstr "비행기 스턴트 진행"
 
 msgid "MISSION_VICECOUNTY_TASK_SHOW_STUNT_TASK"
 msgstr ""
@@ -12017,13 +12015,13 @@ msgstr ""
 "당신의 전문 지식이 여기에 필요하죠."
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_CULTURE_NAME"
-msgstr "Operating the tram"
+msgstr "트램 운행"
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_CULTURE_SUB1"
-msgstr "Streetcar stations built"
+msgstr "건설한 트램 역"
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_CULTURE_SUB2"
-msgstr "Transport people by streetcar"
+msgstr "트램으로 운송한 사람"
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_CULTURE_TASK"
 msgstr ""
@@ -12037,13 +12035,13 @@ msgstr ""
 "트램으로 그들을 운송하세요, 1980년대 미국의 운송과는 매우 다른 의미로요."
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_FAMILIES_NAME"
-msgstr "Transporting the families"
+msgstr "가족 운송"
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_FAMILIES_SUB1"
-msgstr "Transport people"
+msgstr "사람 운송"
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_FAMILIES_SUB2"
-msgstr "Earn money"
+msgstr "돈 벌기"
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_FAMILIES_TASK"
 msgstr ""
@@ -12053,10 +12051,9 @@ msgstr ""
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_FAMILIES_TEXT"
 msgstr ""
-"The Everglades National Park is a perfect destination for families out on a "
-"day trip.\n"
-"That is, as long as you keep an eye on the kids and the alligators aren't "
-"hungry…"
+"에버글래이드 국립공원은 가족들의 하루 여행에 완벽한 장소죠.\n"
+"이것은, 아이들을 잘 감시하고 악어들이 배고프지 않은지 주시해야 한다는 것을 의"
+"미합니다..."
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_MEASURE_NAME"
 msgstr "목표 관광객 모집"
@@ -12073,13 +12070,13 @@ msgstr ""
 "고 완벽하게 평범한 가족들도요."
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_MILLENIALS_NAME"
-msgstr "Providing for the spring breakers"
+msgstr "봄의 파수꾼들을 위한 서비스"
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_MILLENIALS_SUB1"
-msgstr "Transport people"
+msgstr "사람 운송"
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_MILLENIALS_SUB2"
-msgstr "Deliver food"
+msgstr "음식 운송"
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_MILLENIALS_TASK"
 msgstr ""
@@ -12094,7 +12091,7 @@ msgstr ""
 "그들을 글래머와 악명이 손에 손잡고 있는 마이애미 해변으로 데려오세요."
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_NAME"
-msgstr "Tourism Boom"
+msgstr "관광 붐"
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_TEXT"
 msgstr ""
@@ -12109,25 +12106,25 @@ msgstr ""
 "이 모든 것들은 돈을 가져다 주죠!"
 
 msgid "MISSONUTIL_MAKEMESSAGETASK_OPTION"
-msgstr "Close"
+msgstr "닫기"
 
 msgid "MISSONUTIL_MAKEMONEYTASKFINAL_NAME"
-msgstr "Money depleted"
+msgstr "재무 손실"
 
 msgid "MISSONUTIL_MAKEMONEYTASKFINAL_OPTION"
 msgstr "이것 참 안타깝군요!"
 
 msgid "MISSONUTIL_MAKEMONEYTASKFINAL_TITLE"
-msgstr "Money depleted"
+msgstr "재무 손실"
 
 msgid "MISSONUTIL_MAKEMONEYTASKOFFER_OPTION"
-msgstr "Take out loan (${credit})"
+msgstr "대출하기 (${credit})"
 
 msgid "MISSONUTIL_MAKEMONEYTASKOFFER_TEXT"
-msgstr "Take out loan"
+msgstr "대출하기"
 
 msgid "MISSONUTIL_MAKEMONEYTASKOFFER_TITLE"
-msgstr "Low on money"
+msgstr "자금 부족"
 
 msgid "MISSONUTIL_MONEY01_MESSAGE"
 msgstr ""
@@ -15565,145 +15562,137 @@ msgstr "예"
 
 msgid "HELP_CONSTRUCTION_RAIL_CONSTRUCTIONS"
 msgstr ""
-"With track constructions it is possible to build advanced track layouts\n"
-"These can vary from custom tunnel ramps to complex railyard layouts."
+"선로 건설을 이용하면 고급 선로 레이아웃을 건설할 수 있습니다.\n"
+"이것은 터널에 경사를 주어 복잡한 철로 레이아웃을 만들 수 있게 해줍니다."
 
 msgid "HELP_CONSTRUCTION_RAIL_SIGNALS"
 msgstr ""
-"Control rail traffic optionally with signals.\n"
-"Build waypoints on tracks and add them to lines to customize the route.\n"
-"Signals are used to split the track network in smaller parts so that more "
-"than one vehicle can be driving around safely. "
+"신호기를 이용하여 철도 교통을 마음대로 제어하세요.\n"
+"노선을 수정하려면 선로에 웨이포인트를 추가하고 노선에 추가하세요.\n"
+"신호기는 철도 네트워크를 더 작은 부분으로 나누어서 열차 여러 대가 동시에 안전"
+"하게 운행할 수 있게 해줍니다."
 
 msgid "HELP_CONSTRUCTION_RAIL_TOOLS"
-msgstr "Tracks can be modified later with the modification tool."
+msgstr "선로는 변형 도구를 이용하여 나중에 변형시킬 수 있습니다."
 
 msgid "HELP_CONSTRUCTION_RAIL_WAYPOINTS"
 msgstr ""
-"Control rail traffic optionally with waypoints.\n"
-"Build signals on tracks and add them to lines to customize the route.\n"
-"Waypoints can be used to force trains to use the tracks where the waypoint "
-"is created to get from one station to another. "
+"웨이포인트를 이용하여 철도 교통을 제어하세요.\n"
+"선로에 신호기를 건설하고 노선에 추가해 경로를 지정하세요.\n"
+"웨이포인트는 열차가 특정 지점을 무조건 통과하도록 강제하며, 역들 사이에 추가"
+"할 수 있습니다."
 
 msgid "HELP_CONSTRUCTION_ROAD_CONSTRUCTIONS"
-msgstr ""
-"With street constructions it is possible to build advanced road layouts."
+msgstr "도로 건설은 고급 도로 레이아웃을 건설할 수 있게 해줍니다."
 
 msgid "HELP_CONSTRUCTION_ROAD_TOOLS"
 msgstr ""
-"Streets can be modified later with the modification tool.\n"
-"The tram and bus lane tools can be used to add and remove tram tracks and "
-"bus lanes.\n"
-"Street segments can be owned by the player. Then the towns will not change "
-"the types of these segments and will not add divering streets."
+"도로는 변형 도구를 이용해 나중에 변형시킬 수 있습니다.\n"
+"트램과 버스 전용 차로 도구는 트램 선로와 버스 전용 차로를 추가하거나 제거해 "
+"줍니다.\n"
+"도로의 일부분은 플레이어가 소유할 수 있습니다. 그러면 그 부분은 마을이 변형시"
+"키지 않고 새 도로를 추가하지 않습니다."
 
 msgid "HELP_CONSTRUCTION_ROAD_WAYPOINTS"
 msgstr ""
-"Control road traffic optionally with waypoints.\n"
-"Build waypoints on streets and add them to lines to customize the route."
+"웨이포인트로 도로 교통을 제어하세요.\n"
+"도로에 웨이포인트를 생성하고 노선에 추가하여 경로를 조정하세요."
 
 msgid "MISSION_SHINKANSEN_PARAMS_CONSTMATDUMP"
 msgstr "하마마츠 다리 건설 현장"
 
 msgid "NEWS_DESCRIPTION_1"
 msgstr ""
-"The minimum and maximum waiting time can now be set for each stop in the "
-"line manager.\n"
-"Vehicles, lines and stations can now be renamed in both the vehicle and the "
-"line manager."
+"이제 노선 관리자에서 각 정류장마다 최소와 최대 대기 시간을 설정할 수 있습니"
+"다.\n"
+"차량, 노선과 역은 이제 차량과 노선 관리자 모두에서 이름을 변경할 수 있습니다."
 
 msgid "NEWS_DESCRIPTION_2"
 msgstr ""
-"When buying a vehicle, there are now useful filters and sorting options.\n"
-"The road and track construction menus have been simplified so that the right "
-"tools can be found even faster.\n"
-"There are new and better modification tools for roads and rails."
+"차량을 구매할 때, 이제 유용한 필터와 정렬 설정이 가능합니다.\n"
+"도로와 선로 건설 메뉴가 간소화되어 적절한 도구를 더 빨리 찾을 수 있습니다.\n"
+"도로와 선로를 위한 변형 도구들이 새로 생기거나 개선되었습니다."
 
 msgid "NEWS_DESCRIPTION_3"
 msgstr ""
-"When new houses are built in cities, there are new construction cranes.\n"
-"Trams and all vehicle types now support blinking lights and smoke "
-"particles.\n"
-"Road vehicles wait for the railway barriers to open and only leave stations "
-"when the doors are closed."
+"도시에 새 집들이 건설될 때, 새 건설 크레인이 생겼습니다.\n"
+"트램과 모든 차량 종류들이 깜박깜박하는 조명과 연기 효과를 지원합니다.\n"
+"도로 챠량들은 철도 건널목의 차단기를 기다리고, 문이 닫혔을 때에만 역을 출발합"
+"니다."
 
 msgid "NEWS_DESCRIPTION_4"
 msgstr ""
-"With the borderless windowed mode there is a new display mode in the "
-"graphics settings.\n"
-"It is now possible to set the mouse control so that the cursor should be "
-"zoomed out.\n"
-"After creating a map in the map editor, a new game can be started directly."
+"그래픽 설정에 새로운 디스플레이 모드인 경계 없는 창모드가 추가되었습니다.\n"
+"마우스 컨트롤을 설정할 수 있게 되어 커서를 줄일 수 있게 되었습니다.\n"
+"맵 에디터에서 맵을 생성하면, 바로 새 게임을 시작할 수 있습니다."
 
 msgid "NEWS_DESCRIPTION_5"
 msgstr ""
-"The performance of the simulation has been further optimized so that even "
-"larger maps can be played.\n"
-"The installation of many mods is now better supported because the mod "
-"loading times in the main menu have been improved.\n"
-"If the game crashes, the current game status will still be saved."
+"시뮬레이션 성능이 크게 개선되어 훨씬 큰 맵을 플레이할 수 있습니다.\n"
+"메인 메뉴에서 모드 로딩 시간이 개선되어 많은 모드의 설치 지원이 개선되었습니"
+"다.\n"
+"게임이 강제종료되어도, 현재 게임 상태가 저장됩니다."
 
 msgid "NEWS_DESCRIPTION_6"
 msgstr ""
-"Based on player feedback, many other improvements, bug fixes, and additions "
-"have been implemented.\n"
-"For example the menu for building bridges, tunnels and railroad crossings "
-"has also been standardized.\n"
-"The release notes show in detail what has been improved."
+"플레이어의 피드백을 기반으로, 많은 개선, 오류 수정, 추가 사항이 구현되었습니"
+"다.\n"
+"예를 들어 다리, 터널, 철도 건널목의 건설 메뉴가 표준화되었습니다.\n"
+"릴리즈 노트가 무엇이 개선되었는지 자세하게 보여줍니다."
 
 msgid "NEWS_TITLE"
-msgstr "News July 8, 2021: \"Summer Update\" released"
+msgstr "2021년 7월 8일 소식: \"여름 업데이트\" 출시"
 
 msgid "NEWS_TITLE_1"
-msgstr "More control over vehicles and lines"
+msgstr "차량과 노선에 대한 더 많은 제어 사항"
 
 msgid "NEWS_TITLE_2"
-msgstr "More intuitive operation and better tools"
+msgstr "더 직관적인 운영과 개선된 도구들"
 
 msgid "NEWS_TITLE_3"
-msgstr "An even more beautiful game world"
+msgstr "훨씬 더 아름다워진 게임 월드"
 
 msgid "NEWS_TITLE_4"
-msgstr "Better game menu and new settings"
+msgstr "개선된 게임 메뉴와 새로운 설정"
 
 msgid "NEWS_TITLE_5"
-msgstr "More performance and stability"
+msgstr "성능과 안정성 개선"
 
 msgid "NEWS_TITLE_6"
-msgstr "Many other improvements "
+msgstr "다른 많은 개선점들"
 
 msgid "Build street constructions"
-msgstr "Baue Strassen-Konstruktionen"
+msgstr "도로 건설"
 
 msgid "Build street waypoints"
-msgstr "Baue Strassen-Wegpunkte"
+msgstr "도로 웨이포인트 생성"
 
 msgid "Build track constructions"
-msgstr "Baue Gleis-Konstruktionen"
+msgstr "선로 건설"
 
 msgid "Build track signals"
-msgstr "Baue Gleis-Signale"
+msgstr "선로 신호기 건설"
 
 msgid "Build track waypoints"
-msgstr "Baue Gleis-Wegpunkte"
+msgstr "선로 웨이포인트 생성"
 
 msgid "Grass"
-msgstr "Gras"
+msgstr "잔디"
 
 msgid "Gravel"
-msgstr "Kies"
+msgstr "자갈"
 
 msgid "Ground"
-msgstr "Erdboden"
+msgstr "땅"
 
 msgid "None"
-msgstr "Keine"
+msgstr "없음"
 
 msgid "Plant"
-msgstr "Pflanzen"
+msgstr "식물"
 
 msgid "Street modification tools"
-msgstr "Strassenmodifizierungstools"
+msgstr "도로 변형 도구"
 
 msgid "Track modification tools"
-msgstr "Gleismodifizierungstool"
+msgstr "도로 변형 도구"
