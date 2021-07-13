@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-14 12:35+0100\n"
-"PO-Revision-Date: 2021-07-11 13:52+0900\n"
+"PO-Revision-Date: 2021-07-13 20:03+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -422,7 +422,7 @@ msgid "Asian vehicles"
 msgstr "아시아식 차량"
 
 msgid "Assets"
-msgstr "설치물"
+msgstr "자산"
 
 msgid "Assign to %1%"
 msgstr "%1%에 추가"
@@ -500,7 +500,7 @@ msgid "Balance:"
 msgstr "현재 자금:"
 
 msgid "Bank balance"
-msgstr "은행 자금"
+msgstr "자금"
 
 msgid "Big aircraft"
 msgstr "대형 항공기"
@@ -563,7 +563,7 @@ msgid "Build a train line with at least 10 trains in motion."
 msgstr "동시에 최소 10대의 열차가 운행하는 열차 노선을 만드세요."
 
 msgid "Build date"
-msgstr "건설 일자"
+msgstr "생산 기간"
 
 msgid "Build high bridges over rivers so that ships can pass under."
 msgstr "강 위로 높은 다리를 지어 배가 아래로 통과할 수 있도록 하세요."
@@ -1088,7 +1088,7 @@ msgid "Continue game"
 msgstr "게임 계속하기"
 
 msgid "Continue playing..."
-msgstr "계속 재생합니다..."
+msgstr "계속 플레이..."
 
 msgid "Contour lines layer"
 msgstr "등고선 레이어"
@@ -1254,7 +1254,7 @@ msgid "Diesel Train"
 msgstr "디젤 열차"
 
 msgid "Different cargo types transported"
-msgstr "다른 화물이 운송됨"
+msgstr "운송한 화물의 종류"
 
 msgid "Difficulty:"
 msgstr "난이도:"
@@ -1299,7 +1299,7 @@ msgid "Down"
 msgstr "아래"
 
 msgid "Drive backwards"
-msgstr "후진하기"
+msgstr "후진"
 
 msgid "Duration"
 msgstr "길이"
@@ -1527,7 +1527,7 @@ msgid "For experts:"
 msgstr "전문가들을 위해:"
 
 msgid "Force units"
-msgstr "강제하기"
+msgstr "힘 단위"
 
 msgid "Frame rate"
 msgstr "프레임률"
@@ -1623,7 +1623,7 @@ msgid "Going to depot"
 msgstr "차고로 복귀중"
 
 msgid "Good"
-msgstr "좋아요"
+msgstr "좋음"
 
 msgid "Graphic API"
 msgstr "그래픽 API"
@@ -1788,7 +1788,7 @@ msgid "Help"
 msgstr "도움말"
 
 msgid "High"
-msgstr "높은"
+msgstr "높음"
 
 msgid "High speed"
 msgstr "고속"
@@ -1903,7 +1903,7 @@ msgid_plural "Invalid configuration, %1% modules will collide."
 msgstr[0] "부적절한 설정, %1% 모듈에서 충돌 발생."
 
 msgid "Inventory"
-msgstr "인벤토리"
+msgstr "비현금 자산"
 
 msgid "Invert"
 msgstr "반전"
@@ -1988,7 +1988,7 @@ msgid "Land use"
 msgstr "토지 사용"
 
 msgid "Land use layer"
-msgstr "토지 사용 레이어"
+msgstr "토지 용도 레이어"
 
 msgid "Landscaping"
 msgstr "조경"
@@ -2063,10 +2063,10 @@ msgid "Lines report following problems:"
 msgstr "노선에서 문제 발견:"
 
 msgid "Liquidity"
-msgstr "유동성"
+msgstr "현금"
 
 msgid "Load"
-msgstr "불러오기"
+msgstr "상차"
 
 msgid "Load Camera config"
 msgstr "카메라 설정 불러오기"
@@ -2090,7 +2090,7 @@ msgid "Load game"
 msgstr "게임 불러오기"
 
 msgid "Load if available"
-msgstr "가능하다면 불러오기"
+msgstr "가능하면 상차"
 
 msgid "Load key frames"
 msgstr "키 프레임 불러오기"
@@ -2102,13 +2102,13 @@ msgid "Load the map"
 msgstr "맵 불러오기"
 
 msgid "Loaded"
-msgstr "불러오기 완료"
+msgstr "상차됨"
 
 msgid "Loading order, click to change"
 msgstr "불러오기 순서, 바꾸려면 클릭"
 
 msgid "Loading speed"
-msgstr "불러오기 속도"
+msgstr "상차 속도"
 
 msgid "Loading..."
 msgstr "로딩중..."
@@ -2219,7 +2219,7 @@ msgid "Map size:"
 msgstr "맵 크기:"
 
 msgid "Marchsreiter"
-msgstr "Marchsreiter"
+msgstr "개척자"
 
 msgid "Marketing"
 msgstr "마케팅"
@@ -2384,7 +2384,7 @@ msgid "Next"
 msgstr "다음"
 
 msgid "No"
-msgstr "불가능"
+msgstr "아니요"
 
 msgid "No Line"
 msgstr "노선 없음"
@@ -2722,13 +2722,13 @@ msgid "Population"
 msgstr "인구"
 
 msgid "Power"
-msgstr "전력"
+msgstr "출력"
 
 msgid "Power rating"
-msgstr "전력 점수"
+msgstr "출력/무게 비율"
 
 msgid "Power units"
-msgstr "전력 공급"
+msgstr "전력 단위"
 
 msgid "Preparing game..."
 msgstr "게임 준비중..."
@@ -3201,7 +3201,7 @@ msgid_plural "Ships"
 msgstr[0] "선박"
 
 msgid "Ship {number}"
-msgstr "선박 {number}대"
+msgstr "선박 {number}"
 
 msgid "Shipment"
 msgstr "수요"
@@ -3463,7 +3463,7 @@ msgid "Speed of light"
 msgstr "빛의 속도"
 
 msgid "Speed units"
-msgstr "속도 설정"
+msgstr "속도 단위"
 
 msgid "Speed: 1x"
 msgstr "속도: 1x"
@@ -3595,7 +3595,7 @@ msgid "Supply"
 msgstr "공급"
 
 msgid "Supply rating"
-msgstr "공급 점수"
+msgstr "공급률"
 
 msgid "Table"
 msgstr "표"
@@ -4010,7 +4010,7 @@ msgid "Using the time control, go back in time."
 msgstr "특정 시간으로 돌아가려면 시간 컨트롤을 사용하세요."
 
 msgid "Vacant"
-msgstr "공차"
+msgstr "빈자리"
 
 msgid "Value"
 msgstr "값"
@@ -4124,7 +4124,7 @@ msgid "Weight %1% + %2% (Cargo)"
 msgstr "무게 %1% + %2% (화물)"
 
 msgid "Weight units"
-msgstr "무게"
+msgstr "무게 단위"
 
 msgid ""
 "When waiting for full load, depart after the specified period of inactivity"
@@ -4155,7 +4155,7 @@ msgid "Wrong carrier"
 msgstr "잘못된 차량"
 
 msgid "Year built"
-msgstr "생산 연도"
+msgstr "건설된 해"
 
 msgid "Yes"
 msgstr "네"
