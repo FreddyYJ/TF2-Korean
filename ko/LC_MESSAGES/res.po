@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-11 17:34+0100\n"
-"PO-Revision-Date: 2021-07-25 18:52+0900\n"
+"PO-Revision-Date: 2021-07-30 20:14+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -11002,8 +11002,7 @@ msgstr "우연찮게도, 아무도 당신의 차를 사려 하지 않았습니�
 
 msgid "MISSION_TWENTIES_INTRO4"
 msgstr ""
-"그리고 사람들은 당신의 차를 모는 운전기사가 되고 싶어 한다는 것을 알았습니"
-"다."
+"그리고 사람들은 당신이 운전하는 차를 타고 싶어 한다는 것을 알았습니다."
 
 msgid "MISSION_TWENTIES_INTRO5"
 msgstr "그래서 지금 뭘 하고 있는 거죠?"
@@ -11199,7 +11198,7 @@ msgid "MISSION_TWENTIES_PARAMS_GASSTATION1"
 msgstr "미니애폴리스 주유소"
 
 msgid "MISSION_TWENTIES_PARAMS_GASSTATION2"
-msgstr "세인트 파울 주유소"
+msgstr "세인트폴 주유소"
 
 msgid "MISSION_TWENTIES_PARAMS_GASSTATION3"
 msgstr "세인트 클라우드 주유소"
@@ -11235,7 +11234,7 @@ msgid "MISSION_TWENTIES_PARAMS_STCLOUD"
 msgstr "세인트 클라우드"
 
 msgid "MISSION_TWENTIES_PARAMS_STPAUL"
-msgstr "세인트 파울"
+msgstr "세인트폴"
 
 msgid "MISSION_TWENTIES_PARAMS_TRAININGSCENTER"
 msgstr "훈련 센터"
@@ -11361,7 +11360,7 @@ msgstr "연습생들을 [link=jump_trainingcenter]훈련 센터[/link]로 운송
 
 msgid "MISSION_TWENTIES_TASK_DRIVERS_TRANSPORT_TEXT"
 msgstr ""
-"주변 지역에서 일자리를 찾고 있는 몇 명의 젊은 사람들을 찾을 수 있는데, 장신"
+"주변 지역에서 일자리를 찾고 있는 몇 명의 젊은 사람들을 찾을 수 있는데, 당신"
 "의 회사에 적합할 겁니다.\n"
 "그들을 모아 여기로 데려오세요."
 
