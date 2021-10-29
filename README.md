@@ -7,7 +7,7 @@ There's english ReadMe under the Korean one.
 이 프로젝트는 GNU LGPL v3.0을 따르고 있으며, 영어 원문 혹은 한글 번역본을 참고하시면 됩니다.
 
 이 프로젝트는 최종적으로 '모드'의 형식으로, Steam Workshop에서 배포하는 것을 목표로 하고 있습니다.
-
+# 현재 버전: 2021.07
 ### 사용 방법
 * 현재에는 이 방법을 사용하고 있으나, 최종적으로는 '모드'의 형식과 Steam Workshop을 목표로 하고 있습니다.
 1. ```git clone https://github.com/FreddyYJ/TF2-Korean.git```을 실행한다.
