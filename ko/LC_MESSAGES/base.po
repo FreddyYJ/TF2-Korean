@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-14 12:35+0100\n"
-"PO-Revision-Date: 2022-05-10 19:40+0900\n"
+"PO-Revision-Date: 2022-05-10 19:54+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -136,34 +136,34 @@ msgid "%d for rail network bridges"
 msgstr "%d을(를) 가지려면 철도 다리를 소유해야 합니다"
 
 msgid "%d for rail network electrification"
-msgstr "%d for rail network electrification"
+msgstr ""
 
 msgid "%d for rail network length"
-msgstr "%d for rail network length"
+msgstr ""
 
 msgid "%d for rail network tunnels"
-msgstr "%d for rail network tunnels"
+msgstr ""
 
 msgid "%d point(s) for company value"
-msgstr "%d point(s) for company value"
+msgstr ""
 
 msgid "%d point(s) for having more than 10 trains"
-msgstr "%d point(s) for having more than 10 trains"
+msgstr ""
 
 msgid "%d point(s) for having more than 100 road vehicles"
-msgstr "%d point(s) for having more than 100 road vehicles"
+msgstr ""
 
 msgid "%d point(s) for having more than 20 trams"
-msgstr "%d point(s) for having more than 20 trams"
+msgstr ""
 
 msgid "%d point(s) for having more than 5 aircraft"
-msgstr "%d point(s) for having more than 5 aircraft"
+msgstr ""
 
 msgid "%d point(s) for having more than 5 ships"
-msgstr "%d point(s) for having more than 5 ships"
+msgstr ""
 
 msgid "%d point(s) for maximum vehicle age"
-msgstr "%d point(s) for maximum vehicle age"
+msgstr ""
 
 msgid "(%1% compartment)"
 msgid_plural "(%1% compartments)"
@@ -383,7 +383,7 @@ msgstr ""
 "어디로 갈까요?"
 
 msgid "Ambient occlusion (SSAO)"
-msgstr "Ambient Occlusion (SSAO)"
+msgstr ""
 
 msgid "American vehicles"
 msgstr "미국식 차량"
@@ -850,7 +850,7 @@ msgid "Change type"
 msgstr "종류 변경"
 
 msgid "Charles Alton Ellis"
-msgstr "Charles Alton Ellis"
+msgstr ""
 
 msgid "Chart"
 msgstr "차트"
@@ -1749,7 +1749,7 @@ msgid "Have two trains stuck facing each other."
 msgstr "열차 두 대가 서로 마주보도록 하세요."
 
 msgid "Head of PR & Community Management"
-msgstr "PR & 커뮤니티 매니저 리더"
+msgstr "홍보 및 커뮤니티 매니저 리더"
 
 msgid "Head of Product Management"
 msgstr "상품 매니저 리더"
@@ -2132,7 +2132,7 @@ msgid "Locomotives"
 msgstr "기관차"
 
 msgid "Louis Favre"
-msgstr "Louis Favre"
+msgstr ""
 
 msgid "Low"
 msgstr "낮음"
@@ -4228,11 +4228,11 @@ msgstr "m"
 
 msgctxt "dlc-name"
 msgid "Nordic"
-msgstr "Nordic"
+msgstr ""
 
 msgctxt "dlc-name"
 msgid "USA"
-msgstr "USA"
+msgstr ""
 
 msgctxt "force-unit"
 msgid "kN"
@@ -4444,11 +4444,11 @@ msgstr "lb"
 
 msgctxt "weight-unit"
 msgid "t/short ton"
-msgstr "t/Short ton"
+msgstr "쇼트 톤"
 
 msgctxt "weight-unit"
 msgid "t/tonne"
-msgstr "t/Tonne"
+msgstr "톤"
 
 msgid "{angle} deg field of view"
 msgstr "시점이 이루는 각 {angle}도"
@@ -4838,7 +4838,7 @@ msgid "A new industry was founded"
 msgstr ""
 
 msgid "AGC"
-msgstr "AGC"
+msgstr ""
 
 msgid ""
 "Abandoned industry! Closes forever and disappears from the map if not "
