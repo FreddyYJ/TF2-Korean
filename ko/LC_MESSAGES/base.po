@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-14 12:35+0100\n"
-"PO-Revision-Date: 2021-08-15 12:23+0900\n"
+"PO-Revision-Date: 2022-05-10 19:40+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Language: de_CH\n"
 "X-Source-Language: C\n"
 
@@ -4013,7 +4013,7 @@ msgid "Vacant"
 msgstr "빈자리"
 
 msgid "Value"
-msgstr "값"
+msgstr "기업 가치"
 
 msgid "Vehicle"
 msgstr "차량"
@@ -4816,3 +4816,352 @@ msgstr "{number}개의 선로 종류를 찾을 수 없습니다."
 
 msgid "{number} referenced tunnel types not found."
 msgstr "{number}개의 터널 종류를 찾을 수 없습니다."
+
+msgid " + "
+msgstr " + "
+
+msgid " or "
+msgstr ""
+
+msgid "%1% day"
+msgid_plural "%1% days"
+msgstr[0] ""
+
+msgid "%1% now accepts a new cargo type"
+msgid_plural "%1% now accepts new cargo types"
+msgstr[0] ""
+
+msgid "---"
+msgstr "---"
+
+msgid "A new industry was founded"
+msgstr ""
+
+msgid "AGC"
+msgstr "AGC"
+
+msgid ""
+"Abandoned industry! Closes forever and disappears from the map if not "
+"operational within %1%"
+msgstr ""
+
+msgid "Abandoned industry! Closes in %1%."
+msgstr ""
+
+msgid "Abort"
+msgstr ""
+
+msgid "Achievements can't be earned if the following settings are used:"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Add mods from preset to the end of the list of activated mods."
+msgstr ""
+
+msgid "Advanced Settings"
+msgstr ""
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Append"
+msgstr ""
+
+msgid "Basic Game Settings"
+msgstr ""
+
+msgid "Basic Settings"
+msgstr ""
+
+msgid "Camera config name"
+msgstr ""
+
+msgid "Change Type"
+msgstr ""
+
+msgid "Cheats"
+msgstr ""
+
+msgid "Classic"
+msgstr ""
+
+msgid "Climate:"
+msgstr ""
+
+msgid "Closed"
+msgstr ""
+
+msgid "Cmd"
+msgstr ""
+
+msgid "Cockpit camera: horn sound"
+msgstr ""
+
+msgid "Construction"
+msgstr ""
+
+msgid "Continue to external website?"
+msgstr ""
+
+msgid "Couch"
+msgstr ""
+
+msgid "Could not connect all alternative terminals"
+msgstr ""
+
+msgid "Ctrl"
+msgstr ""
+
+msgid "Custom cargo"
+msgstr ""
+
+msgid "Custom colors"
+msgstr ""
+
+msgid "DX12"
+msgstr ""
+
+msgid "Delete Settings DEBUG"
+msgstr ""
+
+msgid "Delete camera config "
+msgstr ""
+
+msgid "Delete camera config?"
+msgstr ""
+
+msgid "Delete mod preset "
+msgstr ""
+
+msgid "Delete mod preset?"
+msgstr ""
+
+msgid "Difficulty"
+msgstr ""
+
+msgid "Enable mods from a mod preset. Already enabled mods are not disabled."
+msgstr ""
+
+msgid "Enable production or ship items to prevent closure."
+msgstr ""
+
+msgid "Environment:"
+msgstr ""
+
+msgid "Filter settings"
+msgstr ""
+
+msgid "Finances - Chart"
+msgstr ""
+
+msgid "Finances - Table"
+msgstr ""
+
+msgid "GNM"
+msgstr ""
+
+msgid "Game Storage"
+msgstr ""
+
+msgid "Game options"
+msgstr ""
+
+msgid "Generator"
+msgstr ""
+
+msgid "Go to previous page"
+msgstr ""
+
+msgid "Industry closure"
+msgstr ""
+
+msgid "Industry spawn"
+msgstr ""
+
+msgid "Inspector"
+msgstr ""
+
+msgid "Load mod preset"
+msgstr ""
+
+msgid ""
+"Loading speed reduced because train length ({train}) exceeds platform length "
+"({station})"
+msgstr ""
+
+msgid "Loading speed: {amount}x"
+msgstr ""
+
+msgid "Map Parameters"
+msgstr ""
+
+msgid "Min. bridge height"
+msgstr ""
+
+msgid "Min. tunnel depth"
+msgstr ""
+
+msgid "Mod preset name"
+msgstr ""
+
+msgid "Mods"
+msgstr ""
+
+msgid ""
+"Mods are active or advanced settings are modified. Achievements cannot be "
+"earned!"
+msgstr ""
+
+msgid "No costs"
+msgstr ""
+
+msgid "No money:"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "Overwrite camera config?"
+msgstr ""
+
+msgid "Overwrite mod preset?"
+msgstr ""
+
+msgid "Press <Shift> to set custom color"
+msgstr ""
+
+msgid "Remove line"
+msgstr ""
+
+msgid "Replace current list of activated mods with this preset."
+msgstr ""
+
+msgid ""
+"Resource errors detected which may be caused by missing or defect mods.\n"
+"Check the stdout.txt for detailed information."
+msgstr ""
+
+msgid "Sandbox mode"
+msgstr ""
+
+msgid "Sandbox mode:"
+msgstr ""
+
+msgid "Save mod preset"
+msgstr ""
+
+msgid "Savegame not ready"
+msgstr ""
+
+msgid "Seed"
+msgstr ""
+
+msgid "Select terminal for this waypoint"
+msgstr ""
+
+msgid "Set Railroad Crossing Type"
+msgstr ""
+
+msgid "Shared capacity of station buildings for full platforms"
+msgstr ""
+
+msgid "Shift"
+msgstr ""
+
+msgid "Show video memory usage warning"
+msgstr ""
+
+msgid "Sound Effects"
+msgstr ""
+
+msgid "Start the editor"
+msgstr ""
+
+msgid "Start year"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Store the current list of activated mods in a mod preset"
+msgstr ""
+
+msgid "Store the current list of activated mods in a preset"
+msgstr ""
+
+msgid ""
+"Successfully connected all stations, disabled {num} alternative terminals"
+msgstr ""
+
+msgid "The camera config \"{}\" already exists. Do you want to overwrite it?"
+msgstr ""
+
+msgid "The mod preset \"{}\" already exists. Do you want to overwrite it?"
+msgstr ""
+
+msgid "Time until closing: %1%"
+msgstr ""
+
+msgid "Town growth"
+msgstr ""
+
+msgid "Town names:"
+msgstr ""
+
+msgid "Towns cargo needs"
+msgstr ""
+
+msgid "Use the <<{horn}>> button to sound the horn"
+msgstr ""
+
+msgid ""
+"Use the <<{next}>> and <<{prev}>> buttons to change the position of the "
+"cockpit camera"
+msgstr ""
+
+msgid "User interface mode"
+msgstr ""
+
+msgid "Vehicles never expire"
+msgstr ""
+
+msgid "Vehicles never expire:"
+msgstr ""
+
+msgid "Vehicles:"
+msgstr ""
+
+msgid "View Statistics"
+msgstr ""
+
+msgid "Warning: %1% industries are abandoned!"
+msgstr ""
+
+msgid "Warning: Abandoned industry!"
+msgstr ""
+
+msgid ""
+"Warning: video RAM usage critical ({percentage}). The game may close "
+"unexpectedly. It is highly recommended to reduce the texture settings."
+msgstr ""
+
+msgid "Waypoint outside of navigable waters"
+msgstr ""
+
+msgid "Win"
+msgstr ""
+
+msgctxt "difficulty"
+msgid "Very hard"
+msgstr ""
+
+msgid "{used}/{total}"
+msgstr ""
+
+msgid "{}: Off"
+msgstr ""
+
+msgid "{}: On"
+msgstr ""

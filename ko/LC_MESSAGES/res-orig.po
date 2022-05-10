@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-02 15:18+0200\n"
-"PO-Revision-Date: 2021-07-06 11:49+0200\n"
+"POT-Creation-Date: 2022-05-03 08:49+0200\n"
+"PO-Revision-Date: 2022-05-03 12:56+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: de_CH\n"
 "X-Source-Language: en_EN\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 msgid " (with catenary)"
 msgstr " (mit Oberleitung)"
@@ -36,6 +36,9 @@ msgstr "%s m"
 msgid "0"
 msgstr "0"
 
+msgid "0%"
+msgstr "0%"
+
 msgid "1"
 msgstr "1"
 
@@ -45,26 +48,47 @@ msgstr "1 m"
 msgid "100 m x 50 m platform."
 msgstr "100 m x 50 m Plattform."
 
+msgid "100%"
+msgstr "100%"
+
 msgid "10m"
 msgstr "10m"
 
 msgid "120m"
 msgstr "120m"
 
+msgid "125%"
+msgstr "125%"
+
+msgid "150%"
+msgstr "150%"
+
 msgid "160m"
 msgstr "160m"
+
+msgid "175%"
+msgstr "175%"
 
 msgid "2"
 msgstr "2"
 
+msgid "2 cargo types"
+msgstr "2 Gütertypen"
+
 msgid "2 m"
 msgstr "2 m"
+
+msgid "200%"
+msgstr "200%"
 
 msgid "20m"
 msgstr "20m"
 
 msgid "240m"
 msgstr "240m"
+
+msgid "25%"
+msgstr "25%"
 
 msgid "3"
 msgstr "3"
@@ -81,17 +105,26 @@ msgstr "320m"
 msgid "4"
 msgstr "4"
 
+msgid "400%"
+msgstr "400%"
+
 msgid "5"
 msgstr "5"
 
 msgid "50 m x 50 m platform."
 msgstr "50 m x 50 m Plattform."
 
+msgid "50%"
+msgstr "50%"
+
 msgid "6"
 msgstr "6"
 
 msgid "7"
 msgstr "7"
+
+msgid "75%"
+msgstr "75%"
 
 msgid "8"
 msgstr "8"
@@ -258,8 +291,8 @@ msgstr "Baue Häfen"
 msgid "Build industries"
 msgstr "Baue Industrien"
 
-msgid "Build shipyards"
-msgstr "Baue Werften"
+msgid "Build ship waypoints"
+msgstr "Baue Schiffswegpunkte"
 
 msgid "Build street constructions"
 msgstr "Baue Strassen-Konstruktionen"
@@ -297,8 +330,31 @@ msgstr "Baue dein Hauptquartier"
 msgid "Building"
 msgstr "Gebäude"
 
+msgid ""
+"Building for storage of many cargo items. Provides capacity for 75 cargo "
+"items."
+msgstr ""
+"Gebäude zur Lagerung vieler Gütereinheiten. Bietet Kapazität für 75 "
+"Gütereinheiten."
+
+msgid ""
+"Building for storage of some cargo items. Provides capacity for 25 cargo "
+"items."
+msgstr ""
+"Gebäude zur Lagerung einiger Gütereinheiten. Bietet Kapazität für 25 "
+"Gütereinheiten."
+
+msgid "Building for waiting passengers. Provides capacity for 20 passengers."
+msgstr "Gebäude für wartende Passagiere. Bietet Kapazität für 20 Passagiere."
+
+msgid "Building for waiting passengers. Provides capacity for 60 passengers."
+msgstr "Gebäude für wartende Passagiere. Bietet Kapazität für 60 Passagiere."
+
 msgid "Bulldoze"
 msgstr "Bulldozen"
+
+msgid "Buoy"
+msgstr "Boje"
 
 msgid "Bus/tram station"
 msgstr "Bus-/Tram-Station"
@@ -353,14 +409,17 @@ msgstr "Güter-Plattform"
 msgid "Cargo station"
 msgstr "Güter-Bahnhof"
 
+msgid "Cargo supply"
+msgstr "Güterversorgung"
+
 msgid "Cargo terminal"
 msgstr "Güter-Terminal"
 
-msgid "Cargo terminal for airfields."
-msgstr "Güter-Terminal für Flugplätze."
+msgid "Cargo terminal for airfields. Provides capacity for 20 cargo items."
+msgstr "Güter-Terminal für Flugplätze. Bietet Kapazität für 20 Gütereinheiten."
 
-msgid "Cargo terminal for airports."
-msgstr "Güter-Terminal für Flughäfen."
+msgid "Cargo terminal for airports. Provides capacity for 40 cargo items."
+msgstr "Güter-Terminal für Flughäfen. Bietet Kapazität für 40 Gütereinheiten."
 
 msgid "Cargo terminus station"
 msgstr "Güter-Kopfbahnhof"
@@ -372,7 +431,7 @@ msgid "Cement bridge"
 msgstr "Betonbrücke"
 
 msgid "Champagne"
-msgstr "Champagne"
+msgstr "Champagner"
 
 msgid "Chapter I"
 msgstr "Kapitel I"
@@ -532,11 +591,6 @@ msgstr ""
 "Dekorativ.\n"
 "Dach mit speziellem Design für Passagier-Plattformen."
 
-msgid ""
-"Decorative.\n"
-"Small side building for passenger stations."
-msgstr "Kleines Seitengebäude mit Strassenzugang für Passagier-Bahnhöfe."
-
 msgid "Deer"
 msgstr "Hirsch"
 
@@ -563,6 +617,9 @@ msgstr "Schwierigkeit"
 
 msgid "Dirt"
 msgstr "Dreck"
+
+msgid "Disabled"
+msgstr "Deaktiviert"
 
 msgid "Double slip switch"
 msgstr "Doppelkreuzweiche"
@@ -597,6 +654,9 @@ msgstr "Holunder"
 msgid "Electric"
 msgstr "Elektrifiziert"
 
+msgid "Emission"
+msgstr "Emission"
+
 msgid "Emissions layer"
 msgstr "Emissionen"
 
@@ -623,6 +683,23 @@ msgstr "Extragrosse Strasse"
 
 msgid "Extremely Big"
 msgstr "Extrem gross"
+
+msgid "Factor for the buying costs of vehicles"
+msgstr "Faktor für die Anschaffungskosten von Fahrzeugen"
+
+msgid ""
+"Factor for the costs of terrain modification and infrastructure construction"
+msgstr ""
+"Faktor für die Kosten der Geländemodifikation und des Infrastrukturbaus"
+
+msgid "Factor for the loan interest"
+msgstr "Faktor für die Darlehenszinsen"
+
+msgid "Factor for the maintenance costs of tracks, roads, depots and stations"
+msgstr "Faktor für den Unterhalt von Gleisen, Strassen, Depots und Bahnhöfen"
+
+msgid "Factor for the maintenance costs of vehicles"
+msgstr "Faktor für die Instandhaltung von Fahrzeugen"
 
 msgid "Farm"
 msgstr "Bauernhof"
@@ -680,6 +757,9 @@ msgstr "Fuchs"
 
 msgid "French"
 msgstr "Französisch"
+
+msgid "Frequency of industry closures due to lack use"
+msgstr "Häufigkeit von Industrieschliessungen aufgrund mangelnder Nutzung"
 
 msgid "Fruit"
 msgstr "Frucht"
@@ -1217,7 +1297,7 @@ msgstr ""
 msgid "HELP_CONSTRUCTION_RAIL_WAYPOINTS"
 msgstr ""
 "Regle den Schienenverkehr optional mit Wegpunkten.\n"
-"Baue Wegpunkte auf Strassen und fügen Sie sie zu Linien hinzu, um die Route "
+"Baue Wegpunkte auf Schienen und fügen Sie sie zu Linien hinzu, um die Route "
 "anzupassen."
 
 msgid "HELP_CONSTRUCTION_ROAD_CONSTRUCTIONS"
@@ -1296,13 +1376,6 @@ msgstr ""
 "Damit eine Karte spielbar ist, sollten mehrere Städte platziert und mit "
 "Strassen verbunden werden."
 
-msgid "HELP_CONSTRUCTION_WATER_DEPOTS"
-msgstr ""
-"Depots sind notwendig, um Fahrzeuge zu kaufen und auf eine Linie zu senden.\n"
-"Im Gegensatz zum Kauf von Fahrzeugen, der nur in Depots möglich ist, wird "
-"der Ersatz von Fahrzeugen an Stationen durchgeführt.\n"
-"Benutze den Fahrzeugmanager, um weitere Fahrzeugaktionen durchzuführen."
-
 msgid "HELP_CONSTRUCTION_WATER_STATIONS"
 msgstr ""
 "Vor dem Bauen können Einstellungen wie die Grösse des Hafens oder die Anzahl "
@@ -1314,6 +1387,12 @@ msgstr ""
 "Terminals oder andere Elemente hinzuzufügen. So können auch gemischte "
 "Passagier- und Güterhäfen erstellt werden.\n"
 "Häfen sollten in der Regel mit einer Strasse verbunden werden."
+
+msgid "HELP_CONSTRUCTION_WATER_WAYPOINTS"
+msgstr ""
+"Regle den Schiffsverkehr optional mit Wegpunkten.\n"
+"Baue Wegpunkte auf dem Wasser und fügen Sie sie zu Linien hinzu, um die "
+"Route anzupassen."
 
 msgid "HELP_LAYER_CARGO"
 msgstr ""
@@ -1541,7 +1620,7 @@ msgid "Hangar"
 msgstr "Hangar"
 
 msgid "Hard"
-msgstr "Schwer"
+msgstr "Schwierig"
 
 msgid "Headquarter"
 msgstr "Hauptquartier"
@@ -1588,11 +1667,42 @@ msgstr "Industriegebäude"
 msgid "Industries"
 msgstr "Industrien"
 
+msgid "Industry closure frequency"
+msgstr "Häufigkeit von Industrieschliessungen"
+
+msgid "Industry density target"
+msgstr "Angestrebte Industriedichte"
+
 msgid "Industry production level"
 msgstr "Industrie Produktionslevel"
 
 msgid "Industry statistics"
 msgstr "Industrienstatistik"
+
+msgid "Influence of cargo supply rating on town growth"
+msgstr "Einfluss des Güternachschubs auf das Stadtwachstum"
+
+msgid "Influence of emission around town buildings on town growth"
+msgstr "Einfluss der Emissionen um Stadtgebäude auf das Stadtwachstum"
+
+msgid "Influence of overcrowded stations on town growth"
+msgstr "Einfluss überfüllter Stationen auf das Stadtwachstum"
+
+msgid "Influence of reachable destinations by private transport on town growth"
+msgstr ""
+"Einfluss der mit dem Individualverkehr erreichbaren Ziele auf das "
+"Stadtwachstum"
+
+msgid "Influence of reachable destinations by public transport on town growth"
+msgstr ""
+"Einfluss der mit öffentlichen Verkehrsmitteln erreichbaren Ziele auf das "
+"Stadtwachstum"
+
+msgid "Influence of traffic slowdowns on town growth"
+msgstr "Einfluss von Verkehrsbehinderungen auf das Stadtwachstum"
+
+msgid "Initial industry density on the map"
+msgstr "Anfängliche Industriedichte auf der Karte"
 
 msgid "Inner radius"
 msgstr "Innerer Radius"
@@ -1605,6 +1715,12 @@ msgstr "Höhenlinien 10m"
 
 msgid "Intimidating"
 msgstr "Einschüchternd"
+
+msgid "Investments infrastructure"
+msgstr "Investitionen Infrastruktur"
+
+msgid "Investments vehicles"
+msgstr "Investitionen Fahrzeuge"
 
 msgid "Invisible Model"
 msgstr "Unsichtbares Modell"
@@ -1660,6 +1776,9 @@ msgstr "Flughafenpiste"
 msgid "Large airport runway with a speed limit of %2%."
 msgstr "Flughafenlandebahn mit einer Geschwindigkeitsbegrenzung von %2%."
 
+msgid "Large cargo building"
+msgstr "Grosse Frachthalle"
+
 msgid "Large country road"
 msgstr "Grosse Landstrasse"
 
@@ -1668,17 +1787,19 @@ msgstr "Grosser Dock"
 
 msgid ""
 "Large dock for small and large cargo ships. A large landing is required for "
-"ships to be able to dock."
+"ships to be able to dock. Provides capacity for 60 cargo items."
 msgstr ""
 "Grosses Dock für kleine und grosse Frachtschiffe. Eine grosse Anlegestelle "
-"ist erforderlich, damit Schiffe anlegen können."
+"ist erforderlich, damit Schiffe anlegen können. Bietet Kapazität für 60 "
+"Gütereinheiten."
 
 msgid ""
 "Large dock for small and large passenger ships. A large landing is required "
-"for ships to be able to dock."
+"for ships to be able to dock. Provides capacity for 50 passengers."
 msgstr ""
 "Grosses Dock für kleine und grosse Passagierschiffe. Eine grosse "
-"Anlegestelle ist erforderlich, damit Schiffe anlegen können."
+"Anlegestelle ist erforderlich, damit Schiffe anlegen können. Bietet "
+"Kapazität für 50 Passagiere."
 
 msgid "Large highway"
 msgstr "Grosse Autobahn"
@@ -1689,23 +1810,70 @@ msgstr "Grosse Anlegestelle"
 msgid "Large main building"
 msgstr "Grosses Hauptgebäude"
 
-msgid "Large main building with street access for cargo stations."
-msgstr "Grosses Hauptgebäude mit Strassenzugang für Güter-Bahnhöfe."
+msgid ""
+"Large main building with street access for cargo stations. Provides capacity "
+"for 80 cargo items."
+msgstr ""
+"Grosses Hauptgebäude mit Strassenzugang für Güter-Bahnhöfe. Bietet Kapazität "
+"für 80 Gütereinheiten."
 
-msgid "Large main building with street access for passenger stations."
-msgstr "Grosses Hauptgebäude mit Strassenzugang für Passagier-Bahnhöfe."
+msgid ""
+"Large main building with street access for passenger stations. Provides "
+"capacity for 100 passengers."
+msgstr ""
+"Grosses Hauptgebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 100 Passagiere."
+
+msgid ""
+"Large main building with street access for passenger stations. Provides "
+"capacity for 150 passengers."
+msgstr ""
+"Grosses Hauptgebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 150 Passagiere."
+
+msgid ""
+"Large main building with street access for passenger stations. Provides "
+"capacity for 200 passengers."
+msgstr ""
+"Grosses Hauptgebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 200 Passagiere."
 
 msgid "Large one-way street"
 msgstr "Grosse Einbahnstrasse"
 
+msgid "Large passenger building"
+msgstr "Grosses Passagiergebäude"
+
 msgid "Large side building"
 msgstr "Grosses Nebengebäude"
 
-msgid "Large side building with street access for cargo stations."
-msgstr "Grosses Nebengebäude mit Strassenzugang für Güter-Bahnhöfe."
+msgid ""
+"Large side building with street access for cargo stations. Provides capacity "
+"for 60 cargo items."
+msgstr ""
+"Grosses Nebengebäude mit Strassenzugang für Güter-Bahnhöfe. Bietet Kapazität "
+"für 60 Gütereinheiten."
 
-msgid "Large side building with street access for passenger stations."
-msgstr "Grosses Nebengebäude mit Strassenzugang für Passagier-Bahnhöfe."
+msgid ""
+"Large side building with street access for passenger stations. Provides "
+"capacity for 100 passengers."
+msgstr ""
+"Grosses Nebengebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 100 Passagiere."
+
+msgid ""
+"Large side building with street access for passenger stations. Provides "
+"capacity for 150 passengers."
+msgstr ""
+"Grosses Nebengebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 150 Passagiere."
+
+msgid ""
+"Large side building with street access for passenger stations. Provides "
+"capacity for 80 passengers."
+msgstr ""
+"Grosses Nebengebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 80 Passagiere."
 
 msgid "Large street"
 msgstr "Grosse Strasse"
@@ -1730,6 +1898,9 @@ msgstr "Linienstatistik"
 
 msgid "Livestock"
 msgstr "Vieh"
+
+msgid "Loan interest"
+msgstr "Zinsen"
 
 msgid "Logs"
 msgstr "Baumstämme"
@@ -6246,7 +6417,7 @@ msgstr ""
 msgid "MISSION_MACHINES_TASK_FIRSTTRY_TEXT"
 msgstr ""
 "Dein Freund Louis Blériot, ein Mann mit einem ganz besonderen Gemüt und "
-"einem ebensolchen Schnurrbart hat ein Projekt. \n"
+"einem ebensolchen Schnurrbart, hat ein Projekt. \n"
 "Er will das erste funktionierende Flugzeug in der Geschichte konstruieren. \n"
 "Das nötige Kleingeld, das er für dieses Unterfangen braucht, beschert ihm "
 "seine Autolampenfabrik − wenn er nur genug Autolampen verkauft. Hilf ihm "
@@ -12909,20 +13080,41 @@ msgstr "Hauptgebäude"
 msgid "Main building for cargo harbors."
 msgstr "Hauptgebäude für Güter-Häfen."
 
+msgid "Main building for cargo harbors. Provides capacity for 200 cargo items."
+msgstr "Hauptgebäude für Güter-Häfen. Bietet Kapazität für 200 Gütereinheiten."
+
 msgid "Main building for passenger harbors."
 msgstr "Hauptgebäude für Passagier-Häfen."
 
-msgid "Main building with street access for airfields."
-msgstr "Hauptgebäude mit Strassenzugang für Flugplätze."
+msgid ""
+"Main building for passenger harbors. Provides capacity for 150 passengers."
+msgstr "Hauptgebäude für Passagier-Häfen. Bietet Kapazität für 150 Passagiere."
 
-msgid "Main building with street access for airports."
-msgstr "Hauptgebäude mit Strassenzugang für Flughäfen."
+msgid ""
+"Main building with street access for airfields. Provides capacity for 40 "
+"cargo items and 100 passengers."
+msgstr ""
+"Hauptgebäude mit Strassenzugang für Flugplätze. Bietet Kapazität für 40 "
+"Passagiere und 100 Gütereinheiten."
+
+msgid ""
+"Main building with street access for airports. Provides capacity for 100 "
+"cargo items and 200 passengers."
+msgstr ""
+"Hauptgebäude mit Strassenzugang für Flughäfen. Bietet Kapazität für 40 "
+"Passagiere und 100 Gütereinheiten."
 
 msgid "Main platform"
 msgstr "Hauptplattform"
 
 msgid "Mainland"
 msgstr "Festland"
+
+msgid "Maintenance infrastructure"
+msgstr "Unterhalt Infrastruktur"
+
+msgid "Maintenance vehicles"
+msgstr "Unterhalt Fahrzeuge"
 
 msgid "Major contour (100 m)"
 msgstr "Haupthöhenlinien (100m)"
@@ -12932,6 +13124,12 @@ msgstr "Marmor"
 
 msgid "Maximal"
 msgstr "Maximal"
+
+msgid "Maximum loan"
+msgstr "Maximales Darlehen"
+
+msgid "Maximum number of cargo needs per town"
+msgstr "Maximale Anzahl an benötigter Grüter pro Stadt"
 
 msgid "Medium"
 msgstr "Mittel"
@@ -12957,11 +13155,33 @@ msgstr "Mittlere Autobahn"
 msgid "Medium main building"
 msgstr "Mittleres Hauptgebäude"
 
-msgid "Medium main building with street access for cargo stations."
-msgstr "Mittelgrosses Hauptgebäude mit Strassenzugang für Güter-Bahnhöfe."
+msgid ""
+"Medium main building with street access for cargo stations. Provides "
+"capacity for 40 cargo items."
+msgstr ""
+"Mittelgrosses Hauptgebäude mit Strassenzugang für Güter-Bahnhöfe. Bietet "
+"Kapazität für 40 Gütereinheiten."
 
-msgid "Medium main building with street access for passenger stations."
-msgstr "Mittelgrosses Hauptgebäude mit Strassenzugang für Passagier-Bahnhöfe."
+msgid ""
+"Medium main building with street access for passenger stations. Provides "
+"capacity for 40 passengers."
+msgstr ""
+"Mittelgrosses Hauptgebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 40 Passagiere."
+
+msgid ""
+"Medium main building with street access for passenger stations. Provides "
+"capacity for 45 passengers."
+msgstr ""
+"Mittelgrosses Hauptgebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 45 Passagiere."
+
+msgid ""
+"Medium main building with street access for passenger stations. Provides "
+"capacity for 50 passengers."
+msgstr ""
+"Mittelgrosses Hauptgebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 50 Passagiere."
 
 msgid "Medium one-way street"
 msgstr "Mittlere Einbahnstrasse"
@@ -12969,11 +13189,33 @@ msgstr "Mittlere Einbahnstrasse"
 msgid "Medium side building"
 msgstr "Mittleres Nebengebäude"
 
-msgid "Medium side building with street access for cargo stations."
-msgstr "Mittelgrosses Nebengebäude mit Strassenzugang für Güter-Bahnhöfe."
+msgid ""
+"Medium side building with street access for cargo stations. Provides "
+"capacity for 30 cargo items."
+msgstr ""
+"Mittelgrosses Nebengebäude mit Strassenzugang für Güter-Bahnhöfe. Bietet "
+"Kapazität für 30 Gütereinheiten."
 
-msgid "Medium side building with street access for passenger stations."
-msgstr "Mittelgrosses Nebengebäude mit Strassenzugang für Passagier-Bahnhöfe."
+msgid ""
+"Medium side building with street access for passenger stations. Provides "
+"capacity for 30 passengers."
+msgstr ""
+"Mittelgrosses Nebengebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 30 Passagiere."
+
+msgid ""
+"Medium side building with street access for passenger stations. Provides "
+"capacity for 35 passengers."
+msgstr ""
+"Mittelgrosses Nebengebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 35 Passagiere."
+
+msgid ""
+"Medium side building with street access for passenger stations. Provides "
+"capacity for 40 passengers."
+msgstr ""
+"Mittelgrosses Nebengebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 40 Passagiere."
 
 msgid "Medium street"
 msgstr "Mittlere Strasse"
@@ -13037,75 +13279,73 @@ msgstr "Bergahorn"
 
 msgid "NEWS_DESCRIPTION_1"
 msgstr ""
-"Im Linienmanager kann neu für jeden Stopp die minimale und maximale "
-"Wartezeit eingestellt werden.\n"
-"Neu können Fahrzeuge, Linien und Stationen sowohl im Fahrzeug- als auch im "
-"Linienmanager umbenannt werden."
+"Städte verlangen mit zunehmender Bevölkerungszahl zusätzliche Arten von "
+"Gütern.\n"
+"Neue Industrien werden während dem Spiel auf der Karte gegründet und "
+"verlassene Industrien verschwinden nach einiger Zeit.\n"
+"Passe die Finanz- und Stadtwachstumsfaktoren mit den erweiterten "
+"Spieloptionen an."
 
 msgid "NEWS_DESCRIPTION_2"
 msgstr ""
-"Beim Fahrzeugkauf gibt es nun nützliche Filter und Sortieroptionen.\n"
-"Die Strassen- und Schienenbaumenüs wurden vereinfacht, damit die richtigen "
-"Werkzeuge noch schneller gefunden werden können.\n"
-"Es gibt neue und bessere Modifikationswerkzeuge für Strassen und Schienen."
+"Wähle die bevorzugte Fahrspur für Strassenwegpunkte aus.\n"
+"Verwende Bojen als Wegpunkte für Schiffslinien.\n"
+"Passe die Bahnsteiglänge an die Länge der haltenden Züge an, damit sich die "
+"Be- und Entladezeit nicht verlängert."
 
 msgid "NEWS_DESCRIPTION_3"
 msgstr ""
-"Wenn in Städten neue Häuser gebaut werden gibt es neu Baukräne.\n"
-"Trams und alle Fahrzeugtypen unterstützen nun Blinklichter und "
-"Rauchpartikel.\n"
-"Strassenfahrzeuge warten auf die Öffnung von Bahnschranken und fahren an "
-"Stationen erst los, wenn die Türen geschlossen sind."
+"Konfiguriere alternative Terminals an Stationen, um mehrere Fahrzeuge einer "
+"Linie gleichzeitig bedienen zu können.\n"
+"Erweitere die Kapazität von Stationen mit modularen Gebäuden für Passagiere "
+"und Güter."
 
 msgid "NEWS_DESCRIPTION_4"
 msgstr ""
-"Mit dem randlosen Fenstermodus gibt es einen neuen Anzeigemodus bei den "
-"Grafikeinstellungen.\n"
-"Neu kann bei der Maussteuerung eingestellt werden, dass vom Cursor "
-"herausgezoomt werden soll.\n"
-"Nach dem Erstellen einer Karte im Karteneditor kann neu direkt ein Spiel "
-"gestartet werden."
+"Lasse die Fahrzeughupe in der Cockpit-Kamera ertönen.\n"
+"Platziere Pfeiftafeln entlang der Bahngleise, damit Züge ihr Horn nutzen.\n"
+"Verwende benutzerdefinierte Farben, um die Fahrzeug- oder Linienfarbe "
+"festzulegen."
 
 msgid "NEWS_DESCRIPTION_5"
 msgstr ""
-"Damit noch grössere Karten gespielt werden können, wurde die Performance der "
-"Simulation weiter optimiert.\n"
-"Die Installation von vielen Mods wird nun besser unterstützt, da die Mod-"
-"Ladezeiten im Hauptmenu verbessert wurden.\n"
-"Sollte das Spiel mal abstürzen, wird neu der aktuelle Spielstand noch "
-"gespeichert."
+"Speichere und lade eine Liste von Mods einschliesslich ihrer Konfiguration "
+"als Mod-Presets.\n"
+"Verwende den benutzerfreundlicheren und erweiterten Model Editor."
 
 msgid "NEWS_DESCRIPTION_6"
 msgstr ""
 "Basierend auf dem Feedback der Spieler wurden viele weitere Verbesserungen, "
 "Fehlerbehebungen und Erweiterungen realisiert.\n"
-"So wurde zum Beispiel auch das Menu für den Bau von Brücken, Tunnels und "
-"Bahnübergänge vereinheitlicht.\n"
-"Die Release Notes zeigen im Detail auf, was alles verbessert wurde."
+"Die Release Notes im offiziellen Transport Fever 2 Wiki zeigen im Detail, "
+"was alles verbessert wurde."
 
 msgid "NEWS_TITLE"
-msgstr "Neuigkeiten 8. Juli 2021: \"Summer Update\" veröffentlicht"
+msgstr "Neuigkeiten 10. Mai 2022: Frühlings-Update veröffentlicht"
 
 msgid "NEWS_TITLE_1"
-msgstr "Mehr Kontrolle über Fahrzeuge und Linien"
+msgstr "Neue Herausforderungen und optionale Spielelemente"
 
 msgid "NEWS_TITLE_2"
-msgstr "Intuitivere Bedienung und bessere Tools"
+msgstr "Mehr Kontrolle über Strassen- und Schiffslinien"
 
 msgid "NEWS_TITLE_3"
-msgstr "Eine noch schönere Spielwelt"
+msgstr "Besseres Fracht- und Passagiermanagement"
 
 msgid "NEWS_TITLE_4"
-msgstr "Besseres Spielmenü und neue Einstellungen"
+msgstr "Mehr Spass und Möglichkeiten"
 
 msgid "NEWS_TITLE_5"
-msgstr " Mehr Performance und Stabilität"
+msgstr "Verbesserte Modding-Unterstützung"
 
 msgid "NEWS_TITLE_6"
-msgstr " Viele weitere Verbesserungen"
+msgstr "Viele weitere Verbesserungen"
 
 msgid "Navigable waters layer"
 msgstr "Schiffbare Gewässer"
+
+msgid "Never"
+msgstr "Niemals"
 
 msgid "No"
 msgstr "Nein"
@@ -13134,6 +13374,9 @@ msgstr "Hier gibt es nichts zu sehen"
 msgid "Number of cargo items transported"
 msgstr "Transportierte Güter"
 
+msgid "Number of industries"
+msgstr "Anzahl Industrien"
+
 msgid "Number of lanes"
 msgstr "Anzahl Fahrbahnen"
 
@@ -13148,6 +13391,9 @@ msgstr "Anzahl Gleise"
 
 msgid "Ocotillo"
 msgstr "Ocotillo"
+
+msgid "Often"
+msgstr "Oft"
 
 msgid "Oh, what's that?"
 msgstr "Oh, was ist das?"
@@ -13178,6 +13424,9 @@ msgstr "Einbahnstrasse mit einer Geschwindigkeitsbegrenzung von %2%."
 
 msgid "One-way"
 msgstr "Einbahn"
+
+msgid "Overcrowded stations"
+msgstr "Überfüllte Stationen"
 
 msgid "Pageantry"
 msgstr "Prunk"
@@ -13221,11 +13470,11 @@ msgstr "Passagier-Bahnhof"
 msgid "Passenger terminal"
 msgstr "Passagier-Terminal"
 
-msgid "Passenger terminal for airfields."
-msgstr "Passagier-Terminal für Flugplätze."
+msgid "Passenger terminal for airfields. Provides capacity for 20 passengers."
+msgstr "Passagier-Terminal für Flugplätze. Bietet Kapazität für 20 Passagiere."
 
-msgid "Passenger terminal for airports."
-msgstr "Passagier-Terminal für Flughäfen."
+msgid "Passenger terminal for airports. Provides capacity for 100 passengers."
+msgstr "Passagier-Terminal für Flughäfen. Bietet Kapazität für 100 Passagiere."
 
 msgid "Passenger terminus station"
 msgstr "Passagier-Kopfbahnhof"
@@ -13256,6 +13505,15 @@ msgstr "Steine ​einzeln oder mit einem Pinsel platzieren."
 
 msgid "Place trees individually or with a brush."
 msgstr "Bäume ​einzeln oder mit einem Pinsel platzieren."
+
+msgid "Placeholder"
+msgstr "Platzhalter"
+
+msgid "Placeholder bridge"
+msgstr "Platzhalterbrücke"
+
+msgid "Placeholder tunnel"
+msgstr "Platzhaltertunnel"
 
 msgid "Plane Parts"
 msgstr "Flugzeugteile"
@@ -13293,11 +13551,20 @@ msgstr "Platformen links"
 msgid "Platforms Right"
 msgstr "Plattformen rechts"
 
+msgid "Private transport"
+msgstr "Privatverkehr"
+
+msgid "Public transport"
+msgstr "Öffentlicher Verkehr"
+
 msgid "Quarry"
 msgstr "Steinbruch"
 
 msgid "Railroad crossing"
 msgstr "Bahnübergang"
+
+msgid "Rarely"
+msgstr "Selten"
 
 msgid "Red delicious apple"
 msgstr "Red Delicious Apfelbaum"
@@ -13410,6 +13677,9 @@ msgstr "Schindeleiche"
 msgid "Shinkansen 0 Luxus Series"
 msgstr "Shinkansen 0 Luxus Series"
 
+msgid "Ship Waypoint"
+msgstr "Schiff Wegpunkt"
+
 msgid "Shipyard"
 msgstr "Werft"
 
@@ -13449,6 +13719,9 @@ msgstr "Kleine"
 msgid "Small bus/tram stop for passengers, to be placed on the sidewalk."
 msgstr "Kleine Bus-/Tramhaltestelle, die auf dem Gehsteig platziert wird."
 
+msgid "Small cargo building"
+msgstr "Kleines Frachtgebäude"
+
 msgid "Small country road"
 msgstr "Kleine Landstrasse"
 
@@ -13457,17 +13730,19 @@ msgstr "Kleines Dock"
 
 msgid ""
 "Small dock for small cargo ships. A small landing is required for ships to "
-"be able to dock."
+"be able to dock. Provides capacity for 30 cargo items."
 msgstr ""
 "Kleines Dock für kleine Frachtschiffe. Eine kleine Anlegestelle ist "
-"erforderlich, damit Schiffe anlegen können."
+"erforderlich, damit Schiffe anlegen können. Bietet Kapazität für 30 "
+"Gütereinheiten."
 
 msgid ""
 "Small dock for small passenger ships. A small landing is required for ships "
-"to be able to dock."
+"to be able to dock. Provides capacity for 25 passengers."
 msgstr ""
 "Kleines Dock für kleine Passagierschiffe. Eine kleine Anlegestelle ist "
-"erforderlich, damit Schiffe anlegen können."
+"erforderlich, damit Schiffe anlegen können. Bietet Kapazität für 25 "
+"Passagiere."
 
 msgid "Small landing"
 msgstr "Kleine Anlegestelle"
@@ -13475,23 +13750,70 @@ msgstr "Kleine Anlegestelle"
 msgid "Small main building"
 msgstr "Kleines Hauptgebäude"
 
-msgid "Small main building with street access for cargo stations."
-msgstr "Kleines Hauptgebäude mit Strassenzugang für Güter-Bahnhöfe."
+msgid ""
+"Small main building with street access for cargo stations. Provides capacity "
+"for 20 cargo items."
+msgstr ""
+"Kleines Hauptgebäude mit Strassenzugang für Güter-Bahnhöfe. Bietet Kapazität "
+"für 20 Gütereinheiten."
 
-msgid "Small main building with street access for passenger stations."
-msgstr "Kleines Hauptgebäude mit Strassenzugang für Passagier-Bahnhöfe."
+msgid ""
+"Small main building with street access for passenger stations. Provides "
+"capacity for 20 passengers."
+msgstr ""
+"Kleines Hauptgebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 20 Passagiere."
+
+msgid ""
+"Small main building with street access for passenger stations. Provides "
+"capacity for 25 passengers."
+msgstr ""
+"Kleines Hauptgebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 25 Passagiere."
+
+msgid ""
+"Small main building with street access for passenger stations. Provides "
+"capacity for 30 passengers."
+msgstr ""
+"Kleines Hauptgebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 30 Passagiere."
 
 msgid "Small one-way street"
 msgstr "Kleine Einbahnstrasse"
 
+msgid "Small passenger building"
+msgstr "Kleines Passagiergebäude"
+
 msgid "Small side building"
 msgstr "Kleines Nebengebäude"
 
-msgid "Small side building with street access for cargo stations."
-msgstr "Kleines Nebengebäude mit Strassenzugang für Güter-Bahnhöfe."
+msgid ""
+"Small side building for passenger stations. Provides capacity for 10 "
+"passengers."
+msgstr ""
+"Kleines Seitengebäude für Passagier-Bahnhöfe. Bietet Kapazität für 10 "
+"Passagiere."
 
-msgid "Small side building with street access for passenger stations."
-msgstr "Kleines Nebengebäude mit Strassenzugang für Passagier-Bahnhöfe."
+msgid ""
+"Small side building for passenger stations. Provides capacity for 15 "
+"passengers."
+msgstr ""
+"Kleines Seitengebäude für Passagier-Bahnhöfe. Bietet Kapazität für 15 "
+"Passagiere."
+
+msgid ""
+"Small side building with street access for cargo stations. Provides capacity "
+"for 10 cargo items."
+msgstr ""
+"Kleines Nebengebäude mit Strassenzugang für Güter-Bahnhöfe. Bietet Kapazität "
+"für 10 Gütereinheiten."
+
+msgid ""
+"Small side building with street access for passenger stations. Provides "
+"capacity for 20 passengers."
+msgstr ""
+"Kleines Nebengebäude mit Strassenzugang für Passagier-Bahnhöfe. Bietet "
+"Kapazität für 20 Passagiere."
 
 msgid "Small street"
 msgstr "Kleine Strasse"
@@ -13520,6 +13842,9 @@ msgstr "Erdiger Sand 03"
 
 msgid "Something mysterious"
 msgstr "Etwas mysteriöses"
+
+msgid "Sometimes"
+msgstr "Manchmal"
 
 msgid "Spanish"
 msgstr "Spanisch"
@@ -13732,6 +14057,9 @@ msgstr ""
 "Bei Fahrzeugen führt ein hoher Wartungslevel zu niedrigeren Emissionen, "
 "verursacht aber höhere Wartungskosten."
 
+msgid "Target value for number of industries"
+msgstr "Zielwert für die angestrebte Anzahl Industrien"
+
 msgid "Taxi signal"
 msgstr "Rollhalt"
 
@@ -13752,6 +14080,9 @@ msgstr "Terrainformung"
 
 msgid "The context help page for this menu or window is not available."
 msgstr "Für dieses Menu oder Fenster steht keine Kontexthilfe zur Verfügung."
+
+msgid "The maximum amount of money that can be borrowed from the bank"
+msgstr "Der maximale Geldbetrag, der von der Bank geliehen werden kann"
 
 msgid "Three-lane one-way road with a speed limit of %2%."
 msgstr "Dreispurige Autobahn mit einer Geschwindigkeitsbegrenzung von %2%."
@@ -13787,6 +14118,9 @@ msgstr "Städtestatistik"
 msgid "Towns"
 msgstr "Städte"
 
+msgid "Towns cargo needs"
+msgstr "Güterbedarf der Städte"
+
 msgid "Track assets"
 msgstr "Gleis Assets"
 
@@ -13801,6 +14135,9 @@ msgstr "Gleistyp"
 
 msgid "Tracks"
 msgstr "Gleise"
+
+msgid "Traffic congestion"
+msgstr "Stau"
 
 msgid "Train depot"
 msgstr "Zugdepot"
@@ -13867,6 +14204,14 @@ msgid "Used for rerouting a line. Can be added to a line like a station."
 msgstr ""
 "Wird eingesetzt, um die Wegführung einer Linie zu kontrollieren. Kann (wie "
 "eine Haltestelle) einer Linie hinzugefügt werden."
+
+msgid ""
+"Used for rerouting a line. Can be added to a line like a station. Passing "
+"trains use their horn."
+msgstr ""
+"Wird eingesetzt, um die Wegführung einer Linie zu kontrollieren. Kann (wie "
+"eine Haltestelle) einer Linie hinzugefügt werden. Vorbeifahrende Züge "
+"benutzen ihre Hupe."
 
 msgid "Used to buy/sell buses and trucks."
 msgstr "Wird benötigt, um Busse und LKWs zu kaufen und zu verkaufen."
@@ -16542,11 +16887,17 @@ msgstr "Fahrzeuge"
 msgid "Very Big"
 msgstr "Sehr gross"
 
+msgid "Very hard"
+msgstr "Sehr schwierig"
+
 msgid "Very high"
 msgstr "Sehr hoch"
 
 msgid "Very low"
 msgstr "Sehr niedrig"
+
+msgid "Very often"
+msgstr "Sehr oft"
 
 msgid "Very small"
 msgstr "Sehr klein"
@@ -16565,6 +16916,12 @@ msgstr "Wasser"
 
 msgid "Water Dirty"
 msgstr "Dreckiges Wasser"
+
+msgid "Waterway"
+msgstr "Wasserstrasse"
+
+msgid "Waterway with a speed limit of %2%."
+msgstr "Wasserstrasse mit einer Geschwindigkeitsbegrenzung von %2 %."
 
 msgid "Waypoint"
 msgstr "Wegpunkt"
@@ -16646,6 +17003,12 @@ msgstr "Eisenbahnsignale müssen im markierten Bereich gebaut werden"
 
 msgid "unused"
 msgstr "unbenutzt"
+
+msgid "up to 4 cargo types"
+msgstr "bis zu 4 Gütertypen"
+
+msgid "up to 6 cargo types"
+msgstr "bis zu 6 Gütertypen"
 
 msgid "yes"
 msgstr "Ja"
