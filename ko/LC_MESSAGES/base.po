@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-14 12:35+0100\n"
-"PO-Revision-Date: 2022-05-10 19:54+0900\n"
+"PO-Revision-Date: 2022-05-11 11:08+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ko_KR\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 2.3\n"
 "X-Language: de_CH\n"
 "X-Source-Language: C\n"
 
@@ -130,40 +130,40 @@ msgid "%d for having transported at least 100000 units of cargo"
 msgstr "%d을(를) 가지려면 100,000유닛의 화물을 운송해야 합니다"
 
 msgid "%d for high-speed rail network"
-msgstr "%d을(를) 가지려면 고속철도 노선을 소유해야 합니다"
+msgstr "고속 선로 길이 %d"
 
 msgid "%d for rail network bridges"
-msgstr "%d을(를) 가지려면 철도 다리를 소유해야 합니다"
+msgstr "선로 다리 길이 %d"
 
 msgid "%d for rail network electrification"
-msgstr ""
+msgstr "전철화된 선로 %d"
 
 msgid "%d for rail network length"
-msgstr ""
+msgstr "선로 길이 %d"
 
 msgid "%d for rail network tunnels"
-msgstr ""
+msgstr "선로 터널 길이 %d"
 
 msgid "%d point(s) for company value"
-msgstr ""
+msgstr "회사 가치 %d점"
 
 msgid "%d point(s) for having more than 10 trains"
-msgstr ""
+msgstr "10대 이상의 열차 %d점"
 
 msgid "%d point(s) for having more than 100 road vehicles"
-msgstr ""
+msgstr "100대 이상의 자동차 %d점"
 
 msgid "%d point(s) for having more than 20 trams"
-msgstr ""
+msgstr "20대 이상의 트램 %d점"
 
 msgid "%d point(s) for having more than 5 aircraft"
-msgstr ""
+msgstr "5대 이상의 비행기 %d점"
 
 msgid "%d point(s) for having more than 5 ships"
-msgstr ""
+msgstr "5척 이상의 선박 %d점"
 
 msgid "%d point(s) for maximum vehicle age"
-msgstr ""
+msgstr "최대 교통수단의 연식 %d점"
 
 msgid "(%1% compartment)"
 msgid_plural "(%1% compartments)"
@@ -383,7 +383,7 @@ msgstr ""
 "어디로 갈까요?"
 
 msgid "Ambient occlusion (SSAO)"
-msgstr ""
+msgstr "앰비언트 오클루전(SSAO)"
 
 msgid "American vehicles"
 msgstr "미국식 차량"
@@ -391,7 +391,7 @@ msgstr "미국식 차량"
 msgid ""
 "An integrated graphic chip is active. For best performance, make sure to:"
 msgstr ""
-"통합 그래픽 칩(Integrated Graphic Chip)이 활성화되어 있습니다. 최고의 성능을 "
+"내장 그래픽 칩(Integrated Graphic Chip)이 활성화되어 있습니다. 최고의 성능을 "
 "내려면:"
 
 msgid "Anti-aliasing"
@@ -850,7 +850,7 @@ msgid "Change type"
 msgstr "종류 변경"
 
 msgid "Charles Alton Ellis"
-msgstr ""
+msgstr "찰스 앨튼 엘리스"
 
 msgid "Chart"
 msgstr "차트"
@@ -2066,7 +2066,7 @@ msgid "Liquidity"
 msgstr "현금"
 
 msgid "Load"
-msgstr "상차"
+msgstr "불러오기"
 
 msgid "Load Camera config"
 msgstr "카메라 설정 불러오기"
@@ -2102,7 +2102,7 @@ msgid "Load the map"
 msgstr "맵 불러오기"
 
 msgid "Loaded"
-msgstr "상차됨"
+msgstr "불러옴"
 
 msgid "Loading order, click to change"
 msgstr "불러오기 순서, 바꾸려면 클릭"
@@ -2132,7 +2132,7 @@ msgid "Locomotives"
 msgstr "기관차"
 
 msgid "Louis Favre"
-msgstr ""
+msgstr "루이 파브레"
 
 msgid "Low"
 msgstr "낮음"
@@ -3607,7 +3607,7 @@ msgid "Tags"
 msgstr "태그"
 
 msgid "Target population"
-msgstr "목표 인구수"
+msgstr "최종 인구수"
 
 msgid "Task completed"
 msgstr "과제 완료"
@@ -4228,11 +4228,11 @@ msgstr "m"
 
 msgctxt "dlc-name"
 msgid "Nordic"
-msgstr ""
+msgstr "북유럽"
 
 msgctxt "dlc-name"
 msgid "USA"
-msgstr ""
+msgstr "미국"
 
 msgctxt "force-unit"
 msgid "kN"
@@ -4821,347 +4821,361 @@ msgid " + "
 msgstr " + "
 
 msgid " or "
-msgstr ""
+msgstr "또는"
 
 msgid "%1% day"
 msgid_plural "%1% days"
-msgstr[0] ""
+msgstr[0] "%1%일"
 
 msgid "%1% now accepts a new cargo type"
 msgid_plural "%1% now accepts new cargo types"
-msgstr[0] ""
+msgstr[0] "%1%은(는) 이제 새 화물 종류를 취급합니다"
 
 msgid "---"
 msgstr "---"
 
 msgid "A new industry was founded"
-msgstr ""
+msgstr "새 산업 발견"
 
 msgid "AGC"
-msgstr ""
+msgstr "자동 생산 제어"
 
 msgid ""
 "Abandoned industry! Closes forever and disappears from the map if not "
 "operational within %1%"
 msgstr ""
+"파괴된 산업 시설! %1%이내에 재가동되지 않으면 영구 폐쇄되고 맵에서 사라집니"
+"다."
 
 msgid "Abandoned industry! Closes in %1%."
-msgstr ""
+msgstr "파괴된 산업 시설! %1%이내에 폐쇄됩니다."
 
 msgid "Abort"
-msgstr ""
+msgstr "중단됨"
 
 msgid "Achievements can't be earned if the following settings are used:"
-msgstr ""
+msgstr "다음 설정을 사용하면 도전 과제를 획득할 수 없습니다:"
 
 msgid "Add New"
-msgstr ""
+msgstr "새로 추가"
 
 msgid "Add mods from preset to the end of the list of activated mods."
-msgstr ""
+msgstr "프리셋에서의 모드를 활성화된 모드 목록의 마지막에 추가"
 
 msgid "Advanced Settings"
-msgstr ""
+msgstr "고급 설정"
 
 msgid "Alt"
 msgstr "Alt"
 
 msgid "Append"
-msgstr ""
+msgstr "추가"
 
 msgid "Basic Game Settings"
-msgstr ""
+msgstr "기본 게임 설정"
 
 msgid "Basic Settings"
-msgstr ""
+msgstr "기본 설정"
 
 msgid "Camera config name"
-msgstr ""
+msgstr "카메라 설정 이름"
 
 msgid "Change Type"
-msgstr ""
+msgstr "종류 변경"
 
 msgid "Cheats"
-msgstr ""
+msgstr "치트"
 
 msgid "Classic"
-msgstr ""
+msgstr "클래식"
 
 msgid "Climate:"
-msgstr ""
+msgstr "기후:"
 
 msgid "Closed"
-msgstr ""
+msgstr "폐쇄됨"
 
 msgid "Cmd"
-msgstr ""
+msgstr "명령어"
 
 msgid "Cockpit camera: horn sound"
-msgstr ""
+msgstr "기관실 시점: 경적 울리기"
 
 msgid "Construction"
-msgstr ""
+msgstr "건설"
 
 msgid "Continue to external website?"
-msgstr ""
+msgstr "외부 사이트로 연결할까요?"
 
+#, fuzzy
 msgid "Couch"
-msgstr ""
+msgstr "긴 의자"
 
 msgid "Could not connect all alternative terminals"
-msgstr ""
+msgstr "모든 대체 터미널에 연결할 수 없습니다"
 
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 msgid "Custom cargo"
-msgstr ""
+msgstr "사용자 정의 화물"
 
 msgid "Custom colors"
-msgstr ""
+msgstr "사용자 정의 색깔"
 
 msgid "DX12"
-msgstr ""
+msgstr "DirectX 12"
 
 msgid "Delete Settings DEBUG"
-msgstr ""
+msgstr "디버그 설정 삭제"
 
 msgid "Delete camera config "
-msgstr ""
+msgstr "시점 설정 삭제"
 
 msgid "Delete camera config?"
-msgstr ""
+msgstr "시점 설정을 삭제할까요?"
 
 msgid "Delete mod preset "
-msgstr ""
+msgstr "모드 프리셋 삭제"
 
 msgid "Delete mod preset?"
-msgstr ""
+msgstr "모드 프리셋을 삭제할까요?"
 
 msgid "Difficulty"
-msgstr ""
+msgstr "난이도"
 
 msgid "Enable mods from a mod preset. Already enabled mods are not disabled."
 msgstr ""
+"모드 프리셋에서 모드를 활성화합니다. 이미 활성화된 모드는 비활성화되지 않습니"
+"다."
 
 msgid "Enable production or ship items to prevent closure."
-msgstr ""
+msgstr "폐쇄를 방지하기 위해 상품을 생산하거나 운송합니다."
 
 msgid "Environment:"
-msgstr ""
+msgstr "환경:"
 
 msgid "Filter settings"
-msgstr ""
+msgstr "필터 설정"
 
 msgid "Finances - Chart"
-msgstr ""
+msgstr "재무-차트"
 
 msgid "Finances - Table"
-msgstr ""
+msgstr "재무-표"
 
+#, fuzzy
 msgid "GNM"
-msgstr ""
+msgstr "GNM"
 
 msgid "Game Storage"
-msgstr ""
+msgstr "게임 저장소"
 
 msgid "Game options"
-msgstr ""
+msgstr "게임 설정"
 
 msgid "Generator"
-msgstr ""
+msgstr "생성기"
 
 msgid "Go to previous page"
-msgstr ""
+msgstr "이전 페이지로"
 
 msgid "Industry closure"
-msgstr ""
+msgstr "산업 시설 폐쇄"
 
 msgid "Industry spawn"
-msgstr ""
+msgstr "산업 시설 생성"
 
 msgid "Inspector"
-msgstr ""
+msgstr "검표"
 
 msgid "Load mod preset"
-msgstr ""
+msgstr "모드 프리셋 불러오기"
 
 msgid ""
 "Loading speed reduced because train length ({train}) exceeds platform length "
 "({station})"
 msgstr ""
+"열차 길이({train}) 가 플랫폼 길이({station})보다 길어서 상차 속도가 감소합니"
+"다"
 
 msgid "Loading speed: {amount}x"
-msgstr ""
+msgstr "상차 속도: {amount}배"
 
 msgid "Map Parameters"
-msgstr ""
+msgstr "맵 매개변수"
 
 msgid "Min. bridge height"
-msgstr ""
+msgstr "최소 다리 높이"
 
 msgid "Min. tunnel depth"
-msgstr ""
+msgstr "최소 터널 깊이"
 
 msgid "Mod preset name"
-msgstr ""
+msgstr "모드 프리셋 이름"
 
 msgid "Mods"
-msgstr ""
+msgstr "모드"
 
 msgid ""
 "Mods are active or advanced settings are modified. Achievements cannot be "
 "earned!"
 msgstr ""
+"모드가 활성화되었거나 고급 설정이 변경되었습니다. 도전과제를 획득할 수 없습니"
+"다!"
 
 msgid "No costs"
-msgstr ""
+msgstr "지출 없음"
 
 msgid "No money:"
-msgstr ""
+msgstr "돈 없음:"
 
 msgid "On"
-msgstr ""
+msgstr "켜짐"
 
 msgid "Overwrite camera config?"
-msgstr ""
+msgstr "시점 설정을 덮어쓸까요?"
 
 msgid "Overwrite mod preset?"
-msgstr ""
+msgstr "모드 프리셋을 덮어쓸까요?"
 
 msgid "Press <Shift> to set custom color"
-msgstr ""
+msgstr "<Shift>를 눌러 사용자 정의 색깔을 설정하세요"
 
 msgid "Remove line"
-msgstr ""
+msgstr "노선 삭제"
 
 msgid "Replace current list of activated mods with this preset."
-msgstr ""
+msgstr "현재 활성화된 모드 목록을 이 프리셋으로 교체합니다."
 
 msgid ""
 "Resource errors detected which may be caused by missing or defect mods.\n"
 "Check the stdout.txt for detailed information."
 msgstr ""
+"없거나 오류가 있는 모드로 인해 리소스 오류가 감지되었습니다.\n"
+"stdout.txt파일을 확인하여 자세한 정보를 확인하세요."
 
 msgid "Sandbox mode"
-msgstr ""
+msgstr "샌드박스 모드"
 
 msgid "Sandbox mode:"
-msgstr ""
+msgstr "샌드박스 모드:"
 
 msgid "Save mod preset"
-msgstr ""
+msgstr "모드 프리셋 저장"
 
 msgid "Savegame not ready"
-msgstr ""
+msgstr "저장된 게임 준비되지 않음"
 
 msgid "Seed"
-msgstr ""
+msgstr "시드"
 
 msgid "Select terminal for this waypoint"
-msgstr ""
+msgstr "이 웨이포인트의 터미널 선택"
 
 msgid "Set Railroad Crossing Type"
-msgstr ""
+msgstr "철도 건널목 종류 설정"
 
 msgid "Shared capacity of station buildings for full platforms"
-msgstr ""
+msgstr "전체 플랫폼을 위한 역 건물의 공유 용량"
 
 msgid "Shift"
-msgstr ""
+msgstr "Shift"
 
 msgid "Show video memory usage warning"
-msgstr ""
+msgstr "비디오 메모리 사용 경고 보이기"
 
 msgid "Sound Effects"
-msgstr ""
+msgstr "효과음"
 
 msgid "Start the editor"
-msgstr ""
+msgstr "편집기 시작"
 
 msgid "Start year"
-msgstr ""
+msgstr "시작 연도"
 
 msgid "Statistics"
-msgstr ""
+msgstr "통계"
 
 msgid "Store the current list of activated mods in a mod preset"
-msgstr ""
+msgstr "현재 활성화된 모드 목록을 모드 프리셋에 저장"
 
 msgid "Store the current list of activated mods in a preset"
-msgstr ""
+msgstr "현재 활성화된 모드 목록을 프리셋에 저장"
 
 msgid ""
 "Successfully connected all stations, disabled {num} alternative terminals"
-msgstr ""
+msgstr "모든 역 연결 성공, {num}개 대체 터미널 비활성화"
 
 msgid "The camera config \"{}\" already exists. Do you want to overwrite it?"
-msgstr ""
+msgstr "시점 설정 \"{}\"이 이미 존재합니다. 정말로 덮어쓸까요?"
 
 msgid "The mod preset \"{}\" already exists. Do you want to overwrite it?"
-msgstr ""
+msgstr "모드 프리셋 \"{}\"이 이미 존재합니다. 정말로 덮어쓸까요?"
 
 msgid "Time until closing: %1%"
-msgstr ""
+msgstr "폐쇄까지 남은 시간: %1%"
 
 msgid "Town growth"
-msgstr ""
+msgstr "마을 성장"
 
 msgid "Town names:"
-msgstr ""
+msgstr "마을 이름:"
 
 msgid "Towns cargo needs"
-msgstr ""
+msgstr "마을의 필요 화물 수"
 
 msgid "Use the <<{horn}>> button to sound the horn"
-msgstr ""
+msgstr "경적을 울리려면 <<{horn}>>버튼 사용"
 
 msgid ""
 "Use the <<{next}>> and <<{prev}>> buttons to change the position of the "
 "cockpit camera"
-msgstr ""
+msgstr "기관실 시점의 위치를 바꾸려면 <<{next}>>와(과) <<{prev}>> 사용"
 
 msgid "User interface mode"
-msgstr ""
+msgstr "사용자 인터페이스(UI) 모드"
 
 msgid "Vehicles never expire"
-msgstr ""
+msgstr "차량 만기 업음"
 
 msgid "Vehicles never expire:"
-msgstr ""
+msgstr "차량 만기 없음:"
 
 msgid "Vehicles:"
-msgstr ""
+msgstr "차량:"
 
 msgid "View Statistics"
-msgstr ""
+msgstr "통계 보기"
 
 msgid "Warning: %1% industries are abandoned!"
-msgstr ""
+msgstr "경고: %1% 산업 시설이 파괴되었습니다!"
 
 msgid "Warning: Abandoned industry!"
-msgstr ""
+msgstr "경고: 산업 시설 파괴됨!"
 
 msgid ""
 "Warning: video RAM usage critical ({percentage}). The game may close "
 "unexpectedly. It is highly recommended to reduce the texture settings."
 msgstr ""
+"경고: 비디오 메모리의 ({percentage})가 사용되었습니다. 게임이 갑자기 종료될 "
+"수 있습니다. 텍스쳐 설정을 줄이는 것을 강력히 권장합니다."
 
 msgid "Waypoint outside of navigable waters"
-msgstr ""
+msgstr "운항 가능한 물 밖의 웨이포인트"
 
 msgid "Win"
-msgstr ""
+msgstr "승리"
 
 msgctxt "difficulty"
 msgid "Very hard"
-msgstr ""
+msgstr "매우 어려움"
 
 msgid "{used}/{total}"
-msgstr ""
+msgstr "{used}/{total}"
 
 msgid "{}: Off"
-msgstr ""
+msgstr "{}: 꺼짐"
 
 msgid "{}: On"
-msgstr ""
+msgstr "{}: 켜짐"
