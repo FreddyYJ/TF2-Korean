@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-11 17:34+0100\n"
-"PO-Revision-Date: 2022-05-11 11:28+0900\n"
+"PO-Revision-Date: 2022-05-11 14:48+0900\n"
 "Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"Language-Team: FreddyYJ_\n"
 "Language: ko_KR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -215,10 +215,11 @@ msgid "Auto upgrade"
 msgstr "자동으로 업그레이드"
 
 msgid "Azalea"
-msgstr ""
+msgstr "진달래"
 
+#, fuzzy
 msgid "Ballast"
-msgstr ""
+msgstr "밸러스트"
 
 msgid "Banana plant"
 msgstr "바나나 나무"
@@ -15694,6 +15695,8 @@ msgstr "도로 변형 도구"
 
 msgid "HELP_CONSTRUCTION_WATER_WAYPOINTS"
 msgstr ""
+"선박이 웨이포인트로 운항하도록 합니다.\n"
+"물 위에 웨이포인트를 건설하고 노선에 추가하여 경로를 설정합니다."
 
 msgid "0%"
 msgstr "0%"
@@ -15711,7 +15714,7 @@ msgid "175%"
 msgstr "175%"
 
 msgid "2 cargo types"
-msgstr ""
+msgstr "2종류의 화물"
 
 msgid "200%"
 msgstr "200%"
@@ -15729,351 +15732,412 @@ msgid "75%"
 msgstr "75%"
 
 msgid "Build ship waypoints"
-msgstr ""
+msgstr "선박 웨이포인트 건설"
 
 msgid ""
 "Building for storage of many cargo items. Provides capacity for 75 cargo "
 "items."
-msgstr ""
+msgstr "다양한 화물을 저장하는 건물. 75개의 화물 수용량을 제공합니다."
 
 msgid ""
 "Building for storage of some cargo items. Provides capacity for 25 cargo "
 "items."
-msgstr ""
+msgstr "다양한 화물을 저장하는 건물. 25개의 화물 수용량을 제공합니다."
 
 msgid "Building for waiting passengers. Provides capacity for 20 passengers."
-msgstr ""
+msgstr "대기중인 승객을 위한 건물. 20명의 승객 수용량을 제공합니다."
 
 msgid "Building for waiting passengers. Provides capacity for 60 passengers."
-msgstr ""
+msgstr "대기중인 승객을 위한 건물. 60명의 승객 수용량을 제공합니다."
 
 msgid "Buoy"
-msgstr ""
+msgstr "부이"
 
 msgid "Cargo supply"
-msgstr ""
+msgstr "화물 공급"
 
 msgid "Cargo terminal for airfields. Provides capacity for 20 cargo items."
-msgstr ""
+msgstr "비행장을 위한 화물 터미널. 20개의 화물 수용량을 제공합니다."
 
 msgid "Cargo terminal for airports. Provides capacity for 40 cargo items."
-msgstr ""
+msgstr "공항을 위한 화물 터미널. 40개의 화물 수용량을 제공합니다."
 
 msgid "Disabled"
-msgstr ""
+msgstr "비활성화됨"
 
 msgid "Emission"
-msgstr ""
+msgstr "공해"
 
 msgid "Factor for the buying costs of vehicles"
-msgstr ""
+msgstr "차량의 구매 비용을 결정하는 요소"
 
 msgid ""
 "Factor for the costs of terrain modification and infrastructure construction"
-msgstr ""
+msgstr "지표면 변형과 기반 시설 건설 비용을 결정하는 요소"
 
 msgid "Factor for the loan interest"
-msgstr ""
+msgstr "대출 이자를 결정하는 요소"
 
 msgid "Factor for the maintenance costs of tracks, roads, depots and stations"
-msgstr ""
+msgstr "선로, 도로, 차고, 역의 정비 비용을 결정하는 요소"
 
 msgid "Factor for the maintenance costs of vehicles"
-msgstr ""
+msgstr "차량의 정비 비용을 결정하는 요소"
 
 msgid "Frequency of industry closures due to lack use"
-msgstr ""
+msgstr "쓸모없어진 산업 시설의 폐쇄 빈도"
 
 msgid "Industry closure frequency"
-msgstr ""
+msgstr "산업 시설 폐쇄 빈도"
 
 msgid "Industry density target"
-msgstr ""
+msgstr "산업 시설 목표 밀도"
 
 msgid "Influence of cargo supply rating on town growth"
-msgstr ""
+msgstr "마을 성장에 가하는 화물 공급 비율의 영향"
 
 msgid "Influence of emission around town buildings on town growth"
-msgstr ""
+msgstr "마을 성장에 가하는 마을 건물 주변 공해의 영향"
 
 msgid "Influence of overcrowded stations on town growth"
-msgstr ""
+msgstr "마을 성장에 가하는 과포화된 역의 영향"
 
 msgid "Influence of reachable destinations by private transport on town growth"
-msgstr ""
+msgstr "마을 성장에 가하는 자가용 차량의 도달 가능한 목적지의 영향"
 
 msgid "Influence of reachable destinations by public transport on town growth"
-msgstr ""
+msgstr "마을 성장에 가하는 대중교통의 도달 가능한 목적지의 영향"
 
 msgid "Influence of traffic slowdowns on town growth"
-msgstr ""
+msgstr "마을 성장에 가하는 교통량의 영향"
 
 msgid "Initial industry density on the map"
-msgstr ""
+msgstr "맵의 초기 산업 시설의 밀도"
 
 msgid "Investments infrastructure"
-msgstr ""
+msgstr "기반 시설 투자량"
 
 msgid "Investments vehicles"
-msgstr ""
+msgstr "차량 투자량"
 
 msgid "Large cargo building"
-msgstr ""
+msgstr "대형 화물용 건물"
 
 msgid ""
 "Large dock for small and large cargo ships. A large landing is required for "
 "ships to be able to dock. Provides capacity for 60 cargo items."
 msgstr ""
+"소형과 대형 화물선을 위한 대형 부두. 선박이 정박하려면 대형 접안 시설이 필요"
+"합니다. 60개의 화물 수용량을 제공합니다."
 
 msgid ""
 "Large dock for small and large passenger ships. A large landing is required "
 "for ships to be able to dock. Provides capacity for 50 passengers."
 msgstr ""
+"소형과 대형 여객선을 위한 대형 부두. 선박이 정박하려면 대형 접안 시설이 필요"
+"합니다. 60개의 승객 수용량을 제공합니다."
 
 msgid ""
 "Large main building with street access for cargo stations. Provides capacity "
 "for 80 cargo items."
 msgstr ""
+"화물역을 위한 도로에 접근할 수 있는 대형 본관 건물. 80개의 화물 수용량을 제공"
+"합니다."
 
 msgid ""
 "Large main building with street access for passenger stations. Provides "
 "capacity for 100 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 대형 본관 건물. 100명의 승객 수용량을 제"
+"공합니다."
 
 msgid ""
 "Large main building with street access for passenger stations. Provides "
 "capacity for 150 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 대형 본관 건물. 150명의 승객 수용량을 제"
+"공합니다."
 
 msgid ""
 "Large main building with street access for passenger stations. Provides "
 "capacity for 200 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 대형 본관 건물. 200명의 승객 수용량을 제"
+"공합니다."
 
 msgid "Large passenger building"
-msgstr ""
+msgstr "대형 여객용 건물"
 
 msgid ""
 "Large side building with street access for cargo stations. Provides capacity "
 "for 60 cargo items."
 msgstr ""
+"화물역을 위한 도로에 접근할 수 있는 대형 별관 건물. 60개의 화물 수용량을 제공"
+"합니다."
 
 msgid ""
 "Large side building with street access for passenger stations. Provides "
 "capacity for 100 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 대형 별관 건물. 100명의 승객 수용량을 제"
+"공합니다."
 
 msgid ""
 "Large side building with street access for passenger stations. Provides "
 "capacity for 150 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 대형 별관 건물. 150명의 승객 수용량을 제"
+"공합니다."
 
 msgid ""
 "Large side building with street access for passenger stations. Provides "
 "capacity for 80 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 대형 별관 건물. 80명의 승객 수용량을 제공"
+"합니다."
 
 msgid "Loan interest"
-msgstr ""
+msgstr "대출 이자"
 
 msgid "Main building for cargo harbors. Provides capacity for 200 cargo items."
-msgstr ""
+msgstr "화물 항구를 위한 본관 건물. 200개의 화물 수용량을 제공합니다."
 
 msgid ""
 "Main building for passenger harbors. Provides capacity for 150 passengers."
-msgstr ""
+msgstr "여객 항구를 위한 본관 건물. 150명의 승객 수용량을 제공합니다."
 
 msgid ""
 "Main building with street access for airfields. Provides capacity for 40 "
 "cargo items and 100 passengers."
 msgstr ""
+"비행장을 위한 도로에 접근할 수 있는 본관 건물. 40개의 화물과 100명의 승객 수"
+"용량을 제공합니다."
 
 msgid ""
 "Main building with street access for airports. Provides capacity for 100 "
 "cargo items and 200 passengers."
 msgstr ""
+"공항을 위한 도로에 접근할 수 있는 본관 건물. 100개의 화물과 200명의 승객 수용"
+"량을 제공합니다."
 
 msgid "Maintenance infrastructure"
-msgstr ""
+msgstr "기반 시설 정비"
 
 msgid "Maintenance vehicles"
-msgstr ""
+msgstr "차량 정비"
 
 msgid "Maximum loan"
-msgstr ""
+msgstr "최대 대출"
 
 msgid "Maximum number of cargo needs per town"
-msgstr ""
+msgstr "마을 당 필요 화물의 최대 요구량"
 
 msgid ""
 "Medium main building with street access for cargo stations. Provides "
 "capacity for 40 cargo items."
 msgstr ""
+"화물역을 위한 도로에 접근할 수 있는 중형 본관 건물. 40개의 화물 수용량을 제공"
+"합니다."
 
 msgid ""
 "Medium main building with street access for passenger stations. Provides "
 "capacity for 40 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 중형 본관 건물. 40명의 승객 수용량을 제공"
+"합니다."
 
 msgid ""
 "Medium main building with street access for passenger stations. Provides "
 "capacity for 45 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 중형 본관 건물. 45명의 승객 수용량을 제공"
+"합니다."
 
 msgid ""
 "Medium main building with street access for passenger stations. Provides "
 "capacity for 50 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 중형 본관 건물. 50명의 승객 수용량을 제공"
+"합니다."
 
 msgid ""
 "Medium side building with street access for cargo stations. Provides "
 "capacity for 30 cargo items."
 msgstr ""
+"화물역을 위한 도로에 접근할 수 있는 중형 별관 건물. 30개의 화물 수용량을 제공"
+"합니다."
 
 msgid ""
 "Medium side building with street access for passenger stations. Provides "
 "capacity for 30 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 중형 별관 건물. 30명의 승객 수용량을 제공"
+"합니다."
 
 msgid ""
 "Medium side building with street access for passenger stations. Provides "
 "capacity for 35 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 중형 별관 건물. 35명의 승객 수용량을 제공"
+"합니다."
 
 msgid ""
 "Medium side building with street access for passenger stations. Provides "
 "capacity for 40 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 중형 별관 건물. 40명의 승객 수용량을 제공"
+"합니다."
 
 msgid "Never"
-msgstr ""
+msgstr "없음"
 
 msgid "Number of industries"
-msgstr ""
+msgstr "산업 시설의 수"
 
 msgid "Often"
-msgstr ""
+msgstr "자주"
 
 msgid "Overcrowded stations"
-msgstr ""
+msgstr "과포화된 역"
 
 msgid "Passenger terminal for airfields. Provides capacity for 20 passengers."
-msgstr ""
+msgstr "비행장을 위한 여객용 터미널. 20명의 승객 수용량을 제공합니다."
 
 msgid "Passenger terminal for airports. Provides capacity for 100 passengers."
-msgstr ""
+msgstr "공항을 위한 여객용 터미널. 100명의 승객 수용량을 제공합니다."
 
+#, fuzzy
 msgid "Placeholder"
-msgstr ""
+msgstr "대체"
 
+#, fuzzy
 msgid "Placeholder bridge"
-msgstr ""
+msgstr "대체 다리"
 
+#, fuzzy
 msgid "Placeholder tunnel"
-msgstr ""
+msgstr "대체 터널"
 
 msgid "Private transport"
-msgstr ""
+msgstr "자가용"
 
 msgid "Public transport"
-msgstr ""
+msgstr "대중교통"
 
 msgid "Rarely"
-msgstr ""
+msgstr "드물게"
 
 msgid "Ship Waypoint"
-msgstr ""
+msgstr "선박 웨이포인트"
 
 msgid "Small cargo building"
-msgstr ""
+msgstr "소형 화물용 건물"
 
 msgid ""
 "Small dock for small cargo ships. A small landing is required for ships to "
 "be able to dock. Provides capacity for 30 cargo items."
 msgstr ""
+"소형 화물선을 위한 소형 부두. 선박이 정박하려면 소형 접안 시설이 필요합니다. "
+"30개의 화물 수용량을 제공합니다."
 
 msgid ""
 "Small dock for small passenger ships. A small landing is required for ships "
 "to be able to dock. Provides capacity for 25 passengers."
 msgstr ""
+"소형 여객선을 위한 소형 부두. 선박이 정박하려면 소형 접안 시설이 필요합니다. "
+"25명의 승객 수용량을 제공합니다."
 
 msgid ""
 "Small main building with street access for cargo stations. Provides capacity "
 "for 20 cargo items."
 msgstr ""
+"화물역을 위한 도로에 접근할 수 있는 소형 본관 건물. 20개의 화물 수용량을 제공"
+"합니다."
 
 msgid ""
 "Small main building with street access for passenger stations. Provides "
 "capacity for 20 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 소형 본관 건물. 20명의 승객 수용량을 제공"
+"합니다."
 
 msgid ""
 "Small main building with street access for passenger stations. Provides "
 "capacity for 25 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 소형 본관 건물. 25명의 승객 수용량을 제공"
+"합니다."
 
 msgid ""
 "Small main building with street access for passenger stations. Provides "
 "capacity for 30 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 소형 본관 건물. 30명의 승객 수용량을 제공"
+"합니다."
 
 msgid "Small passenger building"
-msgstr ""
+msgstr "소형 여객용 건물"
 
 msgid ""
 "Small side building for passenger stations. Provides capacity for 10 "
 "passengers."
-msgstr ""
+msgstr "여객역을 위한 소형 별관 건물. 10명의 승객 수용량을 제공합니다."
 
 msgid ""
 "Small side building for passenger stations. Provides capacity for 15 "
 "passengers."
-msgstr ""
+msgstr "여객역을 위한 소형 별관 건물. 15명의 승객 수용량을 제공합니다."
 
 msgid ""
 "Small side building with street access for cargo stations. Provides capacity "
 "for 10 cargo items."
 msgstr ""
+"화물역을 위한 도로에 접근할 수 있는 소형 별관 건물. 10개의 화물 수용량을 제공"
+"합니다."
 
 msgid ""
 "Small side building with street access for passenger stations. Provides "
 "capacity for 20 passengers."
 msgstr ""
+"여객역을 위한 도로에 접근할 수 있는 소형 별관 건물. 20명의 승객 수용량을 제공"
+"합니다."
 
 msgid "Sometimes"
-msgstr ""
+msgstr "가끔"
 
 msgid "Target value for number of industries"
-msgstr ""
+msgstr "산업 시설의 목표 수"
 
 msgid "The maximum amount of money that can be borrowed from the bank"
-msgstr ""
+msgstr "은행에서 빌릴 수 있는 돈의 최대량"
 
 msgid "Towns cargo needs"
-msgstr ""
+msgstr "화물이 필요한 마을"
 
 msgid "Traffic congestion"
-msgstr ""
+msgstr "교통 혼잡도"
 
 msgid ""
 "Used for rerouting a line. Can be added to a line like a station. Passing "
 "trains use their horn."
 msgstr ""
+"선로의 경로를 설정할 때 사용합니다. 역처럼 노선에 추가할 수 있습니다. 통과하"
+"는 열차는 경적을 울립니다."
 
 msgid "Very hard"
-msgstr ""
+msgstr "매우 어려움"
 
 msgid "Very often"
-msgstr ""
+msgstr "매우 자주"
 
 msgid "Waterway"
-msgstr ""
+msgstr "수로"
 
 msgid "Waterway with a speed limit of %2%."
-msgstr ""
+msgstr "%2%의 속도 제한을 가진 수로."
 
 msgid "up to 4 cargo types"
-msgstr ""
+msgstr "4종류의 화물까지"
 
 msgid "up to 6 cargo types"
-msgstr ""
+msgstr "6종류의 화물까지"
