@@ -4907,9 +4907,8 @@ msgstr "건설"
 msgid "Continue to external website?"
 msgstr "외부 사이트로 연결할까요?"
 
-#, fuzzy
 msgid "Couch"
-msgstr "긴 의자"
+msgstr "Couch"
 
 msgid "Could not connect all alternative terminals"
 msgstr "모든 대체 터미널에 연결할 수 없습니다"
@@ -4964,7 +4963,6 @@ msgstr "재무-차트"
 msgid "Finances - Table"
 msgstr "재무-표"
 
-#, fuzzy
 msgid "GNM"
 msgstr "GNM"
 

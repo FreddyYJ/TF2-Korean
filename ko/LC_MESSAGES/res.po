@@ -217,9 +217,8 @@ msgstr "자동으로 업그레이드"
 msgid "Azalea"
 msgstr "진달래"
 
-#, fuzzy
 msgid "Ballast"
-msgstr "밸러스트"
+msgstr "Ballast"
 
 msgid "Banana plant"
 msgstr "바나나 나무"
@@ -16009,17 +16008,14 @@ msgstr "비행장을 위한 여객용 터미널. 20명의 승객 수용량을 �
 msgid "Passenger terminal for airports. Provides capacity for 100 passengers."
 msgstr "공항을 위한 여객용 터미널. 100명의 승객 수용량을 제공합니다."
 
-#, fuzzy
 msgid "Placeholder"
-msgstr "대체"
+msgstr "Platzhalter"
 
-#, fuzzy
 msgid "Placeholder bridge"
-msgstr "대체 다리"
+msgstr "Platzhalterbrücke"
 
-#, fuzzy
 msgid "Placeholder tunnel"
-msgstr "대체 터널"
+msgstr "Platzhaltertunnel"
 
 msgid "Private transport"
 msgstr "자가용"
