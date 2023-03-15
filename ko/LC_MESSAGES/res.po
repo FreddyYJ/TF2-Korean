@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-21 09:04+0100\n"
-"PO-Revision-Date: 2023-02-21 09:12+0100\n"
+"PO-Revision-Date: 2023-03-15 20:47+0900\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
 "Language: ko\n"
@@ -12765,27 +12765,25 @@ msgstr ""
 "한 푼도 내어줄 수 없다고 완강하게 거절하고 있습니다. 큰일입니다!"
 
 msgid "MOD_LEGACY_VEHICLE_PACK_DESCRIPTION"
-msgstr "元の車両リソース。"
+msgstr "차량에 새 텍스쳐가 아닌 기존의 텍스쳐를 사용합니다."
 
 msgid "MOD_LEGACY_VEHICLE_PACK_NAME"
-msgstr "レガシー車"
+msgstr "기존 차량 텍스쳐"
 
 msgid "MOD_NO_COSTS_DESCRIPTION"
-msgstr "費用はかかりません"
+msgstr "모든 것들이 무료입니다."
 
 msgid "MOD_NO_COSTS_NAME"
 msgstr "비용 없음"
 
 msgid "MOD_SANDBOX_DESCRIPTION"
-msgstr "すべてを変更します。"
+msgstr "모든 것들을 바꾸세요."
 
 msgid "MOD_SANDBOX_NAME"
 msgstr "샌드박스 모드"
 
 msgid "MOD_VEHICLES_NO_END_YEAR_DESCRIPTION"
-msgstr ""
-"車両が利用可能になると、ゲームの残りの部分で利用できるようになるように、車両"
-"の可用性を変更します。"
+msgstr "차량을 한 번 구매할 수 있게 되면, 사라지지 않고 계속 남아 있습니다."
 
 msgid "MOD_VEHICLES_NO_END_YEAR_NAME"
 msgstr "차량 내구연한 무제한"
