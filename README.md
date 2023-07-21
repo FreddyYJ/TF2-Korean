@@ -2,6 +2,7 @@
 
 ## Transport Fever 2의 공식 한글화/About official Korean support of Transport Fever 2
 Transport Fever 2가 공식적으로 한글화됨에 따라, 이 한글화 작업을 중단하고 현재 저장소를 아카이브합니다.
+
 Because Transport Fever 2 added official Korean, we stopped this Korean translation and archived this repository.
 
 ## 한국어/Korean
